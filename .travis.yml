@@ -1,0 +1,40 @@
+dist: bionic
+sudo: false
+language: C
+env:
+    global:
+        - DATE_TIME=$(date "+%Y-%m-%d %H:%M:%S")
+        - DESTDIR=dist
+addons:
+    apt:
+        packages:
+            - bash
+            - wget
+            - whois
+            - dos2unix
+notifications:
+    email: false
+
+script:
+    - export PATH=$PWD:$PATH
+    - rm -rf $DESTDIR
+    - mkdir -p $DESTDIR
+    - pushd $DESTDIR
+    - freefq.sh ss
+    - freefq.sh ssr
+    - freefq.sh v2ray
+    - popd
+    - cp -f LICENSE $DESTDIR
+    - echo "# Generated on $DATE_TIME" >$DESTDIR/index.md
+
+deploy:
+    provider: pages
+    github_token: $GITHUB_TOKEN
+    local_dir: $DESTDIR
+    keep_history: true
+    edge: true
+    skip_cleanup: true
+    committer_from_gh: true
+    commit_message: "Generated on $DATE_TIME"
+    on:
+        branch: master
