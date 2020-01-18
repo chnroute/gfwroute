@@ -1,0 +1,117 @@
+v11.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+172.104.124.30|36046|5XlkGllQb1dL|aes-256-cfb|origin|plain
+ssr.ipv4.JJ-P1H306-584.zhzfgg.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+ssr.ipv4.JJ-P1H305-584.zhzfgg.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+13.115.201.54|38376|R8f6C7o0cojA|aes-256-cfb|origin|plain
+a2.ssrsub.xyz|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+212.84.169.72|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+162.220.51.58|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+45.144.2.235|3399|lncn.org 6gm|rc4-md5|origin|plain
+167.179.89.118|366|lncn.org 5fd|rc4-md5|origin|plain
+198.74.62.155|9302|925925|aes-128-ctr|auth_aes128_md5|http_simple
+v1.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+v8.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+139.162.86.228|32954|Lzs9ABDvCfXw|aes-256-cfb|origin|plain
+172.104.79.29|34534|UGbmevvmea2L|aes-256-cfb|origin|plain
+139.162.86.217|50278|N7uMcS4XTHLO|aes-256-cfb|origin|plain
+18.176.54.219|47034|xCZtXsS59HTZ|aes-256-cfb|origin|plain
+173.82.240.140|8888|www.freess.best|chacha20|auth_aes128_md5|http_simple
+207.148.112.253|3399|lncn.org 5ft|rc4-md5|origin|plain
+18.179.20.87|52566|CMQ7SrCCKRcx|aes-256-cfb|origin|plain
+v4.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+45.129.185.152|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+v15.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+85.117.234.223|3399|lncn.org 6gm|rc4-md5|origin|plain
+v9.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+a1.ssrsub.xyz|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+v2.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+v14.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+45.129.185.179|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+13.231.105.163|10415|cE8tlH5bBZB5|aes-256-cfb|origin|plain
+45.32.27.8|366|lncn.org 5fd|rc4-md5|origin|plain
+46.29.166.112|3399|lncn.org 2vw|rc4-md5|origin|plain
+45.140.170.154|20068|M^URfrqMHcGbGU2@o5FPO9BD4CPHUcge|aes-256-cfb|auth_sha1_v4|plain
+173.82.120.209|12345|12345|rc4-md5|auth_sha1_v4|plain
+v7.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+185.255.131.108|3399|lncn.org 5qu|rc4-md5|origin|plain
+v5.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+85.117.235.82|3399|lncn.org 2vw|rc4-md5|origin|plain
+139.162.119.40|34784|bkEQFpev9WZz|aes-256-cfb|origin|plain
+18.179.202.229|59408|g8XvKu7Gbjib|aes-256-cfb|origin|plain
+13.115.160.148|42663|NZPrAKlE36Zw|aes-256-cfb|origin|plain
+ssr.ipv4.JJ-J1H115-584.hdtfxe.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+ssr.ipv4.JJ-J1H112-584.hdtfxe.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+45.59.126.34|15502|12345|rc4-md5|auth_sha1_v4|http_simple
+a3.ssrsub.xyz|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+ssr.ipv4.JJ-P1H308-584.zhzfgg.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+209.58.188.12|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+47.107.25.183|594|mtbv8n|aes-128-ctr|auth_aes128_md5|tls1.2_ticket_auth
+v10.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+172.104.83.162|47769|epVFpEHQdOqC|aes-256-cfb|origin|plain
+120.78.195.200|574|mtbv8n|aes-128-ctr|auth_aes128_md5|tls1.2_ticket_auth
+ssr.ipv4.JJ-P1H301-584.zhzfgg.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+54.249.87.95|37482|iFZYuFyaOQxG|aes-256-cfb|origin|plain
+45.89.228.192|8888|www.freess.best|none|auth_chain_a|plain
+ssr.ipv4.JJ-J1H114-584.hdtfxe.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+v6.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+172.105.219.90|44750|4MKzxGLfgqWx|aes-256-cfb|origin|plain
+172.104.131.24|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+52.196.63.76|30478|33n39RGDnypb|aes-256-cfb|origin|plain
+185.255.131.109|3399|lncn.org 5qu|rc4-md5|origin|plain
+194.147.35.24|3399|lncn.org 2vw|rc4-md5|origin|plain
+172.104.88.96|52970|tpEectMQEaJH|aes-256-cfb|origin|plain
+47.107.25.183|604|mtbv8n|aes-128-ctr|auth_aes128_md5|tls1.2_ticket_auth
+172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+185.186.245.44|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+v13.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+3.113.2.71|13344|eTCnHIU9CoPf|aes-256-cfb|origin|plain
+198.13.48.103|3399|lncn.org 5ft|rc4-md5|origin|plain
+45.79.79.37|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb|origin|plain
+185.22.152.211|3399|lncn.org 2vw|rc4-md5|origin|plain
+91.245.227.135|12345|12345|rc4-md5|auth_sha1_v4|plain
+139.162.67.40|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+172.104.111.180|42255|DNAelJEEfqtu|aes-256-cfb|origin|plain
+45.144.242.108|3399|lncn.org 1zi|rc4-md5|origin|plain
+18.182.63.204|48888|nKGwV0e2AxAS|aes-256-cfb|origin|plain
+47.101.60.243|14288|N75Ovi4f|rc4-md5|auth_sha1_v4|tls1.2_ticket_auth
+45.66.135.97|3399|lncn.org 5qu|rc4-md5|origin|plain
+172.105.237.86|42292|iTF1X9wXVGIy|aes-256-cfb|origin|plain
+172.104.91.149|56550|SokL04GYTc3n|aes-256-cfb|origin|plain
+hkbn03.pyjy.xyz|32407|Uvy7aC|aes-256-cfb|auth_aes128_sha1|http_simple
+185.186.245.44|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+194.87.234.236|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+3.112.220.73|43361|I7QKVIXraTGl|aes-256-cfb|origin|plain
+v12.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+172.105.207.24|48364|cFtxFZeGhHMa|aes-256-cfb|origin|plain
+58.152.50.213|22000|12345|rc4-md5|auth_sha1_v4|http_simple
+198.255.103.62|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+198.255.103.62|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+194.156.229.134|3399|lncn.org 1zi|rc4-md5|origin|plain
+45.85.0.147|3399|lncn.org 1zi|rc4-md5|origin|plain
+ssr.ipv4.JJ-J1H116-584.hdtfxe.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+v3.ssrsub.xyz|9000|t.me/SSRSUB|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+ssr.ipv4.JJ-J1H111-584.hdtfxe.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+209.58.188.157|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+139.162.74.118|40759|i1QSFCdewcwr|aes-256-cfb|origin|plain
+139.162.15.45|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+50.7.12.147|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+194.124.34.188|3399|lncn.org 5qu|rc4-md5|origin|plain
+211.21.214.234|21971|bTuK5IJr9hzl|aes-256-cfb|origin|plain
+a5.ssrsub.xyz|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+ssr.ipv4.JJ-J1H113-584.hdtfxe.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+192.240.99.182|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+172.105.205.151|32493|Ex5lcTJUK3IX|aes-256-cfb|origin|plain
+45.56.94.8|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+199.223.119.92|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+199.223.119.83|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+13.115.175.89|37733|ofgKrFwKlYLt|aes-256-cfb|origin|plain
+a4.ssrsub.xyz|9500|http://t.cn/EGJIyrl|aes-256-ctr|auth_aes128_md5|tls1.2_ticket_auth
+45.144.242.112|3399|lncn.org 1zi|rc4-md5|origin|plain
+ssr.ipv4.JJ-P1H302-584.zhzfgg.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
+172.104.131.24|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+69.36.182.52|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+3.112.237.245|35791|Gd6I4xRInbnJ|aes-256-cfb|origin|plain
+204.45.182.34|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb|origin|plain
+54.199.166.198|13387|hqN1qQKacO1Q|aes-256-cfb|origin|plain
+ssr.ipv4.JJ-P1H307-584.zhzfgg.ngcssddns.com|584|NGC.SS|aes-256-cfb|auth_aes128_sha1|http_simple
