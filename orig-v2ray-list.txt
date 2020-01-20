@@ -1,17 +1,6 @@
 来自免费翻墙网https://www.freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。本站不能保证其安全性与稳定性，随时都有可能失效，敬请理解！ 
 
-免费V2Ray账号 更新时间：2020-01-18 17:15:55 
-
-vmess://eyJhZGQiOiJhdXRvLmZyZWV2Mi50b3AiLCJmaWxlIjoiIiwiaWQiOiI2ZDc0NjUyOS04ZDNlLTQ1MGYtYmRkOC1iMGYxOGZjY2RhNWYiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwicG9ydCI6IjU2MzUxIiwicHMiOiJmcmVldjIub3JnIiwidGxzIjoiIiwidiI6MiwiYWlkIjoxLCJ0eXBlIjoibm9uZSJ9Cg==
-
-Reset configuration every 12 hour.
-Address：auto.freev2.top 
-
-Port: 56351 
-
-UUID: 6d746529-8d3e-450f-bdd8-b0f18fccda5f 
-
-AlterID: 1
+免费V2Ray账号 更新时间：2020-01-20 10:15:55 
 
 vmess://eyJ2IjoiMiIsImhvc3QiOiJzNjIud2V3YWxsLnRvcCIsInBhdGgiOiJcL3BhbmVsIiwidGxzIjoidGxzIiwicHMiOiLpppnmuK8gfFYxfFIwLjA0fDYyIiwiYWRkIjoiczYyLndld2FsbC50b3AiLCJwb3J0IjoiNDQzIiwiaWQiOiI4Njk3NDhhMS04OTQwLTQzZGYtYjU2NS1kNjZjZWVhYjAyZmMiLCJhaWQiOiIyMzMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
 vmess://eyJ2IjoiMiIsImhvc3QiOiJzMjEzLndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi6aaZ5rivIHxWMXxSMC4yOHwyMTMiLCJhZGQiOiJzMjEzLndld2FsbC50b3AiLCJwb3J0IjoiNDQzIiwiaWQiOiI5MTQyNzk2MC0xNzU5LTQzNTctYTg0NS1hNDZiYmFkMjkxOWQiLCJhaWQiOiIyMzMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
@@ -27,11 +16,22 @@ vmess://eyJ2IjoiMiIsImhvc3QiOiJzMTY5Lndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRs
 vmess://eyJ2IjoiMiIsImhvc3QiOiJzMjE1Lndld2FsbC50b3AiLCJwYXRoIjoiXC9wYW5lbCIsInRscyI6InRscyIsInBzIjoi6aaZ5rivIHxWMHxSMS4zN3wyMTUiLCJhZGQiOiJzMjE1Lndld2FsbC50b3AiLCJwb3J0IjoiNDQzIiwiaWQiOiI0ZTg3ZjM1YS1kMjM0LTRiZmItOTUyYy0yMzRlMTdjMzdiZDgiLCJhaWQiOiIyMzMiLCJuZXQiOiJ3cyIsInR5cGUiOiJub25lIn0=
 vmess://eyJ2IjoiMiIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoiIiwicHMiOiLlhaznm4rnvo7lm70g6Iqd5Yqg5ZOlfFYwfFIyLjI4fDEyMyIsImFkZCI6InMxMjMud2V3YWxsLnRvcCIsInBvcnQiOiIxMTAxMSIsImlkIjoiMzkxYzk5ZWItZjRmOS00OTU3LWEwODctOTc5NmIzZTA5NDVkIiwiYWlkIjoiMjMzIiwibmV0Ijoid3MiLCJ0eXBlIjoibm9uZSJ9
 
+vmess://eyJhZGQiOiJhdXRvLmZyZWV2Mi50b3AiLCJmaWxlIjoiIiwiaWQiOiI5Y2I0YzZjNC0yMDI1LTQ4MjQtOTQxOS03YzI2ZDIyOTFhM2YiLCJuZXQiOiJ0Y3AiLCJob3N0IjoiIiwicG9ydCI6IjU5OTMzIiwicHMiOiJmcmVldjIub3JnIiwidGxzIjoiIiwidiI6MiwiYWlkIjoxLCJ0eXBlIjoibm9uZSJ9Cg==
+
+Reset configuration every 12 hour.
+Address：auto.freev2.top 
+
+Port: 59933 
+
+UUID: 9cb4c6c4-2025-4824-9419-7c26d2291a3f 
+
+AlterID: 1
+
 V2ray账号1:
 
   Address(地址): 216.244.76.219
 
-  Port（端口）: 54321
+  Port（端口）: 8080
 
   UUID（用户id）: 3cf35a68-ea46-11e9-9cab-003048d37a3c
 
@@ -62,29 +62,3 @@ V2ray账号2:
  path（路径）: /18425739/
 
  streamSecurity（底层传输安全）: tls
-
-
-Address 	Port 	UID 	Network 	Path 	TLS
-45.144.2.18 	60120 	641ffa9f-60ec-4afe-81ce-f22daf3cbff9 	tcp 		
-woshi.tiancai.ml 	443 	c0a64e6c-9319-4081-86f6-59258b2a3d96 	ws 	/91831ae8/ 	tls
-v3.ssrsub.xyz 	443 	cb6a8be3-8a9b-412b-89f3-a580fdc06cc2 	ws 	/a4b8a444/ 	tls
-45.79.112.91 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-64.32.31.234 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-v4.ssrsub.xyz 	443 	4a68a60d-8271-4f9d-87c1-d1b2db276bbb 	ws 	/59b0668b/ 	tls
-v12.ssrsub.xyz 	443 	3b6795f6-ce13-4186-8217-4fe8b50c594d 	ws 	/307bc681/ 	tls
-uni.kitsunebi.fun 	10025 	95137857-70fa-4ac8-8f90-4e20aeb662cf 	tcp 		
-auto.freev2.top 	56351 	6d746529-8d3e-450f-bdd8-b0f18fccda5f 	tcp 	undefined 	
-v11.ssrsub.xyz 	443 	25a09865-15b8-4f46-903d-bc9879e962aa 	ws 	/0d3c28d1/ 	tls
-v1.ssrsub.xyz 	443 	44cde75c-550b-419d-b45b-72b8397b6c4e 	ws 	/18c13be5/ 	tls
-woxiangshiwo.ffor.tk 	443 	7abd4c65-4743-4510-a455-f6a5837c87b3 	ws 	/233blog 	tls
-45.79.226.214 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-v9.ssrsub.xyz 	443 	14637fb1-8ae1-4985-a9db-2501094a2a65 	ws 	/9c3f5ea3/ 	tls
-v15.ssrsub.xyz 	443 	69c04b18-c662-40a3-a1ec-b9aa40de6661 	ws 	/fbe450a8/ 	tls
-v14.ssrsub.xyz 	443 	a3a2d0b4-4ad8-4143-9867-7e78617eb66a 	ws 	/502886da/ 	tls
-v6.ssrsub.xyz 	443 	3e705078-53b7-4eec-bfc5-40c004faca0c 	ws 	/b22939a0/ 	tls
-v5.ssrsub.xyz 	443 	bf0db402-c863-45c6-a7b2-5f872118ab31 	ws 	/ 	tls
-v10.ssrsub.xyz 	443 	9aa1875c-dbf2-4744-9000-890327e0b92c 	ws 	/de0f56dc/ 	tls
-v2.ssrsub.xyz 	443 	b7b4db64-0b25-4cf1-bf46-c54fed0bf3cf 	ws 	/11ac9ef2/ 	tls
-v7.ssrsub.xyz 	443 	9ce0a73d-2b01-4386-8797-07302c5e1824 	ws 	/2b5e12b5/ 	tls
-v8.ssrsub.xyz 	443 	ba71e8a9-694b-41f3-98a3-e94452221809 	ws 	/31bd14c5/ 	tls
-v13.ssrsub.xyz 	443 	dc96f319-0a35-4343-acc8-93f33e685531 	ws 	/cc52159f/ 	tls
