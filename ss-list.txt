@@ -1,42 +1,38 @@
+198.13.48.103|228|lncn.org 6dc|rc4-md5
 139.162.67.40|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+85.117.235.82|228|lncn.org 52f|rc4-md5
 172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 212.84.169.72|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 162.220.51.58|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 209.58.188.157|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usc.1ss.fun|19819|f55.fun-23950656|aes-256-cfb
+185.255.131.109|228|lncn.org 6de|rc4-md5
+185.22.152.211|228|lncn.org 52f|rc4-md5
 139.162.15.45|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-156.234.236.111|3402|287858|aes-256-cfb
 50.7.12.147|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-194.124.34.188|511|lncn.org tt3|rc4-md5
-45.85.0.147|511|lncn.org tt3|rc4-md5
-194.147.35.24|511|lncn.org dv|rc4-md5
-185.255.131.109|511|lncn.org r3a|rc4-md5
-211.21.214.234|21971|bTuK5IJr9hzl|aes-256-cfb
-a345891346.gyteng.com|62640|ssmgr9635185728|aes-256-cfb
+207.148.112.253|228|lncn.org 6dc|rc4-md5
+usc.1ss.fun|11762|f55.fun-21491567|aes-256-cfb
 192.240.99.182|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 185.186.245.44|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-207.148.112.253|3399|lncn.org 5ft|rc4-md5
-85.117.234.223|511|lncn.org s3f|rc4-md5
-185.22.152.211|511|lncn.org dv|rc4-md5
-46.29.166.112|511|lncn.org dv|rc4-md5
+45.144.2.235|228|lncn.org 6de|rc4-md5
 45.56.94.8|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 199.223.119.92|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 199.223.119.83|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 207.148.112.253|511|lncn.org r5z|rc4-md5
+194.147.35.24|228|lncn.org 52f|rc4-md5
+45.85.0.147|228|lncn.org 3tw|rc4-md5
 172.104.131.24|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-85.117.235.82|511|lncn.org dv|rc4-md5
-194.156.229.134|511|lncn.org tt3|rc4-md5
-45.66.135.97|511|lncn.org tt3|rc4-md5
+usa.1ss.fun|18071|f55.fun-23566878|aes-256-cfb
+usb.1ss.fun|16025|f55.fun-67385896|aes-256-cfb
+194.124.34.188|228|lncn.org 3tw|rc4-md5
+85.117.234.223|228|lncn.org 6de|rc4-md5
 172.104.131.24|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 69.36.182.52|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usb.1ss.fun|16316|f55.fun-77123993|aes-256-cfb
+46.29.166.112|228|lncn.org 52f|rc4-md5
+45.66.135.97|228|lncn.org 3tw|rc4-md5
 172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-185.186.245.44|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usa.1ss.fun|18383|f55.fun-24905349|aes-256-cfb
 198.255.103.62|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+185.186.245.44|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 198.255.103.62|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-185.255.131.108|511|lncn.org r3a|rc4-md5
 204.45.182.34|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-198.13.48.103|3399|lncn.org 5ft|rc4-md5
 198.13.48.103|511|lncn.org r5z|rc4-md5
-45.144.2.235|511|lncn.org s3f|rc4-md5
+194.156.229.134|228|lncn.org 3tw|rc4-md5
