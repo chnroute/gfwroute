@@ -1,5 +1,5 @@
-198.13.48.103|228|lncn.org 6dc|rc4-md5
 139.162.67.40|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+198.13.48.103|228|lncn.org 6dc|rc4-md5
 85.117.235.82|228|lncn.org 52f|rc4-md5
 172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 212.84.169.72|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
@@ -9,20 +9,22 @@
 185.22.152.211|228|lncn.org 52f|rc4-md5
 139.162.15.45|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 50.7.12.147|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+156.234.236.111|3402|287858|aes-256-cfb
 207.148.112.253|228|lncn.org 6dc|rc4-md5
-usc.1ss.fun|11762|f55.fun-21491567|aes-256-cfb
+211.21.214.234|21971|bTuK5IJr9hzl|aes-256-cfb
 192.240.99.182|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 185.186.245.44|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usb.1ss.fun|17649|f55.fun-24624956|aes-256-cfb
+usa.1ss.fun|19174|f55.fun-97176893|aes-256-cfb
 45.144.2.235|228|lncn.org 6de|rc4-md5
 45.56.94.8|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usc.1ss.fun|18810|f55.fun-61620590|aes-256-cfb
 199.223.119.92|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 199.223.119.83|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 207.148.112.253|511|lncn.org r5z|rc4-md5
 194.147.35.24|228|lncn.org 52f|rc4-md5
 45.85.0.147|228|lncn.org 3tw|rc4-md5
 172.104.131.24|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usa.1ss.fun|18071|f55.fun-23566878|aes-256-cfb
-usb.1ss.fun|16025|f55.fun-67385896|aes-256-cfb
 194.124.34.188|228|lncn.org 3tw|rc4-md5
 85.117.234.223|228|lncn.org 6de|rc4-md5
 172.104.131.24|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
