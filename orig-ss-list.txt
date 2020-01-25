@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-01-23 15:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-01-24 11:15:55                   
 
 SS/SSR账号1:
 洛杉矶1：38.131.99.251 端口:11111 密码: dongtaiwang.com
@@ -20,27 +20,28 @@ SS/SSR账号2：
 185.22.152.211 	232 	lncn.org 5qm 	rc4-md5
 172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 212.84.169.72 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-209.58.188.157 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 162.220.51.58 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+209.58.188.157 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usc.1ss.fun 	16564 	f55.fun-01946258 	aes-256-cfb
 139.162.15.45 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 185.255.131.109 	232 	lncn.org 6fi 	rc4-md5
 50.7.12.147 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-156.234.236.111 	3402 	287858 	aes-256-cfb
 207.148.112.253 	228 	lncn.org 6dc 	rc4-md5
 45.85.0.147 	232 	lncn.org a3t 	rc4-md5
-211.21.214.234 	21971 	bTuK5IJr9hzl 	aes-256-cfb
 194.124.34.188 	232 	lncn.org a3t 	rc4-md5
-85.117.235.82 	232 	lncn.org 5qm 	rc4-md5
+211.21.214.234 	21971 	bTuK5IJr9hzl 	aes-256-cfb
 192.240.99.182 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+85.117.235.82 	232 	lncn.org 5qm 	rc4-md5
 185.186.245.44 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 194.147.35.24 	232 	lncn.org 5qm 	rc4-md5
 194.156.229.134 	232 	lncn.org a3t 	rc4-md5
 46.29.166.112 	232 	lncn.org 5qm 	rc4-md5
 45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 199.223.119.83 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-85.117.234.223 	232 	lncn.org 6fi 	rc4-md5
 199.223.119.92 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+85.117.234.223 	232 	lncn.org 6fi 	rc4-md5
 172.104.131.24 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usa.1ss.fun 	15886 	f55.fun-05490234 	aes-256-cfb
 45.66.135.97 	232 	lncn.org a3t 	rc4-md5
 172.104.131.24 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 69.36.182.52 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
@@ -48,7 +49,8 @@ SS/SSR账号2：
 172.105.192.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 185.186.245.44 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 198.255.103.62 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.144.2.235 	232 	lncn.org 6fi 	rc4-md5
 198.255.103.62 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.144.2.235 	232 	lncn.org 6fi 	rc4-md5
 204.45.182.34 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 198.13.48.103 	232 	lncn.org 33t 	rc4-md5
+usb.1ss.fun 	13710 	f55.fun-90285206 	aes-256-cfb
