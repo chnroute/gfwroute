@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-01-25 12:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-01-26 12:15:55                   
 
 SS/SSR账号1:
 洛杉矶1：38.131.99.251 端口:11111 密码: dongtaiwang.com
@@ -15,14 +15,38 @@ SS/SSR账号2：
 加密方式: aes-256-cfb 协议:origin 混淆:plain
 
 账号 	端口 	密加密方式
+45.66.135.97 	666 	lncn.org ec5 	rc4-md5
 139.162.67.40 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+212.84.169.72 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 162.220.51.58 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 209.58.188.157 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.131.24 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.85.0.147 	666 	lncn.org ec5 	rc4-md5
 139.162.15.45 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.131.24 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+50.7.12.147 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 211.21.214.234 	21971 	bTuK5IJr9hzl 	aes-256-cfb
-185.186.245.44 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 192.240.99.182 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+85.117.235.82 	666 	lncn.org 33s 	rc4-md5
+194.156.229.134 	666 	lncn.org ec5 	rc4-md5
 185.186.245.44 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+a345891346.gyteng.com 	63922 	ssmgr5145225212 	aes-256-cfb
+usc.1ss.fun 	17297 	f55.fun-85659079 	aes-256-cfb
+45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usf.1ss.fun 	17162 	f55.fun-60647125 	aes-256-cfb
+199.223.119.83 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+207.148.112.253 	666 	lncn.org 5fr 	rc4-md5
+199.223.119.92 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+185.22.152.211 	666 	lncn.org 33s 	rc4-md5
+172.104.131.24 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+198.13.48.103 	666 	lncn.org 5fr 	rc4-md5
+usa.1ss.fun 	14437 	f55.fun-00678387 	aes-256-cfb
+172.104.131.24 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+69.36.182.52 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+185.186.245.44 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+198.255.103.62 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+194.124.34.188 	666 	lncn.org ec5 	rc4-md5
+198.255.103.62 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+46.29.166.112 	666 	lncn.org 33s 	rc4-md5
+204.45.182.34 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	11954 	f55.fun-69296961 	aes-256-cfb
+185.255.131.108 	666 	lncn.org dd2 	rc4-md5
+185.255.131.109 	666 	lncn.org dd2 	rc4-md5
