@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-02-02 13:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-02-03 14:15:55                   
 
 SS/SSR账号1:
 洛杉矶1：38.131.99.251 端口:80 密码: dongtaiwang.com
@@ -15,15 +15,12 @@ SS/SSR账号2：
 加密方式: aes-256-cfb 协议:origin 混淆:plain
 
 账号 	端口 	密加密方式
+172.104.83.161 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.33.104.220 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.56.94.8 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.105.208.134 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	10498 	f55.fun-31615328 	aes-256-cfb
 45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.85.0.147 	2555 	lncn.org 5rt 	rc4-md5
+172.105.208.134 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.131.24 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.71.4 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	18324 	f55.fun-36294057 	aes-256-cfb
 172.105.71.4 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-194.147.35.24 	2555 	lncn.org 5fg 	rc4-md5
-172.104.83.161 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-194.124.34.188 	2555 	lncn.org 5rt 	rc4-md5
-45.33.104.220 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb

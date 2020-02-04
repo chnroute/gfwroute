@@ -1,5 +1,51 @@
 来自免费翻墙网https://www.freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。本站不能保证其安全性与稳定性，随时都有可能失效，敬请理解！ 
 
+免费V2Ray账号 更新时间：2020-02-03 22:15:55
+
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZyZWVkb20iLA0KICAiYWRkIjogInd3dy5mcmVlNjY2Ni5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDMwZDRmNGYtMzVhMS00YzI5LWIxNjEtYjQ1ZGZkOWYyMWVjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvN2Y3MWI5ZTUvIiwNCiAgInRscyI6ICJ0bHMiDQp9
+
+vmess://eyJ2IjoiMiIsInBzIjoiVjEtSlDml6XmnKxhLU5ldGZsaXgtMSIsImFkZCI6ImpwYXQ3eS5taXl1bi5vbmUiLCJwb3J0IjoiOTg5IiwiaWQiOiIxNjI1ODcyZC1lMWZmLTM4NGMtOWZkNy00ZmM3NWNhYmM4NmEiLCJhaWQiOiIyIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyJ9 
+vmess://eyJ2IjoiMiIsInBzIjoiVjEtSEvpppnmuK9MLU5GLeiNkC0xIiwiYWRkIjoiaGtsY28zLm1peXVuLm9uZSIsInBvcnQiOiI5ODkiLCJpZCI6IjE2MjU4NzJkLWUxZmYtMzg0Yy05ZmQ3LTRmYzc1Y2FiYzg2YSIsImFpZCI6IjEiLCJuZXQiOiJ0Y3AiLCJ0eXBlIjoibm9uZSIsImhvc3QiOiIiLCJwYXRoIjoiIiwidGxzIjoidGxzIn0=
+vmess://eyJ2IjoiMiIsInBzIjoiVjEtSEvpppnmuK9IR0MtTkYtMSIsImFkZCI6Imhra2ppOS5taXl1bi5vbmUiLCJwb3J0IjoiOTg5IiwiaWQiOiIxNjI1ODcyZC1lMWZmLTM4NGMtOWZkNy00ZmM3NWNhYmM4NmEiLCJhaWQiOiIyIiwibmV0IjoidGNwIiwidHlwZSI6Im5vbmUiLCJob3N0IjoiIiwicGF0aCI6IiIsInRscyI6InRscyJ9
+
+vmess://eyJ2IjoiMiIsInBzIjoiVjEtVVPnvo7lm71hLU5GLTEiLCJhZGQiOiJ1c2F0ZzkubWl5dW4ub25lIiwicG9ydCI6Ijk4OSIsImlkIjoiMTYyNTg3MmQtZTFmZi0zODRjLTlmZDctNGZjNzVjYWJjODZhIiwiYWlkIjoiMiIsIm5ldCI6InRjcCIsInR5cGUiOiJub25lIiwiaG9zdCI6IiIsInBhdGgiOiIiLCJ0bHMiOiJ0bHMifQ==
+
+V2ray账号1:
+
+  Address(地址): 216.244.76.219
+
+  Port（端口）: 443
+
+  UUID（用户id）: 3cf35a68-ea46-11e9-9cab-003048d37a3c
+
+  alterId（额外ID）: 64
+
+  security（加密方式）: aes-128-gcm
+
+  network（传输协议）: tcp
+
+  提醒：没有的参数不要填即可。
+
+V2ray账号2:
+
+ Address(地址): www.free6666.net
+
+ Port（端口）: 443
+
+ UUID（用户id）: 1382eedb-da7e-4f4f-87d4-29ad00e8187b
+
+ alterId（额外ID）: 64
+
+ security（加密方式）: auto
+
+ network（传输协议）: ws
+
+ headerType（伪装类型）: none
+
+ path（路径）: /18425739/
+
+ streamSecurity（底层传输安全）: tls来自免费翻墙网https://www.freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。本站不能保证其安全性与稳定性，随时都有可能失效，敬请理解！ 
+
 免费V2Ray账号 更新时间：2020-02-03 13:15:55
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImZyZWVkb20iLA0KICAiYWRkIjogInd3dy5mcmVlNjY2Ni5uZXQiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiNDMwZDRmNGYtMzVhMS00YzI5LWIxNjEtYjQ1ZGZkOWYyMWVjIiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIvN2Y3MWI5ZTUvIiwNCiAgInRscyI6ICJ0bHMiDQp9
