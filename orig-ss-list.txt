@@ -1,9 +1,9 @@
-来自免费翻墙网https://www.freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。本站不能保证其安全性与稳定性，随时都有可能失效，敬请理解！ 
+来自免费翻墙网https://freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！ 
 
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-02-04 14:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-02-05 14:15:55                   
 
 SS/SSR账号1:
 洛杉矶1：38.131.99.251 端口:80 密码: dongtaiwang.com
@@ -14,9 +14,12 @@ SS/SSR账号2：
 
 加密方式: aes-256-cfb 协议:origin 混淆:plain
 
-账号 	端口 	密加密方式
-194.156.229.134 	10 	a6a lncn.org 	rc4-md5
-194.124.34.188 	10 	a6a lncn.org 	rc4-md5
-172.105.208.134 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+账号 	        端口 	            密码                         加密方式
+45.56.94.8 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.162.67.40 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	19133 	f55.fun-24071345 	aes-256-cfb
+45.85.0.147 	8088 	lncn.org 65f 	aes-128-ctr
+45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.162.67.40 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+194.124.34.188 	8088 	lncn.org 65f 	aes-128-ctr
 172.104.83.161 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	11147 	f55.fun-49467474 	aes-256-cfb
