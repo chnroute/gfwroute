@@ -1,8 +1,8 @@
+    账号|端口|            密码                         加密方式
 45.56.94.8|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.67.40|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usb.1ss.fun|19133|f55.fun-24071345|aes-256-cfb
-45.85.0.147|8088|lncn.org 65f|aes-128-ctr
-45.56.94.8|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.67.40|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.56.94.8|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usb.1ss.fun|16035|f55.fun-45882206|aes-256-cfb
 194.124.34.188|8088|lncn.org 65f|aes-128-ctr
 172.104.83.161|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb

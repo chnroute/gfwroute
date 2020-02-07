@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-02-05 14:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-02-06 16:15:55                   
 
 SS/SSR账号1:
 洛杉矶1：38.131.99.251 端口:80 密码: dongtaiwang.com
@@ -14,12 +14,11 @@ SS/SSR账号2：
 
 加密方式: aes-256-cfb 协议:origin 混淆:plain
 
-账号 	        端口 	            密码                         加密方式
+    账号 	端口 	            密码                         加密方式
 45.56.94.8 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.67.40 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	19133 	f55.fun-24071345 	aes-256-cfb
-45.85.0.147 	8088 	lncn.org 65f 	aes-128-ctr
-45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.67.40 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	16035 	f55.fun-45882206 	aes-256-cfb
 194.124.34.188 	8088 	lncn.org 65f 	aes-128-ctr
 172.104.83.161 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
