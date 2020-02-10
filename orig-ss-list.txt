@@ -1,17 +1,19 @@
-������ѷ�ǽ��https://freefq.com�����ѣ������˺š��ڵ���������Դ�Թ��ʻ�������ȫ����������վ��������������ѷ�ǽ���ṩ��ȫ��δ�����ԣ���վ���ܱ�֤�䰲ȫ�����ȶ��ԣ���ʱ����ʧЧ�������½⣡ 
+来自免费翻墙网https://freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！ 
 
-SS�ͻ���
+SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-���SS�˺��������ݾ����Ի�����������ʱ�䣺2020-02-09 15:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-02-10 15:15:55                   
 
-SS/SSR�˺�1:
-��ɼ��1��67.21.94.192 �˿�:2333 ����: dongtaiwang.com
+SS/SSR账号1:
+洛杉矶1：67.21.94.192 端口:2333 密码: dongtaiwang.com
 
-���ܷ�ʽ: aes-256-cfb Э��:origin ����:plain
+加密方式: aes-256-cfb 协议:origin 混淆:plain
 
-   �˺� 	�˿� 	            ����                          ���ܷ�ʽ
-45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+   账号 	端口 	            密码                          加密方式
+45.56.94.8 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	14272 	f55.fun-57524425 	aes-256-cfb
 139.162.67.40 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	11794 	f55.fun-54602911 	aes-256-cfb
+45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 194.124.34.188 	8088 	lncn.org 65f 	aes-128-ctr
+172.104.83.161 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
