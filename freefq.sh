@@ -22,8 +22,13 @@ path=$(iconv -f gbk -t utf8 index.txt | dos2unix | sed 's/[<>]/\n/g' | \
 url=$urlhome/$path
 rm -f index.txt
 wget -q $url -O index.txt
-url=$(iconv -f gbk -t utf8 index.txt | dos2unix | grep 'href=.*\.txt'|cut -d\" -f 2)
+iconv -f gbk -t utf8 index.txt | dos2unix >index1.txt
+mv -f index1.txt index.txt
+url=$(grep 'href=.*\.txt' index.txt|cut -d\" -f 2)
 rm -f index.txt
 wget -q $url -O index.txt
-iconv -f gbk -t utf8 index.txt | dos2unix | grep -P '\t' | grep -Ev '^账号|^ssr链接|^Address' | sed -E 's/ \t/|/g' > $type-list.txt
+iconv -f gbk -t utf8 index.txt | dos2unix >index1.txt
+mv -f index1.txt index.txt
+grep -P '\t|(ss|ssr|vmess)://[\x20-\x7f]' index.txt | grep -Ev '^账号|^ssr链接|^Address' | sed -E 's/ \t/|/g' > $type-list.txt
+sed -E -i -e 's@<.*data="@@' -e 's@".*>@@' $type-list.txt
 mv -f index.txt orig-$type-list.txt
