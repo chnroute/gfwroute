@@ -3,17 +3,24 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-02-10 15:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-02-11 15:15:55                   
 
 SS/SSR账号1:
 洛杉矶1：67.21.94.192 端口:2333 密码: dongtaiwang.com
 
 加密方式: aes-256-cfb 协议:origin 混淆:plain
 
-   账号 	端口 	            密码                          加密方式
-45.56.94.8 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	14272 	f55.fun-57524425 	aes-256-cfb
-139.162.67.40 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+   账号 	端口 	  密码         加密方式
+85.117.235.175 	350 	lncn.org g5n 	rc4
+46.29.163.29 	350 	lncn.org g5n 	rc4
+194.124.34.188 	350 	lncn.org t3j 	rc4
+139.180.206.196 	350 	lncn.org d6u 	rc4
 45.56.94.8 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-194.124.34.188 	8088 	lncn.org 65f 	aes-128-ctr
+45.136.244.204 	350 	lncn.org 5ft 	rc4
+207.148.111.121 	350 	lncn.org d6u 	rc4
+45.147.200.237 	350 	lncn.org 5ft 	rc4
+172.105.71.4 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+a345891346.gyteng.com 	62293 	ssmgr2291631049 	aes-256-cfb
+185.22.153.9 	350 	lncn.org g5n 	rc4
 172.104.83.161 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.89.230.216 	350 	lncn.org g5n 	rc4
