@@ -1,14 +1,20 @@
    账号|端口|  密码         加密方式
-85.117.235.175|350|lncn.org g5n|rc4
-46.29.163.29|350|lncn.org g5n|rc4
-194.124.34.188|350|lncn.org t3j|rc4
-139.180.206.196|350|lncn.org d6u|rc4
+194.124.34.188|5532|lncn.org 6dy|rc4
+207.148.111.121|5532|lncn.org 6fy|rc4
+usb.1ss.fun|16976|f55.fun-07368409|aes-256-cfb
+a345891346.gyteng.com|62146|ssmgr5625313903|aes-256-cfb
+139.162.67.40|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+139.180.206.196|5532|lncn.org 6fy|rc4
+45.144.2.235|5532|lncn.org 1fy|rc4
 45.56.94.8|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.136.244.204|350|lncn.org 5ft|rc4
 207.148.111.121|350|lncn.org d6u|rc4
-45.147.200.237|350|lncn.org 5ft|rc4
 172.105.71.4|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-a345891346.gyteng.com|62293|ssmgr2291631049|aes-256-cfb
-185.22.153.9|350|lncn.org g5n|rc4
 172.104.83.161|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.89.230.216|350|lncn.org g5n|rc4
+45.147.200.237|5532|lncn.org 1fy|rc4
+85.117.235.175|5532|lncn.org 6fi|rc4
+139.180.206.196|350|lncn.org d6u|rc4
+185.22.153.9|5532|lncn.org 6fi|rc4
+46.29.163.29|5532|lncn.org 6fi|rc4
+45.89.230.216|5532|lncn.org 6fi|rc4
+139.162.67.40|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.136.244.204|5532|lncn.org 1fy|rc4
