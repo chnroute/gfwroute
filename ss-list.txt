@@ -1,23 +1,23 @@
    账号|端口|  密码         加密方式
-185.22.153.9|5563|lncn.org 6to|rc4
+45.136.244.204|5966|lncn.org t3b|rc4
+46.29.163.29|5966|lncn.org 3tp|rc4
 139.162.67.40|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-46.29.163.29|5563|lncn.org 6to|rc4
-45.89.230.216|5563|lncn.org 6to|rc4
-194.124.34.188|5563|lncn.org d9x|rc4
-usb.1ss.fun|17031|f55.fun-40574108|aes-256-cfb
+45.147.200.237|5966|lncn.org t3b|rc4
+85.117.235.175|5966|lncn.org 3tp|rc4
+194.124.34.188|5966|lncn.org 3gq|rc4
 45.33.106.171|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+46.17.45.194|5966|lncn.org t3b|rc4
 207.148.111.121|5563|lncn.org 6nq|rc4
-139.162.119.112|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.147.200.237|5563|lncn.org w7v|rc4
 45.79.111.160|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-172.104.99.75|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.105.195.31|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+172.104.99.75|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.79.111.160|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.136.244.204|5563|lncn.org w7v|rc4
-45.144.2.235|5563|lncn.org w7v|rc4
+207.148.111.121|5596|lncn.org 3hi|rc4
 172.104.99.75|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+139.180.206.196|5596|lncn.org 3hi|rc4
 172.105.195.31|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.33.106.171|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-85.117.235.175|5563|lncn.org 6to|rc4
+185.22.153.9|5966|lncn.org 3tp|rc4
 139.162.67.40|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-139.162.119.112|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.33.106.171|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.144.2.235|5966|lncn.org t3b|rc4
+45.89.230.216|5966|lncn.org 3tp|rc4
