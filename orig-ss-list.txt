@@ -3,12 +3,12 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-02-18 13:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-02-20 13:15:55                   
 
 SS/SSR账号1:
-账号1：170.178.171.71 端口：9199 密码： dongtaiwang.com
+账号1：216.176.190.11 端口：12008 密码： dongtaiwang.com
 
-加密方式： RC4 协议：origin 混淆：plain
+加密方式：RC4 协议：origin 混淆：plain
 
 SS/SSR账号2:
 账号2：185.118.166.1 端口：777 密码： dongtaiwang.com
@@ -16,22 +16,32 @@ SS/SSR账号2:
 加密方式： RC4 协议：origin 混淆：plain
 
    账号 	端口 	  密码         加密方式
-139.162.67.40 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-85.117.235.175 	5981 	lncn.org 6up 	rc4
-45.33.106.171 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.136.244.204 	5981 	lncn.org 2wp 	rc4
-46.29.163.29 	5981 	lncn.org 6up 	rc4
-194.124.34.188 	5981 	lncn.org 2gt 	rc4
-185.22.153.9 	5981 	lncn.org 6up 	rc4
-46.17.45.194 	5981 	lncn.org 2wp 	rc4
+a345891346.gyteng.com 	62854 	ssmgr4006634763 	aes-256-cfb
+46.29.163.29 	8230 	lncn.org 5ww 	rc4
+85.117.235.175 	8230 	lncn.org 5ww 	rc4
 45.79.111.160 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.89.230.216 	5981 	lncn.org 6up 	rc4
-45.144.2.235 	5981 	lncn.org 2wp 	rc4
 172.105.195.31 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.99.75 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.79.111.160 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.162.82.254 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.162.82.254 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+66.175.220.126 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.99.75 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.195.31 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-139.162.67.40 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+103.124.106.182 	8230 	lncn.org 6f2 	rc4
+66.175.219.123 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.144.2.235 	8230 	lncn.org w5j 	rc4
+172.104.120.195 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.33.106.171 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.147.200.237 	8230 	lncn.org w5j 	rc4
+139.162.98.22 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+185.22.153.9 	8230 	lncn.org 5ww 	rc4
+66.175.220.126 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.89.197.120 	8230 	lncn.org 6f2 	rc4
+172.104.99.75 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+46.17.45.194 	8230 	lncn.org w5j 	rc4
+45.79.111.160 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+103.124.107.136 	8230 	lncn.org 6f2 	rc4
+66.175.219.123 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.120.195 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.33.106.171 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.147.200.237 	5981 	lncn.org 2wp 	rc4
+45.136.244.204 	8230 	lncn.org w5j 	rc4
+45.89.230.216 	8230 	lncn.org 5ww 	rc4
