@@ -1,32 +1,31 @@
    账号|端口|  密码         加密方式
-103.124.107.204|5660|lncn.org 88u|rc4
-45.89.197.120|5660|lncn.org 88u|rc4
-use.1ss.fun|11027|f55.fun-31715342|aes-256-cfb
-185.22.153.9|5660|lncn.org 8ti|rc4
-46.17.45.194|5660|lncn.org rr6|rc4
+45.89.197.120|5955|lncn.org 5fb|rc4
+45.144.2.51|5955|lncn.org 8kl|rc4
+85.117.234.98|5955|lncn.org 8kl|rc4
+usf.1ss.fun|11319|f55.fun-95898362|aes-256-cfb
 172.105.195.31|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usd.1ss.fun|12881|f55.fun-54619375|aes-256-cfb
 139.162.82.254|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.82.254|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.144.2.186|5955|lncn.org w5t|rc4
 66.175.220.126|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.147.200.237|5660|lncn.org rr6|rc4
-usf.1ss.fun|10031|f55.fun-68424739|aes-256-cfb
-45.136.244.204|5660|lncn.org rr6|rc4
+usc.1ss.fun|13654|f55.fun-97334905|aes-256-cfb
 172.104.99.75|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+46.17.45.194|5955|lncn.org 5wc|rc4
 172.105.195.31|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+103.124.107.204|5955|lncn.org 5fb|rc4
+193.38.50.206|5955|lncn.org 5wc|rc4
 66.175.219.123|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.104.120.195|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.33.106.171|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-193.38.50.206|5660|lncn.org rr6|rc4
-46.29.163.29|5660|lncn.org 8ti|rc4
-103.124.107.136|5660|lncn.org 88u|rc4
-usc.1ss.fun|19610|f55.fun-76702172|aes-256-cfb
-45.89.230.216|5660|lncn.org 8ti|rc4
-85.117.235.175|5660|lncn.org 8ti|rc4
-usd.1ss.fun|12026|f55.fun-23562762|aes-256-cfb
+103.124.106.182|5955|lncn.org 5fb|rc4
+103.124.107.136|5955|lncn.org 5fb|rc4
 66.175.220.126|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.104.99.75|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usa.1ss.fun|19610|f55.fun-76702172|aes-256-cfb
+use.1ss.fun|16427|f55.fun-53907430|aes-256-cfb
+usa.1ss.fun|13654|f55.fun-97334905|aes-256-cfb
 66.175.219.123|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.147.201.168|5955|lncn.org 8kl|rc4
+45.147.200.237|5955|lncn.org 5wc|rc4
 172.104.120.195|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.33.106.171|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-103.124.106.182|5660|lncn.org 88u|rc4
