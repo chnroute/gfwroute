@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-03-03 11:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-03-05 12:15:55                   
 
 SS/SSR账号1:
 账号1：162.245.239.67 端口：65535 密码： dongtaiwang.com
@@ -16,31 +16,28 @@ SS/SSR账号2:
 加密方式： RC4 协议：origin 混淆：plain
 
    账号 	端口 	  密码         加密方式
-45.144.2.51 	5213 	lncn.org f5y 	rc4
-193.38.50.206 	5213 	lncn.org 6tw 	rc4
-45.147.200.237 	5213 	lncn.org 6tw 	rc4
-45.136.244.204 	5213 	lncn.org 6tw 	rc4
+193.38.50.206 	5598 	lncn.org 7td 	rc4
+use.1ss.fun 	19949 	f55.fun-83071597 	aes-256-cfb
+45.147.200.237 	5598 	lncn.org 7td 	rc4
 172.105.195.31 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-139.162.82.254 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-139.162.82.254 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+46.17.45.194 	5598 	lncn.org 7td 	rc4
 66.175.220.126 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+85.117.234.98 	5598 	lncn.org 5rp 	rc4
 172.104.99.75 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.195.31 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.144.2.186 	5598 	lncn.org 5rp 	rc4
+45.144.2.51 	5598 	lncn.org 5rp 	rc4
 66.175.219.123 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-use.1ss.fun 	11853 	f55.fun-07042957 	aes-256-cfb
-45.144.2.186 	5213 	lncn.org f5y 	rc4
+usa.1ss.fun 	14809 	f55.fun-70699373 	aes-256-cfb
 172.104.120.195 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-46.17.45.194 	5213 	lncn.org 6tw 	rc4
-45.33.106.171 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-85.117.234.98 	5213 	lncn.org f5y 	rc4
-103.124.107.204 	5213 	lncn.org f5p 	rc4
-usd.1ss.fun 	11197 	f55.fun-52335934 	aes-256-cfb
+103.124.107.204 	5598 	lncn.org 8ke 	rc4
+usf.1ss.fun 	17102 	f55.fun-30072223 	aes-256-cfb
 66.175.220.126 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.99.75 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.147.201.168 	5213 	lncn.org f5y 	rc4
-usf.1ss.fun 	12037 	f55.fun-64889270 	aes-256-cfb
+45.89.197.120 	5598 	lncn.org 8ke 	rc4
+usd.1ss.fun 	17830 	f55.fun-01812551 	aes-256-cfb
+45.147.201.168 	5598 	lncn.org 5rp 	rc4
+103.124.107.136 	5598 	lncn.org 8ke 	rc4
 66.175.219.123 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-103.124.107.136 	5213 	lncn.org f5p 	rc4
-usa.1ss.fun 	13656 	f55.fun-55082128 	aes-256-cfb
-45.89.197.120 	5213 	lncn.org f5p 	rc4
-103.124.106.182 	5213 	lncn.org f5p 	rc4
+103.124.106.182 	5598 	lncn.org 8ke 	rc4
+172.104.120.195 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
