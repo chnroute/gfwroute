@@ -1,26 +1,16 @@
    账号|端口|  密码         加密方式
 193.38.50.206|5598|lncn.org 7td|rc4
-use.1ss.fun|19949|f55.fun-83071597|aes-256-cfb
-45.147.200.237|5598|lncn.org 7td|rc4
-172.105.195.31|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-46.17.45.194|5598|lncn.org 7td|rc4
-66.175.220.126|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-85.117.234.98|5598|lncn.org 5rp|rc4
-172.104.99.75|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-172.105.195.31|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.144.2.186|5598|lncn.org 5rp|rc4
 45.144.2.51|5598|lncn.org 5rp|rc4
-66.175.219.123|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usa.1ss.fun|14809|f55.fun-70699373|aes-256-cfb
-172.104.120.195|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usd.1ss.fun|12244|f55.fun-86773372|aes-256-cfb
 103.124.107.204|5598|lncn.org 8ke|rc4
-usf.1ss.fun|17102|f55.fun-30072223|aes-256-cfb
-66.175.220.126|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-172.104.99.75|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usf.1ss.fun|15895|f55.fun-22517389|aes-256-cfb
+usa.1ss.fun|13404|f55.fun-08855629|aes-256-cfb
+45.147.200.237|5598|lncn.org 7td|rc4
 45.89.197.120|5598|lncn.org 8ke|rc4
-usd.1ss.fun|17830|f55.fun-01812551|aes-256-cfb
+use.1ss.fun|17900|f55.fun-31821912|aes-256-cfb
+46.17.45.194|5598|lncn.org 7td|rc4
 45.147.201.168|5598|lncn.org 5rp|rc4
 103.124.107.136|5598|lncn.org 8ke|rc4
-66.175.219.123|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+85.117.234.98|5598|lncn.org 5rp|rc4
 103.124.106.182|5598|lncn.org 8ke|rc4
-172.104.120.195|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
