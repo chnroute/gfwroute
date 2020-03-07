@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-03-06 12:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-03-07 12:15:55                   
 
 SS/SSR账号1:
 账号1：162.245.239.67 端口：65535 密码： dongtaiwang.com
@@ -16,18 +16,18 @@ SS/SSR账号2:
 加密方式： RC4 协议：origin 混淆：plain
 
    账号 	端口 	  密码         加密方式
-193.38.50.206 	5598 	lncn.org 7td 	rc4
-45.144.2.186 	5598 	lncn.org 5rp 	rc4
-45.144.2.51 	5598 	lncn.org 5rp 	rc4
-usd.1ss.fun 	12244 	f55.fun-86773372 	aes-256-cfb
-103.124.107.204 	5598 	lncn.org 8ke 	rc4
-usf.1ss.fun 	15895 	f55.fun-22517389 	aes-256-cfb
-usa.1ss.fun 	13404 	f55.fun-08855629 	aes-256-cfb
-45.147.200.237 	5598 	lncn.org 7td 	rc4
-45.89.197.120 	5598 	lncn.org 8ke 	rc4
-use.1ss.fun 	17900 	f55.fun-31821912 	aes-256-cfb
-46.17.45.194 	5598 	lncn.org 7td 	rc4
-45.147.201.168 	5598 	lncn.org 5rp 	rc4
-103.124.107.136 	5598 	lncn.org 8ke 	rc4
-85.117.234.98 	5598 	lncn.org 5rp 	rc4
-103.124.106.182 	5598 	lncn.org 8ke 	rc4
+103.124.107.136 	5858 	lncn.org t1g 	rc4
+103.124.106.182 	5858 	lncn.org t1g 	rc4
+45.89.197.120 	5858 	lncn.org t1g 	rc4
+usd.1ss.fun 	10714 	f55.fun-89536692 	aes-256-cfb
+193.38.50.206 	5858 	lncn.org 85k 	rc4
+use.1ss.fun 	18073 	f55.fun-85487248 	aes-256-cfb
+usf.1ss.fun 	17083 	f55.fun-75781985 	aes-256-cfb
+85.117.234.98 	5858 	lncn.org 8te 	rc4
+45.144.2.51 	5858 	lncn.org 8te 	rc4
+46.17.45.194 	5858 	lncn.org 85k 	rc4
+usa.1ss.fun 	11650 	f55.fun-17162584 	aes-256-cfb
+103.124.107.204 	5858 	lncn.org t1g 	rc4
+45.147.200.237 	5858 	lncn.org 85k 	rc4
+45.144.2.186 	5858 	lncn.org 8te 	rc4
+45.147.201.168 	5858 	lncn.org 8te 	rc4
