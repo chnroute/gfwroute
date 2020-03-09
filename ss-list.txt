@@ -1,16 +1,18 @@
    账号|端口|  密码         加密方式
-103.124.107.136|5858|lncn.org t1g|rc4
-103.124.106.182|5858|lncn.org t1g|rc4
-45.89.197.120|5858|lncn.org t1g|rc4
-usd.1ss.fun|10714|f55.fun-89536692|aes-256-cfb
-193.38.50.206|5858|lncn.org 85k|rc4
-use.1ss.fun|18073|f55.fun-85487248|aes-256-cfb
-usf.1ss.fun|17083|f55.fun-75781985|aes-256-cfb
-85.117.234.98|5858|lncn.org 8te|rc4
-45.144.2.51|5858|lncn.org 8te|rc4
-46.17.45.194|5858|lncn.org 85k|rc4
-usa.1ss.fun|11650|f55.fun-17162584|aes-256-cfb
-103.124.107.204|5858|lncn.org t1g|rc4
-45.147.200.237|5858|lncn.org 85k|rc4
-45.144.2.186|5858|lncn.org 8te|rc4
-45.147.201.168|5858|lncn.org 8te|rc4
+usd.1ss.fun|13364|f55.fun-75354721|aes-256-gcm
+193.38.50.206|5566|lncn.org t8j|rc4
+46.17.45.194|5566|lncn.org t8j|rc4
+103.124.107.204|5566|lncn.org 5ft|rc4
+103.124.107.136|5566|lncn.org 5ft|rc4
+45.144.2.51|5566|lncn.org 8i2|rc4
+45.89.197.120|5566|lncn.org 5ft|rc4
+103.124.106.182|5566|lncn.org 5ft|rc4
+usa.1ss.fun|18725|f55.fun-05364869|aes-256-gcm
+85.117.234.98|5566|lncn.org 8i2|rc4
+usc.1ss.fun|17049|f55.fun-46575042|aes-256-gcm
+usb.1ss.fun|19268|f55.fun-98104359|aes-256-gcm
+45.147.201.168|5566|lncn.org 8i2|rc4
+use.1ss.fun|14452|f55.fun-97535748|aes-256-gcm
+45.147.200.237|5566|lncn.org t8j|rc4
+usf.1ss.fun|18089|f55.fun-61319331|aes-256-gcm
+45.144.2.186|5566|lncn.org 8i2|rc4
