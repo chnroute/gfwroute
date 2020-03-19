@@ -3,39 +3,39 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-03-18 12:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-03-19 12:15:55                   
 
    账号 	端口 	  密码         加密方式
 45.79.224.191 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.144.2.186 	5983 	lncn.org 6jq 	rc4
 45.89.197.120 	5983 	lncn.org 3rr 	rc4
+use.1ss.fun 	16377 	f55.fun-28585456 	aes-256-gcm
 172.104.112.96 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.144.2.51 	5983 	lncn.org 6jq 	rc4
 172.104.84.60 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.224.191 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.71.183 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usf.1ss.fun 	16282 	f55.fun-80579017 	aes-256-gcm
 192.240.123.26 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.147.200.237 	5983 	lncn.org i22 	rc4
 172.104.116.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usc.1ss.fun 	15619 	f55.fun-69253619 	aes-256-gcm
 172.104.112.96 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 85.117.234.98 	5983 	lncn.org 6jq 	rc4
-usd.1ss.fun 	11895 	f55.fun-28016840 	aes-256-gcm
 172.105.215.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	18893 	f55.fun-33563514 	aes-256-gcm
 103.124.107.136 	5983 	lncn.org 3rr 	rc4
+usf.1ss.fun 	13614 	f55.fun-55213211 	aes-256-gcm
 198.255.78.36 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 193.38.50.206 	5983 	lncn.org i22 	rc4
-usa.1ss.fun 	18660 	f55.fun-92417304 	aes-256-gcm
+usa.1ss.fun 	15656 	f55.fun-42248641 	aes-256-gcm
 172.104.116.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.77.234 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usd.1ss.fun 	19553 	f55.fun-61826746 	aes-256-gcm
 45.147.201.168 	5983 	lncn.org 6jq 	rc4
 103.124.107.204 	5983 	lncn.org 3rr 	rc4
-45.79.71.183 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.79.71.183 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 103.124.106.182 	5983 	lncn.org 3rr 	rc4
-usc.1ss.fun 	15341 	f55.fun-33302234 	aes-256-gcm
-use.1ss.fun 	19952 	f55.fun-26693288 	aes-256-gcm
-usb.1ss.fun 	19768 	f55.fun-52070394 	aes-256-gcm
 192.240.123.26 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 46.17.45.194 	5983 	lncn.org i22 	rc4
 45.79.77.234 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
