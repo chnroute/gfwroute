@@ -3,45 +3,43 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2021-03-25 12:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2021-03-26 12:15:55                   
 
    账号 	端口 	  密码         加密方式
 45.79.224.191 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.115.244 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usa.1ss.fun 	15357 	f55.fun-89555484 	aes-256-gcm
+usb.1ss.fun 	15938 	f55.fun-33163397 	aes-256-gcm
 172.104.112.96 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 85.117.234.98 	5922 	lncn.org t2j 	rc4
+use.1ss.fun 	12631 	f55.fun-87512353 	aes-256-gcm
 45.136.244.204 	5922 	lncn.org 2gt 	rc4
-172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.89.20 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.224.191 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usf.1ss.fun 	12059 	f55.fun-34513622 	aes-256-gcm
 45.79.71.183 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usa.1ss.fun 	12792 	f55.fun-68749729 	aes-256-gcm
-use.1ss.fun 	16676 	f55.fun-42263844 	aes-256-gcm
-193.38.50.206 	5922 	lncn.org 2gt 	rc4
 192.240.123.26 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usc.1ss.fun 	16561 	f55.fun-63771162 	aes-256-gcm
 172.104.116.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.112.96 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	10544 	f55.fun-45207719 	aes-256-gcm
-usf.1ss.fun 	14491 	f55.fun-56610297 	aes-256-gcm
 172.105.215.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.12.109.134 	5922 	lncn.org 5tb 	rc4
+usc.1ss.fun 	17819 	f55.fun-08178959 	aes-256-gcm
 45.147.201.168 	5922 	lncn.org t2j 	rc4
 45.79.115.244 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 46.17.45.194 	5922 	lncn.org 2gt 	rc4
-139.28.235.243 	5922 	lncn.org 5tb 	rc4
 198.255.78.36 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.144.2.51 	5922 	lncn.org t2j 	rc4
 172.104.116.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.79.77.234 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.28.235.84 	5922 	lncn.org 5tb 	rc4
 45.82.255.115 	5922 	lncn.org 5tb 	rc4
 172.105.215.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.71.183 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.192.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usd.1ss.fun 	19603 	f55.fun-56756212 	aes-256-gcm
 45.147.200.237 	5922 	lncn.org 2gt 	rc4
-usd.1ss.fun 	16278 	f55.fun-07247722 	aes-256-gcm
+45.135.134.205 	5922 	lncn.org 6tw 	rc4
 192.240.123.26 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.28.235.243 	5911 	lncn.org r6* 	rc4
 45.144.2.186 	5922 	lncn.org t2j 	rc4
-45.79.77.234 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.89.20 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
