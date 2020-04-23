@@ -1,6 +1,7 @@
 来自免费翻墙网https://freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！ 
 
-免费V2Ray账号 更新时间：2020-04-21 12:15:55
+免费V2Ray账号 更新时间：2020-04-23 12:15:55
+
 sub:
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUIt5L+E572X5pavVjEt5LuY6LS55o6o6I2QOnQuY24vRUdKSXlybCIsDQogICJhZGQiOiAidjItMDEuc3Nyc3ViLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0NDM5M2M3Ni1kYTQ1LTQzYTYtOTA2OC04NTM3M2M1NmIwNGQiLA0KICAiYWlkIjogIjIzMyIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidjItMDEuc3Nyc3ViLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyINCn0=
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUIt5L+E572X5pavVjIt5LuY6LS55o6o6I2QOnQuY24vRUdKSXlybCIsDQogICJhZGQiOiAidjItMDIuc3Nyc3ViLnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICIyMjQ2Y2IyNy0xYzQyLTQwMDgtOWJlYi1mNjlmZTQyMDk5N2YiLA0KICAiYWlkIjogIjIzMyIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAidjItMDIuc3Nyc3ViLnh5eiIsDQogICJwYXRoIjogIi8iLA0KICAidGxzIjogInRscyINCn0=
@@ -161,51 +162,61 @@ headerType（伪装类型）: none
 
 
 Address 	Port 	                   UID 	             Network   Path 	        TLS
-milkgogo.tk 	443 	4f12819c-8014-11ea-bb08-560002b04cfd 	ws 	/FPkhcU4n/ 	tls
+45.58.148.34 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
 v2-08.ssrsub.xyz 	443 	56011ae8-5294-4b0d-89e8-2a4b4374b2d7 	ws 	/ 	tls
-46.29.163.4 	7553 	9fc59116-b5c1-41dc-b6ba-501f42f3448a 	ws 		
 64.32.0.58 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-chinahumanr.tk 	443 	de3d9b94-7e3f-11ea-92bc-560002aefae6 	ws 	/hbU9s5HF/ 	tls
+chinahumanr.tk 	443 	c32028aa-8483-11ea-98fc-560002b3de52 	ws 	/RHd8eLzf/ 	tls
 107.167.20.181 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
 162.159.211.10 	80 	2d2b1173-6ba9-43fb-b98c-f388eb15926b 	ws 		
 us.accessoutside.tech 	443 	d8d5d54a-c50a-4090-a21a-88d252e43a78 	ws 	/ 	tls
-weneedfreedom.ml 	443 	83bd115a-7e3e-11ea-888b-560002aefa1d 	ws 	/IOq0GTCc/ 	tls
-milkgogo.xyz 	443 	aeb54c62-7f0e-11ea-b3ce-560002af8fb3 	ws 	/X8fROgDy/ 	tls
-cdp2019.ml 	443 	f11bfda0-7f0c-11ea-bc6f-560002af8eec 	ws 	/xvjbTg7B/ 	tls
-notoneless.ml 	443 	33f47d42-7e44-11ea-b858-560002aefd41 	ws 	/WKO8hJSA/ 	tls
+weneedfreedom.ml 	443 	ac3da57a-847b-11ea-a7c8-560002b3d552 	ws 	/bJ0MuKkX/ 	tls
+milkgogo.xyz 	443 	63c4c812-83f6-11ea-ba96-560002b365c2 	ws 	/cMqaYx95/ 	tls
+cdp2019.ml 	443 	a83150a4-83f8-11ea-af84-560002b36710 	ws 	/OSErPZsH/ 	tls
 v2-13.ssrsub.xyz 	443 	981169ec-0ce4-49ba-bc7c-9f1731e9abca 	ws 	/ 	tls
 vps.wjsswyfc.tk 	443 	e01499c4-300f-4e1c-931e-f5307485ce56 	ws 	/ 	tls
+auto.freev2.top 	11244 	62162c1d-9ba0-49c6-8ba2-3875e7593b6f 	tcp 	undefined 	
 hk.v1-1.90porn.site 	8080 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
-auto.freev2.top 	46179 	f6388da8-22c2-4860-b599-74e537ff471d 	tcp 	undefined 	
 v2-05.ssrsub.xyz 	443 	1e6e1d65-c057-45ff-b0df-a7624b93806f 	ws 	/ 	tls
 us118855.mfjx-vip.xyz 	443 	21102246-caba-3f49-9a68-49f7476d68f0 	ws 	v2ray 	tls
 pampersvk.tk 	443 	1f219d7e-804b-11ea-8b3f-560002b06218 	ws 	/2fkFmRz0/ 	tls
+107.167.18.43 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
+ccpisdevil.ml 	443 	ce81e3a2-83af-11ea-bde3-560002b31ced 	ws 	/UAycnRZ0/ 	tls
 v2-11.ssrsub.xyz 	443 	2aa7143f-4c17-4710-a988-e22284954e21 	ws 	/ 	tls
 v2-02.ssrsub.xyz 	443 	2246cb27-1c42-4008-9beb-f69fe420997f 	ws 	/ 	tls
-chinahumanr.ml 	443 	92ac95b4-7f0b-11ea-9fb8-560002af8e6d 	ws 	/FgeV3061/ 	tls
+chinahumanr.ml 	443 	1f98fca8-83fb-11ea-9850-560002b369d9 	ws 	/j8soHQSh/ 	tls
 ray.east-cu.1.90porn.site 	8001 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
+chinahr.ml 	443 	da81a240-83a6-11ea-be65-560002b3129e 	ws 	/LPkBzOEp/ 	tls
+cdp2019.tk 	443 	89bb78fc-839e-11ea-8f5f-560002b30896 	ws 	/MqceS7AI/ 	tls
 157.245.169.247 	8080 	a101b29a-dda9-3028-bbae-982c73a11136 	ws 	/v2ray 	
 v2-04.ssrsub.xyz 	443 	bf17ca31-0740-4948-b784-aa65af592192 	ws 	/ 	tls
 canongood.ml 	443 	a722eeac-805b-11ea-b9c5-560002b06fed 	ws 	/wPhp3LAa/ 	tls
-tacotasty.tk 	443 	257b4a12-7f10-11ea-88a8-560002af907e 	ws 	/b9neOk6B/ 	tls
+ray.east-cu.1.90porn.site 	28202 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
+ray.east-cu.1.90porn.site 	8002 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
+gfwdasb.xyz 	443 	360eecfc-83a3-11ea-8ac7-560002b30b31 	ws 	/hqK7mbHG/ 	tls
+milkgogo.cf 	443 	2c2125aa-83a5-11ea-bcf1-560002b30f06 	ws 	/pxFtcCeH/ 	tls
 v2-17.ssrsub.xyz 	443 	acdfa378-6178-43a2-ad00-6e94b2a4af02 	ws 	/ 	tls
 v2-07.ssrsub.xyz 	443 	37822326-9abb-4ca7-9578-63359d4aa212 	ws 	/ 	tls
+us.cn2-gia.2.90porn.site 	8080 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
 v2-14.ssrsub.xyz 	443 	e606f8cc-89dd-4ea8-8ea1-48ed92709740 	ws 	/ 	tls
+xibun.ml 	443 	af4e582c-83a9-11ea-9de7-560002b3164f 	ws 	/7WrVMJfC/ 	tls
 a-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
-britagood.ml 	443 	8522fe72-7f08-11ea-b3ad-560002af8c64 	ws 	/WYhBgF7U/ 	tls
+britagood.ml 	443 	5aaf4f94-8474-11ea-80cc-560002b3cbc9 	ws 	/oNYL4md5/ 	tls
 b-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
 v2-03.ssrsub.xyz 	443 	cb86cf52-e1e9-4ced-b034-5e2ab1088330 	ws 	/ 	tls
 v2-16.ssrsub.xyz 	443 	e164131c-ad0d-47de-b783-88881c2a256a 	ws 	/ 	tls
+kirklandgood.tk 	443 	b246fae6-839c-11ea-b0f7-560002b306be 	ws 	/HsJg1FO2/ 	tls
 us.cn2-gia.1.90porn.site 	80 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
+23.224.69.10 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
+rocketgogo.ml 	443 	1405df9a-83ac-11ea-8a59-560002b31880 	ws 	/Od4K9Rqa/ 	tls
 v2-12.ssrsub.xyz 	443 	b6f4905d-017b-4ea3-a0cf-e03ee6674b75 	ws 	/ 	tls
 v2-06.ssrsub.xyz 	443 	055af105-d5fa-4111-876f-3490dff9bc00 	ws 	/ 	tls
 v2-10.ssrsub.xyz 	443 	116f5be3-4d94-4c04-98dd-8c4cacedcca2 	ws 	/ 	tls
 v2-01.ssrsub.xyz 	443 	44393c76-da45-43a6-9068-85373c56b04d 	ws 	/ 	tls
 v2-09.ssrsub.xyz 	443 	2ed4278f-2194-4e84-8972-f12424403d65 	ws 	/ 	tls
-txthost.xyz 	443 	e54cf760-cc26-4b5d-9651-db1b3acf9600 	ws 	/txthost 	tls
 192.161.164.110 	80 	9f895108-12ce-3be5-ba23-4f22d74ef2f4 	ws 	/v2ray 	
 fivedemands.ml 	443 	b340f704-804e-11ea-a7cf-560002b0656b 	ws 	/um1nBF2f/ 	tls
 hk.v1-2.90porn.site 	80 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
+jp.v1-2.lino.90porn.site 	80 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
 h1.coding996.com 	443 	92968c1f-544a-4605-9e49-caef1eb21b8c 	ws 	/v2ray 	tls
 chinahright.xyz 	443 	b73a7880-8058-11ea-b47e-560002b06775 	ws 	/P5pY9Txe/ 	tls
 165.227.5.52 	8080 	13f3ca4e-7542-310f-be51-6f69015be4ae 	ws 	/v2ray 	
@@ -214,3 +225,4 @@ c-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
 jp.v1-1.lino.90porn.site 	8080 	9c147b45-3171-3d29-992d-0a8207f28902 	ws 	/yaboviss 	
 v2-15.ssrsub.xyz 	443 	5ea43741-2727-49ca-8f76-abd1f693ae15 	ws 	/ 	tls
 tengxun.monster 	443 	76717843-753b-4786-93b7-0d991478f669 	ws 	/tengxun 	tls
+applemusics.tk 	443 	f83120f2-83ad-11ea-8931-560002b31b77 	ws 	/u2URkJdX/ 	tls
