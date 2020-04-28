@@ -3,10 +3,11 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-04-27 12:15:55                   
+免费SS账号所有数据均来自互联网，更新时间：2020-04-28 12:15:55                   
 
    账号 	端口 	             密码                       加密方式
 172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+104.237.154.204 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.71.183 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.67.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 173.255.251.246 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
@@ -15,16 +16,22 @@ Free SS
 74.207.246.242 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 173.255.251.246 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-139.162.67.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.102.211 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+104.237.154.204 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.33.57.178 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 198.255.78.36 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.162.67.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.111.214 	443 	9d6cceaa373bf2c8acb22e60b6a58be6 	aes-256-cfb
 172.104.116.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+45.33.57.178 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.71.183 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.192.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.101.201 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.101.201 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.102.211 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 192.240.123.26 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-01.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss01-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-02.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss02-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
