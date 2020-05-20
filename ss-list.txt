@@ -7,15 +7,16 @@ ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANzQuMjA3LjI0Ni4
 ss://cmM0LW1kNTptbjEyMzQ1NkAxODUuMjIuMTUyLjM6OTYzMw==#翻墙党200.53俄罗斯
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi42Ny4xMzU6ODA5Nw==#翻墙党140.88日本
    账号|端口|             密码                       加密方式
+usf.1ss.fun|10235|f55.fun-09994922|aes-256-gcm
+usa.1ss.fun|10325|f55.fun-81345149|aes-256-gcm
 172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usb.1ss.fun|18330|f55.fun-78417274|aes-256-gcm
-usa.1ss.fun|18403|f55.fun-75516263|aes-256-gcm
-139.162.67.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usc.1ss.fun|10597|f55.fun-03499264|aes-256-gcm
 192.240.123.26|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usc.1ss.fun|10025|f55.fun-46777521|aes-256-gcm
 74.207.246.242|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+use.1ss.fun|11333|f55.fun-64281956|aes-256-gcm
 172.105.215.232|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 173.255.251.246|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usb.1ss.fun|16249|f55.fun-42041885|aes-256-gcm
 45.33.57.178|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 198.255.78.36|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.67.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
@@ -25,6 +26,7 @@ c8s5.jamjams.net|7727|C7XpXsXtLz|aes-256-cfb
 172.105.215.232|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 192.240.123.26|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usd.1ss.fun|11097|f55.fun-27959451|aes-256-gcm
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-01.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-02.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-03.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss03-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
