@@ -11,22 +11,6 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-11.ssrsub.xyz:8080/?plu
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-12.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#翻墙党fanqiangdang.com 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-13.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#翻墙党fanqiangdang.com 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-14.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#翻墙党fanqiangdang.com
-   账号|端口|             密码                       加密方式
-usa.1ss.fun|19081|f55.fun-43131160|aes-256-gcm
-usb.1ss.fun|15078|f55.fun-54980332|aes-256-gcm
-172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-192.240.123.26|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-74.207.246.242|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-172.105.215.232|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-173.255.251.246|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-45.33.57.178|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-198.255.78.36|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usc.1ss.fun|10683|f55.fun-78729521|aes-256-gcm
-45.79.111.214|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb
-45.33.57.178|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-172.105.215.232|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-192.240.123.26|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-01.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-02.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-03.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss03-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
@@ -42,3 +26,16 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-12.ssrsub.xyz:8080/?plu
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-13.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss13-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-14.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss14-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-15.ssrsub.xyz:8080/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss15-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
+   账号|端口|             密码                       加密方式
+172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+192.240.123.26|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+74.207.246.242|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+172.105.215.232|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+173.255.251.246|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.33.57.178|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+198.255.78.36|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+45.79.111.214|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb
+45.33.57.178|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+172.105.215.232|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+192.240.123.26|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
