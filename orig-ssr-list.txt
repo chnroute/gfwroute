@@ -5,28 +5,26 @@ ssr安卓客户端apk下载https://www.freefq.com/sj/2017/12/20/shadowsocksr-and
 方法简介：CTRL+A全选本页面，CTRL+C复制，右键点击ssr客户端的图标，左键点击剪贴板批量导入ssr://链接，即可一键导入本文件所有ssr节点。
 
 Free SSR 免费SSR账号 
-所有数据均来自互联网，更新时间：2020-05-31 22:16:55
+所有数据均来自互联网，更新时间：2020-06-02 22:16:55
 
 ssr://MTM5LjE2Mi4xNi44MDo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRPS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU1UUXlMamMwNXBhdzVZcWc1WjJoJmdyb3VwPTVwYXc1WXFnNVoyaA==
 ssr://MTM5LjE2Mi4zNS4yMjU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUT0vP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FNVGN6TGpBMTVwYXc1WXFnNVoyaCZncm91cD01cGF3NVlxZzVaMmg=
 ssr://MTM5LjE2Mi4zNS4yMjU6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUT0vP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FNVGN6TGpBMTVwYXc1WXFnNVoyaCZncm91cD01cGF3NVlxZzVaMmg=
-ssr://c3NyLTA0LnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT09Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU16QTVMalUwNXBhdzVZcWc1WjJoJmdyb3VwPTVwYXc1WXFnNVoyaA==
 ssr://c3NyLTAzLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT09Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU1UWXpMakEyNXBhdzVZcWc1WjJoJmdyb3VwPTVwYXc1WXFnNVoyaA==
 以上为新加坡地区节点
 
+ssr://MTk0LjE1Ni4xMjAuMTAyOjg4ODY6YXV0aF9jaGFpbl9hOm5vbmU6cGxhaW46ZDNkM0xtWnlaV1Z6Y3k1aVpYTjAvP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FNemMyTGpnNTVMLUU1NzJYNXBhdiZncm91cD01TC1FNTcyWDVwYXY=
+ssr://MTM5LjE2Mi42Ny4xMzU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUT0vP29iZnNwYXJhbT0mcHJvdG9wYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FNVFF3TGpnNDVwZWw1cHlzJmdyb3VwPTVwZWw1cHlz
+ssr://c3NyLTAxLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT09Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU1UTTBMalUzNXBlbDVweXMmZ3JvdXA9NXBlbDVweXM=
 ssr://MTA0LjIzNy4xNTQuMjA0OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVE9Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhTXpFMExqVTE1NzZPNVp1OSZncm91cD01NzZPNVp1OQ==
 ssr://NjkuMzAuMjAxLjgyOjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVE9Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhTWpnd0xqZ3o1NzZPNVp1OSZncm91cD01NzZPNVp1OQ==
 ssr://NjkuMzAuMjAxLjgyOjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVE9Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhTWpnd0xqZ3o1NzZPNVp1OSZncm91cD01NzZPNVp1OQ==
-ssr://c3NyLTAyLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT09Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU1UWTRMamMzNTc2TzVadTkmZ3JvdXA9NTc2TzVadTk=
-以上为美国地区节点
-
-ssr://c3NyLTAxLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT09Lz9vYmZzcGFyYW09JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU1UTTBMalUzNXBlbDVweXMmZ3JvdXA9NXBlbDVweXM=
-ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRPS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU16YzRMamcxNkl1eDVadTkmZ3JvdXA9Nkl1eDVadTk=
+ssr://MjEyLjg0LjE2OS43ODo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRPS8_b2Jmc3BhcmFtPSZwcm90b3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYU16YzRMamcxNkl1eDVadTkmZ3JvdXA9Nkl1eDVadTk=
 以上为其他地区节点
 
 =============================
 链接数量：11
-检测时间：2020-05-31 22:05:13
+检测时间：2020-06-02 10:03:01
 =============================
 
 
@@ -46,9 +44,6 @@ ssr://NjkuMzAuMjAxLjgyOjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU
 ssr://NjkuMzAuMjAxLjgyOjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdyZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPVFGTlRVbE5WUWkzbnZvN2xtNzF6YzNJeE15M2t1NWpvdExsVFUxTG1qcWpvalpBNmRDNWpiaTlGUjBwSmVYSnMmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ
 ssr://MjEyLjg0LjE2OS43ODo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OTBMbU51TDBWSFNrbDVjbXcmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmcmVtYXJrcz1RRk5UVWxOVlFpM29pN0hsbTcxemMzSXhOQzNrdTVqb3RMbFRVMUxtanFqb2paQTZkQzVqYmk5RlIwcEplWEpzJmdyb3VwPWRDNXRaUzlUVTFKVFZVSQ
 ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OTBMbU51TDBWSFNrbDVjbXcmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmcmVtYXJrcz1RRk5UVWxOVlFpM29pN0hsbTcxemMzSXhOUzNrdTVqb3RMbFRVMUxtanFqb2paQTZkQzVqYmk5RlIwcEplWEpzJmdyb3VwPWRDNXRaUzlUVTFKVFZVSQ
-
-
-
 
 北京时间2020年5月24日15点46分更新账号2。rc4加密方式只有SSR客户端有，所以要用SSR客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。
 
@@ -87,6 +82,15 @@ ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WT
 </thead>
 <tbody>
 <tr>
+<td class="v2ray" align="center"><a data="ssr://MzQuNzEuMTQuMTkxOjIzMzQ6YXV0aF9zaGExX3Y0OmFlcy0xMjgtY3RyOnRsczEuMl90aWNrZXRfYXV0aDpibVJvZFE9Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">34.71.14.191</td>
+<td align="center">2334</td>
+<td align="center">ndhu</td>
+<td align="center">aes-128-ctr</td>
+<td align="center">auth_sha1_v4</td>
+<td align="center">tls1.2_ticket_auth</td>
+</tr>
+<tr>
 <td class="v2ray" align="center"><a data="ssr://MTkyLjI0MC4xMjMuMjY6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">192.240.123.26</td>
 <td align="center">8097</td>
@@ -123,21 +127,21 @@ ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WT
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://MTAzLjQxLjEwNS41Mjo3MDQyOm9yaWdpbjphZXMtMTI4LWNmYjpwbGFpbjpVV0Y2UldSalZHZGlNVFU1UUNRcS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">103.41.105.52</td>
-<td align="center">7042</td>
-<td align="center">QazEdcTgb159@$*</td>
-<td align="center">aes-128-cfb</td>
-<td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
 <td class="v2ray" align="center"><a data="ssr://c3NyLTAyLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">ssr-02.ssrsub.xyz</td>
 <td align="center">8886</td>
 <td align="center">http://t.cn/EGJIyrl</td>
 <td align="center">none</td>
 <td align="center">auth_chain_a</td>
+<td align="center">plain</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://MTAzLjQxLjEwNS41Mjo3MDQyOm9yaWdpbjphZXMtMTI4LWNmYjpwbGFpbjpVV0Y2UldSalZHZGlNVFU1UUNRcS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">103.41.105.52</td>
+<td align="center">7042</td>
+<td align="center">QazEdcTgb159@$*</td>
+<td align="center">aes-128-cfb</td>
+<td align="center">origin</td>
 <td align="center">plain</td>
 </tr>
 <tr>
@@ -195,11 +199,11 @@ ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WT
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://MTMuMjUwLjI0LjExMToxMzY4MzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46ZERkSFUwVnpUelZtTTA5di8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">13.250.24.111</td>
-<td align="center">13683</td>
-<td align="center">t7GSEsO5f3Oo</td>
-<td align="center">aes-256-cfb</td>
+<td class="v2ray" align="center"><a data="ssr://MTIwLjE5OS44LjI0MDoxOTE4MTpvcmlnaW46cmM0LW1kNTpwbGFpbjpZV1ZoTm5acmVHTm5kQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">120.199.8.240</td>
+<td align="center">19181</td>
+<td align="center">aea6vkxcgt</td>
+<td align="center">rc4-md5</td>
 <td align="center">origin</td>
 <td align="center">plain</td>
 </tr>
@@ -294,15 +298,6 @@ ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WT
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://My4xMTIuMTkzLjI6NDk2NDQ6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlEwVkZRbE55WVc1cVlsUlMvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">3.112.193.2</td>
-<td align="center">49644</td>
-<td align="center">CEEBSranjbTR</td>
-<td align="center">aes-256-cfb</td>
-<td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
 <td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi42Ny4xMzU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">139.162.67.135</td>
 <td align="center">8097</td>
@@ -328,6 +323,15 @@ ssr://MjEyLjg0LjE2OS43ODo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WT
 <td align="center">none</td>
 <td align="center">auth_chain_a</td>
 <td align="center">plain</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://MjIxLjE4MS4xODUuOTg6NzAxOmF1dGhfYWVzMTI4X21kNTphZXMtMjU2LWN0cjp0bHMxLjJfdGlja2V0X2F1dGg6TW1ScVZUQnUvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">221.181.185.98</td>
+<td align="center">701</td>
+<td align="center">2djU0n</td>
+<td align="center">aes-256-ctr</td>
+<td align="center">auth_aes128_md5</td>
+<td align="center">tls1.2_ticket_auth</td>
 </tr>
 <tr>
 <td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4xNi44MDo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
