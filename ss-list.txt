@@ -29,6 +29,7 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-28.ssrsub.xyz:29999/?pl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-29.ssrsub.xyz:29999/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss29-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-30.ssrsub.xyz:29999/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E7%BE%8E%E5%9B%BDss30-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-31.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E7%BE%8E%E5%9B%BDss31-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc3J0b29sLmNvbUAxMDMuMTM4LjcyLjExNTo0NDM#@SSRSUB-%E7%BE%8E%E5%9B%BDss32-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5OQ
 ss://cmM0OmRvbmd0YWl3YW5nLmNvbUAxNjIuMjQ1LjIzOS42ODoxMDAx
 ss://YWVzLTI1Ni1nY206aXN4Lnl0LTIzMDI1NjE5QDE5Mi4yNDEuMjE5LjcxOjEyOTUw
@@ -44,13 +45,13 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpuRlZjWTZIZUA0NS4xMzAuMTQ1LjEyOjU5NjY2
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xMjcuMjA4OjgwOTk
    账号|端口|             密码                       加密方式
 172.105.192.135|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usa.1ss.fun|13092|f55.fun-95102763|aes-256-gcm
+usa.1ss.fun|18506|f55.fun-26110805|aes-256-gcm
 192.240.123.26|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usb.1ss.fun|16267|f55.fun-18736735|aes-256-gcm
 172.105.215.232|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usc.1ss.fun|16049|f55.fun-74225904|aes-256-gcm
+usc.1ss.fun|16174|f55.fun-37238622|aes-256-gcm
 198.255.78.36|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.79.111.214|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb
 172.105.215.232|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usb.1ss.fun|14166|f55.fun-90716413|aes-256-gcm
 192.240.123.26|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
