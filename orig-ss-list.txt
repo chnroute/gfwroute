@@ -3,7 +3,7 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-07-15 12:15:55
+免费SS账号所有数据均来自互联网，更新时间：2020-07-17 12:15:55
 
 fd:ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4xNS40NTo4MDk5#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
@@ -82,30 +82,33 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-31.ssrsub.xyz:8081/?plu
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc3J0b29sLmNvbUAxMDMuMTM4LjcyLjExNTo0NDM#@SSRSUB-%E7%BE%8E%E5%9B%BDss32-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 
 
-北京时间2020年7月11日9点19分更新账号。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。
-
+北京时间2020年7月16日21点43分更新账号2。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。
 SS账号（gcm加密方式SS客户端才能用，密码中有一个空格，不要忘记）
 
-IP：45.136.245.89
+IP：45.136.244.225
 
-端口：12000
+端口：10000
 
-密码： dongtaiwang.com 9nice
+密码： dongtaiwang.com 666nice
 
 加密方式：aes-256-gcm
 
    账号 	端口 	             密码                       加密方式
+usa.1ss.fun 	11823 	f55.fun-24446751 	aes-256-gcm
 45.33.104.162 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.127.208 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.90.66 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 104.237.154.204 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	19298 	f55.fun-49296041 	aes-256-gcm
 139.162.38.42 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.38.42 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.15.45 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 192.240.123.26 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 69.30.201.82 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.99.210 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usc.1ss.fun 	18762 	f55.fun-69339620 	aes-256-gcm
+usd.1ss.fun 	18315 	f55.fun-94850954 	aes-256-gcm
 172.104.161.54 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.50.102 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
@@ -113,12 +116,13 @@ IP：45.136.245.89
 45.79.96.104 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.99.210 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 104.237.154.204 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usf.1ss.fun 	15138 	f55.fun-74116594 	aes-256-gcm
 45.79.96.104 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+use.1ss.fun 	17858 	f55.fun-45199181 	aes-256-gcm
 45.79.111.214 	443 	9d6cceaa373bf2c8acb22e60b6a58be6 	aes-256-cfb
 172.104.50.102 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.33.104.162 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.105.192.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.90.66 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.15.45 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.127.208 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
