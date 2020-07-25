@@ -1,24 +1,33 @@
-fd:ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-37.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-38.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-41.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-40.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-42.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-29.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-14.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5Nw#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTk#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xMjcuMjA4OjgwOTc#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5OQ#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-30.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-31.ssrsub.xyz:8081?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-32.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuMzMuMTA0LjE2Mjo4MDk5#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTA0LjIzNy4xNTQuMjA0OjgwOTc#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-21.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5OQ#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-16.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5Nw#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-18.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4xNS40NTo4MDk3#翻墙党127.11新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4xNS40NTo4MDk5#翻墙党127.11新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4zOC40Mjo4MDk3#翻墙党128.46新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4zOC40Mjo4MDk5#翻墙党128.46新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC41MC4xMDI6ODA5Nw==#翻墙党119.09新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC41MC4xMDI6ODA5OQ==#翻墙党119.09新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xNjEuNTQ6ODA5Nw==#翻墙党223.13新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xNjEuNTQ6ODA5OQ==#翻墙党223.13新加坡
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5Nw==#翻墙党190.77日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5OQ==#翻墙党190.77日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xMjcuMjA4OjgwOTc=#翻墙党132.86日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xMjcuMjA4OjgwOTk=#翻墙党132.86日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTc=#翻墙党131.99日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTk=#翻墙党131.99日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4yMTUuMjMyOjgwOTc=#翻墙党191.59日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4yMTUuMjMyOjgwOTk=#翻墙党191.59日本
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTA0LjIzNy4xNTQuMjA0OjgwOTc=#翻墙党314.55美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTA0LjIzNy4xNTQuMjA0OjgwOTk=#翻墙党314.55美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTkyLjI0MC45OS4xODI6ODA5Nw==#翻墙党370.59美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuMzMuMTA0LjE2Mjo4MDk3#翻墙党374.37美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuMzMuMTA0LjE2Mjo4MDk5#翻墙党374.37美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5Nw==#翻墙党360.72美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5OQ==#翻墙党360.72美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTYuMTA0OjgwOTc=#翻墙党249.05美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTYuMTA0OjgwOTk=#翻墙党249.05美国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANjkuMzAuMjAxLjgyOjgwOTc=#翻墙党280.83美国
+ss://cmM0OmxuY24ub3JnIDhqdEA0Ni4xNy40NS44NjozNjIy#翻墙党129.38俄罗斯
+ss://YWVzLTI1Ni1jZmI6dGVkZHlzdW4uY29tQDE2MS4xMTcuMjM0Ljc3OjEwNzI1#翻墙党82.47澳大利亚
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMjEyLjg0LjE2OS43ODo4MDk3#翻墙党378.85英国
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMjEyLjg0LjE2OS43ODo4MDk5#翻墙党378.85英国
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-01.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-02.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-03.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss03-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
@@ -52,7 +61,7 @@ ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-30.ssrsub.xyz:29999/?pl
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-31.ssrsub.xyz:8081/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E7%BE%8E%E5%9B%BDss31-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzc3J0b29sLmNvbUAxMDMuMTM4LjcyLjExNTo0NDM#@SSRSUB-%E7%BE%8E%E5%9B%BDss32-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
    账号|端口|             密码                       加密方式
-usa.1ss.fun|15587|f55.fun-25994912|aes-256-gcm
+usf.1ss.fun|16051|f55.fun-67848504|aes-256-gcm
 45.33.104.162|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.104.127.208|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.79.90.66|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
@@ -60,25 +69,23 @@ usa.1ss.fun|15587|f55.fun-25994912|aes-256-gcm
 104.237.154.204|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.38.42|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.38.42|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-192.240.123.26|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 139.162.15.45|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usf.1ss.fun|19565|f55.fun-05585258|aes-256-gcm
+192.240.123.26|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 69.30.201.82|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.104.99.210|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usb.1ss.fun|16283|f55.fun-50424060|aes-256-gcm
 172.104.161.54|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.105.215.232|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usc.1ss.fun|17477|f55.fun-97880698|aes-256-gcm
 172.104.50.102|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
+usa.1ss.fun|11374|f55.fun-98855950|aes-256-gcm
 172.104.161.54|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.79.96.104|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usd.1ss.fun|15554|f55.fun-96705190|aes-256-gcm
 172.104.99.210|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 104.237.154.204|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-use.1ss.fun|19546|f55.fun-86365773|aes-256-gcm
 45.79.96.104|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 45.79.111.214|443|9d6cceaa373bf2c8acb22e60b6a58be6|aes-256-cfb
-usb.1ss.fun|14680|f55.fun-82350912|aes-256-gcm
 172.104.50.102|8097|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
-usc.1ss.fun|14600|f55.fun-57865783|aes-256-gcm
 45.33.104.162|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.105.215.232|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
 172.105.192.135|8099|eIW0Dnk69454e6nSwuspv9DmS201tQ0D|aes-256-cfb
