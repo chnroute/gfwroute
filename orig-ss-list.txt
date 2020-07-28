@@ -3,44 +3,36 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-07-26 22:15:55
+免费SS账号所有数据均来自互联网，更新时间：2020-07-27 22:15:55
 
 fd:
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi00ODg1NzE1MEAxNjIuMjE2LjE3LjE2MjoxODM5Ng#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-29.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4yMTUuMjMyOjgwOTk#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-14.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
 
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi0zOTY4NjY4MkAxNzIuMTA1LjEyNC4xMjc6MTAwMDc#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-31.ssrsub.xyz:8081?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4zOC40Mjo4MDk5#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5Nw#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1jZmI6c3N4LnJlLTc5MDUyODc4QDIwNi4xODkuMTUxLjU5OjE4NTQ1#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTc#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi01ODYyOTM2M0AxNzIuMTA0LjE4NS4xNDA6MTY5MDg#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5Nw#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi04ODgxNjU0NEAxMzkuMTYyLjIyLjc0OjEwODA0#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-32.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC41MC4xMDI6ODA5OQ#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTA0LjIzNy4xNTQuMjA0OjgwOTc#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi0zOTY4NjY4MkAxNzIuMTA1LjEyNC4xMjc6MTAwMDc#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4yMTUuMjMyOjgwOTk#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi04ODgxNjU0NEAxMzkuMTYyLjIyLjc0OjEwODA0#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTA0LjIzNy4xNTQuMjA0OjgwOTk#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4xNS40NTo4MDk5#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xMjcuMjA4OjgwOTk#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1jZmI6c3N4LnJlLTY2NjA3MjMwQDE5Mi4yNDEuMjE1LjE5MToxMTcwNg#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-21.ssrsub.xyz:29991?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com 
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTYuMTA0OjgwOTk#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTYuMTA0OjgwOTc#翻墙党fanqiangdang.com (http://%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com) 
 
-ss://YWVzLTI1Ni1nY206aXN4Lnl0LTQ0MDk1NTE3QDE5Mi4yNDEuMjE5LjcxOjEwNTQy#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1nY206ZjU1LmZ1bi00NjQwOTU5M0A0NS41Ni45OS4xMjg6MTIxMDI#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1jZmI6c3N4LnJlLTY1MTAwNzYxQDE1OS42NS45OS4yMjg6MTE1MTY#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1nY206aXN4Lnl0LTgzMjM3MTIwQDE5Mi4yNDEuMjE5LjE2ODoxMzE5MA#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5OQ#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-05.ssrsub.xyz:8086?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#翻墙党fanqiangdang.com
 
 北京时间2020年7月23日0点35分新增SSR帐号。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！ 请珍惜免费资源。
 SS账号（密码中有一个空格，不要忘记）
@@ -55,15 +47,16 @@ IP：45.136.244.225
 
    账号 	端口 	             密码                       加密方式
 45.33.104.162 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.127.208 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.90.66 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 104.237.154.204 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usc.1ss.fun 	12350 	f55.fun-45325831 	aes-256-gcm
+usa.1ss.fun 	11190 	f55.fun-70682998 	aes-256-gcm
 139.162.38.42 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.38.42 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 192.240.123.26 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.15.45 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 69.30.201.82 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usa.1ss.fun 	11743 	f55.fun-24111146 	aes-256-gcm
 172.104.99.210 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.161.54 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
@@ -74,11 +67,14 @@ usa.1ss.fun 	11743 	f55.fun-24111146 	aes-256-gcm
 104.237.154.204 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 167.99.65.66 	52666 	rf56g4dd 	chacha20-ietf-poly1305
 45.79.96.104 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	15348 	f55.fun-57438941 	aes-256-gcm
 45.79.111.214 	443 	9d6cceaa373bf2c8acb22e60b6a58be6 	aes-256-cfb
-usb.1ss.fun 	11924 	f55.fun-61027871 	aes-256-gcm
 172.104.50.102 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.33.104.162 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 128.199.196.159 	58345 	vrtrecvr 	chacha20-ietf-poly1305
+usc.1ss.fun 	13079 	f55.fun-19096481 	aes-256-gcm
+172.105.192.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.90.66 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.15.45 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.127.208 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
