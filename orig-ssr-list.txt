@@ -5,36 +5,38 @@ ssr安卓客户端apk下载https://www.freefq.com/sj/2017/12/20/shadowsocksr-and
 方法简介：CTRL+A全选本页面，CTRL+C复制，右键点击ssr客户端的图标，左键点击剪贴板批量导入ssr://链接，即可一键导入本文件所有ssr节点。
 
 Free SSR 免费SSR账号 
-所有数据均来自互联网，更新时间：2020-07-30 12:16:55
+所有数据均来自互联网，更新时间：2020-07-31 22:16:55
 
 
-ssr://OTEuMjA2LjkyLjM1OjI2MzM1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVRndy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU2TC1jNUxpY1FRJmdyb3VwPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPVRHNWpiaTV2Y21j,ssr//Mi41Ni4yNDAuMTA2OjI2MzM1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVRndy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU2TC1jNUxpY1FnJmdyb3VwPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPVRHNWpiaTV2Y21j,ssr://NDUuMTMwLjE0NS4xNTg6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dNVGd3Lz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9NUwtRTZMLWM1TGljUXcmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://OTEuMjA2LjkyLjM4OjI2MzM1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVRndy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU2TC1jNUxpY1JBJmdyb3VwPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPVRHNWpiaTV2Y21j,ssr://NDUuMTM1LjEzNC4xNTQ6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9Nkk2cjVwYXY1NmVSUVEmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://NDUuMTM1LjEzNC4xODU6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9Nkk2cjVwYXY1NmVSUWcmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://NDUuMTM1LjEzNC4xMjM6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9Nkk2cjVwYXY1NmVSUXcmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://NDYuMTcuNDUuODY6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9Nkk2cjVwYXY1NmVSUkEmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://OTEuMjIwLjIwMy4yMjk6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOelV5Lz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9NXJTYjVwMko1NS0yUVEmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://OTEuMjIwLjIwMy4xNjg6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOelV5Lz9vYmZzcGFyYW09JnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9NXJTYjVwMko1NS0yUWcmZ3JvdXA9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9VEc1amJpNXZjbWM,ssr://NDUuMTQ2LjEyMS4zMDoyNjMzNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ056VXkvP29iZnNwYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01clNiNXAySjU1LTJRdyZncm91cD01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj1URzVqYmk1dmNtYw,ssr://OTEuMjIwLjIwMy4xMjoyNjMzNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ056VXkvP29iZnNwYXJhbT0mcmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01clNiNXAySjU1LTJSQSZncm91cD01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj1URzVqYmk1dmNtYw
+ssr://c3NyLTAxLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
+ssr://c3NyLTAzLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://NDUuMTM1LjEzNC4xODU6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://MTcyLjEwNC4xMjcuMjA4OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP3JlbWFya3M9NTctNzVhS1o1WVdhNVllNjVaT0JabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJm9iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdw
 
-ssr://NDUuMTM1LjEzNC4xMjM6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://MTcyLjEwNC41MC4xMDI6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://NDYuMTcuNDUuODY6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlNCRSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://MTcyLjEwNC45OS4yMTA6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://OTEuMjIwLjIwMy4yMjk6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOelV5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://MTcyLjEwNC4xNjEuNTQ6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://OTEuMjIwLjIwMy4xNjg6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOelV5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://MTcyLjEwNS4yMTUuMjMyOjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP3JlbWFya3M9NTctNzVhS1o1WVdhNVllNjVaT0JabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJm9iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdw
 
-ssr://NDUuMTQ2LjEyMS4zMDoyNjMzNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ056VXkvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://MTcyLjEwNC4xMjcuMjA4OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP3JlbWFya3M9NTctNzVhS1o1WVdhNVllNjVaT0JabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJm9iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdw
 
-ssr://OTEuMjIwLjIwMy4xMjoyNjMzNTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ056VXkvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://MTcyLjEwNC45OS4yMTA6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
+ssr://c3NyLTAyLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://OTEuMjA2LjkyLjM1OjI2MzM1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVRndy8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+ssr://c3NyLTA1LnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://Mi41Ni4yNDAuMTA2OjI2MzM1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVRndy8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+ssr://NDUuNzkuOTAuNjY6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_cmVtYXJrcz01Ny03NWFLWjVZV2E1WWU2NVpPQlptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT1kQzV0WlM5VFUxSlRWVUkmb2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213
 
-ssr://NDUuMTMwLjE0NS4xNTg6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dNVGd3Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://MTM5LjE2Mi4xNS40NTo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9yZW1hcmtzPTU3LTc1YUtaNVlXYTVZZTY1Wk9CWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZvYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OTBMbU51TDBWSFNrbDVjbXc
 
-ssr://OTEuMjA2LjkyLjM4OjI2MzM1Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTVRndy8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+ssr://NDUuNzkuOTYuMTA0OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP3JlbWFya3M9NTctNzVhS1o1WVdhNVllNjVaT0JabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJm9iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdw
 
-ssr://NDUuMTM1LjEzNC4xNTQ6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dPVFkxLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://NDUuNzkuOTYuMTA0OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP3JlbWFya3M9NTctNzVhS1o1WVdhNVllNjVaT0JabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJm9iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdw
 
 
 
@@ -76,14 +78,15 @@ ssr://MTcyLjEwNC45OS4yMTA6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhel
 ssr://MTcyLjEwNC45OS4yMTA6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNtbDZYbW5LeEJNalV0NUx1WTZMUzVVMU5TNW82bzZJMlFPblF1WTI0dlJVZEtTWGx5YkEmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ
 ssr://MTcyLjEwNS4xOTIuMTM1OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT01THVZNkxTNVUxTlM1ck9vNVlhTU9taDBkSEE2THk5MExtTnVMMFZIU2tsNWNtdyZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPVFGTlRVbE5WUWkzbWw2WG1uS3hCTWpZdDVMdVk2TFM1VTFOUzVvNm82STJRT25RdVkyNHZSVWRLU1hseWJBJmdyb3VwPWRDNXRaUzlUVTFKVFZVSQ
 
-北京时间2020年7月23日0点35分新增SSR帐号。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！
+北京时间2020年7月30日22点41分更新SSR帐号1。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！
+
 SSR账号1（密码中有一个空格，不要忘记）
 
-IP：162.245.239.68
+IP：89.163.224.142
 
-端口：34567
+端口：22222
 
-密码： dongtaiwang.com 123abc
+密码： dongtaiwang.com 666nice
 
 加密方式：RC4
 
@@ -117,6 +120,7 @@ IP：64.32.6.195
 
 协议：origin
 
+
 混淆：plain
 
 
@@ -131,12 +135,12 @@ IP：64.32.6.195
 </thead>
 <tbody>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://MTcyLjEwNC4xMjcuMjA4OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">172.104.127.208</td>
-<td align="center">8097</td>
-<td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
-<td align="center">aes-256-cfb</td>
-<td align="center">origin</td>
+<td class="v2ray" align="center"><a data="ssr://c3NyLTAyLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">ssr-02.ssrsub.xyz</td>
+<td align="center">8889</td>
+<td align="center">http://t.cn/EGJIyrl</td>
+<td align="center">none</td>
+<td align="center">auth_chain_a</td>
 <td align="center">plain</td>
 </tr>
 <tr>
@@ -146,6 +150,24 @@ IP：64.32.6.195
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
+<td align="center">plain</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://MTcyLjEwNC4xMjcuMjA4OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">172.104.127.208</td>
+<td align="center">8097</td>
+<td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
+<td align="center">aes-256-cfb</td>
+<td align="center">origin</td>
+<td align="center">plain</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://c3NyLTA1LnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">ssr-05.ssrsub.xyz</td>
+<td align="center">8889</td>
+<td align="center">http://t.cn/EGJIyrl</td>
+<td align="center">none</td>
+<td align="center">auth_chain_a</td>
 <td align="center">plain</td>
 </tr>
 <tr>
@@ -164,15 +186,6 @@ IP：64.32.6.195
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
-<td class="v2ray" align="center"><a data="ssr://c3NyLTA0LnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">ssr-04.ssrsub.xyz</td>
-<td align="center">8886</td>
-<td align="center">http://t.cn/EGJIyrl</td>
-<td align="center">none</td>
-<td align="center">auth_chain_a</td>
 <td align="center">plain</td>
 </tr>
 <tr>
@@ -209,15 +222,6 @@ IP：64.32.6.195
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
-<td class="v2ray" align="center"><a data="ssr://c3NyLTAyLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">ssr-02.ssrsub.xyz</td>
-<td align="center">8886</td>
-<td align="center">http://t.cn/EGJIyrl</td>
-<td align="center">none</td>
-<td align="center">auth_chain_a</td>
 <td align="center">plain</td>
 </tr>
 <tr>
@@ -311,6 +315,15 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
+<td class="v2ray" align="center"><a data="ssr://c3NyLTAxLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">ssr-01.ssrsub.xyz</td>
+<td align="center">8889</td>
+<td align="center">http://t.cn/EGJIyrl</td>
+<td align="center">none</td>
+<td align="center">auth_chain_a</td>
+<td align="center">plain</td>
+</tr>
+<tr>
 <td class="v2ray" align="center"><a data="ssr://NDUuNzkuOTAuNjY6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">45.79.90.66</td>
 <td align="center">8097</td>
@@ -329,15 +342,6 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://c3NyLTAzLnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">ssr-03.ssrsub.xyz</td>
-<td align="center">8886</td>
-<td align="center">http://t.cn/EGJIyrl</td>
-<td align="center">none</td>
-<td align="center">auth_chain_a</td>
-<td align="center">plain</td>
-</tr>
-<tr>
 <td class="v2ray" align="center"><a data="ssr://MTA0LjIzNy4xNTQuMjA0OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">104.237.154.204</td>
 <td align="center">8099</td>
@@ -347,27 +351,18 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">94.102.57.163</td>
-<td align="center">11708</td>
-<td align="center">sEscPBiAD9K$&amp;@79</td>
-<td align="center">aes-256-cfb</td>
-<td align="center">origin</td>
-<td align="center">http_simple</td>
-</tr>
-<tr>
-<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
+<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">139.162.38.42</td>
-<td align="center">8097</td>
+<td align="center">8099</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
+<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">139.162.38.42</td>
-<td align="center">8099</td>
+<td align="center">8097</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
@@ -397,6 +392,15 @@ IP：64.32.6.195
 <td align="center">8097</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
+<td align="center">origin</td>
+<td align="center">plain</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://NDUuMTM1LjEzNC4xODU6MjYzMzU6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOelV5Lz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">45.135.134.185</td>
+<td align="center">26335</td>
+<td align="center">lncn.org 752</td>
+<td align="center">rc4</td>
 <td align="center">origin</td>
 <td align="center">plain</td>
 </tr>
@@ -437,9 +441,9 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://c3NyLTA1LnNzcnN1Yi54eXo6ODg4NjphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">ssr-05.ssrsub.xyz</td>
-<td align="center">8886</td>
+<td class="v2ray" align="center"><a data="ssr://c3NyLTAzLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">ssr-03.ssrsub.xyz</td>
+<td align="center">8889</td>
 <td align="center">http://t.cn/EGJIyrl</td>
 <td align="center">none</td>
 <td align="center">auth_chain_a</td>
@@ -452,15 +456,6 @@ IP：64.32.6.195
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
-<td class="v2ray" align="center"><a data="ssr://c3NyLTAxLnNzcnN1Yi54eXo6ODg4MDphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">ssr-01.ssrsub.xyz</td>
-<td align="center">8880</td>
-<td align="center">http://t.cn/EGJIyrl</td>
-<td align="center">none</td>
-<td align="center">auth_chain_a</td>
 <td align="center">plain</td>
 </tr>
 <tr>
@@ -479,4 +474,13 @@ IP：64.32.6.195
 <td align="center">9d6cceaa373bf2c8acb22e60b6a58be6</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
+<td align="center">plain</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://c3NyLTA0LnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">ssr-04.ssrsub.xyz</td>
+<td align="center">8889</td>
+<td align="center">http://t.cn/EGJIyrl</td>
+<td align="center">none</td>
+<td align="center">auth_chain_a</td>
 <td align="center">plain</td>
