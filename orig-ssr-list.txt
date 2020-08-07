@@ -5,41 +5,54 @@ ssr安卓客户端apk下载https://www.freefq.com/sj/2017/12/20/shadowsocksr-and
 方法简介：CTRL+A全选本页面，CTRL+C复制，右键点击ssr客户端的图标，左键点击剪贴板批量导入ssr://链接，即可一键导入本文件所有ssr节点。
 
 Free SSR 免费SSR账号 
-所有数据均来自互联网，更新时间：2020-08-05 12:16:55
+所有数据均来自互联网，更新时间：2020-08-07 12:16:55
 
-ssr://OTEuMjIwLjIwMy4xMjoyNTEzMTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2Ntc3kvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://OTEuMjIwLjIwMy4xMjo1NzUxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYWpWNS8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 
-ssr://NDUuMTQ2LjEyMS4zMDoyNTEzMTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2Ntc3kvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://NDUuMTQ2LjEyMS4zMDo1NzUxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYWpWNS8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 
-ssr://OTEuMjIwLjIwMy4xNjg6MjUxMzE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2djbXN5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://OTEuMjIwLjIwMy4xNjg6NTc1MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2FqVjUvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 
-ssr://OTEuMjIwLjIwMy4yMjk6MjUxMzE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2djbXN5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://OTEuMjIwLjIwMy4yMjk6NTc1MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2FqVjUvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 
-ssr://NDUuMTM1LjEzNS4yMjE6MjUzMTM6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dkR0V5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://NDUuMTM1LjEzNS4yMjE6NTc1MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JERnAvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 
-ssr://NDUuMTM1LjEzNS4zNToyNTMxMzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2RHRXkvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://NDUuMTM1LjEzNS4zNTo1NzUxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYkRGcC8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJTQkgmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 
-ssr://NDUuMTM1LjEzNS4yMDk6MjUzMTM6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dkR0V5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+ssr://NDUuMTM1LjEzNS4yMDk6NTc1MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2JERnAvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiU0JHJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 
-ssr://NDUuMTM1LjEzNS4yNDoyNTMxMzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2RHRXkvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
+ssr://NDUuMTM1LjEzNS4yNDo1NzUxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYkRGcC8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
 
-ssr://OTEuMjA2LjkyLjM4OjI1MTMxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZEdvNS8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
-
-ssr://NDUuMTMwLjE0NS4xNTg6MjUxMzE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dkR281Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
-
-ssr://Mi41Ni4yNDAuMTA2OjI1MTMxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZEdvNS8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
-
-ssr://OTEuMjA2LjkyLjM1OjI1MTMxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZEdvNS8_cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJnByb3RvcGFyYW09Jm9iZnNwYXJhbT0
+ssr://OTEuMjA2LjkyLjM4OjU3NTE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMmR5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 
 
-北京时间2020年8月3日17点17分更新SS帐号。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！
+ssr://NDUuMTMwLjE0NS4xNTg6NTc1MTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yZHkvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSZwcm90b3BhcmFtPSZvYmZzcGFyYW09
 
+ssr://Mi41Ni4yNDAuMTA2OjU3NTE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMmR5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
 
-SSR账号1（日本）
+ssr://OTEuMjA2LjkyLjM1OjU3NTE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMmR5Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmcHJvdG9wYXJhbT0mb2Jmc3BhcmFtPQ
+
+北京时间2020年8月7日7点更新SS日本帐号，6点36分更新SSR日本帐号。rc4加密方式只有SSR客户端有，所以要用SSR客户端。gcm加密方式只有SS客户端有，所有要用SS客户端。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！
+
+SSR账号1（西雅图）
+
+IP：162.245.239.68
+
+端口：12345
+
+密码：dongtaiwang.com 123abc
+
+加密方式：RC4
+
+协议：origin
+
+混淆：plain
+
+SSR账号2（日本）
 
 IP：5.180.76.58
 
-端口：2333
+端口：11335
 
 密码： dongtaiwang.com 123abc
 
@@ -49,27 +62,13 @@ IP：5.180.76.58
 
 混淆：plain
 
-SSR账号（莫斯科）
+SSR账号3（莫斯科）
 
 IP：185.22.152.180
 
 端口：12345
 
 密码： dongtaiwang 999nice
-
-加密方式：RC4
-
-协议：origin
-
-混淆：plain
-
-SSR账号（洛杉矶）
-
-IP：64.32.6.195
-
-端口：23456
-
-密码：dongtaiwang.com 123abc
 
 加密方式：RC4
 
@@ -125,6 +124,15 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
+<td class="v2ray" align="center"><a data="ssr://NTQuMjQ5LjE0Mi4yOTo4ODg5OmF1dGhfY2hhaW5fYTpub25lOnBsYWluOmFIUjBjRG92TDNRdVkyNHZSVWRLU1hseWJBPS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">54.249.142.29</td>
+<td align="center">8889</td>
+<td align="center">http://t.cn/EGJIyrl</td>
+<td align="center">none</td>
+<td align="center">auth_chain_a</td>
+<td align="center">plain</td>
+</tr>
+<tr>
 <td class="v2ray" align="center"><a data="ssr://MTkyLjI0MC4xMjMuMjY6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">192.240.123.26</td>
 <td align="center">8097</td>
@@ -155,15 +163,6 @@ IP：64.32.6.195
 <td class="v2ray" align="center"><a data="ssr://MTcyLjEwNC41MC4xMDI6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">172.104.50.102</td>
 <td align="center">8099</td>
-<td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
-<td align="center">aes-256-cfb</td>
-<td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
-<td class="v2ray" align="center"><a data="ssr://NDUuNzkuOTYuMTA0OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">45.79.96.104</td>
-<td align="center">8097</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
@@ -260,6 +259,15 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
+<td class="v2ray" align="center"><a data="ssr://c3NyLTAxLnNzcnN1Yi54eXo6ODg4OTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjphSFIwY0RvdkwzUXVZMjR2UlVkS1NYbHliQT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">ssr-01.ssrsub.xyz</td>
+<td align="center">8889</td>
+<td align="center">http://t.cn/EGJIyrl</td>
+<td align="center">none</td>
+<td align="center">auth_chain_a</td>
+<td align="center">plain</td>
+</tr>
+<tr>
 <td class="v2ray" align="center"><a data="ssr://NDUuNzkuOTAuNjY6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8/b2Jmc3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnByb3RvcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcmVtYXJrcz1WMWRYTGxsUFZVNUZSVVF1VjBsTyZncm91cD1WMWRYTGxsUFZVNUZSVVF1VjBsTw==" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">45.79.90.66</td>
 <td align="center">8097</td>
@@ -287,18 +295,27 @@ IP：64.32.6.195
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
+<td class="v2ray" align="center"><a data="ssr://OTQuMTAyLjU3LjE2MzoxMTcwODpvcmlnaW46YWVzLTI1Ni1jZmI6aHR0cF9zaW1wbGU6YzBWelkxQkNhVUZFT1Vza0prQTNPUT0vP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
+<td align="center">94.102.57.163</td>
+<td align="center">11708</td>
+<td align="center">sEscPBiAD9K$&amp;@79</td>
+<td align="center">aes-256-cfb</td>
+<td align="center">origin</td>
+<td align="center">http_simple</td>
+</tr>
+<tr>
+<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">139.162.38.42</td>
-<td align="center">8099</td>
+<td align="center">8097</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
 <td align="center">plain</td>
 </tr>
 <tr>
-<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk3Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
+<td class="v2ray" align="center"><a data="ssr://MTM5LjE2Mi4zOC40Mjo4MDk5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpaVWxYTUVSdWF6WTVORFUwWlRadVUzZDFjM0IyT1VSdFV6SXdNWFJSTUVRLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8mcHJvdG9wYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZyZW1hcmtzPVYxZFhMbGxQVlU1RlJVUXVWMGxPJmdyb3VwPVYxZFhMbGxQVlU1RlJVUXVWMGxP" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">139.162.38.42</td>
-<td align="center">8097</td>
+<td align="center">8099</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
@@ -353,15 +370,6 @@ IP：64.32.6.195
 <td class="v2ray" align="center"><a data="ssr://MTA0LjIzNy4xNTQuMjA0OjgwOTc6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
 <td align="center">104.237.154.204</td>
 <td align="center">8097</td>
-<td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
-<td align="center">aes-256-cfb</td>
-<td align="center">origin</td>
-<td align="center">plain</td>
-</tr>
-<tr>
-<td class="v2ray" align="center"><a data="ssr://NDUuNzkuOTYuMTA0OjgwOTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpVbFhNRVJ1YXpZNU5EVTBaVFp1VTNkMWMzQjJPVVJ0VXpJd01YUlJNRVEvP29iZnNwYXJhbT1WMWRYTGxsUFZVNUZSVVF1VjBsTyZwcm90b3BhcmFtPVYxZFhMbGxQVlU1RlJVUXVWMGxPJnJlbWFya3M9VjFkWExsbFBWVTVGUlVRdVYwbE8mZ3JvdXA9VjFkWExsbFBWVTVGUlVRdVYwbE8=" herf="#" style="cursor:pointer">码</a></td>
-<td align="center">45.79.96.104</td>
-<td align="center">8099</td>
 <td align="center">eIW0Dnk69454e6nSwuspv9DmS201tQ0D</td>
 <td align="center">aes-256-cfb</td>
 <td align="center">origin</td>
