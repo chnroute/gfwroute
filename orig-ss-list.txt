@@ -3,41 +3,29 @@
 SS客户端
 https://shadowsocks.org/en/download/clients.html 
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2020-08-08 12:35:55
+免费SS账号所有数据均来自互联网，更新时间：2020-08-09 12:35:55
 
 fd:
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5OQ#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTk#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC45OS4yMTA6ODA5Nw#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xMjcuMjA4OjgwOTk#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-29.ssrsub.xyz:29994?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTc#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-14.ssrsub.xyz:8085?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-32.ssrsub.xyz:8085?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTc#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuMzMuMTA0LjE2Mjo4MDk5#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-29.ssrsub.xyz:29994?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4yMTUuMjMyOjgwOTk#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
+ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-30.ssrsub.xyz:29994?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI@ss-15.ssrsub.xyz:8085?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4yMTUuMjMyOjgwOTc#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTM5LjE2Mi4zOC40Mjo4MDk5#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
 
 ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNC4xNjEuNTQ6ODA5OQ#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERAMTcyLjEwNS4xOTIuMTM1OjgwOTk#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5jbi9FR0pJeXJs@ss-30.ssrsub.xyz:29994?plugin=obfs-local;obfs=http;obfs-host=data.video.qiyi.com;obfs-uri=/#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANDUuNzkuOTAuNjY6ODA5Nw#%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com
-
 
 sub:
 ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-01.ssrsub.xyz:8085/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9SSR%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl
@@ -115,36 +103,32 @@ IP：5.180.77.247
 加密方式：aes-256-gcm
 
    账号 	端口 	             密码                       加密方式
-45.33.104.162 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.127.208 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.90.66 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usc.1ss.fun 	12480 	f55.fun-35362645 	aes-256-gcm
 172.105.192.135 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usb.1ss.fun 	12114 	f55.fun-30609144 	aes-256-gcm
 104.237.154.204 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-139.162.38.42 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.38.42 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-139.162.15.45 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+139.162.38.42 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 192.240.123.26 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usa.1ss.fun 	18372 	f55.fun-61681209 	aes-256-gcm
+139.162.15.45 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usc.1ss.fun 	15071 	f55.fun-79712980 	aes-256-gcm
 69.30.201.82 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.99.210 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-192.240.99.182 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.161.54 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.161.54 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.50.102 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.161.54 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.96.104 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-172.104.99.210 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+172.104.161.54 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 104.237.154.204 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.96.104 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.111.214 	443 	9d6cceaa373bf2c8acb22e60b6a58be6 	aes-256-cfb
 172.104.50.102 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-192.240.99.182 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-45.33.104.162 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.105.215.232 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
-usb.1ss.fun 	13692 	f55.fun-31207111 	aes-256-gcm
 172.105.192.135 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 45.79.90.66 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 139.162.15.45 	8097 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
 172.104.127.208 	8099 	eIW0Dnk69454e6nSwuspv9DmS201tQ0D 	aes-256-cfb
+usa.1ss.fun 	13433 	f55.fun-59227139 	aes-256-gcm
+
+
 
