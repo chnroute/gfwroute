@@ -2,7 +2,7 @@
 
 Windows客户端方法简介：CTRL+A全选本页面，CTRL+C复制，右键点击v2rayN客户端的图标，左键点击从剪贴板批量导入URL，即可一键导入本文件所有v2ray节点。
 
-免费V2Ray账号 更新时间：2020-08-13 12:15:55
+免费V2Ray账号 更新时间：2020-08-14 12:15:55
 
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIua0m+adieeftjHvvJrnlLXmiqXpopHpgZPvvJpodHRwczovL3QubWUvY25odW1hbnJpZ2h0OTkiLA0KICAiYWRkIjogIm5vdG9uZWxlc3MubWwiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMGUyN2E3ZTItZDg2Yy0xMWVhLTkxYzMtNTYwMDAyZWJkNjMyIiwNCiAgImFpZCI6ICI0NiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAibm90b25lbGVzcy5tbCIsDQogICJwYXRoIjogIi82OFVDU2VJWS8iLA0KICAidGxzIjogInRscyINCn0=
 
@@ -117,7 +117,27 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuWWhOasvjnml6XmnKzvvJrnlLXmiqXpopHpgZPv
 
 fd:
 
-vmess://YXV0bzo4YzM1YmVmMy1kNTFmLTQxYWItYWM4Ny03YjA1MzQxMDQ5NWJAMTQxLjEwMS4xMTUuMTE1OjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=aws.haoren.ml&obfs=websocket&tls=1
+vmess://YXV0bzplNDRkNGEyOC1kZDE5LTExZWEtYThmMS01NjAwMDJlZDllOGZAY2Fub25nb29kLm1sOjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=canongood.ml&path=/Fq29PW7w/&obfs=websocket&tls=1
+
+vmess://YXV0bzpjMzUwYzdiMC1kYWVkLTExZWEtYjc0Ny01NjAwMDJlY2M2ODBAY2NwaXNkZXZpbC5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=ccpisdevil.ml&path=/LNuZUCph/&obfs=websocket&tls=1
+
+vmess://YXV0bzpiODExNmM3MC1kYWU3LTExZWEtOGJiMi01NjAwMDJlY2MyYjRAY2hpbmFodW1hbnIudGs6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=chinahumanr.tk&path=/9SXIdl8Q/&obfs=websocket&tls=1
+
+vmess://YXV0bzo3NjQyMGQzZS1kYWYzLTExZWEtOWNlYy01NjAwMDJlY2M5MWVAY2RwMjAxOS5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=cdp2019.ml&path=/vEI4TO7U/&obfs=websocket&tls=1
+
+vmess://YXV0bzo4OTJjZjFkNC1kYWU5LTExZWEtYjlhZS01NjAwMDJlY2MzYmNAeGlidW4ubWw6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=xibun.ml&path=/U0hQATog/&obfs=websocket&tls=1
+
+vmess://YXV0bzozM2VlMTI0Yy1kYWVmLTExZWEtYTg5NS01NjAwMDJlY2M3MWVAcm9ja2V0Z29nby5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=rocketgogo.ml&path=/EpNBKDMg/&obfs=websocket&tls=1
+
+vmess://YXV0bzpiZGUxOTllNi1kZDFiLTExZWEtYjdlMi01NjAwMDJlZDlmNTFAYnJpdGFnb29kLm1sOjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=britagood.ml&path=/FWdQBXMC/&obfs=websocket&tls=1
+
+vmess://YXV0bzo5MGE0ZjhlZS1kYWVlLTExZWEtYmQ3NC01NjAwMDJlY2M2ZGJAdGFjb3Rhc3R5LnRrOjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=tacotasty.tk&path=/V2vMl3Kk/&obfs=websocket&tls=1
+
+vmess://YXV0bzpkMDQyNTExNC1kZDEzLTExZWEtYmM5NC01NjAwMDJlZDliN2JAZ2VuaXVzYmFyLnRrOjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=geniusbar.tk&path=/6w2JQyYW/&obfs=websocket&tls=1
+
+vmess://YXV0bzowNzgxNTAxZS1kZDE3LTExZWEtYWIwZS01NjAwMDJlZDlkMTZAbWlsa2dvZ28ueHl6OjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=milkgogo.xyz&path=/3ueqVbT4/&obfs=websocket&tls=1
+
+vmess://YXV0bzoxMWIzNWNjZC00Y2IwLTQ2ODEtODlmZS0xOGJiMmU3OTE3NTdAdHIxMi5mcmVlMjIyMi54eXo6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=tr12.free2222.xyz&path=/bce8ada760e/&obfs=websocket&tls=1
 
 vmess://YXV0bzoxNjI4MmNhYS1mNTAxLTQ1ZTktYTUwZS1lOGQxNGY2MzI5NmJAMTA0LjIzMy4yNDAuMjQ5OjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=www.0363847.xyz&path=/footers&obfs=websocket&tls=1
 
@@ -129,49 +149,13 @@ vmess://YXV0bzo4YmQzNzdkNy01OGZkLTQ1N2YtYTAxYy1hZWRhNmEwMDA2MjZAMTM3LjE3NS4zLjIw
 
 vmess://YXV0bzo2ZDlhNGQ1Zi04MjMxLTQ2YjAtODJiNS02MmE1MThlNTczZWFAMjMuMjI1LjE1OS41MTo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=www.84223.xyz&path=/footers&obfs=websocket&tls=1
 
-vmess://YXV0bzowZmZlOTY0ZS1kN2NiLTExZWEtYjlmOC01NjAwMDJlYjlhNWNAcGFtcGVyc3ZrLnRrOjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=pampersvk.tk&path=/ApEPUnyF/&obfs=websocket&tls=1
-
-vmess://YXV0bzowZTI3YTdlMi1kODZjLTExZWEtOTFjMy01NjAwMDJlYmQ2MzJAbm90b25lbGVzcy5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=notoneless.ml&path=/68UCSeIY/&obfs=websocket&tls=1
-
-vmess://YXV0bzpmYTQ1NGY1ZS1kYWU2LTExZWEtOWIyYy01NjAwMDJlY2MyNDlAY2hpbmFoci5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=chinahr.ml&path=/4Pyq9ptU/&obfs=websocket&tls=1
-
-vmess://YXV0bzpiODExNmM3MC1kYWU3LTExZWEtOGJiMi01NjAwMDJlY2MyYjRAY2hpbmFodW1hbnIudGs6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=chinahumanr.tk&path=/9SXIdl8Q/&obfs=websocket&tls=1
-
-vmess://YXV0bzo4OTJjZjFkNC1kYWU5LTExZWEtYjlhZS01NjAwMDJlY2MzYmNAeGlidW4ubWw6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=xibun.ml&path=/U0hQATog/&obfs=websocket&tls=1
-
-vmess://YXV0bzphZDg3NjVmOC1kYWViLTExZWEtYmE2Ni01NjAwMDJlY2M0YzJAY2hpbmFodW1hbnIubWw6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=chinahumanr.ml&path=/6rEB1Jcf/&obfs=websocket&tls=1
-
-vmess://YXV0bzphNjg5Yzc1NC1kYWVjLTExZWEtYmE0Yy01NjAwMDJlY2M1YTVAZ2Z3ZGFzYi54eXo6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=gfwdasb.xyz&path=/tq76CPRQ/&obfs=websocket&tls=1
-
-vmess://YXV0bzpjMzUwYzdiMC1kYWVkLTExZWEtYjc0Ny01NjAwMDJlY2M2ODBAY2NwaXNkZXZpbC5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=ccpisdevil.ml&path=/LNuZUCph/&obfs=websocket&tls=1
-
-vmess://YXV0bzo5MGE0ZjhlZS1kYWVlLTExZWEtYmQ3NC01NjAwMDJlY2M2ZGJAdGFjb3Rhc3R5LnRrOjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=tacotasty.tk&path=/V2vMl3Kk/&obfs=websocket&tls=1
-
-vmess://YXV0bzozM2VlMTI0Yy1kYWVmLTExZWEtYTg5NS01NjAwMDJlY2M3MWVAcm9ja2V0Z29nby5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=rocketgogo.ml&path=/EpNBKDMg/&obfs=websocket&tls=1
-
-vmess://YXV0bzo3NjQyMGQzZS1kYWYzLTExZWEtOWNlYy01NjAwMDJlY2M5MWVAY2RwMjAxOS5tbDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=cdp2019.ml&path=/vEI4TO7U/&obfs=websocket&tls=1
+vmess://YXV0bzoyYWIwMjZjZS1kYWY1LTExZWEtYWQwMi01NjAwMDJlY2M5Y2FAY2RwMjAxOS50azo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=cdp2019.tk&path=/loB9aR73/&obfs=websocket&tls=1
 
 vmess://YXV0bzo0YjViYTM5MC1kYWY0LTExZWEtODgxMC01NjAwMDJlY2M5NjdAYnVyZ2Vya2luZ2dvb2QubWw6NDQz?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=burgerkinggood.ml&path=/C6lkvS3K/&obfs=websocket&tls=1
 
-vmess://YXV0bzoyYWIwMjZjZS1kYWY1LTExZWEtYWQwMi01NjAwMDJlY2M5Y2FAY2RwMjAxOS50azo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=cdp2019.tk&path=/loB9aR73/&obfs=websocket&tls=1
+vmess://YXV0bzpjMGEwM2I0YS1kYWYyLTExZWEtODRmNC01NjAwMDJlY2M4ZWJAbWlsa2dvZ28ueHl6OjQ0Mw?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=milkgogo.xyz&path=/9ceBJT30/&obfs=websocket&tls=1
 
-vmess://YXV0bzphYTBlNTQ3Ni0wNjEzLTQyOWEtYmVkYi0yNDkyMzkwMTA0MGRAdHI0LmZyZWU5OTk5Lm5ldDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=tr4.free9999.net&path=/622f/&obfs=websocket&tls=1
-
-
-vmess://YXV0bzoxOTBhOGZiZC02YThmLTQzODctYjljMy0zNDA0MmI4MWEwOTlAdHIyLmZyZWU5OTk5Lm5ldDo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com%20tr2.free9999.net&obfsParam=tr2.free9999.net&path=/4969ec3a/&obfs=websocket&tls=1
-
-vmess://YXV0bzo4ODRkMzk3Ny0yOTQ5LTQ3OTUtOWRiMy1mZDkxMThiYTI0ZjFANDUuMTQ3LjIwMC4yNTA6MTk5OTQ?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfs=websocket
-
-vmess://YXV0bzo3NjQyMGQzZS1kYWYzLTExZWEtOWNlYy01NjAwMDJlY2M5MWVAY2RwMjAxOS5tbDo0NDM?remarks=%E6%97%A5%E6%9C%AC1%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=cdp2019.ml&path=/vEI4TO7U/&obfs=websocket&tls=1
-
-vmess://YXV0bzo5MGE0ZjhlZS1kYWVlLTExZWEtYmQ3NC01NjAwMDJlY2M2ZGJAdGFjb3Rhc3R5LnRrOjQ0Mw?remarks=%E5%96%84%E6%AC%BE6%E6%97%A5%E6%9C%AC%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=tacotasty.tk&path=/V2vMl3Kk/&obfs=websocket&tls=1
-
-vmess://YXV0bzoyYWIwMjZjZS1kYWY1LTExZWEtYWQwMi01NjAwMDJlY2M5Y2FAY2RwMjAxOS50azo0NDM?remarks=%E8%A5%BF%E9%9B%85%E5%9B%BEC%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=cdp2019.tk&path=/loB9aR73/&obfs=websocket&tls=1
-
-vmess://YXV0bzo4OTJjZjFkNC1kYWU5LTExZWEtYjlhZS01NjAwMDJlY2MzYmNAeGlidW4ubWw6NDQz?remarks=%E5%96%84%E6%AC%BE5%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=xibun.ml&path=/U0hQATog/&obfs=websocket&tls=1
-
-vmess://YXV0bzphNjg5Yzc1NC1kYWVjLTExZWEtYmE0Yy01NjAwMDJlY2M1YTVAZ2Z3ZGFzYi54eXo6NDQz?remarks=%E6%97%A5%E6%9C%AC10%EF%BC%9A%E7%94%B5%E6%8A%A5%E9%A2%91%E9%81%93%EF%BC%9Ahttps://t.me/cnhumanright99&obfsParam=gfwdasb.xyz&path=/tq76CPRQ/&obfs=websocket&tls=1
-
+vmess://YXV0bzo4YmQzNzdkNy01OGZkLTQ1N2YtYTAxYy1hZWRhNmEwMDA2MjZAMTM3LjE3NS4zLjIwNjo0NDM?remarks=%E7%BF%BB%E5%A2%99%E5%85%9Afanqiangdang.com&obfsParam=www.184140063.xyz&path=/footers&obfs=websocket&tls=1
 
 
 sub:
@@ -208,7 +192,7 @@ vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjI5LeS7mOi0ueaOqOiNkDp0LmNu
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkBTU1JTVUItVjMwLeS7mOi0ueaOqOiNkDp0LmNuL0VHSkl5cmwiLA0KICAiYWRkIjogImNkcDIwMTkudGsiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMmFiMDI2Y2UtZGFmNS0xMWVhLWFkMDItNTYwMDAyZWNjOWNhIiwNCiAgImFpZCI6ICI0NiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiY2RwMjAxOS50ayIsDQogICJwYXRoIjogIi9sb0I5YVI3My8iLA0KICAidGxzIjogInRscyINCn0=
 
 
-禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！
+北京时间2020年8月13日19点14分新增帐号4和5。禁止使用账号进行BT下载、滥发垃圾邮件、DDOS攻击！这些行为会导致服务器被投诉而被封！
 
 帐号1（德国1，WebSocket+TLS+Nginx）:
 
@@ -331,107 +315,148 @@ headerType（伪装类型）: none
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImh0dHBzOi8vZ2l0LmlvL3Y5OTk5ICB0cjEyLmZyZWUyMjIyLnh5eiIsDQogICJhZGQiOiAidHIxMi5mcmVlMjIyMi54eXoiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiMTFiMzVjY2QtNGNiMC00NjgxLTg5ZmUtMThiYjJlNzkxNzU3IiwNCiAgImFpZCI6ICIyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJ0cjEyLmZyZWUyMjIyLnh5eiIsDQogICJwYXRoIjogIi9iY2U4YWRhNzYwZS8iLA0KICAidGxzIjogInRscyINCn0=
 
 
+
 Address 	Port 	                   UID 	             Network   Path 	        TLS
-shcu.cnhost.xyz 	26604 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
-shcu.cnhost.xyz 	26601 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
-milkgogo.tk 	443 	15cf3382-dd19-11ea-a6b1-560002ed9de2 	ws 	/Nrc1lMOV/ 	tls
+hk-06.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+hk-05.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 142.4.126.129 	443 	c82b9fb2-fc4e-413b-b612-57f13255cf7c 	ws 	/footers 	tls
-142.4.104.225 	443 	a205f4b6-1386-4765-b44a-6b1bba47d537 	ws 	/footers 	tls
-51.89.41.59 	443 	fb8b1fec-a21c-44eb-9f79-395dbb446632 	ws 	/footers 	tls
-h3.coding996.com 	443 	6c29383f-0d3e-4221-b700-86751119fce7 	ws 	/v2ray 	tls
 51.158.150.84 	49031 	3f09cac8-53ab-4a6b-ba31-09b85910c8f3 	ws 		
-51.89.41.80 	443 	efa56c9b-5bee-4015-9f82-3039ab2b72f1 	ws 	/footers 	tls
 45.58.148.34 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-v2-08.ssrsub.xyz 	443 	bba1cba8-6e49-4af8-b29f-d1219ebd9536 	ws 	/ 	tls
 51.89.122.175 	443 	ca2fb96a-4d01-4418-84bf-de66de70c8ab 	ws 	/footers 	tls
-107.167.20.181 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-162.159.211.10 	80 	2d2b1173-6ba9-43fb-b98c-f388eb15926b 	ws 		
+au-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 chinahumanr.tk 	443 	b8116c70-dae7-11ea-8bb2-560002ecc2b4 	ws 	/9SXIdl8Q/ 	tls
-104.233.240.249 	443 	16282caa-f501-45e9-a50e-e8d14f63296b 	ws 	/footers 	tls
 weneedfreedom.ml 	443 	cad54944-dd12-11ea-89b5-560002ed9ae4 	ws 	/xLJWKXVG/ 	tls
 137.175.3.205 	443 	8bd377d7-58fd-457f-a01c-aeda6a000626 	ws 	/footers 	tls
-milkgogo.xyz 	443 	0781501e-dd17-11ea-ab0e-560002ed9d16 	ws 	/3ueqVbT4/ 	tls
+jp-07.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 162.159.211.103 	443 	ad806487-2d26-4636-98b6-ab85cc8521f7 	ws 	/ 	tls
 china-01-trass.py6.pw 	51262 	ec27a40d-8399-4ed1-84f5-69e2a142416d 	ws 	/sshocean 	tls
-cdp2019.ml 	443 	76420d3e-daf3-11ea-9cec-560002ecc91e 	ws 	/vEI4TO7U/ 	tls
-142.4.126.131 	443 	c82b9fb2-fc4e-413b-b612-57f13255cf7c 	ws 	/footers 	tls
-notoneless.ml 	443 	0e27a7e2-d86c-11ea-91c3-560002ebd632 	ws 	/68UCSeIY/ 	tls
+sg-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+hk-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+us-05.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 142.4.100.195 	443 	fb5c511f-fbd3-48d1-befc-ee79142c050d 	ws 	/footers 	tls
 v2-13.ssrsub.xyz 	443 	5c6cf4b4-b42b-49a6-970a-fa7578f87095 	ws 	/ 	tls
-51.89.41.78 	443 	732a75da-3f56-4227-97ae-da878d40a073 	ws 	/footers 	tls
-119.28.71.43 	2020 	e63c9e42-8694-44c2-9011-55cc37ee93b3 	tcp 		
-v2-05.ssrsub.xyz 	443 	dff3a7d6-8823-401d-b641-4ceaf774d6e3 	ws 	/ 	tls
+sg-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+jp-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 gd.cnhost.xyz 	23308 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
 pampersvk.tk 	443 	b2562d0e-dd1a-11ea-bfa7-560002ed9ee7 	ws 	/Z1mx5r8s/ 	tls
 ccpisdevil.ml 	443 	c350c7b0-daed-11ea-b747-560002ecc680 	ws 	/LNuZUCph/ 	tls
+jp-03.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+v2-11.ssrsub.xyz 	443 	68362542-195b-42ad-883d-5b17aaf365de 	ws 	/ 	tls
+test.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+cdp2019.tk 	443 	2ab026ce-daf5-11ea-ad02-560002ecc9ca 	ws 	/loB9aR73/ 	tls
+gd.cnhost.xyz 	23334 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
+142.4.100.194 	443 	fb5c511f-fbd3-48d1-befc-ee79142c050d 	ws 	/footers 	tls
+shcu.cnhost.xyz 	26602 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
+sg-04.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+hk-10.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+v2-04.ssrsub.xyz 	443 	e45ebb99-cb9f-48b8-8c36-38d6dc246924 	ws 	/ 	tls
+fr-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+canongood.ml 	443 	e44d4a28-dd19-11ea-a8f1-560002ed9e8f 	ws 	/Fq29PW7w/ 	tls
+qi6xqp34.ai3sda18.xyz 	443 	f089d512-80d1-4d0b-9b6d-23454f69ee2f 	ws 	/c4bf88de/ 	tls
+gd.cnhost.xyz 	23307 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
+154.84.1.101 	443 	ee595b2d-ffc2-4a83-bf74-09c121ffa239 	ws 	/footers 	tls
+tw-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+v2-07.ssrsub.xyz 	443 	794d1247-e72f-4f3f-8b9c-34c4cdc040d3 	ws 	/ 	tls
+gz.cm-3.techonboard.org 	50000 	2f6aba4e-2da7-40de-bd48-566612ef7b5c 	ws 	/FDm3l5t 	
+142.4.100.193 	443 	fb5c511f-fbd3-48d1-befc-ee79142c050d 	ws 	/footers 	tls
+s14.snode.xyz 	443 	04189ba7-8ce5-3d9b-a242-fef5a24a009a 	ws 	/panel 	tls
+141.101.115.115 	443 	8c35bef3-d51f-41ab-ac87-7b053410495b 	ws 		tls
+en-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+23.225.57.202 	443 	e2266c08-96aa-4ccb-b918-163db05abffa 	ws 	/footers 	tls
+gr-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+104.18.45.77 	443 	1c476efc-2d71-420d-938f-51f6e541884c 	ws 	/freedom/ 	tls
+britagood.ml 	443 	bde199e6-dd1b-11ea-b7e2-560002ed9f51 	ws 	/FWdQBXMC/ 	tls
+142.0.129.202 	443 	b1392b21-6230-4fa5-8445-96b3ccda1efc 	ws 	/footers 	tls
+us-04.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+51.89.68.49 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
+128.199.188.168 	32451 	ff4d6dc8-582f-42bf-a04e-bd29a95645c3 	tcp 		
+al-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 		
+137.175.3.206 	443 	8bd377d7-58fd-457f-a01c-aeda6a000626 	ws 	/footers 	tls
+51.195.12.145 	443 	fb8b1fec-a21c-44eb-9f79-395dbb446632 	ws 	/footers 	tls
+h4.coding996.com 	443 	e8f9f061-c481-4c4a-8e7a-68cd062c1bb9 	ws 	/v2ray 	tls
+137.175.3.204 	443 	8bd377d7-58fd-457f-a01c-aeda6a000626 	ws 	/footers 	tls
+qi6xqp28.ai3sda18.xyz 	443 	31b680c1-0892-48fd-8902-5fb757239268 	ws 	/b6a17/ 	tls
+hk-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+142.4.108.229 	443 	47d03581-c5c9-4764-bbd6-d4e3733b2f7a 	ws 	/footers 	tls
+v2.dex3.me 	49382 	1536ac00-fcd2-4f7e-9872-02f7bcfe161c 	ws 		
+h1.coding996.com 	443 	9ae47470-a346-472f-842d-cfe3453e2018 	ws 	/v2ray 	tls
+142.4.104.226 	443 	a205f4b6-1386-4765-b44a-6b1bba47d537 	ws 	/footers 	tls
+burgerkinggood.ml 	443 	4b5ba390-daf4-11ea-8810-560002ecc967 	ws 	/C6lkvS3K/ 	tls
+c-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
+applemusics.tk 	443 	ef2c8d78-dd14-11ea-a50d-560002ed9c0b 	ws 	/qwn41rFK/ 	tls
+us-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+shcu.cnhost.xyz 	26604 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
+shcu.cnhost.xyz 	26601 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
+milkgogo.tk 	443 	15cf3382-dd19-11ea-a6b1-560002ed9de2 	ws 	/Nrc1lMOV/ 	tls
+142.4.104.225 	443 	a205f4b6-1386-4765-b44a-6b1bba47d537 	ws 	/footers 	tls
+51.89.41.59 	443 	fb8b1fec-a21c-44eb-9f79-395dbb446632 	ws 	/footers 	tls
+h3.coding996.com 	443 	6c29383f-0d3e-4221-b700-86751119fce7 	ws 	/v2ray 	tls
+us-03.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+51.89.41.80 	443 	efa56c9b-5bee-4015-9f82-3039ab2b72f1 	ws 	/footers 	tls
+107.167.20.181 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
+162.159.211.10 	80 	2d2b1173-6ba9-43fb-b98c-f388eb15926b 	ws 		
+104.233.240.249 	443 	16282caa-f501-45e9-a50e-e8d14f63296b 	ws 	/footers 	tls
+milkgogo.xyz 	443 	0781501e-dd17-11ea-ab0e-560002ed9d16 	ws 	/3ueqVbT4/ 	tls
+jp-04.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+test-us.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+cdp2019.ml 	443 	76420d3e-daf3-11ea-9cec-560002ecc91e 	ws 	/vEI4TO7U/ 	tls
+142.4.126.131 	443 	c82b9fb2-fc4e-413b-b612-57f13255cf7c 	ws 	/footers 	tls
+en-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+51.89.41.78 	443 	732a75da-3f56-4227-97ae-da878d40a073 	ws 	/footers 	tls
+v2-05.ssrsub.xyz 	443 	dff3a7d6-8823-401d-b641-4ceaf774d6e3 	ws 	/ 	tls
 192.74.250.166 	443 	55819483-6a4e-4a60-b394-b64e42109b99 	ws 	/footers 	tls
 uni.kitsunebi.fun 	444 	95137857-70fa-4ac8-8f90-4220aeb662cf 	tcp 		
-v2-11.ssrsub.xyz 	443 	68362542-195b-42ad-883d-5b17aaf365de 	ws 	/ 	tls
-h2.coding996.com 	443 	7b933079-6df3-40c1-8517-22079c02c5c3 	ws 	/v2ray 	tls
+h2.coding996.com 	443 	2e199875-f955-45f1-8eee-d843edc3d618 	ws 	/v2ray 	tls
 v2-02.ssrsub.xyz 	443 	b79e355a-2f65-4569-b0a7-8378aef5df7f 	ws 	/ 	tls
 chinahumanr.ml 	443 	ad8765f8-daeb-11ea-ba66-560002ecc4c2 	ws 	/6rEB1Jcf/ 	tls
 51.89.21.57 	443 	49e62934-7c38-42bb-b7a4-de5107a58509 	ws 	/footers 	tls
 chinahr.ml 	443 	fa454f5e-dae6-11ea-9b2c-560002ecc249 	ws 	/4Pyq9ptU/ 	tls
-cdp2019.tk 	443 	2ab026ce-daf5-11ea-ad02-560002ecc9ca 	ws 	/loB9aR73/ 	tls
-gd.cnhost.xyz 	23334 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
-142.4.100.194 	443 	fb5c511f-fbd3-48d1-befc-ee79142c050d 	ws 	/footers 	tls
+hk-08.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+kr-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+hk-03.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+jp-10.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 154.84.1.219 	443 	44e08632-8dbf-4b70-a893-1b31ead60ade 	ws 	/footers 	tls
-shcu.cnhost.xyz 	26602 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
-v2-04.ssrsub.xyz 	443 	e45ebb99-cb9f-48b8-8c36-38d6dc246924 	ws 	/ 	tls
-canongood.ml 	443 	e44d4a28-dd19-11ea-a8f1-560002ed9e8f 	ws 	/Fq29PW7w/ 	tls
-qi6xqp34.ai3sda18.xyz 	443 	f089d512-80d1-4d0b-9b6d-23454f69ee2f 	ws 	/c4bf88de/ 	tls
+auto.freev2.top 	41346 	25daebd9-eeab-499b-9f27-e4e620c213d9 	tcp 	undefined 	
+kr-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+tw-05.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+jp-05.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+hk-07.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 tacotasty.tk 	443 	90a4f8ee-daee-11ea-bd74-560002ecc6db 	ws 	/V2vMl3Kk/ 	tls
-gd.cnhost.xyz 	23307 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
-154.84.1.101 	443 	ee595b2d-ffc2-4a83-bf74-09c121ffa239 	ws 	/footers 	tls
 milkgogo.cf 	443 	cc9d6180-dd17-11ea-9d15-560002ed9d9b 	ws 	/i1Dog0dK/ 	tls
+tw-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 142.0.129.201 	443 	b1392b21-6230-4fa5-8445-96b3ccda1efc 	ws 	/footers 	tls
-v2-07.ssrsub.xyz 	443 	794d1247-e72f-4f3f-8b9c-34c4cdc040d3 	ws 	/ 	tls
-gz.cm-3.techonboard.org 	50000 	2f6aba4e-2da7-40de-bd48-566612ef7b5c 	ws 	/FDm3l5t 	
-142.4.100.193 	443 	fb5c511f-fbd3-48d1-befc-ee79142c050d 	ws 	/footers 	tls
+jp-09.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 v2-14.ssrsub.xyz 	443 	aadd6488-ccee-4402-97cc-348430b6b0eb 	ws 	/ 	tls
-s14.snode.xyz 	443 	04189ba7-8ce5-3d9b-a242-fef5a24a009a 	ws 	/panel 	tls
-141.101.115.115 	443 	8c35bef3-d51f-41ab-ac87-7b053410495b 	ws 		tls
 188.166.227.130 	55548 	894336ab-713b-4772-b168-366aadd2c5c5 	tcp 		
-23.225.57.202 	443 	e2266c08-96aa-4ccb-b918-163db05abffa 	ws 	/footers 	tls
 xibun.ml 	443 	892cf1d4-dae9-11ea-b9ae-560002ecc3bc 	ws 	/U0hQATog/ 	tls
-104.18.45.77 	443 	1c476efc-2d71-420d-938f-51f6e541884c 	ws 	/freedom/ 	tls
+hk-04.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 a-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
 shcu.cnhost.xyz 	26606 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
 199.180.102.200 	443 	ab3589d3-061a-4e87-9717-dc6900d1caf9 	ws 	/footers 	tls
-britagood.ml 	443 	bde199e6-dd1b-11ea-b7e2-560002ed9f51 	ws 	/FWdQBXMC/ 	tls
 b-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
-142.0.129.202 	443 	b1392b21-6230-4fa5-8445-96b3ccda1efc 	ws 	/footers 	tls
+jp-01.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+tw-04.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+tw-03.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 v2-03.ssrsub.xyz 	443 	206ffdbe-08f0-42f9-8ac8-0e676859905d 	ws 	/ 	tls
 v2-16.ssrsub.xyz 	443 	d20eeec7-600e-4562-9043-f59f740fc9d7 	ws 	/ 	tls
-51.89.68.49 	443 	418048af-a293-4b99-9b0c-98ca3580dd23 	ws 	/footers 	tls
-128.199.188.168 	32451 	ff4d6dc8-582f-42bf-a04e-bd29a95645c3 	tcp 		
+us-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 rocketgogo.ml 	443 	33ee124c-daef-11ea-a895-560002ecc71e 	ws 	/EpNBKDMg/ 	tls
-137.175.3.206 	443 	8bd377d7-58fd-457f-a01c-aeda6a000626 	ws 	/footers 	tls
 v2-12.ssrsub.xyz 	443 	34a4d1d9-02fe-4ca7-af25-610b593dd506 	ws 	/ 	tls
-51.195.12.145 	443 	fb8b1fec-a21c-44eb-9f79-395dbb446632 	ws 	/footers 	tls
 v2-06.ssrsub.xyz 	443 	59ee7a4c-0d8e-462b-a75a-3d66071db8c7 	ws 	/ 	tls
 v2-01.ssrsub.xyz 	443 	e33ef6da-face-4562-b869-2409d266abeb 	ws 	/ 	tls
 154.84.1.103 	443 	ee595b2d-ffc2-4a83-bf74-09c121ffa239 	ws 	/footers 	tls
+jp-08.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 us119.mfjx-vip.xyz 	443 	21102246-caba-3f49-9a68-49f7476d68f0 	ws 	v2ray 	tls
-h4.coding996.com 	443 	fc02f92a-ac95-4b7b-ad6c-bf1cb4ec3b07 	ws 	/v2ray 	tls
 v2-09.ssrsub.xyz 	443 	7142eb02-0ec4-4805-aa7d-b060c77b1645 	ws 	/ 	tls
 23.225.159.51 	443 	6d9a4d5f-8231-46b0-82b5-62a518e573ea 	ws 	/footers 	tls
 fivedemands.ml 	443 	90d4a374-dae8-11ea-867f-560002ecc349 	ws 	/K7UxmnRv/ 	tls
-137.175.3.204 	443 	8bd377d7-58fd-457f-a01c-aeda6a000626 	ws 	/footers 	tls
-qi6xqp28.ai3sda18.xyz 	443 	31b680c1-0892-48fd-8902-5fb757239268 	ws 	/b6a17/ 	tls
 geniusbar.tk 	443 	d0425114-dd13-11ea-bc94-560002ed9b7b 	ws 	/6w2JQyYW/ 	tls
-142.4.108.229 	443 	47d03581-c5c9-4764-bbd6-d4e3733b2f7a 	ws 	/footers 	tls
 51.89.7.206 	443 	87f16117-30c6-4581-bfad-cd28769ba45d 	ws 	/footers 	tls
-v2.dex3.me 	49382 	1536ac00-fcd2-4f7e-9872-02f7bcfe161c 	ws 		
-h1.coding996.com 	443 	d19be91d-651c-445e-9228-958d4dd71a18 	ws 	/v2ray 	tls
+hk-09.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
+sg-05.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 142.4.108.232 	443 	95ccdad7-0be4-4d76-a5bd-84aa2701ca08 	ws 	/footers 	tls
 51.89.18.24 	443 	fb8b1fec-a21c-44eb-9f79-395dbb446632 	ws 	/footers 	tls
-142.4.104.226 	443 	a205f4b6-1386-4765-b44a-6b1bba47d537 	ws 	/footers 	tls
-burgerkinggood.ml 	443 	4b5ba390-daf4-11ea-8810-560002ecc967 	ws 	/C6lkvS3K/ 	tls
-c-euser.okkk.ml 	443 	632dd9f3-d412-3103-ba03-f3b511897a33 	ws 	/henda 	tls
-auto.freev2.top 	41861 	7e0782ae-5964-4838-bbba-2ae018019423 	tcp 	undefined 	
+jp-06.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
 142.4.104.227 	443 	a205f4b6-1386-4765-b44a-6b1bba47d537 	ws 	/footers 	tls
 v2-15.ssrsub.xyz 	443 	cafa4297-e2f0-4a86-a203-21b22e0b384b 	ws 	/ 	tls
-shcu.cnhost.xyz 	26605 	8304a344-cf67-3473-afd0-c64b39be790e 	ws 	/index 	
-applemusics.tk 	443 	ef2c8d78-dd14-11ea-a50d-560002ed9c0b 	ws 	/qwn41rFK/ 	tls
-
+fr-02.smdynet.com 	80 	91a0be86-cd3c-41a0-8552-9e53e013b4a5 	ws 	/cctv13/hd.m3u8 	
