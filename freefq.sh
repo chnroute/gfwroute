@@ -31,6 +31,7 @@ iconv -f gbk -t utf8 index.txt | dos2unix >index1.txt
 mv -f index1.txt index.txt
 sed -r -e 's@[<>]@\n@g' index.txt | grep -P '(ss|ssr|vmess|trojan)://[\x20-\x7f]' | grep -Ev '^账号|^ssr链接|^Address' | sed -E 's/ \t/|/g' > $type-list.txt
 sed -E -i -e 's@<.*data="@@' -e 's@".*>@@' $type-list.txt
+base64 $type-list.txt > subscribe-$type.txt
 if [ "$type" = "v2ray" ]; then
     grep -P '^vmess' $type-list.txt > vmess-list.txt
     grep -P '^trojan' $type-list.txt > trojan-list.txt
