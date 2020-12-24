@@ -1,0 +1,52 @@
+name: "autoupdate"
+on:
+  push: # 触发机制为push操作
+    branches: master
+  schedule: # 触发机制为定时任务
+    - cron: "10 16 * * *" # 每天8点10分自动执行
+    - cron: "10 21 * * *" # 每天13点10分自动执行
+    - cron: "10 2 * * *" # 每天17点10分自动执行
+jobs:
+  autoupdate:
+    runs-on: ubuntu-latest # 运行环境为最新的Ubuntu
+    steps:
+      - name: Update package
+        run: sudo apt-get update
+      - name: Install package
+        run: sudo apt-get install bash wget whois dos2unix
+      - name: Checkout master
+        uses: actions/checkout@v2 # 使用官方提供的checkout 2.0版本获取代码
+      - name: Run update
+        env:
+          DESTDIR: dist
+        run: |
+          set -x
+          rm -rf $DESTDIR
+          mkdir -p $DESTDIR
+          cd $DESTDIR
+          ../freefq.sh ss
+          ../freefq.sh ssr
+          ../freefq.sh v2ray
+          cd -
+          cp -f LICENSE $DESTDIR
+      - name: Checkout gh-pages
+        uses: actions/checkout@v2
+        with:
+          ref: gh-pages
+          clean: false
+          fetch-depth: 0
+      - name: Commit
+        env:
+          DESTDIR: dist
+        run: |
+          set -x
+          DATE_TIME=$(date "+%Y-%m-%d %H:%M:%S")
+          cp -f $DESTDIR/* .
+          rm -rf $DESTDIR
+          git status | grep -q 'modified:' || exit 0
+          echo "# Generated on $DATE_TIME" >index.md
+          git config user.name  chnroute
+          git config user.email chnroute@gmail.com
+          git add .
+          git commit -m "Generated on $DATE_TIME"
+          git push
