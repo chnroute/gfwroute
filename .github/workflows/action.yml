@@ -3,9 +3,7 @@ on:
   push: # 触发机制为push操作
     branches: master
   schedule: # 触发机制为定时任务
-    - cron: "10 16 * * *" # 每天8点10分自动执行
-    - cron: "10 21 * * *" # 每天13点10分自动执行
-    - cron: "10 2 * * *" # 每天17点10分自动执行
+    - cron: "10 * * * *" # 每点10分自动执行
 jobs:
   autoupdate:
     runs-on: ubuntu-latest # 运行环境为最新的Ubuntu
@@ -41,6 +39,7 @@ jobs:
         run: |
           set -x
           DATE_TIME=$(date "+%Y-%m-%d %H:%M:%S")
+          find $DESTDIR -type f -size -32c -delete
           cp -f $DESTDIR/* .
           rm -rf $DESTDIR
           git status | grep -q 'modified:' || exit 0
