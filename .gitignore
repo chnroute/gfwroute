@@ -1,0 +1,6 @@
+*.tmp
+*.swp
+*.tar.gz
+*.mmdb
+/dist/
+

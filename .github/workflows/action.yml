@@ -11,12 +11,15 @@ jobs:
       - name: Update package
         run: sudo apt-get update
       - name: Install package
-        run: sudo apt-get install bash wget whois dos2unix
+        run: sudo apt-get install bash wget whois dos2unix python3 python3-setuptools
+      - name: Install geoip2
+        run: pip3 install geoip2
       - name: Checkout master
         uses: actions/checkout@v2 # 使用官方提供的checkout 2.0版本获取代码
       - name: Run update
         env:
           DESTDIR: dist
+          LICENSE_KEY: ${{secrets.LICENSE_KEY}}
         run: |
           set -x
           rm -rf $DESTDIR
@@ -27,6 +30,7 @@ jobs:
           ../freefq.sh v2ray
           cd -
           cp -f LICENSE $DESTDIR
+          cp -f .gitignore $DESTDIR
       - name: Checkout gh-pages
         uses: actions/checkout@v2
         with:
@@ -40,7 +44,8 @@ jobs:
           set -x
           DATE_TIME=$(date "+%Y-%m-%d %H:%M:%S")
           find $DESTDIR -type f -size -32c -delete
-          cp -f $DESTDIR/* .
+          cp -af $DESTDIR/.gitignore .
+          cp -af $DESTDIR/* .
           rm -rf $DESTDIR
           git status | grep -q 'modified:' || exit 0
           echo "# Generated on $DATE_TIME" >index.md
