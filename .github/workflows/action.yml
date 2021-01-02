@@ -22,13 +22,14 @@ jobs:
           LICENSE_KEY: ${{secrets.LICENSE_KEY}}
         run: |
           set -x
+          ROOTDIR=$PWD
           rm -rf $DESTDIR
           mkdir -p $DESTDIR
           cd $DESTDIR
           ../freefq.sh ss
           ../freefq.sh ssr
           ../freefq.sh v2ray
-          cd -
+          cd $ROOTDIR
           cp -f LICENSE $DESTDIR
           cp -f .gitignore $DESTDIR
       - name: Checkout gh-pages

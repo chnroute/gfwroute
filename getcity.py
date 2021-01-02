@@ -9,7 +9,10 @@ import urllib.parse
 import geoip2.database
 
 def get_city(addr):
-    iplist = list({addr[-1][0] for addr in socket.getaddrinfo(addr, 0, 0, 0, 0)})
+    try:
+        iplist = list({addr[-1][0] for addr in socket.getaddrinfo(addr, 0, 0, 0, 0)})
+    except socket.gaierror:
+        return '未知'
     if len(iplist) < 1:
         exit(1)
     addr = iplist.pop()

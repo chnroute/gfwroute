@@ -19,20 +19,20 @@ case $type in
     *) echo unknown $type; exit 1;;
 esac
 url=$urlhome/$path/
-wget $wgetopt $url -O index.txt || exit 0
+wget $wgetopt $url -O index.txt 2>&1 || exit 0
 echo
 path=$(iconv -f gbk -t utf8 index.txt | dos2unix | sed 's/[<>]/\n/g' | \
     grep 'href="/'$path'/.*\.html' | sed -E 's/^.*href="([^"]*)".*/\1/' | \
     grep -P '\d{4}/\d{2}/\d{2}' | sort -ru | head -n 1)
 url=$urlhome/$path
 rm -f index.txt
-wget $wgetopt $url -O index.txt || exit 0
+wget $wgetopt $url -O index.txt 2>&1 || exit 0
 echo
 iconv -f gbk -t utf8 index.txt | dos2unix >index1.txt
 mv -f index1.txt index.txt
 url=$(grep -P 'href=.*file/(free-ss|free-ssr|v2ray).*\.htm' index.txt|cut -d\" -f 2)
 rm -f index.txt
-wget $wgetopt $url -O index.txt || exit 0
+wget $wgetopt $url -O index.txt 2>&1 || exit 0
 echo
 iconv -f gbk -t utf8 index.txt | dos2unix >index1.txt
 mv -f index1.txt index.txt
@@ -40,7 +40,8 @@ sed -r -e 's@[<>]@\n@g' index.txt | grep -P '(ss|ssr|vmess|trojan)://[\x20-\x7f]
 sed -E -i -e 's@<.*data="@@' -e 's@".*>@@' $type-list.txt
 if [ "$type" = "v2ray" ]; then
     if [ ! -f geoip.tar.gz ]; then
-        wget $wgetopt $urlgeoip -O geoip.tar.gz
+        wget $wgetopt $urlgeoip -O geoip.tar.gz 2>&1
+        echo
     fi
     if [ ! -f ./GeoLite2-City/GeoLite2-City.mmdb ]; then
         tar xf geoip.tar.gz --transform='s/_[0-9]*//g'  --wildcards '*.mmdb'
