@@ -16,22 +16,25 @@ jobs:
         run: pip3 install geoip2
       - name: Checkout master
         uses: actions/checkout@v2 # 使用官方提供的checkout 2.0版本获取代码
+      - name: RestoreCache
+        uses: actions/cache@v2
+        with:
+            path: dist
+            key: ${{ runner.os }}-${{ hashFiles('freefq.sh') }}
       - name: Run update
         env:
           DESTDIR: dist
+          ROOTDIR: ..
           LICENSE_KEY: ${{secrets.LICENSE_KEY}}
         run: |
           set -x
-          ROOTDIR=$PWD
-          rm -rf $DESTDIR
           mkdir -p $DESTDIR
           cd $DESTDIR
-          ../freefq.sh ss
-          ../freefq.sh ssr
-          ../freefq.sh v2ray
-          cd $ROOTDIR
-          cp -f LICENSE $DESTDIR
-          cp -f .gitignore $DESTDIR
+          $ROOTDIR/freefq.sh ss
+          $ROOTDIR/freefq.sh ssr
+          $ROOTDIR/freefq.sh v2ray
+          cp -f $ROOTDIR/LICENSE .
+          cp -f $ROOTDIR/.gitignore .
       - name: Checkout gh-pages
         uses: actions/checkout@v2
         with:
@@ -41,13 +44,14 @@ jobs:
       - name: Commit
         env:
           DESTDIR: dist
+          ROOTDIR: ..
         run: |
           set -x
           DATE_TIME=$(date "+%Y-%m-%d %H:%M:%S")
           find $DESTDIR -type f -size -32c -delete
           cp -af $DESTDIR/.gitignore .
-          cp -af $DESTDIR/* .
-          rm -rf $DESTDIR
+          cp -af $DESTDIR/LICENSE .
+          cp -af $DESTDIR/*.txt .
           git status | grep -q 'modified:' || exit 0
           echo "# Generated on $DATE_TIME" >index.md
           git config user.name  chnroute

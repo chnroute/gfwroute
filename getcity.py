@@ -9,12 +9,16 @@ import urllib.parse
 import geoip2.database
 
 def get_city(addr):
-    try:
-        iplist = list({addr[-1][0] for addr in socket.getaddrinfo(addr, 0, 0, 0, 0)})
-    except socket.gaierror:
+    iplist = list()
+    for i in (1,2,3,4,5):
+        try:
+            iplist = list({addr[-1][0] for addr in socket.getaddrinfo(addr, 0, 0, 0, 0)})
+        except socket.gaierror:
+            pass
+
+    if len(iplist) <= 0:
         return '未知'
-    if len(iplist) < 1:
-        exit(1)
+
     addr = iplist.pop()
 
     client = geoip2.database.Reader(r'./GeoLite2-City/GeoLite2-City.mmdb')
@@ -78,6 +82,4 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
 
