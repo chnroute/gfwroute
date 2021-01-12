@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-01-09 22:35:55</p>
+免费SS账号所有数据均来自互联网，更新时间：2021-01-12 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
@@ -280,70 +280,53 @@ ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VTQDIuNTguMjQxLjI3OjM4MDMz#%4
 
 
 <p>
-<strong>
-北京时间2021年1月9日11点00分新增节点。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
+<strong>北京时间2021年1月11日9点35分更新节点1-韩国。为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
 <br>
 位置 地址 端口 密码 加密方式 协议 混淆<br>
-节点1-韩国 158.247.221.128 12345 dongtaiwang.com 123abc rc4 origin plian<br>
+节点1-韩国 141.164.55.29 12345 dongtaiwang.com 123abc rc4 origin plian<br>
 节点2-德国 89.163.224.142 22222 dongtaiwang.com 123abc rc4 origin plian<br>
 节点3-西雅图 173.0.55.66 11111 dongtaiwang.com 123abc aes-256-cfb origin plain<br>
 节点4-圣何塞 107.148.215.140 8240 passinfo123 rc4-md5 origin plain<br>
-节点5-台湾 117.28.243.164 9111 passinfo123 rc4-md5 origin plain<br>
-节点6-日本 137.220.236.22 8022 passinfo123 rc4-md5 origin plain<br>
-节点7-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
-节点8-德国 117.28.243.166 8249 passinfo123 rc4-md5 origin plain<br>
-节点9-台湾 183.232.228.122 17231 0593 chacha20-ietf origin plain<br>
-节点10-韩国 158.247.210.70 12345 dongtaiwang.com 123abc aes-256-gcm </p>
-<p>SS节点一键导入地址：<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNTguMjQ3LjIxMC43MDoxMjM0NQ==#https%3a%2f%2fgit.io%2fv9999+%e9%9f%a9%e5%9b%bd</p>
+节点5-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
+节点6-台湾 117.28.243.164 9111 passinfo123 rc4-md5 origin plain<br>
+节点7-德国 117.28.243.166 8249 passinfo123 rc4-md5 origin plain<br>
+节点8-台湾 183.232.228.122 17231 0593 chacha20-ietf origin plain<br>
+<br>
+SS节点一键导入地址：<br>
+ss://YWVzLTI1Ni1jZmI6ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNzMuMC41NS42NjoxMTExMQ==#https%3a%2f%2fgit.io%2fv9999+%e8%a5%bf%e9%9b%85%e5%9b%be</p>
 </p>
 <p>　</p>
 </p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp;&nbsp; 端口&nbsp;&nbsp; 密码&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>37.120.217.179 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+<p>&nbsp;账号 端口 密加密方式<br>
 103.208.221.229 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-172.83.42.151 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+89.187.163.130 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 2.58.241.43 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 103.249.31.24 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-212.102.54.132 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 2.58.241.27 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-37.120.151.14 804 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 89.187.163.215 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+37.120.151.14 804 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 84.17.34.26 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 ssr-09.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
-185.108.128.183 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
+192.241.204.205 16770 isx.yt-19048280 aes-256-gcm<br>
 103.98.75.71 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-61.14.210.239 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.87.213.87 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 84.17.57.66 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-185.108.128.181 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 84.17.34.46 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-212.102.48.13 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 2.58.241.5 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 61.14.210.234 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 2.58.241.27 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-184.170.250.147 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-195.47.194.32 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 2.58.241.45 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-193.9.112.195 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 84.17.37.158 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-192.241.215.191 16146 ssx.re-67320858 aes-256-cfb<br>
-95.174.65.67 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-178.238.231.51 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 176.119.158.161 147 t.me/SSRSUB aes-256-cfb<br>
 45.130.137.14 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-61.14.210.237 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
-82.221.143.241 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-139.162.68.244 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 61.14.210.242 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 ssr-11.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
-198.8.85.19 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 107.148.215.140 8240 passinfo123 rc4-md5<br>
-139.162.54.34 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 172.105.127.199 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-103.208.221.227 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+ssr-01.ssrsub.one 8881 http aes-256-cfb<br>
 84.17.37.158 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 156.146.56.135 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
 59.125.11.158 8158 passinfo123 rc4-md5<br>
@@ -352,7 +335,6 @@ ssr-11.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 103.208.221.227 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.130.137.18 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.87.213.103 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-128.199.184.172 17546 isx.yt-68557321 aes-256-gcm<br>
 156.146.56.130 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 2.58.241.27 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 84.17.57.148 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
@@ -360,198 +342,147 @@ ssr-11.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 45.130.137.34 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 103.249.31.24 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 89.187.163.205 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-66.42.49.112 2019 Life!sAwesome aes-256-cfb<br>
 2.58.242.46 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
-84.247.51.235 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-37.120.221.3 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-212.102.42.194 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.87.213.85 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-45.87.213.87 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 89.187.161.239 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-176.222.34.115 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+45.87.213.7 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 27.255.77.195 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 61.14.210.244 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-45.77.25.146 2019 Life!sAwesome aes-256-cfb<br>
+45.141.101.242 147 t.me/SSRSUB aes-256-cfb<br>
+ssr-02.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 84.17.57.185 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 103.249.31.28 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.130.137.38 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.85.3.162 801 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 ssr-17.ssrsub.one 8887 http aes-256-cfb<br>
-84.17.35.91 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-37.120.194.107 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 61.14.210.244 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-84.17.35.81 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 193.122.98.231 1025 DSdN6X9mSdN1( aes-256-cfb<br>
 209.58.188.157 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-104.200.132.37 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.87.213.7 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-45.130.137.16 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 2.58.241.45 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+45.130.137.16 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 84.17.37.154 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 37.120.151.14 805 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
-192.241.204.205 17748 isx.yt-76132063 aes-256-gcm<br>
-173.208.202.61 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 172.104.161.174 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-198.8.85.133 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-45.87.213.103 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.87.213.245 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+45.87.213.103 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 212.102.42.201 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+84.17.57.71 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 89.163.224.142 22222 dongtaiwang.com 123abc rc4<br>
 ssr-03.ssrsub.one 8881 http aes-256-cfb<br>
 61.14.210.234 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-184.170.243.195 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-193.9.112.181 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-104.200.138.7 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 84.17.37.156 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 89.187.161.4 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 103.152.151.85 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+ssr-10.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 84.17.34.24 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-172.98.82.243 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.87.213.101 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-183.232.228.122 17231 0593 chacha20-ietf<br>
-195.47.194.59 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-117.28.243.166 8249 passinfo123 rc4-md5<br>
 45.87.213.85 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-84.17.35.78 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-66.115.177.133 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+117.28.243.166 8249 passinfo123 rc4-md5<br>
 172.104.36.4 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-37.120.194.107 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-107.152.101.163 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 212.102.42.194 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 2.58.241.3 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 148.66.56.99 810 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 45.130.137.30 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 139.162.76.165 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-45.87.213.211 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 2.58.241.4 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
+45.87.213.211 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.85.3.153 803 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
-15.161.189.93 23763 xiaolu aes-256-cfb<br>
-37.120.212.149 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+45.130.137.20 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.130.137.32 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 103.208.221.229 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 192.40.59.229 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 2.58.241.3 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
+144.34.219.110 54321 YzA1ODM5Nz aes-256-cfb<br>
 2.58.242.157 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 212.102.42.204 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-192.241.194.74 15195 isx.yt-41423702 aes-256-gcm<br>
-198.8.80.85 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 173.230.152.140 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 45.130.137.28 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-74.119.146.117 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 84.17.57.148 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-217.138.216.229 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 89.187.163.134 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-89.187.169.119 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+ssr-16.ssrsub.one 8887 http aes-256-cfb<br>
 27.255.77.197 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
-139.162.68.244 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-165.231.163.19 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-ssr-15.ssrsub.one 8887 http aes-256-cfb<br>
 194.87.111.106 147 t.me/SSRSUB aes-256-cfb<br>
+192.241.193.241 11386 isx.yt-65401346 aes-256-gcm<br>
 45.87.213.83 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
 ssr-08.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
-217.138.216.235 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.130.137.26 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-54.249.163.86 8887 http://t.cn/EGJIyrl aes-256-cfb<br>
-45.43.14.95 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-86.106.136.83 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 212.102.42.206 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 103.98.75.71 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-66.115.147.94 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 61.14.210.244 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-37.120.197.11 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+66.115.147.94 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 212.102.42.199 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-159.65.99.228 11724 ssx.re-51543399 aes-256-cfb<br>
-74.119.146.211 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 ssr-07.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 45.87.213.213 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-198.8.85.82 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.130.137.40 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-45.87.213.5 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.130.137.10 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+212.102.42.209 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 139.162.76.165 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 103.152.151.69 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-84.17.57.66 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
 45.130.137.10 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-45.87.212.211 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+84.17.57.66 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
+176.119.156.229 147 t.me/SSRSUB aes-256-cfb<br>
+117.28.243.164 9111 passinfo123 rc4-md5<br>
+ssr-06.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 74.207.254.106 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 37.120.151.14 810 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
-128.199.165.174 18759 isx.yt-80525640 aes-256-gcm<br>
-89.164.99.111 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 2.58.241.3 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
 45.87.213.243 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-37.120.145.21 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 2.58.241.29 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 173.0.55.66 11111 dongtaiwang.com 123abc aes-256-cfb<br>
 212.102.42.199 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 2.58.241.3 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-172.83.42.85 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 84.17.57.73 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-195.47.194.42 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 165.231.253.147 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.87.213.243 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.87.213.19 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
-84.17.58.152 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 156.146.56.137 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 2.58.241.45 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 2.58.242.45 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 45.87.213.83 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
-139.162.54.34 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-198.8.85.89 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-84.17.58.150 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-198.8.85.40 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-192.241.193.241 15176 isx.yt-67020693 aes-256-gcm<br>
 89.187.161.2 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
-13.212.194.125 8887 http://t.cn/EGJIyrl aes-256-cfb<br>
 2.58.241.29 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 172.104.36.4 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 45.87.213.83 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 89.187.163.197 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-37.120.194.99 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 173.230.152.140 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-172.98.82.229 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-68.71.244.202 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 172.105.127.199 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 185.128.24.34 810 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 89.187.163.212 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-ssr-14.ssrsub.one 8887 http aes-256-cfb<br>
 89.187.163.207 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-5.253.207.85 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-137.220.236.22 8022 passinfo123 rc4-md5<br>
 74.207.254.106 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-37.120.194.163 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 84.17.37.156 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-ssr-13.ssrsub.one 8887 http aes-256-cfb<br>
 212.102.42.209 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+ssr-13.ssrsub.one 8887 http aes-256-cfb<br>
 185.242.4.163 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 172.104.161.174 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-45.87.213.87 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 89.187.163.202 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-37.120.212.147 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 45.87.213.105 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 89.187.163.200 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+213.183.60.59 9097 Sn5B7jTqr76aCJT8 aes-256-cfb<br>
 185.242.4.163 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 162.220.51.58 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 45.82.255.152 8887 http://t.cn/EGJIyrl aes-256-cfb<br>
-162.220.51.58 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
+192.241.194.74 15312 isx.yt-13159401 aes-256-gcm<br>
 84.17.37.160 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 45.87.213.21 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
 195.133.147.222 147 t.me/SSRSUB aes-256-cfb<br>
-212.102.42.204 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 61.14.210.242 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+212.102.42.204 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+ssr-12.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
 2.58.242.43 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 139.162.15.45 8099 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
 2.58.242.45 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
-206.189.151.59 10273 ssx.re-60189275 aes-256-cfb<br>
+206.189.151.59 12796 ssx.re-49176966 aes-256-cfb<br>
 45.87.213.211 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 ssr-05.ssrsub.one 8881 http aes-256-cfb<br>
+159.65.99.228 10002 ssx.re-10962282 aes-256-cfb<br>
 84.17.57.73 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 198.52.125.212 8887 http://t.cn/EGJIyrl aes-256-cfb<br>
 2.58.241.46 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
 ssr-04.ssrsub.one 147 t.me/SSRSUB aes-256-cfb<br>
-139.162.15.45 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
-45.43.14.93 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 84.17.57.71 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-37.120.194.165 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+139.162.15.45 8097 eIW0Dnk69454e6nSwuspv9DmS201tQ0D aes-256-cfb<br>
+192.241.215.191 12459 ssx.re-35386807 aes-256-cfb<br>
 2.58.241.5 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-<br>
 　</p>
