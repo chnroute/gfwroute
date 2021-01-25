@@ -67,7 +67,7 @@ ssr安卓客户端apk下载https://www.freefq.com/sj/2017/12/20/shadowsocksr-and
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2021-01-22 22:16:55<p>　
+所有数据均来自互联网，更新时间：2021-01-25 22:16:55<p>　
 
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -127,7 +127,7 @@ ssr://MTM5LjE2Mi43Ni4xNjU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhel
 <p>
 　</p>
 <p>
-<strong>北京时间2021年1月22日20点35分更新节点1-日本。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
+<strong>北京时间2021年1月23日22点05分更新节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速250kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
 <br>
 位置 地址 端口 密码 加密方式 协议 混淆<br>
 <br>
@@ -136,13 +136,17 @@ ssr://MTM5LjE2Mi43Ni4xNjU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhel
 节点3-西雅图 173.0.55.66 11111 dongtaiwang.com 123abc aes-256-cfb origin plain<br>
 节点4-圣何塞 107.148.215.140 8240 passinfo123 rc4-md5 origin plain<br>
 节点5-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
-节点6-台湾 117.28.243.164 9111 passinfo123 rc4-md5 origin plain</p>
-<p>
-ssr://MTU4LjI0Ny4yMjEuNjQ6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz02Wi1wNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs</p>
-<p>
-ssr://ODkuMTYzLjIyNC4xNDI6MjIyMjI6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs</p>
-<p>
-ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZLV182WnVGNVp1LSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs</p>
+节点6-台湾 117.28.243.164 9111 passinfo123 rc4-md5 origin plain<br>
+节点7-台湾 117.28.243.166 8249 passinfo123 rc4-md5 origin plain<br>
+<br>
+SSR节点一键导入地址：<br>
+<br>
+ssr://MTA5LjE2Ni4zNy4yMToxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
+<br>
+ssr://ODkuMTYzLjIyNC4xNDI6MjIyMjI6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
+<br>
+ssr://MTczLjAuNTUuNjY6MTExMTE6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTZLV182WnVGNVp1LSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
+　</p>
 
 
 
