@@ -68,19 +68,18 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-01-27 22:35:55</p>
+免费SS账号所有数据均来自互联网，更新时间：2021-01-28 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 <p>
-<strong style="font-weight: 400">
-北京时间2021年1月27日8点38分更新节点。为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
+<strong>北京时间2021年1月28日11点30分更新节点2-德国。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
 <br>
 位置 地址 端口 密码 加密方式 协议 混淆<br>
 <br>
 节点1-日本 109.166.37.21 23456 dongtaiwang.com 123abc rc4 origin plian<br>
-节点2-德国 89.163.224.142 22222 dongtaiwang.com 123abc rc4 origin plian<br>
+节点2-德国 89.163.224.142 12345 dongtaiwang.com 123abc rc4 origin plian<br>
 节点3-西雅图 173.0.55.66 11111 dongtaiwang.com 123abc aes-256-cfb origin plain<br>
 节点4-圣何塞 107.148.215.140 8240 passinfo123 rc4-md5 origin plain<br>
 节点5-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
@@ -90,8 +89,6 @@ Free SS <br>
 <p>SS节点一键导入地址：</p>
 <p>ss://YWVzLTI1Ni1jZmI6ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNzMuMC41NS42NjoxMTExMQ==#https%3a%2f%2fgit.io%2fv9999+%e8%a5%bf%e9%9b%85%e5%9b%be</p>
 <p><br>
-<br>
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANzQuMjA3LjI1NC4xMDY6ODA5OQ==#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E5%BC%97%E9%87%8C%E8%92%99%E7%89%B9%E5%B8%82Linode%E5%85%AC%E5%8F%B8106<br>
 <br>
 ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDE5My4xNDguMTcuMTMzOjMxNzY0#https%3A%2F%2Fgit.io%2Fv9999+-+%E8%A5%BF%E7%8F%AD%E7%89%99+133<br>
 <br>
@@ -109,6 +106,8 @@ ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDM3LjEyMC4yMjEuMzozMTU3Mg=
 <br>
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDM3LjEyMC4xOTYuMTcxOjMzOTky#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+171<br>
 <br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDM3LjEyMC4yMTIuMTQ5OjMzOTky#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+149.3E<br>
+<br>
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDM3LjEyMC4yMTIuMTQ3OjMzOTky#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+147<br>
 <br>
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDg5LjM3Ljk1LjE0OjQwMDkz#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BD%97%E9%A9%AC%E5%B0%BC%E4%BA%9A+14<br>
@@ -116,6 +115,7 @@ ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDg5LjM3Ljk1LjE0OjQwMDkz#ht
 ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDE4OC45Mi43OC4xNTA6MzE3NjQ=#https%3A%2F%2Fgit.io%2Fv9999+-+%E6%8B%89%E8%84%B1%E7%BB%B4%E4%BA%9A+150<br>
 <br>
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE5My45LjExMi4xODM6NDAwOTM=#https%3A%2F%2Fgit.io%2Fv9999+-+%E6%8D%B7%E5%85%8B+183<br>
+<br>
 <br>
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE4NS4xNjYuODQuOTE6NDAwOTM=#https%3A%2F%2Fgit.io%2Fv9999+-+%E5%BE%B7%E5%9B%BD+91<br>
 <br>
@@ -130,16 +130,38 @@ ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDgyLjIyMS4xNDMuNzE6NDAwOTM
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE4NS4xMDguMTI4LjE4Mzo0MDA5Mw==#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%88%B1%E5%B0%94%E5%85%B0+183<br>
 <br>
 ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE4NS4xMDguMTI4LjE4MzozMTU3Mg==#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%88%B1%E5%B0%94%E5%85%B0+183<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg5LjE4Ny4xNjMuMTMwOjMzOTky#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1<br>
 <br>
+ss://YWVzLTI1Ni1jZmI6MzU2MzU2MzU2QDguMjEwLjMuMTMzOjU2NjQ4#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1<br>
+<br>
+ss://YWVzLTI1Ni1jZmI6S25KR2FkM0ZxVHZqcWJhWEAxMDMuMTE0LjE2My4xMzo5MDE0#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1<br>
+<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTg1LjEyOC4yNC4zNDo4MDU=#https%3A%2F%2Fgit.io%2Fv9999+%E6%96%B0%E5%8A%A0%E5%9D%A1<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTQ4LjY2LjU2Ljk5OjgwNQ==#https%3A%2F%2Fgit.io%2Fv9999+%E9%A6%99%E6%B8%AF<br>
+<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg0LjE3LjU3LjE4NTozMzk5Mg==#https%3A%2F%2Fgit.io%2Fv9999+%E9%A6%99%E6%B8%AF<br>
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDE4NS4yNDIuNC4xNjM6Mzc1ODg=#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC<br>
+<br>
+ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5hQDg5LjE4Ny4xNjEuMjQxOjM1Mjk0#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC<br>
+<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDQ1Ljg3LjIxMy43OjM5Nzcy#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC<br>
+<br>
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDQ1Ljg3LjIxMy43OjM3NTg4#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC<br>
+<br>
+ss://YWVzLTI1Ni1nY206ZW5jdGRLeUpmU3U3NlZxem5Ld1R0NkFwQDQ1Ljg3LjIxMy44MzozNzQ3Mw==#https%3A%2F%2Fgit.io%2Fv9999+%E6%97%A5%E6%9C%AC<br>
+ss://YWVzLTI1Ni1nY206YVlOZUtETXpZUVl3NEtiVWJKQThXc3pxQDYxLjE0LjIxMC4yMzI6MzE5NDQ=#https%3A%2F%2Fgit.io%2Fv9999+%E9%9F%A9%E5%9B%BD<br>
+<br>
+ss://YWVzLTI1Ni1nY206ZW5jdGRLeUpmU3U3NlZxem5Ld1R0NkFwQDYxLjE0LjIxMC4yMzI6Mzc0NzM=#https%3A%2F%2Fgit.io%2Fv9999+%E9%9F%A9%E5%9B%BD<br>
+<br>
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDYxLjE0LjIxMC4yMzI6Mzc1ODg=#https%3A%2F%2Fgit.io%2Fv9999+%E9%9F%A9%E5%9B%BD<br>
+<br>
+ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5hQDYxLjE0LjIxMC4yMzI6MzUyOTQ=#https%3A%2F%2Fgit.io%2Fv9999+%E9%9F%A9%E5%9B%BD<br>
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE5OC44Ljg1LjgyOjMzOTky#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BE%8E%E5%9B%BD+82<br>
 <br>
 ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE1Ni4xNDYuMzMuNzM6NDAwOTM=#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BE%8E%E5%9B%BD+73<br>
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANjkuMzYuMTgyLjUyOjgwOTc=#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BE%8E%E5%9B%BD%E7%8A%B9%E4%BB%96%E5%B7%9E%E7%9B%90%E6%B9%96%E5%9F%8EWestHost%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%8352<br>
 <br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMjM0NTZANDUuMTQ4LjguMTcxOjg4Mzg=#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BE%8E%E5%9B%BD+171<br>
-ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMERANjkuMzYuMTgyLjUyOjgwOTc=#https%3A%2F%2Fgit.io%2Fv9999+- 
-+%E7%BE%8E%E5%9B%BD%E7%8A%B9%E4%BB%96%E5%B7%9E%E7%9B%90%E6%B9%96%E5%9F%8EWestHost%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%8352<br>
-<br>
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg5LjE4Ny4xODIuMTc1OjMzOTky#https%3A%2F%2Fgit.io%2Fv9999+-+%E7%BE%8E%E5%9B%BD%E4%BC%8A%E5%88%A9%E8%AF%BA%E4%BC%8A%E5%B7%9E%E8%8A%9D%E5%8A%A0%E5%93%A5CDN77%E8%8A%82%E7%82%B9175.56<br>
 　</p>
 <p>sub：</p>
 <p>ss://eGNoYWNoYTIwLWlldGYtcG9seTEzMDU6dC5tZS9TU1JTVUI=@ss-01.ssrsub.one:143/?plugin=obfs-local%3Bobfs%3Dhttp%3Bobfs-host%3Ddata.video.qiyi.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
