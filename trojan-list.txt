@@ -9,9 +9,3 @@ trojan://f6edb59d-5aac-43c4-ad32-e0b7972e7f50@fuckxijinping.ga:443#%E9%9F%A9%E5%
 trojan://0d1ae67e-a512-4dfc-a914-4d8eeac81b7f@gmegme.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
 trojan://76349a53-4d20-45de-a713-6c06b59f7317@trotro.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
 trojan://d73f5352-6cda-4cfb-8b7c-2dd8e44c4a84@gmegme.tk:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://MhPG7g9x2Etb4Hspsb@ty2-8.sstr-api.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://MhPG7g9x2Etb4Hspsb@ty2-6.sstr-api.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://MhPG7g9x2Etb4Hspsb@ty2-2.sstr-api.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://MhPG7g9x2Etb4Hspsb@ty2-7.sstr-api.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://MhPG7g9x2Etb4Hspsb@ty2-4.sstr-api.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://MhPG7g9x2Etb4Hspsb@ty2-5.sstr-api.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
