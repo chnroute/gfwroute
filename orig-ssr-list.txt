@@ -67,7 +67,7 @@ ssr安卓客户端apk下载https://www.freefq.com/sj/2017/12/20/shadowsocksr-and
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2021-02-02 22:16:55<p>　
+所有数据均来自互联网，更新时间：2021-02-06 22:16:55<p>　
 
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -126,29 +126,25 @@ ssr://MTM5LjE2Mi43Ni4xNjU6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhel
 ssr://MTM5LjE2Mi43Ni4xNjU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNtbDZYbW5LeEJNakF0NUx1WTZMUzVVMU5TNW82bzZJMlFPblF1WTI0dlJVZEtTWGx5YkEmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ</p>
 <p>
 　</p>
-<p><strong>北京时间2021年2月2日11点10分更新节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
+<p><strong>北京时间2021年2月6日10点04分更新节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
 <br>
 位置 地址 端口 密码 加密方式 协议 混淆<br>
 <br>
-节点1-日本 109.166.37.21 23456 dongtaiwang.com 123abc rc4 origin plian<br>
+节点1-日本 109.166.37.21 34567 dongtaiwang.com 123abc rc4 origin plian<br>
 节点2-德国 89.163.224.142 12345 dongtaiwang.com 123abc rc4 origin plian<br>
 节点3-西雅图 173.0.55.66 12345 dongtaiwang.com 123abc rc4-md5 origin plain<br>
 节点4-圣何塞 107.148.215.140 8240 passinfo123 rc4-md5 origin plain<br>
 节点5-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
-节点6-日本 139.226.35.50 11020 24886 aes-256-cfb origin plain<br>
-节点7-香港 117.28.243.241 8333 passfw2xs4e! rc4-md5 origin plain</p>
-<p>SSR节点一键导入地址：<br>
+节点6-台湾 117.28.243.166 8249 passinfo123 rc4-md5 origin plain<br>
+节点7-香港 117.28.243.241 8333 passfw2xs4e! rc4-md5 origin plain<br>
 <br>
-ssr://MTA5LjE2Ni4zNy4yMToxMjM0NTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
+SSR节点一键导入地址：<br>
+<br>
+ssr://MTA5LjE2Ni4zNy4yMTozNDU2NzpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVwZWw1cHlzJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
 <br>
 ssr://ODkuMTYzLjIyNC4xNDI6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
 <br>
-ssr://MTczLjAuNTUuNjY6MTIzNDU6b3JpZ2luOnJjNC1tZDU6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NktXXzZadUY1WnUtJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
-<br>
-<br>
-<br>
-<br>
-　</p>
+ssr://MTczLjAuNTUuNjY6MTIzNDU6b3JpZ2luOnJjNC1tZDU6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NktXXzZadUY1WnUtJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw</p>
 
 
 
