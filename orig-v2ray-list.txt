@@ -74,7 +74,9 @@ ID教程</a></font></p>
 <p><font face="宋体">v2ray客户端电脑版最新版本可添加trojan及vless<br>
 <br>
 v2ray客户端安卓端最新版本可以添加trojan及vless</font></p>
-<p align="left"><font face="宋体">免费V2Ray账号 更新时间：2021-02-06 22:15:55<b> 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+<p align="left"><font face="宋体">免费V2Ray账号 更新时间：2021-02-07 22:15:55<b> 
+
+　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
@@ -96,11 +98,8 @@ v2ray客户端安卓端最新版本可以添加trojan及vless</font></p>
 vless://326302d2-5954-11eb-b0ae-560003275003@bigsur.tk:443?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none#%e8%a5%bf%e9%9b%85%e5%9b%be2+_2021%2f3%2f17++%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
 <br>
 <br>
-vless://b4d9d9ae-5ee3-11eb-a738-5600032a56a5@ccpisdevil.ml:443?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e8%a5%bf%e9%9b%85%e5%9b%beB_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
 <br>
-<br>
-<br>
-trojan://d05ccfe1-577e-426b-89d2-2254b3965c03@chinahumanr.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac6_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
+vless://e83d9208-642a-11eb-a021-5600032a56a5@gmegme.cf:443?encryption=none&amp;security=tls&amp;type=tcp&amp;headerType=none#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e8%a5%bf%e9%9b%85%e5%9b%beB_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
 <br>
 <br>
 <br>
@@ -116,21 +115,6 @@ trojan://625a46a8-af5a-4620-b8d2-a53b0c952d4b@xibun.ga:443#%e7%bf%bb%e5%a2%99%e4
 <br>
 <br>
 <br>
-trojan://454e32b5-22eb-45cc-9fb2-1bf236de0eb9@xibun.gq:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e8%a5%bf%e9%9b%85%e5%9b%beC_+%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
-<br>
-<br>
-<br>
-trojan://82a95008-f390-4f2e-a6ae-68c9e039f244@milkgogo.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac3_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
-<br>
-<br>
-<br>
-trojan://196ca8d6-0d32-4e52-a4de-0fb23be82658@tacotasty.tk:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%b4%9b%e6%9d%89%e7%9f%b6_WX%e6%8d%90%e6%ac%be%e8%b4%ad%e4%b9%b0_2021%2f2%2f26%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
-<br>
-<br>
-trojan://e253fb06-1917-4573-b892-55364186c858@fuckxiaofenhong.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_tokyo_1_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
-<br>
-<br>
-<br>
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue/u+WimeS8ml/pn6nlm703X+iHqui0uSAg55S15oql6aKR6YGT77yaaHR0cHM6Ly90Lm1lL2NuaHVtYW5yaWdodDk5IiwNCiAgImFkZCI6ICJiaWdzdXIuY2YiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOTk1Y2FhMDAtNjA4Zi0xMWViLTlhMjktNTYwMDAzMmI0MGQ5IiwNCiAgImFpZCI6ICIxMiIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiYmlnc3VyLmNmIiwNCiAgInBhdGgiOiAiL3dhUFRtMDdlLyIsDQogICJ0bHMiOiAidGxzIg0KfQ==<br>
 <br>
 <br>
@@ -139,18 +123,24 @@ trojan://f6edb59d-5aac-43c4-ad32-e0b7972e7f50@fuckxijinping.ga:443#%e7%bf%bb%e5%
 <br>
 <br>
 <br>
-trojan://0d1ae67e-a512-4dfc-a914-4d8eeac81b7f@gmegme.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac5_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
+trojan://64050da3-85df-4592-8ca8-b4845b7b94f7@tacotasty.tk:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%b4%9b%e6%9d%89%e7%9f%b6_WX%e6%8d%90%e6%ac%be%e8%b4%ad%e4%b9%b0_2021%2f2%2f26%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
 <br>
 <br>
 <br>
-trojan://76349a53-4d20-45de-a713-6c06b59f7317@trotro.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e9%9f%a9%e5%9b%bd3_%e8%87%aa%e8%b4%b9+%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9a%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
+trojan://aea87370-859b-463f-9f95-837f81437bcc@milkgogo.ga:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac3_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
 <br>
 <br>
 <br>
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIue/u+WimeS8ml/pn6nlm705X+iHqui0uSDnlLXmiqXpopHpgZPvvJpodHRwczovL3QubWUvY25odW1hbnJpZ2h0OTkiLA0KICAiYWRkIjogImdtZWdtZS5nYSIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI0M2U3ZGM4OC02MTUzLTExZWItYWE4OC01NjAwMDMyYmFmZDEiLA0KICAiYWlkIjogIjEyIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJnbWVnbWUuZ2EiLA0KICAicGF0aCI6ICIvSThQM1NkV08vIiwNCiAgInRscyI6ICJ0bHMiDQp9<br>
+trojan://90f65f71-3226-4864-805d-362e28490b06@chinahumanr.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac6_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
 <br>
 <br>
-trojan://d73f5352-6cda-4cfb-8b7c-2dd8e44c4a84@gmegme.tk:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac1_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
+<br>
+trojan://2dcc02fc-a267-4c2b-9428-6568b8f5158d@gmegme.tk:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e6%97%a5%e6%9c%ac1_%e8%87%aa%e8%b4%b9%ef%bc%9a%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
+<br>
+<br>
+<br>
+trojan://b662cfdb-ce81-4c02-808c-ca01bfcd67f4@trotro.ml:443#%e7%bf%bb%e5%a2%99%e4%bc%9a_%e9%9f%a9%e5%9b%bd3_%e8%87%aa%e8%b4%b9+%e7%94%b5%e6%8a%a5%e9%a2%91%e9%81%93%ef%bc%9a%ef%bc%9ahttps%3a%2f%2ft.me%2fcnhumanright99<br>
+<br>
 　</p>
 <p>
 
