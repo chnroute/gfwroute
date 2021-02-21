@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-02-21 22:35:55</p>
+免费SS账号所有数据均来自互联网，更新时间：2021-02-22 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
@@ -244,14 +244,14 @@ ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VTQDIuNTguMjQxLjQ6MzgwMzM=#%4
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDEwMy4xNTIuMTUxLjY3OjM5Nzcy#%40SSRSUB-%E5%8F%B0%E6%B9%BES74-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDEwMy4xNTIuMTUxLjg1OjM5Nzcy#%40SSRSUB-%E5%8F%B0%E6%B9%BES75-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
 　</p>
-<p>
-<strong>北京时间2021年2月13日17点03分更新节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
+<p><strong>北京时间2021年2月20日19点15分更新节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
 <br>
-位置 地址 端口 密码 加密方式 协议 混淆<br>
-<br>
-节点1-日本 109.166.37.21 34567 dongtaiwang.com 123abc rc4 origin plian<br>
+位置 地址 端口 密码 加密方式 协议 混淆</p>
+<p>节点1-日本 109.166.37.21 34567 dongtaiwang.com 123abc rc4 origin plian<br>
 节点2-德国 89.163.224.142 12345 dongtaiwang.com 123abc rc4 origin plian<br>
 节点3-西雅图 173.0.55.66 12345 dongtaiwang.com 123abc rc4-md5 origin plain<br>
+节点4-圣何塞 107.148.215.140 8240 passinfo123 rc4-md5 origin plain<br>
+节点5-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
 <br>
 SS节点一键导入地址：<br>
 <br>
