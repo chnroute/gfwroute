@@ -67,7 +67,7 @@ ssr安卓客户端apk下载https://www.freefq.com/sj/2017/12/20/shadowsocksr-and
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2021-02-26 12:16:55<p>　
+所有数据均来自互联网，更新时间：2021-03-01 12:16:55<p>　
 
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -127,21 +127,23 @@ ssr://MTM5LjE2Mi42OC4yNDQ6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhel
 ssr://MTM5LjE2Mi42OC4yNDQ6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNtbDZYbW5LeEJNVGd0NUx1WTZMUzVVMU5TNW82bzZJMlFPblF1WTI0dlJVZEtTWGx5YkEmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ<br>
 ssr://MTM5LjE2Mi43Ni4xNjU6ODA5OTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNtbDZYbW5LeEJNVGt0NUx1WTZMUzVVMU5TNW82bzZJMlFPblF1WTI0dlJVZEtTWGx5YkEmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ<br>
 ssr://MTM5LjE2Mi43Ni4xNjU6ODA5NzpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46WlVsWE1FUnVhelk1TkRVMFpUWnVVM2QxYzNCMk9VUnRVekl3TVhSUk1FUS8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTkwTG1OdUwwVkhTa2w1Y213JnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNtbDZYbW5LeEJNakF0NUx1WTZMUzVVMU5TNW82bzZJMlFPblF1WTI0dlJVZEtTWGx5YkEmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ</p>
-<p><strong>北京时间2021年2月25日7点12分更新日本节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
-<p>位置&nbsp;&nbsp;&nbsp;&nbsp; 地址&nbsp;&nbsp;&nbsp;&nbsp; 端口&nbsp;&nbsp;&nbsp; 密码&nbsp;&nbsp;&nbsp; 
-加密方式 协议 混淆<br>
+<p><strong>北京时间2021年3月1日6点44分新增台湾节点。</strong><strong style="font-weight: 400">为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong><br>
 <br>
+位置 地址 端口 密码 加密方式 协议 混淆</p>
+<p>
 节点1-日本 109.166.37.21 11111 dongtaiwang.com 123abc rc4 origin plian<br>
 节点2-德国 89.163.224.142 12345 dongtaiwang.com 123abc rc4 origin plian<br>
 节点3-西雅图 173.0.55.66 12345 dongtaiwang.com 123abc rc4-md5 origin plain<br>
-<br>
-SSR节点一键导入地址：<br>
+节点4-台湾 59.125.11.158 8158 passinfo123 rc4-md5 origin plain<br>
+　</p>
+<p>SSR节点一键导入地址：<br>
 <br>
 ssr://MTA5LjE2Ni4zNy4yMToxMTExMTpvcmlnaW46cmM0OnBsYWluOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGtnNXBlbDVweXM<br>
 <br>
 ssr://ODkuMTYzLjIyNC4xNDI6MTIzNDU6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01YjYzNVp1OSZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
 <br>
-ssr://MTczLjAuNTUuNjY6MTIzNDU6b3JpZ2luOnJjNC1tZDU6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NktXXzZadUY1WnUtJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw</p>
+ssr://MTczLjAuNTUuNjY6MTIzNDU6b3JpZ2luOnJjNC1tZDU6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NktXXzZadUY1WnUtJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
+　</p>
 
 
 
