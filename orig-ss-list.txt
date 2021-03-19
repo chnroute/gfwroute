@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-03-1<span lang="en-us">7</span> 12:35:55</p>
+免费SS账号所有数据均来自互联网，更新时间：2021-03-1<span lang="en-us">9</span> 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
@@ -116,18 +116,9 @@ ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDQ1Ljg3LjIxMy4zOjMxNTcy#%4
 加密方式<br>
 185.2.100.166 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-212.102.44.93 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-185.44.76.188 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
-207.244.67.149 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 185.44.76.188 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 74.119.146.131 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-207.244.67.149 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-45.87.213.3 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
+207.244.67.149 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 107.181.166.55 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-ssr-01.ssrsub.one 8818 https aes-256-cfb<br>
 45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
-ssr-09.ssrsub.one 8897 https aes-256-cfb<br>
-45.87.213.3 37588 kD9vkjnE6dsUzwQfvKkPkQAd aes-256-gcm<br>
-185.2.100.166 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-ssr-04.ssrsub.one 174 t.me/SSRSUB aes-256-cfb<br>
 198.147.22.87 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm</p>
