@@ -68,40 +68,43 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-03-<span lang="en-us">31</span> 12:35:55</p>
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">4</span>-<span lang="en-us">03</span> 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 <p>sub：</p>
-<p>ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-01.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-02.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-03.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss03-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-04.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss04-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-05.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss05-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-06.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss06-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-07.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss07-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-08.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss08-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-09.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss09-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-10.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss10-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-11.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss11-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-12.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss12-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-13.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss13-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-14.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss14-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-15.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss15-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-16.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss16-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-17.ssrsub.one:152/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss17-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-18.ssrsub.one:1153/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss18-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:t.cn/EGJIyrl<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeUNpSmwzbmI4T0RAc3MudXMuc3NobWF4Lm5ldDo1NzQ3OA#@SSRSUB-%E7%BE%8E%E5%9B%BD%E6%A0%87%E5%87%8619-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub<br>
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg5LjE4Ny4xNjMuMjE1OjMzOTky#@SSRSUB-%E6%96%B0%E5%8A%A0%E5%9D%A1%E6%A0%87%E5%87%8620-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub</p>
+<p>ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-01.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-02.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-03.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss03-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-04.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss04-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-05.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss05-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-06.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss06-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-07.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss07-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-08.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss08-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-09.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss09-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-10.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss10-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-11.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss11-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-12.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss12-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-13.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss13-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-14.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss14-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-15.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss15-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-16.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss16-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206ZGxqLnRmL3NzcnN1Yg==@ss-17.ssrsub.one:154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss17-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206dC5tZS9TU1JTVUI=@ss-18.ssrsub.one:1154/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E4%BF%84%E7%BD%97%E6%96%AFss18-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzeUNpSmwzbmI4T0RAc3MudXMuc3NobWF4Lm5ldDo1NzQ3OA#@SSRSUB-%E7%BE%8E%E5%9B%BDss19-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDE1Ni4xNDYuNTYuMTM1OjMxNzY0#@SSRSUB-%E6%96%B0%E5%8A%A0%E5%9D%A1ss20-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDQ1LjEzMC4xMzcuMzozMTU3Mg#@SSRSUB-%E9%9F%A9%E5%9B%BDss21-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1nY206ZW5jdGRLeUpmU3U3NlZxem5Ld1R0NkFwQDEwMy4xNTIuMTUxLjIxOjM3NDcz#@SSRSUB-%E5%8F%B0%E6%B9%BEss22-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub</p>
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>89.187.163.215 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+<p>103.152.151.21 37473 enctdKyJfSu76VqznKwTt6Ap aes-256-gcm<br>
+45.130.137.3 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
+156.146.56.135 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
 45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
-138.199.9.202 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
-173.0.55.67 37801 dongtaiwang.com 123abc rc4<br>
+<br>
 　</p>
 
 
