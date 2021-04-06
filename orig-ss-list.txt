@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">4</span>-<span lang="en-us">03</span> 12:35:55</p>
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">4</span>-<span lang="en-us">06</span> 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
@@ -99,12 +99,6 @@ ss://YWVzLTI1Ni1nY206ZW5jdGRLeUpmU3U3NlZxem5Ld1R0NkFwQDEwMy4xNTIuMTUxLjIxOjM3NDc
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>103.152.151.21 37473 enctdKyJfSu76VqznKwTt6Ap aes-256-gcm<br>
-45.130.137.3 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
+<p>45.130.137.3 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
-156.146.56.135 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
-45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
-<br>
-　</p>
-
-
+45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb</p>
