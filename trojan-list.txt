@@ -1,1 +1,2 @@
-trojan://389675ea-fd45-4ccd-be25-4df4dbe8ad7f@fuckxijinping.ga:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
+trojan://d48629f1-ac71-45ef-b325-37d73da258e8@gmegme.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
+trojan://79617c79-257d-4063-b2fa-b081b33dd52c@trotro.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
