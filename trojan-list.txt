@@ -1,4 +1,2 @@
-trojan://ssrsub@t03.ssrsub.one:443#%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://fastssh.com@sg1.vless.co:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://d48629f1-ac71-45ef-b325-37d73da258e8@gmegme.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
 trojan://79617c79-257d-4063-b2fa-b081b33dd52c@trotro.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
