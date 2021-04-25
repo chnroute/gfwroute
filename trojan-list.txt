@@ -1,2 +1,2 @@
 trojan://fastssh.com@sg1.vless.co:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://52147717-3969-4dc9-8c18-883c8b3becfe@trojan.internet-cloudflare-accelerate.tk:443#%E6%9C%AA%E7%9F%A5
