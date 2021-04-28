@@ -1,3 +1,1 @@
-trojan://78494a6a-0fe5-4907-839e-6a5cebc6c1bb@ac0c4acc6c3a1c43b.awsglobalaccelerator.com:443#%E7%BE%8E%E5%9B%BD
-trojan://bd2b6f67-16f1-4132-ad67-f910e07fdfd3@trojan-cn2-gia-hk.internet-cloudflare-accelerate.tk:443#%E9%A6%99%E6%B8%AF
 trojan://fastssh.com@sg1.vless.co:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
