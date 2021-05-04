@@ -1,13 +1,4 @@
-trojan://0dbd4d20-6b4e-40a8-8059-975d1ba86d68@fuckxiaofenhong.cf:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://65bd1df7-a825-4da9-bbe5-7e31f59ff070@fuckxiaofenhong.gq:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://df279c3c-4e6f-446a-bfd5-1e618113f041@fuckxiaofenhong.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://db1eb738-bbcd-40dc-806c-e3c3490fa0d0@fuckxibaozi.ga:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://67c66eb2-bfc5-4538-9c6b-396154fd96d6@fuckxijinping.cf:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://6a146e1d-26f3-46ff-834a-c082c203e004@trotro.ml:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://0f137e0f-05ed-4729-8315-30970a73d4eb@xibun.cf:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://3c1bf709-76f7-4cc1-9794-a446c25fbce7@milkgogo.ga:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://840859f1-6870-4917-81f1-594500d49923@fuckxijinping.ga:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://1dd4a069-5832-4fb8-acbf-6f6fd9c6a3cd@chinahright.ml:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://60066169-325e-4114-b307-e14c1facf528@fuckxiaofenhong.tk:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://4573a024-dcc2-4f51-b801-5095777a475d@xibun.gq:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Shinagawa
-trojan://bb716fe1-5134-44da-a41c-5481e4ad8a4d@fuckxiaofenhong.ga:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
+trojan://78494a6a-0fe5-4907-839e-6a5cebc6c1bb@ac0c4acc6c3a1c43b.awsglobalaccelerator.com:443?peer=agajpdeepfaka.ednovas.me&amp;amp;tfo=1&amp;amp;mux=1#%E7%BE%8E%E5%9B%BD
+trojan://eddd5e2a-8dfb-49f5-aa64-ea4f22279963@hk1.ednovas.me:443?peer=hk1.ednovas.me&amp;amp;tfo=1&amp;amp;mux=1#%E6%9C%AA%E7%9F%A5
+trojan://f924f95d-9356-4ed8-8177-cbbe397bc34c@cmi.noten.cyou:443?allowInsecure=0&amp;amp;peer=cmi.noten.cyou&amp;amp;sni=cmi.noten.cyou#%E9%A6%99%E6%B8%AF
+trojan://fastssh.com@sg1.vless.co:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
