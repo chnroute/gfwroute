@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">14</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">16</span> 
 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -149,62 +149,42 @@ ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDkxLjkwLjEyMS4xODc6MzM5OTI
 ss://YWVzLTI1Ni1nY206WmgyTkJKbTVoV0BjMXMyLmphbWphbXMubmV0OjMwMTgx#%40SSRSUB-SS30-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NDNjM2JmZi0zZDliLTQxYjYtODAwZS1hOGFlM2ViMDcxMmFAZmZyZW56eS50azoxMTQ0Mw==#%40SSRSUB-SS31-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 　</p>
+<p>fd:</p>
+<p>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDE=#IE+1<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDI=#IE+2<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDM=#IE+3<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDQ=#IE+4<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDU=#IE+5<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDY=#IE+6<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDc=#IE+7<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDg=#IE+8<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDk=#IE+9<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTA=#IE+10<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTE=#IE+11<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTI=#IE+12<br>
+　</p>
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>52.79.129.60 444 amazonskr05 aes-256-cfb<br>
-45.89.173.205 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-68.71.244.208 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-188.92.78.145 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-ssr3.ssrsub.one 57478 https aes-256-cfb<br>
-3.36.124.242 443 amazonskr05 aes-256-cfb<br>
+<p>ssr3.ssrsub.one 57478 https aes-256-cfb<br>
 ssr7.ssrsub.one 57478 https aes-256-cfb<br>
 ss.sg.sshmax.net 8139 qyzhBfoKRzXl chacha20-ietf-poly1305<br>
 ssr5.ssrsub.one 57478 https aes-256-cfb<br>
-13.115.122.254 443 amazonskr05 aes-256-cfb<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
-13.208.181.223 11443 543c3bff-3d9b-41b6-800e-a8ae3eb0712a chacha20-ietf-poly1305<br>
-ssr4.ssrsub.one 57478 https aes-256-cfb<br>
-143.244.57.99 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-195.206.169.203 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-18.183.215.117 443 amazonskr05 aes-256-cfb<br>
 ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
-146.59.3.33 1443 M1LCZAlfz1bV chacha20-ietf-poly1305<br>
-212.102.35.218 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-54.179.129.148 443 amazonskr05 aes-256-cfb<br>
-ffrenzy.tk 11443 543c3bff-3d9b-41b6-800e-a8ae3eb0712a chacha20-ietf-poly1305<br>
+45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 ssr2.ssrsub.one 57478 https aes-256-cfb<br>
 ssr6.ssrsub.one 57478 https aes-256-cfb<br>
-66.115.182.67 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-91.90.121.187 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-54.179.41.225 443 amazonskr05 aes-256-cfb<br>
-ss.au.sshmax.net 1443 kRAxb8hPUxS0 chacha20-ietf-poly1305<br>
 ss.de.sshmax.net 21474 cWv8FcJk0VpS chacha20-ietf-poly1305<br>
 ss.ca.sshmax.net 1443 r4TeEt5bK0UD chacha20-ietf-poly1305<br>
-194.110.115.85 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-188.92.78.203 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
 ss.uk.sshmax.net 1443 JSvsHhHYIuVG chacha20-ietf-poly1305<br>
-ss.pl.sshmax.net 1443 M1LCZAlfz1bV chacha20-ietf-poly1305<br>
-52.78.33.67 443 amazonskr05 aes-256-cfb<br>
 ss.id.sshmax.net 57478 ku382YXK8cLE chacha20-ietf-poly1305<br>
 173.0.55.67 13011 dongtaiwang.com 123abc rc4<br>
-89.46.223.239 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-82.102.26.91 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 ss.sg.sshmax.net 1443 grtvkkHAinCf chacha20-ietf-poly1305<br>
-188.92.78.145 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-143.244.42.86 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 ssr8.ssrsub.one 57478 https aes-256-cfb<br>
 android.ufunr.me 8888 123 aes-256-cfb<br>
-119.147.144.250 18834 daCxNwo600NW aes-256-gcm<br>
-212.102.44.66 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-188.92.78.203 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-3.36.100.242 443 amazonskr05 aes-256-cfb<br>
-c1s2.jamjams.net 30181 Zh2NBJm5hW aes-256-gcm<br>
-ss.fr.sshmax.net 1443 6nhHHuGHw2D5 chacha20-ietf-poly1305<br>
 207.244.67.149 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-103.156.50.91 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-193.29.106.197 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-5.189.202.9 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-ssr1.ssrsub.one 57478 https aes-256-cfb<br>
-81.19.214.37 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm</p>
+<br>
+　</p>
+
