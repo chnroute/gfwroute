@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">16</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">18</span> 
 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -162,29 +162,51 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDk=#IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTA=#IE+10<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTE=#IE+11<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTI=#IE+12<br>
+trojan://4krgbBXY@t9.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2027<br>
+trojan://8l5DUdeb@t4.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2028<br>
+trojan://AQ4K3wJZ@t10.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2029<br>
+ss://YWVzLTI1Ni1jZmI6MTIz@android.ufunr.me:8888#翻墙党fanqiangdang.com%20-%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%97%A0%E9%94%A1%E5%B8%82%E7%94%B5%E4%BF%A1%2030<br>
+trojan://KWEeV3fI@t3.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2031<br>
+trojan://a0Ndyox5@t3.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2032<br>
+trojan://XHgvdhp7@t10.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2033<br>
 　</p>
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>ssr3.ssrsub.one 57478 https aes-256-cfb<br>
-ssr7.ssrsub.one 57478 https aes-256-cfb<br>
-ss.sg.sshmax.net 8139 qyzhBfoKRzXl chacha20-ietf-poly1305<br>
+<p>45.144.176.16 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
+45.62.252.118 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
+ssr3.ssrsub.one 57478 https aes-256-cfb<br>
+45.62.245.105 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
+45.89.228.61 13555 lncn.org w6 rc4<br>
+173.0.55.67 25112 dongtaiwang.com 123abc rc4<br>
 ssr5.ssrsub.one 57478 https aes-256-cfb<br>
+ss.ru.sshmax.net 1443 KACUGSkPS3FG chacha20-ietf-poly1305<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
+ssr4.ssrsub.one 57478 https aes-256-cfb<br>
+207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
+13.112.80.50 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
+185.22.153.65 13555 lncn.org j8 rc4<br>
 45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 ssr2.ssrsub.one 57478 https aes-256-cfb<br>
 ssr6.ssrsub.one 57478 https aes-256-cfb<br>
 ss.de.sshmax.net 21474 cWv8FcJk0VpS chacha20-ietf-poly1305<br>
+46.29.165.133 13555 lncn.org w6 rc4<br>
+85.117.235.31 13555 lncn.org j8 rc4<br>
 ss.ca.sshmax.net 1443 r4TeEt5bK0UD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 1443 JSvsHhHYIuVG chacha20-ietf-poly1305<br>
-ss.id.sshmax.net 57478 ku382YXK8cLE chacha20-ietf-poly1305<br>
-173.0.55.67 13011 dongtaiwang.com 123abc rc4<br>
+46.29.164.91 13555 lncn.org j7 rc4<br>
+176.32.32.30 13555 lncn.org j7 rc4<br>
+194.147.33.234 13555 lncn.org w6 rc4<br>
+45.62.246.12 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
 ss.sg.sshmax.net 1443 grtvkkHAinCf chacha20-ietf-poly1305<br>
-ssr8.ssrsub.one 57478 https aes-256-cfb<br>
 android.ufunr.me 8888 123 aes-256-cfb<br>
-207.244.67.149 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+221.228.99.36 8888 123 aes-256-cfb<br>
+91.188.223.113 13555 lncn.org w6 rc4<br>
+45.129.3.242 13555 lncn.org j8 rc4<br>
+45.147.201.26 13555 lncn.org j8 rc4<br>
 <br>
 　</p>
+
 
