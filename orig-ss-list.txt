@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">18</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">20</span> 
 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -162,51 +162,65 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MDk=#IE
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTA=#IE+10<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTE=#IE+11<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTI=#IE+12<br>
-trojan://4krgbBXY@t9.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2027<br>
-trojan://8l5DUdeb@t4.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2028<br>
-trojan://AQ4K3wJZ@t10.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2029<br>
-ss://YWVzLTI1Ni1jZmI6MTIz@android.ufunr.me:8888#翻墙党fanqiangdang.com%20-%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%97%A0%E9%94%A1%E5%B8%82%E7%94%B5%E4%BF%A1%2030<br>
-trojan://KWEeV3fI@t3.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2031<br>
-trojan://a0Ndyox5@t3.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2032<br>
-trojan://XHgvdhp7@t10.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2033<br>
-　</p>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZ0NNbGdidFFNeGw@ss.de.sshmax.net:21474#翻墙党fanqiangdang.com%20-%20%E8%8B%B1%E5%9B%BD%E7%A4%BE%E4%BC%9A%E4%BF%9D%E9%99%A9%E5%AE%89%E5%85%A8%E9%83%A8%2016<br>
+trojan://R5DNgT2E@t5.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2017<br>
+trojan://oniTKdGW@t1.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2018<br>
+trojan://AQ4K3wJZ@t10.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%20%2019<br>
+trojan://Od80tcru@t1.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2020<br>
+vmess://eyJ2IjogIjIiLCAicHMiIDoi57+75aKZ5YWaZmFucWlhbmdkYW5nLmNvbSIsIiIgOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTk3ZTlcdTU2ZmRcdTk5OTZcdTVjMTRDaG9vcGFcdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMjEiLCAiYWRkIjogImJpZ3N1ci5jZiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI1NGQ0OGIzZS04OWY1LTExZWItYTU3ZC01NjAwMDM0MjZiZGMiLCAiYWlkIjogIjEyIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJiaWdzdXIuY2YiLCAicGF0aCI6ICIvd3lDblg1RGMvIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiJ9<br>
+trojan://N8l9RGMa@t2.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2022<br>
+vmess://eyJhZGQiOiAiMjMuMjI0LjE2NC4xMDAiLCAidiI6ICIyIiwgInBzIiA6Iue/u+WimeWFmmZhbnFpYW5nZGFuZy5jb20iLCIiIDogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkXHU1MmEwXHU1MjI5XHU3OThmXHU1YzNjXHU0ZTlhXHU1ZGRlXHU2ZDFiXHU2NzQ5XHU3N2Y2XHU1ZTAyQ29wZXJhdGlvbiBDb2xvY3Rpb25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMjMiLCAicG9ydCI6IDQ0MywgImlkIjogImQyNWE2NTgzLTUyY2EtNDk2Zi04N2FlLWYyMjc1YjNiMGRkZCIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiL3BhdGgvMTYwMzE3MzQyNTA2IiwgInRscyI6ICJ0bHMifQ==<br>
+trojan://7LKeQVSq@t2.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2024<br>
+vmess://eyJ2IjogIjIiLCAicHMiIDoi57+75aKZ5YWaZmFucWlhbmdkYW5nLmNvbSIsIiIgOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDI1IiwgImFkZCI6ICIxMDQuMTguNy4xMzgiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiM2I1ZTI1OGUtOGM1ZS00NWQzLWI3ZDItMDJjOGY1ZmMwYmIyIiwgImFpZCI6ICI2NCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiY2RuZGUuaXJ0ZXl6LnRvZGF5IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIifQ==<br>
+trojan://8l5DUdeb@t4.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2026<br>
+trojan://BzSTIgwh@t5.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2027<br>
+ss://YWVzLTI1Ni1jZmI6MTIz@android.ufunr.me:8888#翻墙党fanqiangdang.com%20-%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%97%A0%E9%94%A1%E5%B8%82%E7%94%B5%E4%BF%A1%2028<br>
+trojan://QWKM5g6D@t6.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9AJustHost%2029<br>
+trojan://fFHV52LP@t4.ssrsub.one:443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%2030<br>
+trojan://qN7AKCF3@t6.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9AJustHost%2031<br>
+<br>
+trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@kaizen-hk-2.cn0.me:443?allowInsecure=1#%F0%9F%87%AD%F0%9F%87%B0ShareCentre%20HK<br>
+trojan://403f7d6d-1e6d-40dc-911b-20970b0c961f@40.83.122.237:10000?allowInsecure=1&amp;amp;peer=hk1.xxl123.fun&amp;amp;sni=hk1.xxl123.fun#ShareCentre-HK</p>
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
 <p>45.144.176.16 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
 45.62.252.118 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
-ssr3.ssrsub.one 57478 https aes-256-cfb<br>
 45.62.245.105 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
-45.89.228.61 13555 lncn.org w6 rc4<br>
 173.0.55.67 25112 dongtaiwang.com 123abc rc4<br>
+ss.sg.sshmax.net 8139 qyzhBfoKRzXl chacha20-ietf-poly1305<br>
 ssr5.ssrsub.one 57478 https aes-256-cfb<br>
 ss.ru.sshmax.net 1443 KACUGSkPS3FG chacha20-ietf-poly1305<br>
+34.244.63.147 812 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
+34.244.63.147 802 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 ssr4.ssrsub.one 57478 https aes-256-cfb<br>
+34.244.63.147 808 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
+34.244.63.147 804 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
-13.112.80.50 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
-185.22.153.65 13555 lncn.org j8 rc4<br>
-45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 ssr2.ssrsub.one 57478 https aes-256-cfb<br>
+45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
+34.244.63.147 810 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 ssr6.ssrsub.one 57478 https aes-256-cfb<br>
 ss.de.sshmax.net 21474 cWv8FcJk0VpS chacha20-ietf-poly1305<br>
-46.29.165.133 13555 lncn.org w6 rc4<br>
-85.117.235.31 13555 lncn.org j8 rc4<br>
+ss.au.sshmax.net 1443 kRAxb8hPUxS0 chacha20-ietf-poly1305<br>
+34.244.63.147 801 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 ss.ca.sshmax.net 1443 r4TeEt5bK0UD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 1443 JSvsHhHYIuVG chacha20-ietf-poly1305<br>
-46.29.164.91 13555 lncn.org j7 rc4<br>
-176.32.32.30 13555 lncn.org j7 rc4<br>
-194.147.33.234 13555 lncn.org w6 rc4<br>
+34.244.63.147 805 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
+34.244.63.147 803 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
+34.244.63.147 806 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
+ss.id.sshmax.net 57478 ku382YXK8cLE chacha20-ietf-poly1305<br>
 45.62.246.12 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
+34.244.63.147 809 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 ss.sg.sshmax.net 1443 grtvkkHAinCf chacha20-ietf-poly1305<br>
 android.ufunr.me 8888 123 aes-256-cfb<br>
+34.244.63.147 807 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 221.228.99.36 8888 123 aes-256-cfb<br>
-91.188.223.113 13555 lncn.org w6 rc4<br>
-45.129.3.242 13555 lncn.org j8 rc4<br>
-45.147.201.26 13555 lncn.org j8 rc4<br>
-<br>
-　</p>
+34.244.63.147 811 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
+ss.fr.sshmax.net 1443 6nhHHuGHw2D5 chacha20-ietf-poly1305</p>
+
 
 
