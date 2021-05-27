@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">25</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">27</span> 
 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -90,20 +90,17 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMzQuMjQ0LjYzLjE0Nzo4MTI=#IE
 　</p>
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-加密方式</p>
-<p>ssr4.ssrsub.one 57479 https aes-256-cfb<br>
-146.59.0.168 809 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
-ss.sg.sshmax.net 8139 qyzhBfoKRzXl chacha20-ietf-poly1305<br>
+加密方式<br>
+ssr4.ssrsub.one 57479 https aes-256-cfb<br>
 ss.ru.sshmax.net 1443 KACUGSkPS3FG chacha20-ietf-poly1305<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
-207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
-45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 ssr5.ssrsub.one 57479 https aes-256-cfb<br>
+45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 ssr6.ssrsub.one 57479 https aes-256-cfb<br>
-ss.au.sshmax.net 1443 kRAxb8hPUxS0 chacha20-ietf-poly1305<br>
 ss.de.sshmax.net 21474 cWv8FcJk0VpS chacha20-ietf-poly1305<br>
+ss.au.sshmax.net 1443 kRAxb8hPUxS0 chacha20-ietf-poly1305<br>
 ss.ca.sshmax.net 1443 r4TeEt5bK0UD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 1443 JSvsHhHYIuVG chacha20-ietf-poly1305<br>
 ss.id.sshmax.net 57478 ku382YXK8cLE chacha20-ietf-poly1305<br>
@@ -112,7 +109,8 @@ ss.sg.sshmax.net 1443 grtvkkHAinCf chacha20-ietf-poly1305<br>
 android.ufunr.me 8888 123 aes-256-cfb<br>
 221.228.99.36 8888 123 aes-256-cfb<br>
 ss.fr.sshmax.net 1443 6nhHHuGHw2D5 chacha20-ietf-poly1305<br>
-ssr2.ssrsub.one 57479 https aes-256-cfb</p>
+ssr2.ssrsub.one 57479 https aes-256-cfb<br>
+　</p>
 
 
 
