@@ -68,7 +68,7 @@
 <br>
 SS客户端https://shadowsocks.org/en/download/clients.html <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">5</span>-<span lang="en-us">31</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">6</span>-<span lang="en-us">02</span> 
 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -125,60 +125,46 @@ ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDkxLjkwLjEyMy4xNTU6MzE1NzI
 <p>　</p>
 <p>fd:</p>
 <p>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToyZmE0NTIyZi1iMjY2LTQ0MTktYWMyYy02N2NkOTk4OThiYjA@cslt.mfjlb.top:51026#VIP%E9%A6%99%E6%B8%AFhgc%20%7C%20%E9%95%BF%E6%B2%99%E8%81%94%E9%80%9A%20%7C%20%E5%8E%9F%E7%94%9F%20%E6%B5%8B%E8%AF%95<br>
-ss://YWVzLTI1Ni1jZmI6MTIz@android.ufunr.me:8888#翻墙党fanqiangdang.com%20-%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%97%A0%E9%94%A1%E5%B8%82%E7%94%B5%E4%BF%A1%201<br>
-trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g21.newword.site:443#SG+EC2+01<br>
-trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g22.newword.site:443#SG+EC2+02<br>
-trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g23.newword.site:443#SG+EC2+03<br>
-trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g24.newword.site:443#SG+EC2+04<br>
-trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g25.newword.site:443#SG+EC2+05<br>
+ss://YWVzLTI1Ni1jZmI6MTIz@android.ufunr.me:8888#翻墙党fanqiangdang.com%20-%20%E6%B1%9F%E8%8B%8F%E7%9C%81%E6%97%A0%E9%94%A1%E5%B8%82%E7%94%B5%E4%BF%A1%202<br>
+<br>
+trojan://9f07cde43d08d5b0debb2793fd7bc6b0@154.208.10.222:443?allowInsecure=1&amp;amp;allowInsecureHostname=1&amp;amp;allowInsecureCertificate=1&amp;amp;sessionTicket=1&amp;amp;tfo=1&amp;amp;sni=trojan-tabby-cera-222-wusa.speedtestcustom.tk#Tabby-CERA-WUSA<br>
 trojan://9f07cde43d08d5b0debb2793fd7bc6b0@154.208.10.222:443?allowInsecure=1&amp;amp;allowInsecureHostname=1&amp;amp;allowInsecureCertificate=1&amp;amp;sessionTicket=1&amp;amp;tfo=1&amp;amp;sni=trojan-tabby-cera-222-wusa.speedtestcustom.tk#Tabby-CERA-WUSA<br>
 trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g21.newword.site:443#SG+EC2+01<br>
+trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g21.newword.site:443#SG+EC2+01<br>
+trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g22.newword.site:443#SG+EC2+02<br>
 trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g22.newword.site:443#SG+EC2+02<br>
 trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g23.newword.site:443#SG+EC2+03<br>
+trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g23.newword.site:443#SG+EC2+03<br>
+trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g24.newword.site:443#SG+EC2+04<br>
 trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g24.newword.site:443#SG+EC2+04<br>
 trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g25.newword.site:443#SG+EC2+05<br>
-trojan://vnsD7WKXpO@t6.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E4%BF%84%E7%BD%97%E6%96%AF%E6%96%B0%E8%A5%BF%E4%BC%AF%E5%88%A9%E4%BA%9AJustHost%2012<br>
+trojan://c7aa3290-7815-4c47-91da-ede5ed3762d2@g25.newword.site:443#SG+EC2+05<br>
+trojan://O1nwKkP9@t1.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%206<br>
+trojan://PQ3MWj5G@t2.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E5%AE%89%E5%A4%A7%E7%95%A5%E7%9C%81%E5%9F%BA%E5%A5%87%E7%BA%B3DataCity%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%204<br>
+trojan://zoAIDgHp@t7.ssrsub.one:8443#翻墙党fanqiangdang.com%20-%20%E7%BE%8E%E5%9B%BD%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AFBuyVM%205<br>
 <br>
 <br>
 yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
 <p>ss.ca.sshmax.net 1443 r4TeEt5bK0UD chacha20-ietf-poly1305<br>
-45.89.173.205 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-45.62.245.68 57480 https://dlj.tf/ssrsub aes-256-cfb<br>
-135.125.248.215 811 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
-ss.uk.sshmax.net 1443 JSvsHhHYIuVG chacha20-ietf-poly1305<br>
 ss.sg.sshmax.net 8139 qyzhBfoKRzXl chacha20-ietf-poly1305<br>
-85.10.50.164 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 ss.ru.sshmax.net 1443 KACUGSkPS3FG chacha20-ietf-poly1305<br>
-45.62.245.105 57480 https://dlj.tf/ssrsub aes-256-cfb<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
-ss.uk.sshmax.net 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
-85.10.50.164 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-ssr3.ssrsub.one 57480 https aes-256-cfb<br>
 89.46.223.239 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 ss.sg.sshmax.net 1443 grtvkkHAinCf chacha20-ietf-poly1305<br>
 ssr1.ssrsub.one 57480 https aes-256-cfb<br>
-194.53.108.130 8443 mtproto.cc2021 aes-256-gcm<br>
 141.98.134.21 8443 205hsohfsNFHG2342523 chacha20-ietf-poly1305<br>
 android.ufunr.me 8888 123 aes-256-cfb<br>
 ssr4.ssrsub.one 57480 https aes-256-cfb<br>
-167.88.63.29 806 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
 207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 221.228.99.36 8888 123 aes-256-cfb<br>
-207.244.67.149 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
 ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
-45.89.173.205 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
-146.59.3.33 1443 M1LCZAlfz1bV chacha20-ietf-poly1305<br>
-ssr5.ssrsub.one 57480 https aes-256-cfb<br>
+207.244.67.149 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
 ss.fr.sshmax.net 1443 6nhHHuGHw2D5 chacha20-ietf-poly1305<br>
+45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 ssr2.ssrsub.one 57480 https aes-256-cfb<br>
 207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
-45.62.246.12 57480 https://dlj.tf/ssrsub aes-256-cfb<br>
-91.90.121.163 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 45.62.252.118 57480 https://dlj.tf/ssrsub aes-256-cfb<br>
-89.163.224.142 33118 dongtaiwang.com 123abc rc4<br>
-104.200.131.165 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-173.0.55.68 22003 dongtaiwang.com 123abc rc4<br>
 ss.de.sshmax.net 21474 cWv8FcJk0VpS chacha20-ietf-poly1305<br>
-　</p>
+173.0.55.68 22003 dongtaiwang.com 123abc rc4</p>
