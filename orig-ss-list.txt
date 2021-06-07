@@ -72,7 +72,7 @@ SS客户端</p>
 winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">网站下载</span></a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">|</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://www.mediafire.com/folder/oxslwbt7gtjs2/winXray">网盘备份下载</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">|已被删除：</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://github.com/winXray/winXray/tree/master/release">官方下载(2合1版)</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">（</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://github.com/winXray/winXray/tree/master/release/winXray32.7z">32位版</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">、</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://github.com/winXray/winXray/tree/master/release/winXray.7z">64位版</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">）</span><p>
 <a href="https://shadowsocks.org/en/download/clients.html">https://shadowsocks.org/en/download/clients.html</a> <br>
 Free SS <br>
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">6</span>-<span lang="en-us">06</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">6</span>-<span lang="en-us">07</span> 
 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -127,21 +127,30 @@ ss://YWVzLTI1Ni1nY206Z1lMODNEUVdYdURieG1aQVZWdFVUWGFLQDg0LjE3LjM1LjExODo0NjY0Mg=
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDg0LjE3LjM1Ljg2OjM5Nzcy#%40SSRSUB-SS18-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDg5LjQ2LjIyMy4yMzk6Mzk3NzI=#%40SSRSUB-SS19-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTkzLjkuMTE0LjM0OjgwNQ==#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE4NS4xMDguMTA2LjE3NjozOTc3Mg==#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE4NS40NC43Ni4xODg6MzE1NzI=#%40SSRSUB-SS9-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTkzLjkuMTE0LjM0OjgwNQ==#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
 ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdCQDE5NS40Ny4xOTQuNzk6NDkzOTY=#%40SSRSUB-SS11-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VTQDIuNTguMjQyLjQzOjM4MDMz#%40SSRSUB-SS12-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hlQDIwNy4yNDQuNjcuMTQ5OjMzOTk4#%40SSRSUB-SS13-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDIxMi4xMDIuMzYuMjM0OjM3NTg4#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZKQDIxMi4xMDIuMzYuMjM0OjQ4OTM4#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
 ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIxMi4xMDIuMzYuMjM0OjMzOTky#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRrQDIxMi4xMDIuMzYuMjM0OjQ3MTIx#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206YVlOZUtETXpZUVl3NEtiVWJKQThXc3pxQDIxMi4xMDIuMzYuMjM0OjMxOTQ0#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206S3F1djVVaHZaWE5NZW1BUXk4RHhaN3FuQDIxMi4xMDIuMzYuMjM0OjM4NjIw#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206cjlRM2FkYzNydTlzZkJEUEVqNHlwNlU2QDIxMi4xMDIuMzYuMjM0OjQ4Nzk0#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206TGtGQXprelhrU0NSWWEyQ3NSZEw4Y0diQDIxMi4xMDIuMzYuMjM0OjM0ODE1#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNwQDIxMi4xMDIuMzYuMjM0OjQ0MjM2#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-ss://YWVzLTI1Ni1nY206anNwZ3o5RzNWbXZCTUNnTVVXTEJhWkh1QDIxMi4xMDIuMzYuMjM0OjQ0ODIw#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
-trojan://fastssh.com@sg1.vless.co:443#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
+ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDIxMi4xMDIuMzYuMjM0OjMxNzY0#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
+ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05kQDIxMi4xMDIuMzYuMjM0OjQ5MTI2#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
+ss://YWVzLTI1Ni1nY206d3JDYUd0clViemVScVFMZGM4S21rM05kQDg0LjE3LjM1LjExODo0OTEyNg==#%40SSRSUB-SS16-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206Z1lMODNEUVdYdURieG1aQVZWdFVUWGFLQDg0LjE3LjM1LjExODo0NjY0Mg==#%40SSRSUB-SS17-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDg0LjE3LjM1Ljg2OjM5Nzcy#%40SSRSUB-SS18-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDg5LjQ2LjIyMy4yMzk6Mzk3NzI=#%40SSRSUB-SS19-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTkzLjkuMTE0LjM0OjgwNQ==#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTkzLjkuMTE0LjM0OjgwNQ==#KingFu%e6%99%af%e7%a6%8f%40YouTuBe%e8%af%b7%e8%ae%a2%e9%98%85<br>
+trojan://CNd95TWH@t2.ssrsub.one:8443#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7T2-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+trojan://GUulsP45@t6.ssrsub.one:8443#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afT6-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 trojan://nLEChqth@trojan.iloveu.com:443#NONE<br>
+trojan://nLEChqth@trojan.iloveu.com:443#NONE<br>
+trojan://CNd95TWH@t2.ssrsub.one:8443#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7T2-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+trojan://rvAjK7R2@t3.ssrsub.one:8443#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7T3-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+trojan://KTxHfpze@t4.ssrsub.one:8443#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7T4-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+<br>
+<br>
 <br>
 yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
@@ -150,37 +159,44 @@ yn:</p>
 ss.ca.sshmax.net 1443 r4TeEt5bK0UD chacha20-ietf-poly1305<br>
 84.17.35.86 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 212.102.44.83 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+212.102.36.234 47121 CTK8GXFQgKYQErrghPJfZ6tk aes-256-gcm<br>
+212.102.36.234 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
 p5.22332e.com 8333 passfw2xs4e! rc4-md5<br>
 51.195.149.30 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 1443 JSvsHhHYIuVG chacha20-ietf-poly1305<br>
 84.17.35.78 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-ss.sg.sshmax.net 8139 qyzhBfoKRzXl chacha20-ietf-poly1305<br>
+2.58.242.43 38033 xpQwyV4W5FdA6NMANJJx73US aes-256-gcm<br>
+212.102.36.234 44236 FWrXcxPZjJxAN89xLgqY3Acp aes-256-gcm<br>
+212.102.36.234 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+84.17.35.118 49126 wrCaGtrUbzeRqQLdc8Kmk3Nd aes-256-gcm<br>
 138.199.16.152 49396 BdRWC38L5JUDMTYNNxJGcUwB aes-256-gcm<br>
 89.187.163.215 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+212.102.36.234 48794 r9Q3adc3ru9sfBDPEj4yp6U6 aes-256-gcm<br>
 ss.us.sshmax.net 57478 syCiJl3nb8OD chacha20-ietf-poly1305<br>
 ss.uk.sshmax.net 57478 HgVDIN05O6bH chacha20-ietf-poly1305<br>
 23.82.11.49 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
-ss.sg.sshmax.net 1443 grtvkkHAinCf chacha20-ietf-poly1305<br>
+89.46.223.239 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 198.147.22.87 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 212.102.44.81 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 212.102.44.83 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 android.ufunr.me 8888 123 aes-256-cfb<br>
 143.244.42.71 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 221.228.99.36 8888 123 aes-256-cfb<br>
-ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
 207.244.67.149 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
+ss.us.sshmax.net 1443 T3j6elRwEuA4 chacha20-ietf-poly1305<br>
 84.17.35.118 48938 4ejJ8n5ddLuYDUHGXJre2ufJ aes-256-gcm<br>
 146.59.3.33 1443 M1LCZAlfz1bV chacha20-ietf-poly1305<br>
 117.28.243.187 8333 passfw2xs4e! rc4-md5<br>
+13.112.80.50 57478 https://dlj.tf/ssrsub aes-256-cfb<br>
 212.102.35.218 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
 ss.fr.sshmax.net 1443 6nhHHuGHw2D5 chacha20-ietf-poly1305<br>
 23.82.11.49 37588 kD9vkjnE6dsUzwQfvKkPkQAd aes-256-gcm<br>
-207.244.67.149 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+212.102.36.234 38620 Kquv5UhvZXNMemAQy8DxZ7qn aes-256-gcm<br>
 45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
-207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+212.102.36.234 44820 jspgz9G3VmvBMCgMUWLBaZHu aes-256-gcm<br>
 84.17.35.118 49396 BdRWC38L5JUDMTYNNxJGcUwB aes-256-gcm<br>
 91.90.121.187 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
-173.0.55.68 22003 dongtaiwang.com 123abc rc4<br>
+212.102.36.234 34815 LkFAzkzXkSCRYa2CsRdL8cGb aes-256-gcm<br>
 ss.de.sshmax.net 21474 cWv8FcJk0VpS chacha20-ietf-poly1305<br>
-　</p>
+173.0.55.68 22003 dongtaiwang.com 123abc rc4</p>
+
