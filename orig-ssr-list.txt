@@ -40,7 +40,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2021-06-29 22:16:55</font><p><font face="宋体">　
+所有数据均来自互联网，更新时间：2021-06-30 22:16:55</font><p><font face="宋体">　
 
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -92,17 +92,13 @@ ssr://c3NyNS5zc3JzdWIub25lOjQ3NDgxOm9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNk
 ssr://MjIxLjIyOC45OS4zNzo4ODg4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpNVEl6Lz9vYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OWtiR291ZEdZdmMzTnljM1ZpJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNrdUszbG03MXpjM0l3Tmkza3U1am90TG5tanFqb2paQTZjM1Z2TG5sMEwzTnpjbk4xWWcmZ3JvdXA9ZEM1dFpTOVRVMUpUVlVJ</p>
 <p>al:</p>
 <p>
-<strong>北京时间2021年6月29日15点46分封锁加重，更新全部节点。</strong>为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</p>
+<strong>北京时间2021年6月30日16点54分近期封锁加重，更新节点。</strong>为了让每个人都能获得一定的带宽资源，节点进行了限速500kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</p>
 <p>位置 地址 端口 密码 加密方式 协议 混淆<br>
-洛杉矶1 104.207.154.109 12345 dongtaiwang.com 123abc aes-256-ctr auth_chain_a 
-random_head<br>
-洛杉矶2 45.76.173.58 23456 dongtaiwang.com 123abc salsa20 auth_chain_a http_simple<br>
+日本 45.77.131.193 45678 dongtaiwang.com 123abc chacha20-ietf origin http_simple<br>
 <br>
 SSR节点一键导入地址：<br>
 <br>
-ssr://MTA0LjIwNy4xNTQuMTA5OjEyMzQ1OmF1dGhfY2hhaW5fYTphZXMtMjU2LWN0cjpyYW5kb21faGVhZDpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01clNiNXAySjU1LTJVMU5TTVEmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr<br>
-<br>
-ssr://NDUuNzYuMTczLjU4OjIzNDU2OmF1dGhfY2hhaW5fYTpzYWxzYTIwOmh0dHBfc2ltcGxlOlpHOXVaM1JoYVhkaGJtY3VZMjl0SURFeU0yRmlZdy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVyU2I1cDJKNTUtMlUxTlNNZyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs</p>
+ssr://NDUuNzcuMTMxLjE5Mzo0NTY3ODpvcmlnaW46Y2hhY2hhMjAtaWV0ZjpodHRwX3NpbXBsZTpaRzl1WjNSaGFYZGhibWN1WTI5dElERXlNMkZpWXcvP29iZnNwYXJhbT0mcmVtYXJrcz01cGVsNXB5c1UxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrJnVvdD0x</p>
 
 
 
