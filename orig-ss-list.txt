@@ -74,7 +74,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 <p>
 <br>
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">7</span>-<span lang="en-us">01</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">7</span>-<span lang="en-us">02</span> 
 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -142,10 +142,11 @@ ss://YWVzLTI1Ni1jZmI6MTIzQDIyMS4yMjguOTkuMzc6ODg4OA==#%40SSRSUB-%E4%B8%AD%E5%9B%
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+<p>207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+91.90.123.115 45329 CXSjgD7u7Ar7GxkZ4CgTMUsj aes-256-gcm<br>
+207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
 89.46.223.239 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 221.228.99.37 8888 123 aes-256-cfb<br>
-23.82.11.49 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
 91.90.123.115 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-91.90.123.115 45329 CXSjgD7u7Ar7GxkZ4CgTMUsj aes-256-gcm</p>
+85.10.50.164 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+　</p>
