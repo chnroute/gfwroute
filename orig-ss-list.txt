@@ -74,7 +74,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 <p>
 <br>
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">7</span>-<span lang="en-us">02</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">7</span>-<span lang="en-us">03</span> 
 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -82,32 +82,30 @@ Free SS
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 <p>fd:&nbsp;<br>
 <br>
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE1Ni4xNDYuMzMuNzM6NDAwOTM=#156.146.33.73:40093<br>
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDE0My4yNDQuNTcuOTk6Mzk3NzI=#143.244.57.99:39772<br>
-ss://YWVzLTI1Ni1nY206eHBRd3lWNFc1RmRBNk5NQU5KSng3M1VTQDIuNTguMjQyLjQzOjM4MDMz#2.58.242.43:38033<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpLQUNVR1NrUFMzRkdAc3MucnUuc3NobWF4Lm5ldDoxNDQz#ss.ru.sshmax.net:1443<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTp4aWFvZG9uZ3lvdXR1YmVyQDgwLjg1LjE1Ni4zMTozNzcwNQ==#80.85.156.31:37705<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDUuMTg5LjIwMi45OjMxNTcy#5.189.202.9:31572<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDEzOS4yOC4xNzYuNTM6MzE1NzI=#139.28.176.53:31572<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE5NC4xMTAuMTE1Ljg1OjMxNTcy#194.110.115.85:31572<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE5My4yOS4xMDYuMTk3OjMxNTcy#193.29.106.197:31572<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDkxLjkwLjEyMS4xNjM6MzE1NzI=#91.90.121.163:31572<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE5My4yOS4xMDcuMTg3OjMxNTcy#193.29.107.187:31572<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDkxLjkwLjEyMy4xODk6MzE1NzI=#91.90.123.189:31572<br>
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDkxLjkwLjEyMS4xODc6MzM5OTI=#91.90.121.187:33992<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDkxLjkwLjEyMy4xNTU6MzE1NzI=#91.90.123.155:31572<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMUxDWkFsZnoxYlZAc3MucGwuc3NobWF4Lm5ldDoxNDQz#ss.pl.sshmax.net:1443<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNMUxDWkFsZnoxYlZAMTQ2LjU5LjMuMzM6MTQ0Mw==#146.59.3.33:1443<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9AMTQ2LjU5LjAuMTY4OjgwOQ==#146.59.0.168:809<br>
-ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDIxMi4xMDIuMzUuMjE4OjMxNTcy#212.102.35.218:31572<br>
-trojan://nLEChqth@trojan.iloveu.com:443?sni=trojan.iloveu.com<br>
-trojan://RNLMWlse@trojan.woaicn666.net:443<br>
-trojan://8d4ab0f0-79be-11eb-be0b-1239d0255272@id2-trojan.bonds.id:443#Relay_%20%7C11.23Mb<br>
-trojan://23115_5a451f03@tky3.ssgnode.ga:443#%F0%9F%87%AF%F0%9F%87%B5JP_1402<br>
-trojan://94af0550-902b-11eb-b135-1239d0255272@nl-trojan.bonds.id:443#Relay_%20%7C44.71Mb<br>
-trojan://23115_5a451f03@tky3.ssgnode.ga:443?sni=tky3.ssgnode.ga#%F0%9F%87%AF%F0%9F%87%B5JP_1402<br>
-trojan://4c7985e0-79e8-11eb-b8d3-1239d0255272@sg3-trojan.bonds.id:443#%F0%9F%87%B8%F0%9F%87%ACSG_1899<br>
-trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@sg3-trojan.bonds.id:443#%F0%9F%87%B8%F0%9F%87%ACSG_1898<br>
+ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdCQDE5NS40Ny4xOTQuNzk6NDkzOTY=#195.47.194.79:49396<br>
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDE5NS40Ny4xOTQuNDI6NDAwOTM=#195.47.194.42:40093<br>
+ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1YkBzczMuc3Nyc3ViLm9uZTo2NDQz#ss3.ssrsub.one:6443<br>
+ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1YkBzczUuc3Nyc3ViLm9uZTo2NDQz#ss5.ssrsub.one:6443<br>
+ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1YkBzczIuc3Nyc3ViLm9uZTo2NDQz#ss2.ssrsub.one:6443<br>
+ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1YkBzczEuc3Nyc3ViLm9uZTo2NDQz#ss1.ssrsub.one:6443<br>
+ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1YkBzczQuc3Nyc3ViLm9uZTo2NDQz#ss4.ssrsub.one:6443<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyNFRlRXQ1YkswVURAc3MuY2Euc3NobWF4Lm5ldDoxNDQz#ss.ca.sshmax.net:1443<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTprUkF4YjhoUFV4UzBAc3MuYXUuc3NobWF4Lm5ldDoxNDQz#ss.au.sshmax.net:1443<br>
+ss://YWVzLTI1Ni1nY206Z1lMODNEUVdYdURieG1aQVZWdFVUWGFLQDQ1LjEzNC4yMjQuMTU6NDY2NDI=#45.134.224.15:46642<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZ0NNbGdidFFNeGxAc3MuZGUuc3NobWF4Lm5ldDoyMTQ3NA==#ss.de.sshmax.net:21474<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKU3ZzSGhIWUl1VkdAc3MudWsuc3NobWF4Lm5ldDoxNDQz#ss.uk.sshmax.net:1443<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjV3Y4RmNKazBWcFNAc3MuZGUuc3NobWF4Lm5ldDoyMTQ3NA==#ss.de.sshmax.net:21474<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZ1ZESU4wNU82YkhAc3MudWsuc3NobWF4Lm5ldDo1NzQ3OA==#ss.uk.sshmax.net:57478<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIZ1ZESU4wNU82YkhANTEuMTk1LjE0OS4zMDo1NzQ3OA==#51.195.149.30:57478<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2bmhISHVHSHcyRDVAc3MuZnIuc3NobWF4Lm5ldDoxNDQz#ss.fr.sshmax.net:1443<br>
+ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE5NS4yMDYuMTY5LjIwMzozMTU3Mg==#195.206.169.203:31572<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDgxLjE5LjIxNC4zNzozOTc3Mg==#81.19.214.37:39772<br>
+trojan://QWKM5g6D@t6.ssrsub.one:443#Relay_%F0%9F%87%B7%F0%9F%87%BARU-%F0%9F%87%B7%F0%9F%87%BARU_108<br>
+trojan://6cd8c567-7e8e-4bbc-a22Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:443#%F0%9F%87%A7%F0%9F%87%AABE_1415<br>
+trojan://WV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:443#%F0%9F%87%A7%F0%9F%87%AABE_1419<br>
+trojan://d89fef63-5bce-4ee4-89c8-b867ccf73f1Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:443#%F0%9F%87%A7%F0%9F%87%AABE_1420<br>
+trojan://d89fef63-5bce-4ee4-89c8-b867ccY2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:443#%F0%9F%87%A7%F0%9F%87%AABE_1421<br>
+trojan://d89fef63-5bce-4ee4-89c8-b867ccf7Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@193.9.114.34:443#%F0%9F%87%A7%F0%9F%87%AABE_1422<br>
 <br>
 sub：</p>
 <p>ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@ss1.ssrsub.one:6443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
@@ -148,11 +146,7 @@ ss://YWVzLTI1Ni1jZmI6MTIzQDIyMS4yMjguOTkuMzc6ODg4OA==#%40SSRSUB-%E4%B8%AD%E5%9B%
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
-<p>207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-91.90.123.115 45329 CXSjgD7u7Ar7GxkZ4CgTMUsj aes-256-gcm<br>
-207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
-89.46.223.239 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+<p>207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
 221.228.99.37 8888 123 aes-256-cfb<br>
-91.90.123.115 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
-85.10.50.164 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
-　</p>
+207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+91.90.123.115 45329 CXSjgD7u7Ar7GxkZ4CgTMUsj aes-256-gcm</p>
