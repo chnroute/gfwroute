@@ -74,7 +74,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 <p>
 <br>
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">7</span>-<span lang="en-us">08</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">7</span>-<span lang="en-us">10</span> 
 12:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -112,44 +112,46 @@ trojan://d48629f1-ac71-45ef-b325-37d73da258e8@gmegme.ml:443#Relay_%F0%9F%87%AF%F
 <br>
 sub：</p>
 <p>ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@ss1.ssrsub.one:5443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss01-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
-ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@ss2.ssrsub.one:5443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206aHR0cHM6Ly9kbGoudGYvc3Nyc3Vi@ss2.ssrsub.one:1443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss02-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
 ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@ss3.ssrsub.one:5443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss03-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
-ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@ss4.ssrsub.one:5443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss04-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTEyOC1nY206aHR0cHM6Ly9kbGoudGYvc3Nyc3Vi@ss4.ssrsub.one:1443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss04-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
 ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1Yg==@ss5.ssrsub.one:5443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss05-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDEzNy41OS41Mi4xMDc6Mzk3NzI=#%40SSRSUB-SS1-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDEzNy41OS41Mi4xMDc6NDAwOTM=#%40SSRSUB-SS2-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdCQDE5OC44LjkyLjg0OjQ5Mzk2#%40SSRSUB-SS3-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206S3F1djVVaHZaWE5NZW1BUXk4RHhaN3FuQDE5OC44LjkyLjg0OjM4NjIw#%40SSRSUB-SS4-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5hQDIwNy4yNDQuNjcuMTQ5OjM1Mjk0#%40SSRSUB-SS5-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDIwNy4yNDQuNjcuMTQ5OjQwMDkz#%40SSRSUB-SS6-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhEQDIzLjgyLjExLjQ5OjM5Nzcy#%40SSRSUB-SS7-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFkQDIzLjgyLjExLjQ5OjM3NTg4#%40SSRSUB-SS8-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTk1LjYyLjIyMDo4MTE=#%40SSRSUB-SS9-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhUQDY2LjExNS4xNzUuMzc6NTAxNjg=#%40SSRSUB-SS10-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg0LjE3LjM1Ljc4OjMzOTky#%40SSRSUB-SS11-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1nY206Q1hTamdEN3U3QXI3R3hrWjRDZ1RNVXNqQDkxLjkwLjEyMy4xMTU6NDUzMjk=#%40SSRSUB-SS12-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
-ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3ViQHNzcjEuc3Nyc3ViLm9uZTo1NzQ4MQ==#%40SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ssr01-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
-ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3ViQHNzcjIuc3Nyc3ViLm9uZTo1NzQ4MQ==#%40SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ssr02-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
-ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3ViQHNzcjMuc3Nyc3ViLm9uZTo1NzQ4MQ==#%40SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ssr03-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
-ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3ViQHNzcjQuc3Nyc3ViLm9uZTo1NzQ4MQ==#%40SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ssr04-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
-ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3ViQHNzcjUuc3Nyc3ViLm9uZTo1NzQ4MQ==#%40SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ssr05-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
-ss://YWVzLTI1Ni1jZmI6MTIzQDIyMS4yMjguOTkuMzc6ODg4OA==#%40SSRSUB-%E4%B8%AD%E5%9B%BDssr06-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90%3Asuo.yt%2Fssrsub<br>
+ss://YWVzLTEyOC1nY206aHR0cHM6Ly9kbGoudGYvc3Nyc3Vi@ss6.ssrsub.one:1443/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss06-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1jZmI6c3VvLnl0L3NzcnN1Yg==@ss7.ssrsub.one:8139/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss07-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3Vi@ss8.ssrsub.one:57478/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss08-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1jZmI6c3VvLnl0L3NzcnN1Yg==@ss9.ssrsub.one:8139/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss09-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1jZmI6aHR0cHM6Ly9kbGoudGYvc3Nyc3Vi@ss10.ssrsub.one:57478/?plugin=obfs-local%3Bobfs%3Dtls%3Bobfs-host%3Dn46hm52773.wns.windows.com#@SSRSUB-%E5%8A%A0%E6%8B%BF%E5%A4%A7ss10-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1jZmI6MTIzQDIyMS4yMjguOTkuMzc6ODg4OA#@SSRSUB-%E4%B8%AD%E5%9B%BDss11-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:dlj.tf/ssrsub<br>
+ss://YWVzLTI1Ni1nY206eDIzWjRMR2tHRGtUaFo5S2F6NERVUlFwQDEzNy41OS41Mi4xMDc6NDAwOTM=#%40SSRSUB-SS1-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDEzNy41OS41Mi4xMDc6MzM5OTI=#%40SSRSUB-SS2-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206WWd1c0gyTVdBOFBXYzNwMlZEc1I3QVZ2QDE4NS40NC43Ni4xODg6MzE3NjQ=#%40SSRSUB-SS3-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206dWd5QmtTRUZ4VkVtVVlTSHl2eG1XTmo5QDE5OC44LjkyLjg0OjQwMjIw#%40SSRSUB-SS4-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hlQDIwNy4yNDQuNjcuMTQ5OjMzOTk4#%40SSRSUB-SS5-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDIxMi4xMDIuNDQuODE6MzM5OTI=#%40SSRSUB-SS6-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW9ANTEuMTk1LjYyLjIyMDo4MTE=#%40SSRSUB-SS7-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhUQDgxLjE5LjIwOC4xMDc6NTAxNjg=#%40SSRSUB-SS8-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206RldyWGN4UFpqSnhBTjg5eExncVkzQWNwQDgyLjEwMi4yNi4xMTc6NDQyMzY=#%40SSRSUB-SS9-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDg0LjE3LjM1Ljc4OjMzOTky#%40SSRSUB-SS10-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub<br>
 　</p>
 <p>yn:</p>
 <p>&nbsp;&nbsp; 账号&nbsp;&nbsp; 端口 密码&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
 加密方式</p>
 <p>137.59.52.107 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
 207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+137.59.52.107 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
 91.90.123.115 45329 CXSjgD7u7Ar7GxkZ4CgTMUsj aes-256-gcm<br>
+207.244.67.149 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
 198.8.92.84 38620 Kquv5UhvZXNMemAQy8DxZ7qn aes-256-gcm<br>
 84.17.35.78 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+185.44.76.188 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
 23.82.11.49 37588 kD9vkjnE6dsUzwQfvKkPkQAd aes-256-gcm<br>
 198.8.92.84 49396 BdRWC38L5JUDMTYNNxJGcUwB aes-256-gcm<br>
-137.59.52.107 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+81.19.208.107 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+198.8.92.84 40220 ugyBkSEFxVEmUYSHyvxmWNj9 aes-256-gcm<br>
+82.102.26.117 44236 FWrXcxPZjJxAN89xLgqY3Acp aes-256-gcm<br>
 66.115.175.37 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
 45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
 23.82.11.49 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
 207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
-221.228.99.37 8888 123 aes-256-cfb<br>
-51.195.62.220 811 G!yBwPWH3Vao chacha20-ietf-poly1305<br>
-　</p>
+212.102.44.81 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+51.195.62.220 811 G!yBwPWH3Vao chacha20-ietf-poly1305</p>
