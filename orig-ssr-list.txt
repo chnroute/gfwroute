@@ -28,8 +28,7 @@
 
 
 <p><font face="宋体">来自免费翻墙网https://freefq.com的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！ 
-<br>
-　</font><p><font face="宋体">ssr windows客户端<span lang="zh-cn">：</span></font></p><p align="left">
+</font><p><font face="宋体">ssr windows客户端<span lang="zh-cn">：</span></font></p><p align="left">
 <a href="https://www.freefq.com/rj/2021/04/28/winXray.html"><span style="box-sizing: inherit; font-size: 12pt">
 winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">网站下载</span></a><font face="宋体"><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">|</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://www.mediafire.com/folder/oxslwbt7gtjs2/winXray">网盘备份下载</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">|已被删除：</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://github.com/winXray/winXray/tree/master/release">官方下载(2合1版)</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">（</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://github.com/winXray/winXray/tree/master/release/winXray32.7z">32位版</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">、</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; color: rgb(32, 156, 193); text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" href="https://github.com/winXray/winXray/tree/master/release/winXray.7z">64位版</a><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)">）</span></font><p align="left">
 <b><font face="宋体">使用方法简介：<span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 255, 255)">首先打开winXray客户端，在“首页”右侧列表的任意位置点击鼠标右键，选择“自剪贴板批量导入分享链接和订阅源”，稍等片刻即可添加成功，这时候winXray会自动连接延迟最低的节点，你也可以手动双击某个节点使用特定的服务器线路节点。</span></font></b></p>
@@ -43,7 +42,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2021-08-14 12:16:55</font><p><font face="宋体">　
+所有数据均来自互联网，更新时间：2021-08-15 12:16:55</font><p><font face="宋体">　
 
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -62,18 +61,14 @@ Free SSR 免费SSR账号 <br>
 
 </p>
 <p>al:</p>
-<p><strong>北京时间2021年8月13日19点36分更新莫斯科2节点。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
+<p><strong>北京时间2021年8月15日12点45分更新莫斯科3节点。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
 <p><br>
 位置 地址 端口 密码 加密方式 协议 混淆<br>
-<br>
 德国 89.163.245.185 42181 dongtaiwang.com 123abc rc4 origin plain<br>
 莫斯科1 45.147.200.9 42181 dongtaiwang.com 123abc rc4 origin plain<br>
 莫斯科2 45.140.168.152 22000 dongtaiwang.com 123abc rc4 origin plain<br>
 洛杉矶1 88.218.92.16 17771 dongtaiwang.com 123abc rc4 origin plain<br>
-洛杉矶2 149.28.72.174 12345 dongtaiwang.com 123abc aes-256-gcm <br>
-中转1 162.14.11.142 33099 HdsrwE rc4-md5 <br>
-中转2 162.14.11.175 37387 qbpJjZ rc4-md5 <br>
-中转3 162.14.11.18 37387 qbpJjZ rc4-md5 <br>
+莫斯科3 45.147.200.214 12345 dongtaiwang.com aes-256-gcm <br>
 <br>
 SSR链接：<br>
 <br>
@@ -85,36 +80,28 @@ ssr://NDUuMTQwLjE2OC4xNTI6MjIwMDA6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WT
 <br>
 ssr://ODguMjE4LjkyLjE2OjE3NzcxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
 <br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tIDEyM2FiY0AxNDkuMjguNzIuMTc0OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS<br>
-<br>
-ss://cmM0LW1kNTpIZHNyd0VAMTYyLjE0LjExLjE0MjozMzA5OQ==#https%3a%2f%2fgit.io%2fv9999+%e4%b8%ad%e8%bd%ac1<br>
-<br>
-ss://cmM0LW1kNTpxYnBKalpAMTYyLjE0LjExLjE3NTozNzM4Nw==#https%3a%2f%2fgit.io%2fv9999+%e4%b8%ad%e8%bd%ac2<br>
-<br>
-ss://cmM0LW1kNTpxYnBKalpAMTYyLjE0LjExLjE4OjM3Mzg3#https%3a%2f%2fgit.io%2fv9999+%e4%b8%ad%e8%bd%ac3<br>
-<br>
-　</p>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91</p>
 <p>fd:<br>
 <br>
-<br>
-ssr://MTE3LjI4LjI0My4xNzE6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1Vo<br>
-ssr://c2cxMi5jbGFzaGNsb3VkLnRlY2g6MzczODc6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6Y1dKd1NtcGEvP29iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA==<br>
+ssr://NDUuODkuMjI4LjE4NTo3NjIxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWlRjLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlNR<br>
 ssr://cDUuMjIzMzJlLmNvbTo4MzMzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOmNHRnpjMlozTW5oek5HVWg=<br>
-ssr://MTE3LjI4LjI0My4xODc6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1Vo<br>
 ssr://cDguMjIzMzJlLmNvbTo4MzMzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOmNHRnpjMlozTW5oek5HVWg=<br>
-ssr://c3NyMi5zc3JzdWIub25lOjI3NDc4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNkx5OWtiR291ZEdZdmMzTnljM1Zp<br>
-ssr://aGtoZTAzLmNhdGhheXJvdXRlLmNvbTozMzA5OTpvcmlnaW46cmM0LW1kNTpodHRwX3NpbXBsZTpTR1J6Y25kRi8/b2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIw<br>
-ssr://c2cxMS5jYXRoYXlyb3V0ZS5jb206MzMwOTk6b3JpZ2luOnJjNC1tZDU6aHR0cF9zaW1wbGU6U0dSemNuZEYvP29iZnNwYXJhbT1aRzkzYm14dllXUXVkMmx1Wkc5M2MzVndaR0YwWlM1amIyMA==<br>
 ssr://c3NyMy5zc3JzdWIub25lOjUxMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzVnZMbmwwTDNOemNuTjFZZw==<br>
-ssr://NDUuNjIuMjMzLjIyOToyNzQ3ODpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YUhSMGNITTZMeTlrYkdvdWRHWXZjM055YzNWaQ==<br>
+ssr://OTEuMjA2LjkzLjEzMTo3NjIxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWlRjLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlRB<br>
+ssr://MTk0Ljg3LjQ4LjI1NDo3NjIxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWlRjLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlN3<br>
 ssr://MTE3LjI4LjI0My4xODc6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1VoLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=<br>
-ssr://OTEuMjA2LjkzLjEzMTo5NzIxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWmpjLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlRB<br>
-ssr://NDUuODkuMjI4LjE4NTo5NzIxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWmpjLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlNR<br>
-ssr://MTc2LjMyLjMyLjE0Nzo5NzIxOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnY2pnLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlFR<br>
-ssr://NDYuMTcuNDYuMTAzOjk3MjE6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2djamcvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9NUwtRTU3Mlg1cGF2UXc=</p>
-<p>sub:</p>
-<p>
-ssr://c3NyMS5zc3JzdWIub25lOjUxMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzVnZMbmwwTDNOemNuTjFZZy8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTlrYkdvdWRHWXZjM055YzNWaSZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPVFGTlRVbE5WUWkzbGlxRG1pN19scEtkemMzSXdNUzNrdTVqb3RMbm1qcWpvalpBNmMzVnZMbmwwTDNOemNuTjFZZyZncm91cD1kQzV0WlM5VFUxSlRWVUk<br>
+ssr://MTE3LjI4LjI0My4xODc6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1Vo<br>
+ssr://c3NyMy5zc3JzdWIub25lOjUxMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzVnZMbmwwTDNOemNuTjFZZy8/b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTlrYkdvdWRHWXZjM055YzNWaSZyZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPVFGTlRVbE5WUWkzbGlxRG1pN19scEtkemMzSXdNeTNrdTVqb3RMbm1qcWpvalpBNmMzVnZMbmwwTDNOemNuTjFZZw==<br>
+ssr://c3NyNC5zc3JzdWIub25lOjI3NDc4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNkx5OWtiR291ZEdZdmMzTnljM1ZpLz9vYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OWtiR291ZEdZdmMzTnljM1ZpJnJlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9UUZOVFVsTlZRaTNsaXFEbWk3X2xwS2R6YzNJd05DM2t1NWpvdExubWpxam9qWkE2YzNWdkxubDBMM056Y25OMVln<br>
+ssr://MTE3LjI4LjI0My4xNzE6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1Vo<br>
+ssr://MTQyLjQ3LjIxOS4xOTQ6NTEzOTpvcmlnaW46YWVzLTI1Ni1jZmI6cGxhaW46YzNWdkxubDBMM056Y25OMVln<br>
+ssr://MTQyLjQ3LjIxOS4xOTQ6Mjc0Nzg6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFIUjBjSE02THk5a2JHb3VkR1l2YzNOeWMzVmk=<br>
+ssr://c3NyNC5zc3JzdWIub25lOjI3NDc4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNkx5OWtiR291ZEdZdmMzTnljM1Zp<br>
+ssr://NDUuNzcuNzMuMTQ2OjIwMTk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOlRHbG1aU0Z6UVhkbGMyOXRaUQ==<br>
+ssr://MTA3LjE0OC4yNDAuMTM3OjgzMzM6b3JpZ2luOnJjNC1tZDU6cGxhaW46Y0dGemMyWjNNbmh6TkdVaA==<br>
+<br>
+sub:</p>
+<p>ssr://c3NyMS5zc3JzdWIub25lOjUxMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzVnZMbmwwTDNOemNuTjFZZy8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTlrYkdvdWRHWXZjM055YzNWaSZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPVFGTlRVbE5WUWkzbGlxRG1pN19scEtkemMzSXdNUzNrdTVqb3RMbm1qcWpvalpBNmMzVnZMbmwwTDNOemNuTjFZZyZncm91cD1kQzV0WlM5VFUxSlRWVUk<br>
 ssr://c3NyMi5zc3JzdWIub25lOjI3NDc4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNkx5OWtiR291ZEdZdmMzTnljM1ZpLz9vYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OWtiR291ZEdZdmMzTnljM1ZpJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNsaXFEbWk3X2xwS2R6YzNJd01pM2t1NWpvdExubWpxam9qWkE2YzNWdkxubDBMM056Y25OMVlnJmdyb3VwPWRDNXRaUzlUVTFKVFZVSQ<br>
 ssr://c3NyMy5zc3JzdWIub25lOjUxMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzVnZMbmwwTDNOemNuTjFZZy8_b2Jmc3BhcmFtPTVMdVk2TFM1VTFOUzVyT281WWFNT21oMGRIQTZMeTlrYkdvdWRHWXZjM055YzNWaSZwcm90b3BhcmFtPWRDNXRaUzlUVTFKVFZVSSZyZW1hcmtzPVFGTlRVbE5WUWkzbGlxRG1pN19scEtkemMzSXdNeTNrdTVqb3RMbm1qcWpvalpBNmMzVnZMbmwwTDNOemNuTjFZZyZncm91cD1kQzV0WlM5VFUxSlRWVUk<br>
 ssr://c3NyNC5zc3JzdWIub25lOjI3NDc4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNkx5OWtiR291ZEdZdmMzTnljM1ZpLz9vYmZzcGFyYW09NUx1WTZMUzVVMU5TNXJPbzVZYU1PbWgwZEhBNkx5OWtiR291ZEdZdmMzTnljM1ZpJnByb3RvcGFyYW09ZEM1dFpTOVRVMUpUVlVJJnJlbWFya3M9UUZOVFVsTlZRaTNsaXFEbWk3X2xwS2R6YzNJd05DM2t1NWpvdExubWpxam9qWkE2YzNWdkxubDBMM056Y25OMVlnJmdyb3VwPWRDNXRaUzlUVTFKVFZVSQ</p>

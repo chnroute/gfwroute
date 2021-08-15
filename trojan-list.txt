@@ -1,3 +1,3 @@
-trojan://031382af-fafd-47b2-b18d-95dea5dc40bb@sin03.tencentlink.icu:20000#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://031382af-fafd-47b2-b18d-95dea5dc40bb@in03.tencentlink.icu:20000#%E5%8D%B0%E5%BA%A6%20%E9%A9%AC%E5%93%88%E6%8B%89%E6%96%BD%E7%89%B9%E6%8B%89%E9%82%A6%20%E5%AD%9F%E4%B9%B0
 trojan://031382af-fafd-47b2-b18d-95dea5dc40bb@in04.tencentlink.icu:20000#%E5%8D%B0%E5%BA%A6%20%E9%A9%AC%E5%93%88%E6%8B%89%E6%96%BD%E7%89%B9%E6%8B%89%E9%82%A6%20%E5%AD%9F%E4%B9%B0
+trojan://031382af-fafd-47b2-b18d-95dea5dc40bb@sin03.tencentlink.icu:20000#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
