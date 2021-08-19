@@ -74,7 +74,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 <p>
 <br>
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">8</span>-<span lang="en-us">18</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">8</span>-<span lang="en-us">19</span> 
 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -315,6 +315,104 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjV3Y4RmNKazBWcFNAc3MuZGUuc3NobWF4Lm5ldDoyMTQ
 <p><strong>北京时间2021年8月18日14点07分增加圣何塞账号。为了让每个人都能获得一定的带宽资源，节点进行了限速100~200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
 <p>
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91</p>
+
+
+
+
+<p><span lang="en-us">yn:</span></p>
+<p><span lang="en-us">5.154.174.213 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+198.147.22.87 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+212.102.44.83 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+208.78.41.197 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+138.199.16.137 50024 b2jDPHUQxCNa2KmGHZjy7C4B aes-256-gcm<br>
+5.189.202.16 41738 X6yMGXnfUsuKTvEDYZSLPk4d aes-256-gcm<br>
+23.82.11.49 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+91.250.240.140 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+194.37.98.211 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+154.16.169.5 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+84.17.53.210 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+5.189.202.16 50695 gqtwGu9bVreJqL3FTHSVKGzy aes-256-gcm<br>
+143.244.60.162 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+194.37.98.211 38742 DKXfWwc4ebscpXTKpbt85rSH aes-256-gcm<br>
+194.39.127.242 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+137.59.52.107 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+138.199.19.182 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
+102.165.47.130 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
+102.165.23.38 36460 yUXad7DGF8L5cTShEpnp2N6z aes-256-gcm<br>
+185.108.106.152 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
+91.90.123.115 33148 CMduaFXddcQbwNAAs7xFDnc8 aes-256-gcm<br>
+185.108.106.102 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
+138.199.19.162 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+138.199.19.186 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+81.19.223.189 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
+143.244.57.99 34815 LkFAzkzXkSCRYa2CsRdL8cGb aes-256-gcm<br>
+194.150.167.28 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+91.219.215.51 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+91.90.123.115 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
+143.244.57.99 38620 Kquv5UhvZXNMemAQy8DxZ7qn aes-256-gcm<br>
+5.189.202.16 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+138.199.16.137 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+198.8.92.84 44820 jspgz9G3VmvBMCgMUWLBaZHu aes-256-gcm<br>
+5.189.202.16 37588 kD9vkjnE6dsUzwQfvKkPkQAd aes-256-gcm<br>
+143.244.57.99 43893 YyCBeDdYX4cadHpCkkmdJLq8 aes-256-gcm<br>
+212.102.44.83 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+143.244.56.230 31572 n8w4StnbVD9dmXYn4Ajt87EA aes-256-gcm<br>
+196.244.191.45 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+138.199.16.137 44236 FWrXcxPZjJxAN89xLgqY3Acp aes-256-gcm<br>
+91.90.123.115 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
+194.150.167.36 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+193.29.106.61 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+p5.22332e.com 8333 passfw2xs4e! rc4-md5<br>
+137.59.52.107 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+5.133.14.196 38742 DKXfWwc4ebscpXTKpbt85rSH aes-256-gcm<br>
+5.189.202.16 44745 fyXdw87yCH9SAmFkPvsvLVqC aes-256-gcm<br>
+91.90.123.115 44820 jspgz9G3VmvBMCgMUWLBaZHu aes-256-gcm<br>
+198.8.92.84 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+185.108.106.74 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+185.44.76.188 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
+185.128.27.35 38620 Kquv5UhvZXNMemAQy8DxZ7qn aes-256-gcm<br>
+199.10.64.133 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+45.147.200.214 12345 dongtaiwang.com aes-256-gcm<br>
+89.187.163.210 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+45.248.76.171 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+194.41.112.11 31764 YgusH2MWA8PWc3p2VDsR7AVv aes-256-gcm<br>
+137.59.52.107 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+207.244.67.149 40093 x23Z4LGkGDkThZ9Kaz4DURQp aes-256-gcm<br>
+185.44.76.188 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+212.102.44.83 37473 enctdKyJfSu76VqznKwTt6Ap aes-256-gcm<br>
+185.153.151.100 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+137.220.161.216 35654 96a15b984cd95acc chacha20-ietf-poly1305<br>
+185.153.151.104 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+143.244.56.230 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+212.102.40.68 48938 4ejJ8n5ddLuYDUHGXJre2ufJ aes-256-gcm<br>
+207.244.67.149 35294 J9Y2ncrdPEC38gwydNFFGBna aes-256-gcm<br>
+212.102.44.83 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+195.158.249.36 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+91.90.123.115 38620 Kquv5UhvZXNMemAQy8DxZ7qn aes-256-gcm<br>
+194.37.98.211 33998 NHwQTPLCfaTMSqTnU3mjcSxe aes-256-gcm<br>
+5.189.202.16 44539 r6hDrkP4Et6EENTS8Qy7Tcmg aes-256-gcm<br>
+185.108.106.152 46642 gYL83DQWXuDbxmZAVVtUTXaK aes-256-gcm<br>
+162.14.11.142 33099 HdsrwE rc4-md5<br>
+195.158.249.36 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+66.115.182.82 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+193.29.106.5 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+84.17.58.205 37473 enctdKyJfSu76VqznKwTt6Ap aes-256-gcm<br>
+194.110.115.83 43893 YyCBeDdYX4cadHpCkkmdJLq8 aes-256-gcm<br>
+45.12.223.195 45329 CXSjgD7u7Ar7GxkZ4CgTMUsj aes-256-gcm<br>
+185.166.84.87 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+23.82.11.49 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+138.199.9.202 31944 aYNeKDMzYQYw4KbUbJA8Wszq aes-256-gcm<br>
+185.153.151.85 33992 8n6pwAcrrv2pj6tFY2p3TbQ6 aes-256-gcm<br>
+23.82.11.49 37588 kD9vkjnE6dsUzwQfvKkPkQAd aes-256-gcm<br>
+104.244.211.141 49339 suucSeVLmt6PQKAP77NtGw9x aes-256-gcm<br>
+89.37.95.15 37473 enctdKyJfSu76VqznKwTt6Ap aes-256-gcm<br>
+185.166.84.63 39772 CUndSZnYsPKcu6Kj8THVMBHD aes-256-gcm<br>
+85.10.50.164 50168 WCuz7yrfZSCQQXSNrtGPz2HT aes-256-gcm<br>
+82.102.26.53 47027 Vt5pBJFwdtNB26cJbTXxm88Z aes-256-gcm<br>
+91.90.123.115 41676 z6pH3RyttkRWhJ5tpRyt6dYk aes-256-gcm<br>
+　</span></p>
+
 
 
 
