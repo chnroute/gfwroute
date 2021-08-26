@@ -42,7 +42,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2021-08-25 22:16:55</font><p><font face="宋体">　
+所有数据均来自互联网，更新时间：2021-08-26 22:16:55</font><p><font face="宋体">　
 
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -61,14 +61,13 @@ Free SSR 免费SSR账号 <br>
 
 </p>
 <p>al:</p>
-<p><strong>北京时间2021年8月22日14点34分更新账号。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
+<p><strong>北京时间2021年8月26日11点22分去掉失效账号。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
 <p>位置 地址 端口 密码 加密方式 协议 混淆<br>
 圣何塞 sv1.free3333.xyz 31131 dongtaiwang.com rc4 origin plain<br>
 德国 89.163.214.9 31131 dongtaiwang.com 123abc rc4 origin plain<br>
 莫斯科1 46.17.43.179 31131 dongtaiwang.com 123abc rc4 origin plain<br>
 莫斯科2 45.147.200.9 31131 dongtaiwang.com 123abc rc4 origin plain<br>
 洛杉矶 88.218.92.16 31131 dongtaiwang.com 123abc rc4 origin plain<br>
-圣何塞 107.148.200.42 31131 dongtaiwang.com rc4 origin plain<br>
 莫斯科3 45.147.200.214 31131 dongtaiwang.com aes-256-gcm <br>
 <br>
 SSR链接：<br>
@@ -83,27 +82,26 @@ ssr://NDUuMTQ3LjIwMC45OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOX
 <br>
 ssr://ODguMjE4LjkyLjE2OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
 <br>
-ssr://MTA3LjE0OC4yMDAuNDI6MzExMzE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVaeWo1TDJWNWFHZVUxTlMmZ3JvdXA9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1Rr<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjMxMTMx#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91</p>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjMxMTMx#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91<br>
+　</p>
 <p>fd:<br>
 <br>
+ssr://bjk2LmJvb20ucGFydHk6MTgwMDA6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpWV3M1TWtOVC8/b2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIw<br>
+ssr://MTE3LjI4LjI0My4xODc6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1VoLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=<br>
 ssr://MTE3LjI4LjI0My4xNzE6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1Vo<br>
-ssr://ODguMjE4LjkyLjE2OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVyU2I1cDJKNTUtMlUxTlM=<br>
-ssr://MTA3LjE0OC4yMDAuNDI6MzExMzE6b3JpZ2luOnJjNDpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8/cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01WnlqNUwyVjVhR2VVMU5T<br>
+ssr://NDYuMTcuNDMuMTc5OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTZJNnI1cGF2NTZlUlUxTlM=<br>
+ssr://NDUuMTQ3LjIwMC45OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTZJNnI1cGF2NTZlUlUxTlM=<br>
 ssr://cDUuMjIzMzJlLmNvbTo4MzMzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOmNHRnpjMlozTW5oek5HVWg=<br>
 ssr://cDguMjIzMzJlLmNvbTo4MzMzOm9yaWdpbjpyYzQtbWQ1OnBsYWluOmNHRnpjMlozTW5oek5HVWg=<br>
-ssr://NDYuMTcuNDMuMTc5OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlE=<br>
-ssr://ODkuMTYzLjIxNC45OjMxMTMxOm9yaWdpbjpyYzQ6cGxhaW46Wkc5dVozUmhhWGRoYm1jdVkyOXRJREV5TTJGaVl3Lz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlE=<br>
 ssr://MTE3LjI4LjI0My4xODc6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1Vo<br>
-ssr://MTg4LjExOS42NC4xODM6NzE4ODpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ1pUTS8/cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01TC1FNTcyWDVwYXZWQQ==<br>
-ssr://bjkyLmJvb20ucGFydHk6MTYwMDA6YXV0aF9hZXMxMjhfc2hhMTphZXMtMjU2LWNmYjpodHRwX3NpbXBsZTpWV3M1TWtOVC8/b2Jmc3BhcmFtPVpHOTNibXh2WVdRdWQybHVaRzkzYzNWd1pHRjBaUzVqYjIw<br>
-ssr://MTE3LjI4LjI0My4xODc6ODMzMzpvcmlnaW46cmM0LW1kNTpwbGFpbjpjR0Z6YzJaM01uaHpOR1VoLz9vYmZzcGFyYW09VjFkWExsbFBWVTVGUlVRdVYwbE8=<br>
-ssr://MTQyLjQ3LjIxOS4xOTQ6MTc0Nzg6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmFIUjBjSE02THk5a2JHb3VkR1l2YzNOeWMzVmk=<br>
-ssr://MTQyLjQ3LjIxOS4xOTQ6MTAxMzk6b3JpZ2luOmFlcy0yNTYtY2ZiOnBsYWluOmMzVnZMbmwwTDNOemNuTjFZZw==<br>
-ssr://c3NyMy5zc3JzdWIub25lOjEwMTM5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM1Z2TG5sMEwzTnpjbk4xWWc=<br>
+ssr://MTg4LjExOS42NC4xODM6NzcxNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05XUS8/cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01TC1FNTcyWDVwYXZWQQ==<br>
+ssr://NDYuMjkuMTYyLjI2Ojc3MTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOV1EvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9NUwtRTU3Mlg1cGF2VWc=<br>
+ssr://OTEuMjA2LjkyLjY6NzcxNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2VUVS8/cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01TC1FNTcyWDVwYXZVQQ==<br>
+ssr://NDUuMTMwLjE0NS4yMTk6NzcxNjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2VUVS8/cmVtYXJrcz01Ny03NWFLWjVZV2FabUZ1Y1dsaGJtZGtZVzVuTG1OdmJRJj01TC1FNTcyWDVwYXZUZw==<br>
+ssr://MTk0LjUuNzkuMTUzOjc3MTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dlVFUvP3JlbWFya3M9NTctNzVhS1o1WVdhWm1GdWNXbGhibWRrWVc1bkxtTnZiUSY9NUwtRTU3Mlg1cGF2VFE=<br>
+ssr://MTk0Ljg3LjQ4LjI1NDo3NzE2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnWmprLz9yZW1hcmtzPTU3LTc1YUtaNVlXYVptRnVjV2xoYm1ka1lXNW5MbU52YlEmPTVMLUU1NzJYNXBhdlN3<br>
 ssr://c3NyMi5zc3JzdWIub25lOjE3NDc4Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjphSFIwY0hNNkx5OWtiR291ZEdZdmMzTnljM1Zp<br>
-<br>
+ssr://c3NyMy5zc3JzdWIub25lOjEwMTM5Om9yaWdpbjphZXMtMjU2LWNmYjpwbGFpbjpjM1Z2TG5sMEwzTnpjbk4xWWc=<br>
 <br>
 sub:</p>
 <p>
