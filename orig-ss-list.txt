@@ -74,7 +74,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 <p>
 <br>
 Free SS 
-免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">8</span>-<span lang="en-us">29</span> 
+免费SS账号所有数据均来自互联网，更新时间：2021-0<span lang="en-us">8</span>-<span lang="en-us">31</span> 
 22:35:55</p>
 
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
@@ -83,24 +83,27 @@ Free SS
 <p>fd:&nbsp;</p>
 <p>trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t2.ssrsub.one:8443#%E4%BA%8C%E7%88%B7%E7%BF%BB%E5%A2%99%E7%BD%91%20https%3A%2F%2F1808.ga<br>
 ss://YWVzLTI1Ni1nY206ZnlYZHc4N3lDSDlTQW1Ga1B2c3ZMVnFDQDUuMTg5LjIwMi4xNjo0NDc0NQ==#5.189.202.16:44745<br>
-ss://YWVzLTI1Ni1nY206WDZ5TUdYbmZVc3VLVHZFRFlaU0xQazRkQDUuMTg5LjIwMi4xNjo0MTczOA==#5.189.202.16:41738<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t3.ssrsub.one:8443?sni=t3.ssrsub.one#%E4%BA%8C%E7%88%B7%E7%BF%BB%E5%A2%99%E7%BD%91%20https%3A%2F%2F1808.ga<br>
+trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t4.ssrsub.one:8443?sni=t4.ssrsub.one#%E4%BA%8C%E7%88%B7%E7%BF%BB%E5%A2%99%E7%BD%91%20https%3A%2F%2F1808.ga<br>
+trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t3.ssrsub.one:8443#%E4%BA%8C%E7%88%B7%E7%BF%BB%E5%A2%99%E7%BD%91%20https%3A%2F%2F1808.ga<br>
+ss://YWVzLTEyOC1nY206c3VvLnl0L3NzcnN1YkBzczMuc3Nyc3ViLm9uZTo5NDQz#ss3.ssrsub.one:9443<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2QDE4NS4xNTMuMTUxLjg1OjMzOTky#185.153.151.85:33992<br>
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4QDE4NS4xMDIuMjE5LjY6NDM4OTM=#185.102.219.6:43893<br>
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZKQDIxMi4xMDIuNDAuNjg6NDg5Mzg=#212.102.40.68:48938<br>
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZKQDIxMi4xMDIuNDQuODY6NDg5Mzg=#212.102.44.86:48938<br>
 ss://YWVzLTI1Ni1nY206Q01kdWFGWGRkY1Fid05BQXM3eEZEbmM4QDEzOC4xOTkuMTYuMTMwOjMzMTQ4#138.199.16.130:33148<br>
 ss://YWVzLTI1Ni1nY206Q1RLOEdYRlFnS1lRRXJyZ2hQSmZaNnRrQDEzOC4xOTkuMTYuMTMwOjQ3MTIx#138.199.16.130:47121<br>
+ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdCQDg0LjM5LjExNC44Njo0OTM5Ng==#84.39.114.86:49396<br>
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZKQDM3LjEyMC4xOTYuNTM6NDg5Mzg=#37.120.196.53:48938<br>
+ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZKQDg2LjEwNi4xMzYuODU6NDg5Mzg=#86.106.136.85:48938<br>
 ss://YWVzLTI1Ni1nY206NGVqSjhuNWRkTHVZRFVIR1hKcmUydWZKQDE4NS4yNDIuNS4xNDk6NDg5Mzg=#185.242.5.149:48938<br>
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4QDE0My4yNDQuNTcuOTk6NDM4OTM=#143.244.57.99:43893<br>
+ss://YWVzLTI1Ni1nY206bjh3NFN0bmJWRDlkbVhZbjRBanQ4N0VBQDE0My4yNDQuNTYuMjMwOjMxNTcy#143.244.56.230:31572<br>
+trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t1.ssrsub.one:8443#%E4%BA%8C%E7%88%B7%E7%BF%BB%E5%A2%99%E7%BD%91%20https%3A%2F%2F1808.ga<br>
 ss://YWVzLTI1Ni1nY206WXlDQmVEZFlYNGNhZEhwQ2trbWRKTHE4QDg0LjE3LjUzLjg2OjQzODkz#84.17.53.86:43893<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t3.ssrsub.one:8443#Relay_%F0%9F%87%B7%F0%9F%87%BARU-%F0%9F%87%B7%F0%9F%87%BARU_253<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t2.ssrsub.one:8443#%F0%9F%87%BA%F0%9F%87%B8%20US_2428<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t1.ssrsub.one:8443?sni=t1.ssrsub.one#%F0%9F%87%BA%F0%9F%87%B8%20US_2427<br>
-trojan://4c7985e0-79e8-11eb-b8d3-1239d0255272@sg3-trojan.bonds.id:443#%F0%9F%87%B8%F0%9F%87%AC%20SG_1753<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t3.ssrsub.one:8443#%F0%9F%87%B7%F0%9F%87%BA%20RU_1706<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t4.ssrsub.one:8443?sni=t4.ssrsub.one#%F0%9F%87%B7%F0%9F%87%BA%20RU_1705<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t2.ssrsub.one:8443#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_411<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t1.ssrsub.one:8443?sni=t1.ssrsub.one#Relay_%F0%9F%87%BA%F0%9F%87%B8US-%F0%9F%87%BA%F0%9F%87%B8US_410<br>
-trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t3.ssrsub.one:8443?sni=t3.ssrsub.one#Relay_%F0%9F%87%B7%F0%9F%87%BARU-%F0%9F%87%B7%F0%9F%87%BARU_253<br>
+trojan://41742_920c8caa@hk31.ssgnode.ga:443#%F0%9F%87%AD%F0%9F%87%B0%20HK_1006<br>
+trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t4.ssrsub.one:8443#%F0%9F%87%B7%F0%9F%87%BA%20RU_1703<br>
+trojan://310d9ce0-1903-4b5a-99eb-bee8dc30e8ec@t2.ssrsub.one:8443#%F0%9F%87%BA%F0%9F%87%B8%20US_2415<br>
+trojan://41742_920c8caa@hk31.ssgnode.ga:443#%F0%9F%87%AD%F0%9F%87%B0HK_118<br>
 <br>
 sub：<br>
 <br>
@@ -199,12 +202,11 @@ ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV00zTWpsa0A1MS44MS4zNS4xNjQ6ODEzOQ#@SSRSUB-
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpPV00zTWpsa0A1MS44MS4zNS4xNjQ6MTQ0Mw#@SSRSUB-%E7%BE%8E%E5%9B%BD18-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVl3T1RBeUAxMzkuOTkuMTAzLjEwODo4Mzg4#@SSRSUB-%E6%96%B0%E5%8A%A0%E5%9D%A119-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub<br>
 ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVl3T1RBeUAxMzkuOTkuMTAzLjEwODo4MTM5#@SSRSUB-%E6%96%B0%E5%8A%A0%E5%9D%A120-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVl3T1RBeUAxMzkuOTkuMTAzLjEwODoxNDQz#@SSRSUB-%E6%96%B0%E5%8A%A0%E5%9D%A121-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub<br>
-　</p>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpNbVl3T1RBeUAxMzkuOTkuMTAzLjEwODoxNDQz#@SSRSUB-%E6%96%B0%E5%8A%A0%E5%9D%A121-%E4%BB%98%E8%B4%B9%E6%8E%A8%E8%8D%90:suo.yt/ssrsub</p>
 <p>al:</p>
-<p><strong>北京时间2021年8月26日11点22分去掉失效账号。为了让每个人都能获得一定的带宽资源，节点进行了限速100~200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
-<p>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjMxMTMx#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91</p>
+<p><strong>北京时间2021年8月30日10点00分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速100~200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
+<p>ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjE0Ny4yMDAuMjE0OjUwMDE5#https%3a%2f%2fgit.io%2fv9999+%e8%8e%ab%e6%96%af%e7%a7%91</p>
+
 
 
 
