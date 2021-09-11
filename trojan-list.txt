@@ -1,5 +1,2 @@
-trojan://7622e286-0c41-412e-8381-1fe7a2da2c91@t1.ssrsub.one:8443#%E7%BE%8E%E5%9B%BD%20%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF
-trojan://7622e286-0c41-412e-8381-1fe7a2da2c91@t3.ssrsub.one:8443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
-trojan://7622e286-0c41-412e-8381-1fe7a2da2c91@t6.ssrsub.one:8443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Krasnoyarskiy%20Kray%20Krasnoyarsk
-trojan://7622e286-0c41-412e-8381-1fe7a2da2c91@t4.ssrsub.one:8443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
-trojan://7622e286-0c41-412e-8381-1fe7a2da2c91@t2.ssrsub.one:8443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
+trojan://a88b0aa2-b6d3-487c-bada-5da80c3b928e@t7.ssrsub.one:8443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://a88b0aa2-b6d3-487c-bada-5da80c3b928e@t5.ssrsub.one:8443#%E9%A6%99%E6%B8%AF
