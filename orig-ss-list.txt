@@ -42,38 +42,24 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 https://shadowsocks.org/en/download/clients.html</a> </p>
 <p>
 <br>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2021-10-<span lang="en-us">29</span> 22:35:55</p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2021-10-<span lang="en-us">31</span> 22:35:55</p>
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
 <p>fd:&nbsp;</p>
 <p>
+ss://YWVzLTI1Ni1nY206d2o3bkRDdU5BUmNoU2VLTkNOOFZGSzYy@198.147.22.87:31757#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@45.89.173.205:39772#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206RjViS2tiOWdna0x4NEpiUXJiTG43TGpa@198.8.92.84:44945#翻墙党fanqiangdang.com<br>
 ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5h@198.8.92.84:35294#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206S3F1djVVaHZaWE5NZW1BUXk4RHhaN3Fu@198.8.92.84:38620#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdC@198.8.92.84:49396#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hl@45.89.173.205:33998#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.167.214:8090#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.172.41:7307#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.172.41:8090#翻墙党fanqiangdang.com<br>
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.167.214:7307#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.105.172.37:2376#翻墙党fanqiangdang.com<br>
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.105.172.41:2375#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.105.172.37:2375#翻墙党fanqiangdang.com<br>
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.105.172.41:2376#翻墙党fanqiangdang.com<br>
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.167.214:8091#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.172.37:7307#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.172.41:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.105.172.41:7307#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.172.37:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@198.57.27.218:2376#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@198.57.27.218:7306#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@198.57.27.218:2375#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8091#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1jZmI6NDQxNTkzNDI5NQ@51.79.166.171:50004#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@198.57.27.225:2375#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@198.57.27.218:7307#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@198.57.27.225:7307#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9kMzlt@music.desperadoj.com:30003#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@172.105.167.214:8090#翻墙党fanqiangdang.com<br>
 <br>
 <br>
 sub:</p>
@@ -99,20 +85,19 @@ ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE2Ny44OC42My44Mjo3MzA2#%e4%bb%98%e8%b
 ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3QDE5OC41Ny4yNy4yMTg6ODA5MA==#%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub__20<br>
 ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi4xMDUuNTUuNzI6MjM3Ng==#%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub__21<br>
 ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQQDE2Ny44OC42My4xMTo3MzA3#%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3adlj.tf%2fssrsub__22<br>
-ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS1-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDE5My4zOC41MS4xOTI6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS2-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDIuNTkuMjE0LjIwNDoxNTM=#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS3-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMS4xODA6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S4-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMS4xODE6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S5-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjI1MC43ODoxNTM=#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S6-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS7-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDE5My4zOC41MS4xOTI6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS8-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDIuNTkuMjE0LjIwNDoxNTM=#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS9-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMS4xODA6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S10-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMS4xODE6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S11-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjI1MC43ODoxNTM=#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S12-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
-<br>
-　</p>
+ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS1-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDE5My4zOC41MS4xOTI6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS2-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDIuNTkuMjE0LjIwNDoxNTM=#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS3-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMS4xODA6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S4-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjIzMy4xMzQ6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S5-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206NTJmMzFmY2ItZjk0OC00ZjcxLWJjYTgtNzk1ZmRjZjdiNzU0QDQ1LjYyLjI0Ni4xNzE6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S6-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1Ljg5LjIyOS4yMjM6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS7-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDE5My4zOC41MS4xOTI6MTUz#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS8-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDIuNTkuMjE0LjIwNDoxNTM=#%40SSRSUB-%e4%bf%84%e7%bd%97%e6%96%afS9-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMS4xODA6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S10-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjIzMy4xMzQ6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S11-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub<br>
+ss://YWVzLTEyOC1nY206ZjU0ODdlZTMtYWVmNS00MzZmLWFkZjktNjczYjFhZmUyZmY3QDQ1LjYyLjI0Ni4xNzE6MTUz#%40SSRSUB-%e5%8a%a0%e6%8b%bf%e5%a4%a7S12-%e4%bb%98%e8%b4%b9%e6%8e%a8%e8%8d%90%3a%3asuo.yt%2fssrsub</p>
+
 
 
 
