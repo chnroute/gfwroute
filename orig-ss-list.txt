@@ -44,28 +44,25 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 https://shadowsocks.org/en/download/clients.html</a> </p>
 <p>
 <br>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2021-11-<span lang="en-us">09</span> 12:35:55</p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2021-11-<span lang="en-us">11</span> 12:35:55</p>
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
 <p>fd:&nbsp;</p>
 <p>
-ss://YWVzLTI1Ni1nY206RjViS2tiOWdna0x4NEpiUXJiTG43TGpa@198.8.92.84:44945#<br>
-ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5h@198.8.92.84:35294#<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@46.29.218.6:2376#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@46.29.218.6:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@46.29.218.6:2376#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@46.29.218.6:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9kMzlt@101.132.192.212:30003#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206OG42cHdBY3JydjJwajZ0RlkycDNUYlE2@45.89.173.205:33992#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206a0Q5dmtqbkU2ZHNVendRZnZLa1BrUUFk@198.8.92.84:37588#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206V0N1ejd5cmZaU0NRUVhTTnJ0R1B6MkhU@198.8.92.84:50168#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206SjlZMm5jcmRQRUMzOGd3eWRORkZHQm5h@198.8.92.84:35294#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206S3F1djVVaHZaWE5NZW1BUXk4RHhaN3Fu@198.8.92.84:38620#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdC@198.8.92.84:49396#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206Q1VuZFNabllzUEtjdTZLajhUSFZNQkhE@198.147.22.87:39772#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206d2o3bkRDdU5BUmNoU2VLTkNOOFZGSzYy@198.147.22.87:31757#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206Tkh3UVRQTENmYVRNU3FUblUzbWpjU3hl@45.89.173.205:33998#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@198.57.27.218:8091#翻墙党fanqiangdang.com<br>
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@198.57.27.218:7307#翻墙党fanqiangdang.com<br>
 ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9kMzlt@music.desperadoj.com:30003#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@46.29.218.6:2376#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@46.29.218.6:8090#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1nY206QmRSV0MzOEw1SlVETVRZTk54SkdjVXdC@156.146.33.74:49396#翻墙党fanqiangdang.com<br>
-ss://YWVzLTI1Ni1jZmI6bGFubHVvamluZzMyMA@49.51.188.31:32095#翻墙党fanqiangdang.com<br>
 <br>
 <br>
 sub:</p>
