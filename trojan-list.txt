@@ -1,3 +1,1 @@
-trojan://92a95e6d-cf89-42ee-8110-66fab6871e2f@t5.ssrsub.com:1033#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
-trojan://92a95e6d-cf89-42ee-8110-66fab6871e2f@t4.ssrsub.com:1033#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
-trojan://92a95e6d-cf89-42ee-8110-66fab6871e2f@t7.ssrsub.com:1033#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
+trojan://765040cb-15f4-43da-9e07-4b92c767d222@azhk.alink123.com:11045#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
