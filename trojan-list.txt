@@ -2,7 +2,6 @@ trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t2.ssrsub.com:21033#%E7%BE%8E%E5%9
 trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t8.ssrsub.com:21033#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t7.ssrsub.com:21033#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t6.ssrsub.com:21033#%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t9.ssrsub.com:21033#%E7%BE%8E%E5%9B%BD%20%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%20Dallas
 trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t1.ssrsub.com:21033#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Krasnoyarskiy%20Kray%20Krasnoyarsk
 trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t4.ssrsub.com:21033#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
 trojan://2b19f253-5da2-4ca2-a950-8b4e7b3ddadb@t5.ssrsub.com:21033#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
