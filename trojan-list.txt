@@ -1,1 +1,3 @@
-trojan://e795f820-9391-4a9d-bfaf-b5329386f82f@t7.ssrsub.com:8443#%E6%8D%B7%E5%85%8B
+trojan://3babef69-fb91-47f8-8882-e5a0a1ba3689@t3.ssrsub.com:156#%E5%8A%A0%E6%8B%BF%E5%A4%A7
+trojan://c4415de6-7548-4c8b-94c7-28c37179e84a@t7.ssrsub.com:8443#%E6%8D%B7%E5%85%8B
+trojan://3babef69-fb91-47f8-8882-e5a0a1ba3689@t2.ssrsub.com:8443#%E6%8D%B7%E5%85%8B
