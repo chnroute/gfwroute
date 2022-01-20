@@ -1,6 +1,5 @@
 trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t1.ssrsub.com:8443#%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t3.ssrsub.com:8443#%E5%8A%A0%E6%8B%BF%E5%A4%A7
-trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t7.ssrsub.com:8443#%E6%8D%B7%E5%85%8B
-trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t10.ssrsub.com:8443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
-trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t6.ssrsub.com:8443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
 trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t2.ssrsub.com:8443#%E6%8D%B7%E5%85%8B
+trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t7.ssrsub.com:8443#%E6%8D%B7%E5%85%8B
+trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t6.ssrsub.com:8443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
+trojan://64c3ab43-dc1b-401c-9437-9adf7bcf4a28@t3.ssrsub.com:8443#%E5%8A%A0%E6%8B%BF%E5%A4%A7
