@@ -444,7 +444,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 https://shadowsocks.org/en/download/clients.html</a> </p>
 <p>
 <br>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-2-<span lang="en-us">4 </span>12:35:55</p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-2-<span lang="en-us">6 </span>12:35:55</p>
 
 
 
