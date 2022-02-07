@@ -121,7 +121,7 @@ ssr://My4xMjQuMTIuMzA6ODA4MDpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOk
 </p>
 
 <p>al:</p>
-<p><strong>北京时间2022年2月4日19点52分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
+<p><strong>北京时间2022年2月7日8点00分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
 <p>有协议和混淆内容的账号是SSR账号，需要使用SSR客户端。有aes-256-gcm加密方式的账号是SS账号，需要使用SS客户端。<br>
 <br>
 位置 地址 端口 密码 加密方式 协议 混淆</p>
@@ -129,7 +129,6 @@ ssr://My4xMjQuMTIuMzA6ODA4MDpvcmlnaW46YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOk
 tls1.2_ticket_auth<br>
 俄罗斯1 ru1.free4444.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
 洛杉矶2 lg1.free4444.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
-达拉斯 209.209.112.6 12345 dongtaiwang.com aes-256-gcm <br>
 俄罗斯2 2.56.241.234 10088 dongtaiwang.com aes-256-gcm <br>
 洛杉矶4 23.19.26.246 20088 dongtaiwang.com aes-256-gcm <br>
 俄罗斯5 45.137.154.208 10088 dongtaiwang.com aes-256-gcm <br>
@@ -141,8 +140,6 @@ ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 ssr://cnUxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VTFOUyZncm91cD1hSFIwY0hNNkx5OW5hWFF1YVc4dmRqazVPVGs<br>
 <br>
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIwOS4yMDkuMTEyLjY6MTIzNDU=#https%3a%2f%2fgit.io%2fv9999+%e8%be%be%e6%8b%89%e6%96%afSS<br>
 <br>
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTYuMjQxLjIzNDoxMDA4OA==#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS<br>
 <br>
@@ -1621,7 +1618,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2022-2-6 12:46:55</font>
+所有数据均来自互联网，更新时间：2022-2-7 12:46:55</font>
 
 
 
