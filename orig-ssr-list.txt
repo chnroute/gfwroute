@@ -42,7 +42,7 @@
 
 
 <p>al:</p>
-<p><strong>北京时间2022年2月7日8点00分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
+<p><strong>北京时间2022年2月10日12点38分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
 <p>有协议和混淆内容的账号是SSR账号，需要使用SSR客户端。有aes-256-gcm加密方式的账号是SS账号，需要使用SS客户端。<br>
 <br>
 位置 地址 端口 密码 加密方式 协议 混淆</p>
@@ -50,9 +50,8 @@
 tls1.2_ticket_auth<br>
 俄罗斯1 ru1.free4444.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
 洛杉矶2 lg1.free4444.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
-俄罗斯2 2.56.241.234 10088 dongtaiwang.com aes-256-gcm <br>
-洛杉矶4 23.19.26.246 20088 dongtaiwang.com aes-256-gcm <br>
-俄罗斯5 45.137.154.208 10088 dongtaiwang.com aes-256-gcm <br>
+洛杉矶3 23.19.26.246 60011 dongtaiwang.com aes-256-gcm <br>
+俄罗斯2 194.135.32.137 123456 dongtaiwang.com aes-256-gcm <br>
 <br>
 SSR链接：<br>
 <br>
@@ -62,11 +61,9 @@ ssr://cnUxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdX
 <br>
 ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
 <br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIuNTYuMjQxLjIzNDoxMDA4OA==#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS<br>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0Njo2MDAxMQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b63SS<br>
 <br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0NjoyMDA4OA==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b6SS<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjEzNy4xNTQuMjA4OjEwMDg4#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%afSS</p>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5NC4xMzUuMzIuMTM3OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%af2SS</p>
 <p>　</p>
 <p>
 
@@ -99,19 +96,19 @@ ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDQ1LjEzNy4xNTQuMjA4OjEwMDg4#https%3a%2
 
 
 
-<p>ssr://MTk1LjEzMy4xMS4xMTU6OTYwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01XZy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MTk0LjE0Ny44Ni4xMzA6OTYwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01XZy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFnJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://NDUuMTQwLjE3MC4yMzI6OTYwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01XZy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://OTEuMTk4LjIyMC4yMDA6OTYwMjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01XZy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://NDYuMjkuMTY3LjIzODo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYXpjLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VVEmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTY3LjE5NTo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYXpjLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VWcmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTY0LjIzMTo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYXpjLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VXcmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTY3LjEyNTo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYXpjLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VkEmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTY0LjE0ODo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYkRZLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VlEmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTY3LjIwMzo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYkRZLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VmcmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTYxLjIxMTo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYkRZLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VncmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://NDYuMjkuMTY0LjIxMzo5NjAyOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnYkRZLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2V0EmZ3JvdXA9VEc1amJpNXZjbWM</p>
-<p>　</p>
+<p>ssr://MTk1LjEzMy4xMS4xMTU6OTM5MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MTk0LjE0Ny44Ni4xMzA6OTM5MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFnJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://NDUuMTQwLjE3MC4yMzI6OTM5MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://OTEuMTk4LjIyMC4yMDA6OTM5MzpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05uUS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://NDYuMjkuMTY3LjIzODo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTTJzLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VVEmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTY3LjE5NTo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTTJzLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VWcmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTY0LjIzMTo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTTJzLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VXcmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTY3LjEyNTo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTTJzLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VkEmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTY0LjE0ODo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTW0wLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VlEmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTY3LjIwMzo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTW0wLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VmcmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTYxLjIxMTo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTW0wLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VncmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://NDYuMjkuMTY0LjIxMzo5MzkzOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTW0wLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2V0EmZ3JvdXA9VEc1amJpNXZjbWM<br>
+　</p>
 
 
 
@@ -269,7 +266,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2022-2-9 12:46:55</font>
+所有数据均来自互联网，更新时间：2022-2-10 12:46:55</font>
 
 
 
