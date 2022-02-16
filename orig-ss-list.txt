@@ -132,7 +132,6 @@ ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVlAMTY5LjE5Ny4xNDEuOTE6OTEwMQ==#%f0%9f%8f%
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDEzNC4xOTUuMTk2LjE5Mzo1MDA0#%f0%9f%8f%81ZZ_102<br>
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTY5LjE5Ny4xNDEuOTE6NTAwMQ==#%f0%9f%8f%81ZZ_103<br>
 ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDE2OS4xOTcuMTQxLjkxOjUwMDQ=#%f0%9f%8f%81ZZ_104<br>
-<br>
 
 
 
@@ -245,54 +244,25 @@ yn:
 账号 端口 密加密方式<br>
 172.99.190.149 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
 134.195.196.193 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
-142.202.48.34 3389 Y6R9pAtvxxzmGC aes-256-gcm<br>
 141.95.0.26 826 sF43Xt2gONqcgFX563 chacha20-ietf-poly1305<br>
-167.88.61.60 5601 Y6R9pAtvxxzmGC aes-256-gcm<br>
+134.195.196.200 5003 g5MeD6Ft3CWlJId aes-256-gcm<br>
 169.197.141.91 5001 Y6R9pAtvxxzmGC aes-256-gcm<br>
-198.57.27.184 8080 KixLvKzwjekG00rm aes-256-gcm<br>
+172.99.190.149 7306 FoOiGlkAA9yPEGP aes-256-gcm<br>
 149.202.82.172 5003 g5MeD6Ft3CWlJId aes-256-gcm<br>
-198.57.27.241 2375 faBAoD54k87UJG7 aes-256-gcm<br>
-134.195.196.81 8091 PCnnH6SQSnfoS27 aes-256-gcm<br>
-134.195.196.71 8119 cdBIDV42DCwnfIN aes-256-gcm<br>
-134.195.196.81 7307 FoOiGlkAA9yPEGP aes-256-gcm<br>
-198.57.27.184 2375 faBAoD54k87UJG7 aes-256-gcm<br>
-145.239.1.137 8091 PCnnH6SQSnfoS27 aes-256-gcm<br>
-167.88.61.60 7002 RexnBgU7EV5ADxG aes-256-gcm<br>
-134.195.196.71 5001 Y6R9pAtvxxzmGC aes-256-gcm<br>
-145.239.1.137 2376 faBAoD54k87UJG7 aes-256-gcm<br>
-167.88.61.60 8118 cdBIDV42DCwnfIN aes-256-gcm<br>
-38.68.134.23 5003 g5MeD6Ft3CWlJId aes-256-gcm<br>
+169.197.141.91 9101 e4FCWrgpkji3QY aes-256-gcm<br>
 172.99.190.39 2375 faBAoD54k87UJG7 aes-256-gcm<br>
-198.57.27.184 2376 faBAoD54k87UJG7 aes-256-gcm<br>
-167.88.61.60 8882 kDWvXYZoTBcGkC4 aes-256-gcm<br>
-38.75.136.93 5004 g5MeD6Ft3CWlJId aes-256-gcm<br>
 169.197.141.91 5004 g5MeD6Ft3CWlJId aes-256-gcm<br>
 117.28.242.137 9359 73117962 aes-256-cfb<br>
-95.142.175.14 443 tkAx1ehPPkMN chacha20-ietf-poly1305<br>
-134.195.196.71 443 pKEW8JPByTVTLtM aes-256-gcm<br>
-38.75.136.93 9102 e4FCWrgpkji3QY aes-256-gcm<br>
-134.195.196.71 3389 Y6R9pAtvxxzmGC aes-256-gcm<br>
-38.75.136.93 7002 RexnBgU7EV5ADxG aes-256-gcm<br>
-198.57.27.241 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
-45.79.111.214 443 9d6cceaa373bf2c8acb22e60b6a58be6 aes-256-cfb<br>
+134.195.196.193 5004 g5MeD6Ft3CWlJId aes-256-gcm<br>
 134.195.196.193 2376 faBAoD54k87UJG7 aes-256-gcm<br>
-145.239.1.137 8080 KixLvKzwjekG00rm aes-256-gcm<br>
-167.88.62.34 8091 PCnnH6SQSnfoS27 aes-256-gcm<br>
-198.57.27.172 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
 145.239.1.100 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
 172.99.190.188 2376 faBAoD54k87UJG7 aes-256-gcm<br>
-172.99.190.149 3306 Y6R9pAtvxxzmGC aes-256-gcm<br>
 149.202.82.172 5001 Y6R9pAtvxxzmGC aes-256-gcm<br>
-172.105.171.80 2376 faBAoD54k87UJG7 aes-256-gcm<br>
-145.239.1.137 5004 g5MeD6Ft3CWlJId aes-256-gcm<br>
 159.75.50.77 40010 QazEdcTgb159@$* aes-128-cfb<br>
 134.195.196.147 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
+172.99.190.188 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
 172.99.190.39 5003 g5MeD6Ft3CWlJId aes-256-gcm<br>
-145.239.1.137 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
-106.52.33.67 40382 QazEdcTgb159@$* aes-128-cfb<br>
-　</p>
-
-　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+106.52.33.67 40382 QazEdcTgb159@$* aes-128-cfb</p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
@@ -306,7 +276,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 https://shadowsocks.org/en/download/clients.html</a> </p>
 <p>
 <br>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-2-<span lang="en-us">14 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-2-<span lang="en-us">16 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>

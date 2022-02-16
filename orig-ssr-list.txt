@@ -121,6 +121,29 @@ ssr://NDYuMjkuMTY0LjIxMzo5NzMwOm9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTm04Lz9vYm
 
 
 
+zfj：<br>
+&#11088;&#65039;俄罗斯SSR（适合北方地区）：<br>
+ssr://Mi41Ni4yNDEuMjQ6Mjk5OTk6b3JpZ2luOnJjNDpwbGFpbjpSMWhOZEdZNE9XSnZiVk5UUjBWME9VMTNXV3M<br>
+&#11088;&#65039;洛杉矶1（移动直连）：<br>
+ssr://MTk4LjEyLjExMy4xODc6MzY2NjY6b3JpZ2luOnJjNDpwbGFpbjpkMlJPYlRRNFVtZFdhREppZG5Rd2VURk1RVVE<br>
+&#11088;&#65039;达拉斯：ssr://NDUuNjEuMTYzLjExNzozNzM3MzpvcmlnaW46cmM0OnBsYWluOlIxWlpTV1ZwWWxablJVNWFWM1JaTmtaV1ZVSQ<br>
+&#11088;&#65039;美国1（移动直连）：ssr://NDUuMTQwLjg4LjE3Nzo0MDUwNTpvcmlnaW46cmM0OnBsYWluOmMwa3diVXRpT1RsU1JrOTJWalJQZVRkbGRqVQ<br>
+&#11088;&#65039;韩国（移动直连）：ssr://NDUuMTU0LjE1LjI0OToyODA4MDpvcmlnaW46cmM0OnBsYWluOlNXaEVTemxtYlV4bVJtTklVV2gwZUVRMU4yOA<br>
+&#11088;&#65039;洛杉矶4：ssr://MTU2LjI1MS4xNDIuMTA0OjU2MjYyOm9yaWdpbjpyYzQ6cGxhaW46YVVsaWJEWktTREkwTVhKeWRIaG1aR05LUmpF<br>
+　<p>iyi:</p>
+<p>IP 端口 加密方式 密码 <br>
+45.32.144.40 62543 chacha20-ietf-poly1305 kr45hjk7mY4d <br>
+173.82.19.187 48521 chacha20-ietf-poly1305 UJ574f76Dolbl <br>
+95.179.157.252 36584 chacha20-ietf-poly1305 h5dfa784y6A0 <br>
+144.202.65.144 44581 chacha20-ietf-poly1305 xv689kjk9IAp6 <br>
+149.28.66.98 22531 chacha20-ietf-poly1305 vd3h73jjf8cv9 <br>
+47.100.123.194 15863 chacha20-ietf-poly1305 5ghfgkjsaNfikk </p>
+
+
+
+
+
+
 <p>
 
 
@@ -231,7 +254,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <br>
 Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2022-2-15 12:46:55</font>
+所有数据均来自互联网，更新时间：2022-2-16 12:46:55</font>
 
 
 
