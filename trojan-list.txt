@@ -31,3 +31,4 @@ trojan://8657e06e-4241-4ad2-9de7-20f6b7b1e995@5.vpnbro.ml:6666?allowInsecure=1#%
 trojan://da8f4c57-d022-3ccc-ae2a-a70256d68c32@hk2.v2hub.top:30443?allowInsecure=1#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://a2c47c59-a4c8-4d66-9456-966ba37dedcc@vincent-jackson2021.ga:443?allowInsecure=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://8657e06e-4241-4ad2-9de7-20f6b7b1e995@4.vpnbro.ml:9999?allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://13c4f63aea8b@rn.nbczl233.ml:443#%E7%BE%8E%E5%9B%BD
