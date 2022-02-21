@@ -5,7 +5,7 @@ trojan://da8f4c57-d022-3ccc-ae2a-a70256d68c32@gzcm.v2hub.top:19121?allowInsecure
 trojan://12d66073-1c21-45d7-b7e2-6b0ed7eed556@n178.centaur.network:8082?allowInsecure=1#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://da8f4c57-d022-3ccc-ae2a-a70256d68c32@gzcm.v2hub.top:19621?allowInsecure=1#%E4%B8%AD%E5%9B%BD%20%E5%B9%BF%E4%B8%9C%20%E5%B9%BF%E5%B7%9E%E5%B8%82
 trojan://MhPG7g9x2Etb4Hspsb@os2-6.sstr-api.xyz:443?allowInsecure=1#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
-trojan://da8f4c57-d022-3ccc-ae2a-a70256d68c32@tw.v2hub.top:30443?allowInsecure=1#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
+trojan://da8f4c57-d022-3ccc-ae2a-a70256d68c32@tw.v2hub.top:30443?allowInsecure=1#%E5%8F%B0%E6%B9%BE%20%E6%96%B0%E5%8C%97%E5%B8%82%20%E6%96%B0%E5%8C%97%E5%B8%82
 trojan://MhPG7g9x2Etb4Hspsb@os2-5.sstr-api.xyz:443?allowInsecure=1#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://ixkIc4mCzH@www.darkwater.xyz:41759?allowInsecure=1#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
 trojan://MhPG7g9x2Etb4Hspsb@os2-7.sstr-api.xyz:443?allowInsecure=1#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
