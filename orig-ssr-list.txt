@@ -41,6 +41,196 @@
 
 
 
+<p>al:</p>
+<p><strong>北京时间2022年2月15日9点12分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
+<p>有协议和混淆内容的账号是SSR账号，需要使用SSR客户端。有aes-256-gcm加密方式的账号是SS账号，需要使用SS客户端。<br>
+<br>
+位置 地址 端口 密码 加密方式 协议 混淆</p>
+<p>洛杉矶1 us3.free4444.xyz 443 dongtaiwang.com none auth_chain_a 
+tls1.2_ticket_auth<br>
+洛杉矶2 lg1.free4444.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
+洛杉矶3 23.19.26.246 50055 dongtaiwang.com aes-256-gcm <br>
+俄罗斯2 194.135.32.137 12345 dongtaiwang.com aes-256-gcm <br>
+<br>
+SSR链接：<br>
+<br>
+ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrZzVyU2I1cDJKNTUtMlUxTlM<br>
+<br>
+ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
+<br>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0Njo1MDA1NQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b63SS<br>
+<br>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5NC4xMzUuMzIuMTM3OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%af2SS</p>
+<p>
+
+
+
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
+
+
+
+
+</p>
+
+
+
+
+<p><span data-v-3aa30de4>Lncn</span>:</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>ssr://MTk1LjEzMy4xMS4xMTU6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MTk0LjE0Ny44Ni4xMzA6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFnJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://NDUuMTQwLjE3MC4yMzI6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://OTEuMTk4LjIyMC4yMDA6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MTkzLjIzMy4xNi4yNDM6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2VUVS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJRJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MTk1LjI0NS4yMzkuMTU6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2VUVS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJnJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MTk1LjEzMy4xMC40Nzo5Mzc5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnZVRVLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UncmZ3JvdXA9VEc1amJpNXZjbWM<br>
+ssr://MTk0LjE0Ny4zMi4xNTI6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ2VUVS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNBJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MTkzLjIzMy4xNi4yNDQ6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05Xcy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNRJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://MjEyLjYwLjUuMTc6OTM3OTpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ05Xcy8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNnJmdyb3VwPVRHNWpiaTV2Y21j<br>
+ssr://Mi41Ni4yNDIuMjA0OjkzNzk6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOV3MvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw<br>
+ssr://NDUuMTQwLjE3MC4xNTo5Mzc5Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTldzLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VEEmZ3JvdXA9VEc1amJpNXZjbWM</p>
+<p>　</p>
+
+
+
+
+
+
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
+
+
+
+
+
+
+zfj：<br>
+&#11088;&#65039;俄罗斯SSR（适合北方地区）：<br>
+ssr://Mi41Ni4yNDEuMjQ6Mjk5OTk6b3JpZ2luOnJjNDpwbGFpbjpSMWhOZEdZNE9XSnZiVk5UUjBWME9VMTNXV3M<br>
+&#11088;&#65039;洛杉矶1（移动直连）：<br>
+ssr://MTk4LjEyLjExMy4xODc6MzY2NjY6b3JpZ2luOnJjNDpwbGFpbjpkMlJPYlRRNFVtZFdhREppZG5Rd2VURk1RVVE<br>
+&#11088;&#65039;达拉斯：ssr://NDUuNjEuMTYzLjExNzozNzM3MzpvcmlnaW46cmM0OnBsYWluOlIxWlpTV1ZwWWxablJVNWFWM1JaTmtaV1ZVSQ<br>
+&#11088;&#65039;美国1（移动直连）：ssr://NDUuMTQwLjg4LjE3Nzo0MDUwNTpvcmlnaW46cmM0OnBsYWluOmMwa3diVXRpT1RsU1JrOTJWalJQZVRkbGRqVQ<br>
+&#11088;&#65039;韩国（移动直连）：ssr://NDUuMTU0LjE1LjI0OToyODA4MDpvcmlnaW46cmM0OnBsYWluOlNXaEVTemxtYlV4bVJtTklVV2gwZUVRMU4yOA<br>
+&#11088;&#65039;洛杉矶4：ssr://MTU2LjI1MS4xNDIuMTA0OjU2MjYyOm9yaWdpbjpyYzQ6cGxhaW46YVVsaWJEWktTREkwTVhKeWRIaG1aR05LUmpF<br>
+　<p>iyi:</p>
+<p>IP 端口 加密方式 密码 <br>
+45.32.144.40 62543 chacha20-ietf-poly1305 kr45hjk7mY4d <br>
+173.82.19.187 48521 chacha20-ietf-poly1305 UJ574f76Dolbl <br>
+95.179.157.252 36584 chacha20-ietf-poly1305 h5dfa784y6A0 <br>
+144.202.65.144 44581 chacha20-ietf-poly1305 xv689kjk9IAp6 <br>
+149.28.66.98 22531 chacha20-ietf-poly1305 vd3h73jjf8cv9 <br>
+47.100.123.194 15863 chacha20-ietf-poly1305 5ghfgkjsaNfikk </p>
+
+
+
+
+
+
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</p>
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
+
+</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <p>fd:</p>
 <p>trojan://00635f3d-2c64-4281-9367-f3c26ebb6a44@p3.centaur.network:16803?allowInsecure=1#CN_52+TG%40peekfun<br>
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuOAkDQyNuiKgueCueaxoOOAkUNOXzM1MiIsDQogICJhZGQiOiAiMTExLjI4LjMuMTA2IiwNCiAgInBvcnQiOiAiNjAwMjEiLA0KICAiaWQiOiAiMTlmZjg4ZmYtYTNjMS0zYTkwLTgyZmQtZTdkYWYyOWY3YjExIiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIxMTEuMjguMy4xMDYiLA0KICAicGF0aCI6ICIvIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=<br>
@@ -296,198 +486,6 @@ ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@172.99.190.39:8882#US_204+TG%40peekfun
 trojan://8657e06e-4241-4ad2-9de7-20f6b7b1e995@4.vpnbro.ml:9999?allowInsecure=1#Relay_%f0%9f%87%b8%f0%9f%87%acSG-%f0%9f%87%b8%f0%9f%87%acSG_709<br>
 ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@149.202.82.172:5001#FR_59+TG%40peekfun<br>
 　</p>
-<p>al:</p>
-<p><strong>北京时间2022年2月15日9点12分更新。为了让每个人都能获得一定的带宽资源，节点进行了限速200kb/s。禁止使用节点进行BT下载、滥发垃圾邮件、DDOS攻击！BT下载会导致服务器被投诉版权而被封！</strong></p>
-<p>有协议和混淆内容的账号是SSR账号，需要使用SSR客户端。有aes-256-gcm加密方式的账号是SS账号，需要使用SS客户端。<br>
-<br>
-位置 地址 端口 密码 加密方式 协议 混淆</p>
-<p>洛杉矶1 us3.free4444.xyz 443 dongtaiwang.com none auth_chain_a 
-tls1.2_ticket_auth<br>
-洛杉矶2 lg1.free4444.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
-洛杉矶3 23.19.26.246 50055 dongtaiwang.com aes-256-gcm <br>
-俄罗斯2 194.135.32.137 12345 dongtaiwang.com aes-256-gcm <br>
-<br>
-SSR链接：<br>
-<br>
-ssr://dXMzLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhRdWFXOHZkams1T1RrZzVyU2I1cDJKNTUtMlUxTlM<br>
-<br>
-ssr://bGcxLmZyZWU0NDQ0Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9NXJTYjVwMko1NS0yVTFOU0sxUk1VeXREWVdSa2VRJmdyb3VwPWFIUjBjSE02THk5bmFYUXVhVzh2ZGprNU9Uaw<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDIzLjE5LjI2LjI0Njo1MDA1NQ==#https%3a%2f%2fgit.io%2fv9999+%e6%b4%9b%e6%9d%89%e7%9f%b63SS<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29tQDE5NC4xMzUuMzIuMTM3OjEyMzQ1#https%3a%2f%2fgit.io%2fv9999+%e4%bf%84%e7%bd%97%e6%96%af2SS</p>
-<p>　</p>
-<p>
-
-
-
-<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-
-
-
-
-</p>
-
-
-
-
-<p><span data-v-3aa30de4>Lncn</span>:</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>ssr://MTk1LjEzMy4xMS4xMTU6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFRJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MTk0LjE0Ny44Ni4xMzA6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlFnJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://NDUuMTQwLjE3MC4yMzI6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlF3Jmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://OTEuMTk4LjIyMC4yMDA6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04zQS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJBJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MTkzLjIzMy4xNi4yNDM6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ09Iay8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJRJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MTk1LjI0NS4yMzkuMTU6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01tSS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlJnJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MTk1LjEzMy4xMC40Nzo5Njk2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTW1JLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2UncmZ3JvdXA9VEc1amJpNXZjbWM<br>
-ssr://MTk0LjE0Ny4zMi4xNTI6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ01tSS8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNBJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MTkzLjIzMy4xNi4yNDQ6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yOC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNRJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://MjEyLjYwLjUuMTc6OTY5NjpvcmlnaW46cmM0OnBsYWluOmJHNWpiaTV2Y21jZ04yOC8_b2Jmc3BhcmFtPSZyZW1hcmtzPTVMLUU1NzJYNXBhdlNnJmdyb3VwPVRHNWpiaTV2Y21j<br>
-ssr://Mi41Ni4yNDIuMjA0Ojk2OTY6b3JpZ2luOnJjNDpwbGFpbjpiRzVqYmk1dmNtY2dOMjgvP29iZnNwYXJhbT0mcmVtYXJrcz01TC1FNTcyWDVwYXZTdyZncm91cD1URzVqYmk1dmNtYw<br>
-ssr://NDUuMTQwLjE3MC4xNTo5Njk2Om9yaWdpbjpyYzQ6cGxhaW46Ykc1amJpNXZjbWNnTldzLz9vYmZzcGFyYW09JnJlbWFya3M9NUwtRTU3Mlg1cGF2VEEmZ3JvdXA9VEc1amJpNXZjbWM</p>
-<p>　</p>
-
-
-
-
-
-
-<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-
-
-
-
-
-
-zfj：<br>
-&#11088;&#65039;俄罗斯SSR（适合北方地区）：<br>
-ssr://Mi41Ni4yNDEuMjQ6Mjk5OTk6b3JpZ2luOnJjNDpwbGFpbjpSMWhOZEdZNE9XSnZiVk5UUjBWME9VMTNXV3M<br>
-&#11088;&#65039;洛杉矶1（移动直连）：<br>
-ssr://MTk4LjEyLjExMy4xODc6MzY2NjY6b3JpZ2luOnJjNDpwbGFpbjpkMlJPYlRRNFVtZFdhREppZG5Rd2VURk1RVVE<br>
-&#11088;&#65039;达拉斯：ssr://NDUuNjEuMTYzLjExNzozNzM3MzpvcmlnaW46cmM0OnBsYWluOlIxWlpTV1ZwWWxablJVNWFWM1JaTmtaV1ZVSQ<br>
-&#11088;&#65039;美国1（移动直连）：ssr://NDUuMTQwLjg4LjE3Nzo0MDUwNTpvcmlnaW46cmM0OnBsYWluOmMwa3diVXRpT1RsU1JrOTJWalJQZVRkbGRqVQ<br>
-&#11088;&#65039;韩国（移动直连）：ssr://NDUuMTU0LjE1LjI0OToyODA4MDpvcmlnaW46cmM0OnBsYWluOlNXaEVTemxtYlV4bVJtTklVV2gwZUVRMU4yOA<br>
-&#11088;&#65039;洛杉矶4：ssr://MTU2LjI1MS4xNDIuMTA0OjU2MjYyOm9yaWdpbjpyYzQ6cGxhaW46YVVsaWJEWktTREkwTVhKeWRIaG1aR05LUmpF<br>
-　<p>iyi:</p>
-<p>IP 端口 加密方式 密码 <br>
-45.32.144.40 62543 chacha20-ietf-poly1305 kr45hjk7mY4d <br>
-173.82.19.187 48521 chacha20-ietf-poly1305 UJ574f76Dolbl <br>
-95.179.157.252 36584 chacha20-ietf-poly1305 h5dfa784y6A0 <br>
-144.202.65.144 44581 chacha20-ietf-poly1305 xv689kjk9IAp6 <br>
-149.28.66.98 22531 chacha20-ietf-poly1305 vd3h73jjf8cv9 <br>
-47.100.123.194 15863 chacha20-ietf-poly1305 5ghfgkjsaNfikk </p>
-
-
-
-
-
-
-<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<p>　</p>
 <p><font face="宋体">ssr windows客户端<span lang="zh-cn">：</span></font></p>
 
 
