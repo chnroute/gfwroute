@@ -248,25 +248,6 @@ yn:
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 172.99.190.149 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
 172.99.190.188 2375 faBAoD54k87UJG7 aes-256-gcm<br>
 134.195.196.193 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
@@ -291,14 +272,7 @@ yn:
 134.195.196.200 6679 TEzjfAYq2IjtuoS aes-256-gcm<br>
 134.195.196.147 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
 172.99.190.188 8090 PCnnH6SQSnfoS27 aes-256-gcm<br>
-106.52.33.67 40382 QazEdcTgb159@$* aes-128-cfb</p>
-<p>
-
-
-
-
-
-　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+106.52.33.67 40382 QazEdcTgb159@$* aes-128-cfb　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
@@ -578,7 +552,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 https://shadowsocks.org/en/download/clients.html</a> </p>
 <p>
 <br>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-2-<span lang="en-us">23 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-2-<span lang="en-us">24 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
