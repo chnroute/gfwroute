@@ -206,7 +206,9 @@ yn:
 
 
 账号 端口 密加密方式</p>
-<p>117.28.242.137 9359 73117962 aes-256-cfb<br>
+<p>134.195.196.193 5004 g5MeD6Ft3CWlJId aes-256-gcm<br>
+117.28.242.137 9359 73117962 aes-256-cfb<br>
+134.195.196.193 2376 faBAoD54k87UJG7 aes-256-gcm<br>
 51.255.66.185 7306 FoOiGlkAA9yPEGP aes-256-gcm</p>
 <p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
@@ -224,7 +226,7 @@ winXray</span><span style="color: rgb(49, 49, 49); font-family: Ubuntu; font-siz
 https://shadowsocks.org/en/download/clients.html</a> </p>
 <p>
 <br>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-3-<span lang="en-us">3 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-3-<span lang="en-us">4 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
 　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
