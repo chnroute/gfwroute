@@ -1,1 +1,2 @@
-trojan://6593b778-e45e-4f94-b5ae-641d4b7b02ae@32.earths.team:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d@us2.tcpbbr.net:443?security=tls&amp;sni=hgc1.tcpbbr.net&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20Fremont
+trojan://283695dc-fcc8-11ea-8684-f23c913c8d2b@us2.tcpbbr.net:443?security=tls&amp;sni=hgc1.tcpbbr.net&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20Fremont
