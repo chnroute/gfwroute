@@ -1,2 +1,4 @@
-trojan://5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d@us2.tcpbbr.net:443?security=tls&amp;sni=hgc1.tcpbbr.net&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20Fremont
+trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@jgwdb4.gaox.ml:443?security=tls&amp;sni=jgwdb4.gaox.ml&amp;type=tcp&amp;headerType=none#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://283695dc-fcc8-11ea-8684-f23c913c8d2b@us2.tcpbbr.net:443?security=tls&amp;sni=hgc1.tcpbbr.net&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20Fremont
+trojan://5a3d9b78-cb5b-11ea-82ef-f23c9164ca5d@us2.tcpbbr.net:443?security=tls&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20Fremont
+trojan://2bbee0bf-d920-4572-b87b-eac67ba69736@ca1.qingyun123.xyz:10050?security=tls&amp;sni=ca1.qingyun123.xyz&amp;type=tcp&amp;headerType=none#%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%E5%AE%89%E5%A4%A7%E7%95%A5%20%E5%A4%9A%E4%BC%A6%E5%A4%9A
