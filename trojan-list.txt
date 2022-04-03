@@ -1,5 +1,2 @@
-trojan://76216dcd-b3c1-42fa-b68c-2ef031355aeb@tj-12.t8737.shop:11223#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
-trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-us01.yiyodns.xyz:443#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E
-trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-us02.yiyodns.xyz:443#%E7%BE%8E%E5%9B%BD%20%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%20%E5%B8%8C%E5%B0%94%E6%96%AF%E4%BC%AF%E5%8B%92
 trojan://JAtFrEpLX8mryvu8@misaka1433.tk:443#%E7%BE%8E%E5%9B%BD%20%E4%BD%9B%E7%BD%97%E9%87%8C%E8%BE%BE%E5%B7%9E%20%E8%BF%88%E9%98%BF%E5%AF%86
-trojan://08d178d4-ec8b-11eb-a8bf-f23c91cfbbc9@api.tcpbbr.net:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-sg02.yiyodns.xyz:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
