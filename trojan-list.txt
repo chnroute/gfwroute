@@ -1,3 +1,7 @@
+trojan://30ffcd4b-27e5-45d5-830b-9eaaced5d85c@jp23.holiganfan.com:10088#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://30ffcd4b-27e5-45d5-830b-9eaaced5d85c@hk21.holiganfan.com:10088#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://nykzeZ-virza6-kagmyf@teoeu.com:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
+trojan://7dafe71e-2be6-302f-bdfc-e6319a3299bc@tj-sg02.yiyodns.xyz:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://db753127-a527-45d0-8586-ea4315b49427@cmhk.sjebo.com.cn:33333#%E9%A6%99%E6%B8%AF%20Sha%20Tin%20Shatin
 trojan://173ada09-6d94-4cae-96db-17da3b840a2d@hk2.qingyun123.xyz:10050#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://003dda74-b441-4e70-a215-bf1137b5c243@aead.azhongkong.dnsfree.top:12345#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
