@@ -1,9 +1,3 @@
-trojan://d0173f59-c7e7-4bb0-bc09-3da657c70dd6@hkmf1.speedcncnforward2.tk:8443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
-trojan://d0173f59-c7e7-4bb0-bc09-3da657c70dd6@hgmf.speedcncnforward2.tk:8443#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
-trojan://f81e990e-1283-48f9-9eff-acacad6fb661@eu.licom.ga:60000#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://95e71609-7627-4919-9575-54bfe4741872@jp1.qingyun123.xyz:10100#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://95e71609-7627-4919-9575-54bfe4741872@yin1.qingyun123.xyz:10000#%E8%8B%B1%E5%9B%BD%20Wales%20%E5%8A%A0%E7%9A%84%E5%A4%AB
 trojan://f81e990e-1283-48f9-9eff-acacad6fb661@eu.licom.ga:60001#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://NWGdxI6dQo@sg.gtss.tk:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://NWGdxI6dQo@sg.gtss.tk:443?security=tls&amp;type=tcp&amp;headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://f81e990e-1283-48f9-9eff-acacad6fb661@eu.licom.ga:60001?security=tls&amp;type=tcp&amp;headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://f81e990e-1283-48f9-9eff-acacad6fb661@eu.licom.ga:60000?security=tls&amp;type=tcp&amp;headerType=none#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://d0173f59-c7e7-4bb0-bc09-3da657c70dd6@hkmf1.speedcncnforward2.tk:8443?security=tls&amp;type=tcp&amp;headerType=none#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
