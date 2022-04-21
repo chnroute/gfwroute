@@ -21,6 +21,6 @@ trojan://cb43b7c2-b744-41c5-bcc2-fd7467b332cf@jgwxn3.gaox.ml:443#%E6%BE%B3%E5%A4
 trojan://fbd77250-a674-4a24-be1a-d1a76f695c34@jp.456url.com:10086#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://e8c1ab3c-89b3-4933-92df-682e6dce7819@jgwxn4.gaox.ml:443#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20New%20South%20Wales%20Bungarribee
 trojan://0f715619-0037-4358-a7c6-958106bc6b49@jgwxn1.gaox.ml:443#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20New%20South%20Wales%20Bungarribee
-trojan://fbd77250-a674-4a24-be1a-d1a76f695c34@us.456url.com:10086#%E7%BE%8E%E5%9B%BD
+trojan://fbd77250-a674-4a24-be1a-d1a76f695c34@us.456url.com:10086#%E6%9C%AA%E7%9F%A5
 trojan://sharecentre@sg.sharecentrepro.tk:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://fbd77250-a674-4a24-be1a-d1a76f695c34@us.456url.com:10087#%E7%BE%8E%E5%9B%BD
+trojan://fbd77250-a674-4a24-be1a-d1a76f695c34@us.456url.com:10087#%E6%9C%AA%E7%9F%A5
