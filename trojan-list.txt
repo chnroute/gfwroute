@@ -19,7 +19,7 @@ trojan://9a057015-6dfb-4b57-9f69-877423598741@doin.node003.insnow.xyz:9933#%E5%8
 trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
 trojan://dbf9bf9c-2c3f-474a-8031-d4c00666a989@fhcamd2.gaox.ml:443#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
 trojan://02e653c9-7c93-46a9-999d-11834bd0c577@jgwld1.gaox.ml:443#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
-trojan://9a057015-6dfb-4b57-9f69-877423598741@tw.node001.insnow.xyz:12001#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
+trojan://9a057015-6dfb-4b57-9f69-877423598741@tw.node001.insnow.xyz:12001#%E6%9C%AA%E7%9F%A5
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
 trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
