@@ -1,3 +1,6 @@
+trojan://cfaa1d87-16c9-45f2-8ca1-833badb6b790@fr.node.qchwnd.moe:44612?allowInsecure=1#%E6%B3%95%E5%9B%BD%20%C3%8Ele-de-France%20V%C3%A9lizy-Villacoublay
+trojan://e5d46365e25e31d94279c2bcf93390a2@usa-sr-106.mitoption.com:443#%E7%BE%8E%E5%9B%BD
+trojan://c09eb137-bf68-4658-84e0-102d94b74168@jgwdj4.gaox.ml:443?allowInsecure=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://e5d46365e25e31d94279c2bcf93390a2@usa-sr-106.mitoption.com:443#%E7%BE%8E%E5%9B%BD
 trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@fhcarm2.gaox.ml:443#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
 trojan://cfaa1d87-16c9-45f2-8ca1-833badb6b790@hkbn.henyo.us:44614#%E9%A6%99%E6%B8%AF%20Kowloon%20City%20%E6%84%8F%E6%B3%95%E5%8D%8A
