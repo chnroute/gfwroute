@@ -3,7 +3,7 @@ trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@fhcarm2.gaox.ml:443#%E7%BE%8E%E5%9
 trojan://cfaa1d87-16c9-45f2-8ca1-833badb6b790@hkbn.henyo.us:44614#%E9%A6%99%E6%B8%AF%20Kowloon%20City%20%E6%84%8F%E6%B3%95%E5%8D%8A
 trojan://0ce2ee7d-4889-4c64-8a75-4a86e6bbb1c4@hkbn.okvpn.xyz:12000#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@fhcarm1.gaox.ml:443#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
-trojan://fdb6f3a3-9d29-47c3-8c92-5a279626dc5b@free.spcloud.us:10001#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://fdb6f3a3-9d29-47c3-8c92-5a279626dc5b@free.spcloud.us:10001#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
 trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@jgwcc3.gaox.ml:443#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
 trojan://a580d839-ee41-4df1-bf03-6789dca32e30@jgwdb1.gaox.ml:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://a97edd5e-f9c9-4320-a8aa-753dd99d74d4@bai-piao-wang-zhe-iplc.98848.xyz:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
