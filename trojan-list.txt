@@ -7,5 +7,5 @@ trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@tt6.tjvpn.top:443#%E6%97%A5%E6%9C%
 trojan://9020b194-a3f0-39ca-898c-facb23ce2617@sxdx-nf.jiashumao.net:35401#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://9020b194-a3f0-39ca-898c-facb23ce2617@us-cera.jiashumao.net:12001#%E7%BE%8E%E5%9B%BD
 trojan://d06a3f01-1ff0-4792-9b8e-a5a604bc74a2@jgwdb4.gaox.ml:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
-trojan://f81e990e-1283-48f9-9eff-acacad6fb661@us-ny-rn.licom.ga:62007#%E7%BE%8E%E5%9B%BD
+trojan://f81e990e-1283-48f9-9eff-acacad6fb661@us-ny-rn.licom.ga:62007#%E6%9C%AA%E7%9F%A5
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr01.wangxd.life:3052#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
