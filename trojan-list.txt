@@ -5,6 +5,6 @@ trojan://d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6@usa002.369boy.com:12001#%E7%BE%8E%
 trojan://f39bd244-f5fe-415c-8b98-a1e5250bf178@fhcarm2.gaox.ml:443#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
 trojan://7ed7b710-d331-43df-8e37-a1d330409ed2@gy01.20220512.cyou:34567#%E9%A6%99%E6%B8%AF
 trojan://d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6@usa003.369boy.com:13011#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
-trojan://bfaf0f2b-c727-32ea-ab28-25e438fda91f@mlxy-zf.jiashumao.net:27171#%E5%A1%9E%E8%88%8C%E5%B0%94
+trojan://bfaf0f2b-c727-32ea-ab28-25e438fda91f@mlxy-zf.jiashumao.net:27171#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://5d07c2f7-830b-4e29-aeb1-67cd98293ec6@gy02.20220512.cyou:34567#%E9%A6%99%E6%B8%AF
 trojan://d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6@usa003.369boy.com:13011?security=tls&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
