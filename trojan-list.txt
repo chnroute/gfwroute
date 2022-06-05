@@ -5,7 +5,7 @@ trojan://3yFq7NCP53mVfpXJz3@au2-2.nigirocloud.com:443#%E6%BE%B3%E5%A4%A7%E5%88%A
 trojan://9a688f4f-6e59-4cd5-8c77-cdf0a47af0e7@t05.tgfaka.com:18443#%E5%8A%A0%E6%8B%BF%E5%A4%A7
 trojan://d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6@usa004.369boy.com:14001#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6@usa006.369boy.com:16001#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
-trojan://YFWu4CTvk9@sr.arthas.cf:444#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
+trojan://YFWu4CTvk9@sr.arthas.cf:444#%E6%9C%AA%E7%9F%A5
 trojan://3yFq7NCP53mVfpXJz3@au2-3.nigirocloud.com:443#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20New%20South%20Wales%20%E6%82%89%E5%B0%BC
 trojan://pA52tFTlGZ@2.tiantang.cf:59195#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://d4e9e6bb-daa4-44ed-aa29-d1b8d00ba7d6@usa003.369boy.com:13011?security=tls&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
