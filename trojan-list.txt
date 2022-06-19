@@ -1,6 +1,6 @@
 trojan://7cb64c49-2ce5-4fa6-9b79-9c02eb54735c@usfree1.jiantian.xyz:23425#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20Ashburn
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.04.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://yzmjy141746@trojan.skyzm.tk:443#%E7%BE%8E%E5%9B%BD
+trojan://yzmjy141746@trojan.skyzm.tk:443#%E6%9C%AA%E7%9F%A5
 trojan://7cb64c49-2ce5-4fa6-9b79-9c02eb54735c@usfree1.jiantian.xyz:23425#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20Ashburn
 trojan://bac11225-fd19-4b02-98ac-af5a1f55d63b@us2.nodegz.top:444#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://823c10f1-8498-4978-8706-4f02008955f0@hk64.fans8.xyz:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
