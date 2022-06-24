@@ -10,5 +10,5 @@ trojan://f5362b9a-812f-4d77-89a3-09f7d0851bfb@67us01.fans8.xyz:443#%E7%BE%8E%E5%
 trojan://f64e69c0-e7b7-11ec-ab81-1239d0255272@w11.udpgw.com:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://5LN8SGTqxk336nFg@wireless.starspace.link:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
 trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@scloud58.jafiyun.life:22058#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
-trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@jp06.jafiyun.life:21233#%E4%B8%AD%E5%9B%BD
+trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@jp06.jafiyun.life:21233#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://63d7b7bb-e526-3ea5-a61f-9da6df645da0@scloud53.jafiyun.life:22053#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
