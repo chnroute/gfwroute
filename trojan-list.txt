@@ -1,5 +1,5 @@
-trojan://trojan-daozhu-uallen-qbit-azure-hk@trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://trojan-daozhu-uallen-qbit-azure-hk@trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com:443#%E6%9C%AA%E7%9F%A5
 trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12001#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://trojan-daozhu-uallen-qbit-azure-hk@trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://trojan-daozhu-uallen-qbit-azure-hk@trojan-daozhu-uallen-qbit-azure-hk.kinhproxy.com:443#%E6%9C%AA%E7%9F%A5
 trojan://e49f9132-4f1c-4a11-998f-0b90697254e6@bai-piao-wang-zhe.iplc.nl.884899.cf:443#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://dd04c158-1bac-47cd-99c1-5c4f64796dd5@supersouth.xn--mesv7f5toqlp.club:12001#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
