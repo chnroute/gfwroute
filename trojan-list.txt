@@ -2,7 +2,7 @@ trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hazz.win:12340?allowInsecure=1&
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@111.45.29.75:30003?sni=tw.speedasia.xyz&amp;allowInsecure=1#%E4%B8%AD%E5%9B%BD
 trojan://ZD4dLSBXiMrmzdLd@v2cross.com.03.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.03.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
 trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s1.hazz.win:12340?allowInsecure=1#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
-trojan://7497242f-3044-3c77-bf48-14bb26c92a83@azgy001.xiba1.xyz:20711?sni=ssl.ssl12.xyz&amp;allowInsecure=1#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://7497242f-3044-3c77-bf48-14bb26c92a83@azgy001.xiba1.xyz:20711?sni=ssl.ssl12.xyz&amp;allowInsecure=1#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
 trojan://e49f9132-4f1c-4a11-998f-0b90697254e6@bai-piao-wang-zhe.iplc.nl.884899.cf:443#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://e9192a1e-b73e-4fcb-8a9c-e52b7471d11f@724tw01.ok365.cyou:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
 trojan://e9192a1e-b73e-4fcb-8a9c-e52b7471d11f@724tw02.ok365.cyou:443#%E7%BE%8E%E5%9B%BD
