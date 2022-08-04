@@ -3,7 +3,7 @@ trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30002?sni=cm.space
 trojan://ukMzuFSmIXDvgW0h@cd.rutracker-cn.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=cd.rutracker-cn.com#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://440a2fa0-0a75-4961-be73-c4c6897d7e34@730jp.ok365.cyou:443?allowInsecure=1#%E6%97%A5%E6%9C%AC
 trojan://b2d36a54-28ca-49b0-b475-8c81750b152f@ru.beecloud.space:20861#%E5%B7%B4%E6%8B%BF%E9%A9%AC
-trojan://b2d36a54-28ca-49b0-b475-8c81750b152f@awskr.beecloud.space:10971#%E9%9F%A9%E5%9B%BD
+trojan://b2d36a54-28ca-49b0-b475-8c81750b152f@awskr.beecloud.space:10971#%E9%9F%A9%E5%9B%BD%20Incheon%20%E4%BB%81%E5%B7%9D%E5%B9%BF%E5%9F%9F%E5%B8%82
 trojan://e49f9132-4f1c-4a11-998f-0b90697254e6@bai-piao-wang-zhe.iplc.nl.884899.cf:443#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://440a2fa0-0a75-4961-be73-c4c6897d7e34@727tw02.ok365.cyou:25689#%E7%BE%8E%E5%9B%BD
 trojan://440a2fa0-0a75-4961-be73-c4c6897d7e34@727tw01.ok365.cyou:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
