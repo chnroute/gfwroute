@@ -1,4 +1,4 @@
-trojan://6df6964f-f669-45fa-a871-5b1768c1f885@japanosaka.bpnet.club:12001#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://6df6964f-f669-45fa-a871-5b1768c1f885@japanosaka.bpnet.club:12001#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://dbdd4673-06e7-4a53-adb7-aa4232df529e@150.230.23.0:44616#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://2390acf1-56cb-4f44-812c-9e89c288e80f@727tw02.ok365.cyou:25689#%E7%BE%8E%E5%9B%BD
 trojan://dacbc926-ea36-4be2-9f52-f343d353a2de@b-t.us.hyperlinkvpn.xyz:50500#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
