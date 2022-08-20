@@ -4,4 +4,4 @@ trojan://bd52a53f-b02c-4bcb-be6a-ac4fd85e5f14@74.211.97.81:50500?allowInsecure=1
 trojan://70b2198e-ccef-4e8b-b030-b1b03d7f4175@ol.cloudorg.uk:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://935f34c1-1713-402c-bfe1-f051cf49d370@lswjs.hootfun.top:23313#%E7%BE%8E%E5%9B%BD%20%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF
 trojan://935f34c1-1713-402c-bfe1-f051cf49d370@us218.hootfun.top:32444#%E7%BE%8E%E5%9B%BD
-trojan://935f34c1-1713-402c-bfe1-f051cf49d370@ru.hootfun.top:45112#%E7%BE%8E%E5%9B%BD%20%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%20%E6%B2%83%E6%80%9D%E5%A0%A1
+trojan://935f34c1-1713-402c-bfe1-f051cf49d370@ru.hootfun.top:45112#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6
