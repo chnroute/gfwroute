@@ -4,5 +4,5 @@ trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&amp;encrypti
 trojan://fIYU5DCiWZ6uYOou@los1.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=los1.v2ce.com#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
 trojan://c9a3a61d-5d49-4158-9e60-6fa32684b122@cm.spacez.cloud:30002?allowInsecure=1#%E4%B8%AD%E5%9B%BD
 trojan://7f0dcf73-bc93-4038-b683-c4728f06e7d7@trojannmfan5.ripwallllc.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Heiwajima
-trojan://935f34c1-1713-402c-bfe1-f051cf49d370@lswjs.hootfun.top:23313#%E5%BE%B7%E5%9B%BD%20%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%20Salzgitter
+trojan://935f34c1-1713-402c-bfe1-f051cf49d370@lswjs.hootfun.top:23313#%E7%BE%8E%E5%9B%BD%20%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF
 trojan://zFyLKH62WN@www.sxsy88.tk:44150#%E6%97%A5%E6%9C%AC%20Chiba
