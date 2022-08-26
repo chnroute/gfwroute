@@ -4,7 +4,7 @@ trojan://e9ea8749-b54c-47d9-8274-c26253332149@823tw.tfzhc.top:443?allowInsecure=
 trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=ce.rutracker-cn.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
 trojan://1544af57-7ebf-30de-b731-fdaf00f68501@cnsg.6g5kca.ccddn4.icu:65523?peer=dl.sg3.cc.tjcct.xyz#%E4%B8%AD%E5%9B%BD
 trojan://zFyLKH62WN@www.sxsy88.tk:44150#%E6%97%A5%E6%9C%AC%20Chiba
-trojan://935f34c1-1713-402c-bfe1-f051cf49d370@qoslsjws.hootfun.top:25333#%E7%BE%8E%E5%9B%BD%20%E5%BE%B7%E5%85%8B%E8%90%A8%E6%96%AF%E5%B7%9E%20%E6%B2%83%E6%80%9D%E5%A0%A1
+trojan://935f34c1-1713-402c-bfe1-f051cf49d370@qoslsjws.hootfun.top:25333#%E7%BE%8E%E5%9B%BD%20%E5%86%85%E5%8D%8E%E8%BE%BE%E5%B7%9E%20%E6%8B%89%E6%96%AF%E7%BB%B4%E5%8A%A0%E6%96%AF
 trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@us.tcpbbr.net:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
 trojan://0f88c09d-0fd9-4e34-b3ad-8719e908d5d8@cne.cloudorg.uk:2096#%E7%BE%8E%E5%9B%BD
 trojan://e9ea8749-b54c-47d9-8274-c26253332149@823tw.tfzhc.top:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
