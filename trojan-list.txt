@@ -1,13 +1,5 @@
-trojan://0f88c09d-0fd9-4e34-b3ad-8719e908d5d8@cne.cloudorg.uk:2096#%E7%BE%8E%E5%9B%BD
-trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.05.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://gMVN7PbEX2@rbobosz.tk:23868#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20Ashburn
-trojan://9682edd6-89e6-4e6a-b31d-271089771d87@do.cloudorg.uk:443?allowInsecure=1#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
-trojan://274c1b23-2bfe-40ac-943c-ebc1aa044b22@41.216.177.41:443?allowInsecure=1#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%20Jakarta%20%E9%9B%85%E5%8A%A0%E8%BE%BE
-trojan://LTKPTMbjBDYisdMxKEBDzcduXacOvIVY@jp-tyo-04-tr.cdn.savoy.click:889#%E4%B8%AD%E5%9B%BD
-trojan://501c5492-d6c7-4119-b470-67189394d9a7@821hk03.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.04.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
+trojan://d7e7c43a-3d1c-4ce4-9e6a-88ce1037f86d@tr03.kaochangonline.online:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Shinagawa
 trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@us.tcpbbr.net:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
-trojan://0f88c09d-0fd9-4e34-b3ad-8719e908d5d8@cne.cloudorg.uk:2096#%E7%BE%8E%E5%9B%BD
 trojan://9682edd6-89e6-4e6a-b31d-271089771d87@do.cloudorg.uk:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
-trojan://45bf0328-871b-462e-b07b-c5e2b9ce2e2c@nusa.kencang.my.id:443#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%20%E5%8C%97%E8%8B%8F%E9%97%A8%E7%AD%94%E8%85%8A%E7%9C%81%20Medan
-trojan://8251fe19-72a3-4e69-b3c1-493c47d36a5e@do.22665.ml:47339#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://gMVN7PbEX2@rbobosz.tk:23868#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20Ashburn
+trojan://9f14e025-a479-4de0-9f00-c9eb2f69217c@823tw.tfzhc.top:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
