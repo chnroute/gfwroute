@@ -1,5 +1,5 @@
 trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.04.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://d7e7c43a-3d1c-4ce4-9e6a-88ce1037f86d@tr03.kaochangonline.online:443#%E6%97%A5%E6%9C%AC%20Tokyo%20Shinagawa
+trojan://d7e7c43a-3d1c-4ce4-9e6a-88ce1037f86d@tr03.kaochangonline.online:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@us.tcpbbr.net:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
 trojan://9682edd6-89e6-4e6a-b31d-271089771d87@do.cloudorg.uk:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
 trojan://9f14e025-a479-4de0-9f00-c9eb2f69217c@823tw.tfzhc.top:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
