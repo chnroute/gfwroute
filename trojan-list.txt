@@ -12,6 +12,6 @@ trojan://acf40985-ef35-3d1d-ae64-1e165e309eebmielink@107.6.243.136:443?allowInse
 trojan://acf40985-ef35-3d1d-ae64-1e165e309eebmielink@107.6.242.253:443?allowInsecure=1#%E7%BE%8E%E5%9B%BD
 trojan://RRy34GGwsPt47SuC@sky998dmit3.xyz:443#%E9%A6%99%E6%B8%AF
 trojan://f08a67f3-9a62-423f-b121-e93cc9249389@54.255.181.249.sslip.io:50001#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#%E5%8F%B0%E6%B9%BE%20%E6%96%B0%E5%8C%97%E5%B8%82%20%E6%96%B0%E5%8C%97%E5%B8%82
+trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
 trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@us.tcpbbr.net:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
 trojan://2e66a51c-d393-4c9a-800a-93e58de44c4d@821hk03.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
