@@ -1,10 +1,5 @@
-trojan://6222266fcd4ed224@116.129.253.134:3383?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://d4e41ff772c7fd45@116.129.254.29:3381?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://gMVN7PbEX2@rbobosz.tk:23868?allowInsecure=1#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20Ashburn
-trojan://5y8y3CwxRVYhyfSY@ce.rutracker-cn.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=ce.rutracker-cn.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://2Q74kEsaZq@209.209.9.149:46539?allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Quebec%20%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94
-trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@tr04.kaochangonline.online:443?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://d4e41ff772c7fd45@116.129.254.47:3386?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://0bdf3a1f-c046-41c2-a7e5-ed92b8155997@hk002.369boy.com:12287#%E9%A6%99%E6%B8%AF
+trojan://c6bd7759-2164-3587-a40c-a1bf63180b85@sxdx-nf.jiashumao.net:35401?peer=nf.jiashumao.net#%E4%B8%AD%E5%9B%BD
+trojan://c6bd7759-2164-3587-a40c-a1bf63180b85@ma-zf.jiashumao.net:22983?peer=ma-ctm.jiashumao.net#%E4%B8%AD%E5%9B%BD
+trojan://c6bd7759-2164-3587-a40c-a1bf63180b85@hkd-zf.jiashumao.net:28481?peer=hkd.jiashumao.net#%E4%B8%AD%E5%9B%BD
+trojan://gMVN7PbEX2@rbobosz.tk:23868#%E7%BE%8E%E5%9B%BD%20%E5%BC%97%E5%90%89%E5%B0%BC%E4%BA%9A%E5%B7%9E%20Ashburn
 trojan://62b78c9b-16cb-4ee6-824b-a4f856cf18f3@tr04.kaochangonline.online:443#%E4%B8%AD%E5%9B%BD
-trojan://5b965ff1-23b2-4a3b-a90e-6f12c3c871d3@mshk1.369boy.com:23511#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
