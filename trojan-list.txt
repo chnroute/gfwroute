@@ -1,9 +1,4 @@
-trojan://vGWCNNfBHwSY6m6M@v2cross.com.04.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.04.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://f2e57fc2-f887-4b7c-9f99-3b3ec10cd0d7@36.139.153.95:62063?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://8c836caa-3d53-4829-bcfb-cbe0aa453a57@23.94.103.146:443?allowInsecure=1#%E7%BE%8E%E5%9B%BD
-trojan://mMQ6qJB9xbhiRvgg@v2cross.com.01.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.01.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud51.jafiyun.world:22051#%E4%B8%AD%E5%9B%BD
-trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud28.jafiyun.world:22028#%E4%B8%AD%E5%9B%BD
-trojan://933b91c7-8499-44dd-8a84-ce6770acf55f@913hk.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://933b91c7-8499-44dd-8a84-ce6770acf55f@913tw.tfzhc.top:44318#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
-trojan://ce19e306-6b87-31b6-8161-df1fa9847b2e@scloud30.jafiyun.world:22030#%E4%B8%AD%E5%9B%BD
+trojan://ac0527fe-214a-4473-82b1-f3b3a3e9b27d@la.p1.gay:24131#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
+trojan://1fde66c7-c2ac-46e9-9c32-a7128d04c0ee@99tw02.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://1fde66c7-c2ac-46e9-9c32-a7128d04c0ee@913hk.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://1fde66c7-c2ac-46e9-9c32-a7128d04c0ee@99jp.tfzhc.top:44311#%E6%97%A5%E6%9C%AC
