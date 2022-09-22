@@ -2,7 +2,7 @@ trojan://dc26913c-a31c-4b3f-9c03-28a6b4283a89@kr1.api-aws.com:443?allowInsecure=
 trojan://iyinglong@35.180.122.151:443?allowInsecure=1#%E6%B3%95%E5%9B%BD%20%C3%8Ele-de-France%20%E5%B7%B4%E9%BB%8E
 trojan://d9db7cd4-8ad4-4f90-972b-512e9d527d54@da.kanao.xyz:58805?allowInsecure=1&amp;peer=soolos.com&amp;tfo=1#%E4%B8%AD%E5%9B%BD%20%E6%B9%96%E5%8D%97
 trojan://kGrwqmB1nEKUsDwE@v2cross.com.05.v2ce.com:443?security=xtls&amp;encryption=none&amp;type=tcp&amp;flow=xtls-rprx-direct&amp;sni=v2cross.com.05.v2ce.com#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
-trojan://0f3abc1b-5443-4edd-a012-886bf1a43898@dgcm.pdjs.top:49006?allowInsecure=1#%E5%BE%B7%E5%9B%BD%20%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%20Salzgitter
+trojan://0f3abc1b-5443-4edd-a012-886bf1a43898@dgcm.pdjs.top:49006?allowInsecure=1#%E7%BE%8E%E5%9B%BD%20Kansas%20Saint%20John
 trojan://xxoo@194.156.99.39:443?allowInsecure=1#%E4%B8%AD%E5%9B%BD
 trojan://d9db7cd4-8ad4-4f90-972b-512e9d527d54@xi.kanao.xyz:58806?allowInsecure=1&amp;peer=soolos.com&amp;tfo=1#%E4%B8%AD%E5%9B%BD%20%E6%B9%96%E5%8D%97
 trojan://a48338e4-9585-470a-ad09-7600a05b2c5e@99tw03.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
