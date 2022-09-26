@@ -2,4 +2,3 @@ trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.72:12332?allowInsecure
 trojan://26e219f2-5c2a-356c-9767-9fd681cc0134@120.195.181.51:12352?allowInsecure=1#%E4%B8%AD%E5%9B%BD
 trojan://8e94c4bd-6266-43e2-8c3a-dc7e3439e3be@99tw02.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://8e94c4bd-6266-43e2-8c3a-dc7e3439e3be@99tw03.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://8e94c4bd-6266-43e2-8c3a-dc7e3439e3be@921tw.tfzhc.top:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
