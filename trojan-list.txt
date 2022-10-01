@@ -1,2 +1,2 @@
-trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hass.win:12340?allowInsecure=1&amp;sni=s4.hass.win#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
+trojan://dfbf0d67-f03d-4184-a224-c2d64a571f99@s4.hass.win:12340?allowInsecure=1&amp;sni=s4.hass.win#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
 trojan://9c822f05-cfdc-479a-9534-60f3d4127435@138.2.113.248:443?allowInsecure=1#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
