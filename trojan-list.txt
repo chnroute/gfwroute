@@ -2,8 +2,6 @@ trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443?allowInsecure=1
 trojan://1d4907c5-22a7-4d4a-8a8e-28744f22fe31@trade1.bitznet.one:32011?allowInsecure=1&amp;sni=cert.bitbyte.one#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
 trojan://bbab60b8-779f-31e2-916e-571f7d7023c4@zz2.zahuopu.top:35112?allowInsecure=1&amp;sni=jd2.zahuopu.top#%E4%B8%AD%E5%9B%BD%20%E6%B9%96%E5%8D%97
 trojan://1d4907c5-22a7-4d4a-8a8e-28744f22fe31@trabr1.bitznet.one:32016?allowInsecure=1&amp;sni=cert.bitbyte.one#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#%E5%8F%B0%E6%B9%BE%20%E6%96%B0%E5%8C%97%E5%B8%82%20%E6%96%B0%E5%8C%97%E5%B8%82
-trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#%E5%8F%B0%E6%B9%BE%20%E6%96%B0%E5%8C%97%E5%B8%82%20%E6%96%B0%E5%8C%97%E5%B8%82
+trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
+trojan://80bcf4f2-12f7-11ed-bb74-f23c9164ca5d@tw.tcpbbr.net:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
 trojan://e392bfdd-d4ce-4df2-9534-fef23f037121@16us.networklinkpro.net:443#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
-trojan://b62a64c0-4b87-436e-aef1-28eb22da69b7@927tw01.tfzhc.top:44319#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://e392bfdd-d4ce-4df2-9534-fef23f037121@27fr.networklinkpro.net:443#%E6%B3%95%E5%9B%BD%20%C3%8Ele-de-France%20%E5%B7%B4%E9%BB%8E
