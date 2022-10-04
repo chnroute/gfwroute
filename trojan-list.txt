@@ -1,1 +1,1 @@
-trojan://d91e58e8-0ce1-495d-b7a7-0bb96200884e@trahk1.bitznet.one:32443?allowInsecure=1&amp;sni=cert.bitbyte.one#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A
+trojan://55e29e77-cf16-3f5e-94bd-87d8978c9bcb@tg-zf.jiashumao.net:28879?allowInsecure=1&amp;sni=tg.jiashumao.net#%E4%B8%AD%E5%9B%BD
