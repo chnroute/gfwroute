@@ -1,1 +1,3 @@
-trojan://55e29e77-cf16-3f5e-94bd-87d8978c9bcb@tg-zf.jiashumao.net:28879?allowInsecure=1&amp;sni=tg.jiashumao.net#%E4%B8%AD%E5%9B%BD
+trojan://d90960ab-1a01-401b-a404-0085dc745afe@115.fastea.top:53315?allowInsecure=1#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20Fremont
+trojan://54080134-2cba-4535-8599-95650bd9aa54@152.67.160.174:443#%E5%8D%B0%E5%BA%A6%20%E7%89%B9%E4%BC%A6%E7%94%98%E7%BA%B3%E9%82%A6%20%E6%B5%B7%E5%BE%97%E6%8B%89%E5%B7%B4
+trojan://c19d1432-8b3e-4818-8837-3d160cf65908@138.2.45.243:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
