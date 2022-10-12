@@ -1,6 +1,2 @@
 trojan://e27cce7a-617d-48cb-b628-e9717be9c175@112.fastea.top:53316?allowInsecure=1&amp;sni=wel-jp.qchwnd.moe#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://T2xgCp0yVLS03Lc8@www.h99xbwg.xyz:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
-trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@ukt1.sshocean.net:443#%E6%B3%95%E5%9B%BD
-trojan://e27cce7a-617d-48cb-b628-e9717be9c175@113.fastea.top:53313#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs11.bolab.net:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://T2xgCp0yVLS03Lc8@www.h99xbwg.xyz:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
