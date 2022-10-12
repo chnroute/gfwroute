@@ -1,2 +1,6 @@
-trojan://69a019dd-617b-449f-9af0-57762a476530@ru.p1.gay:24114#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
-trojan://M469de9d@139.227.182.124:28158?allowInsecure=1&amp;peer=if2d.ft3.us#%E4%B8%AD%E5%9B%BD%20%E4%B8%8A%E6%B5%B7%20%E4%B8%8A%E6%B5%B7
+trojan://e27cce7a-617d-48cb-b628-e9717be9c175@112.fastea.top:53316?allowInsecure=1&amp;sni=wel-jp.qchwnd.moe#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://T2xgCp0yVLS03Lc8@www.h99xbwg.xyz:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@ukt1.sshocean.net:443#%E6%B3%95%E5%9B%BD
+trojan://e27cce7a-617d-48cb-b628-e9717be9c175@113.fastea.top:53313#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://7a566d21dfcd0f12490275fd3dd3cfc4@trs11.bolab.net:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://T2xgCp0yVLS03Lc8@www.h99xbwg.xyz:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
