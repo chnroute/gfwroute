@@ -1,3 +1,5 @@
-trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@standard.efcloud.cc:42001?peer=ssl.efcloud.cc&amp;tfo=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://2f95d996-e911-4b1b-82b1-1d86bf2c517d@standard.efcloud.cc:50000?peer=standard.efcloud.cc&amp;tfo=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@jgw2.gaox.ml:443#%E9%9F%A9%E5%9B%BD%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82%20%E9%A6%96%E5%B0%94%E7%89%B9%E5%88%AB%E5%B8%82
+trojan://2c895be3-4dd2-4443-b586-cce567532660@112.6.212.141:49005?allowInsecure=1#%E4%B8%AD%E5%9B%BD%20%E5%B1%B1%E4%B8%9C%E7%9C%81%20%E9%9D%92%E5%B2%9B%E5%B8%82
+trojan://shefelnak@content-provider20.cdn-delivery.akamaicd.com:443?allowInsecure=1&amp;sni=content-provider20.cdn-delivery.akamaicd.com#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@144.24.69.60:28443?allowInsecure=1&amp;sni=glc.hruqoaw.cn#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
+trojan://origin@content-provider12.cdn-delivery.akamaicd.com:443?allowInsecure=1#%E6%B3%95%E5%9B%BD
+trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD
