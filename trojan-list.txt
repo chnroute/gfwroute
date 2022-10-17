@@ -5,4 +5,4 @@ trojan://83ba4ac8-89c7-45a3-9603-15cb312a50e3@112.6.212.141:49006?allowInsecure=
 trojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443?allowInsecure=1#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://67960bfb-00de-4a6b-9a7a-e74fc9e8b158@149.56.141.11:443?allowInsecure=1#%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Quebec%20%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94
 trojan://67960bfb-00de-4a6b-9a7a-e74fc9e8b158@cat1.sshocean.net:443#%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Quebec%20%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94
-trojan://e1923173-673a-433f-aaed-171cbd083416@1002hk1326.tfzhc.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://e1923173-673a-433f-aaed-171cbd083416@1002hk1326.tfzhc.top:443#%E9%9F%A9%E5%9B%BD%20Gyeongsangbuk-do%20Pohang-si
