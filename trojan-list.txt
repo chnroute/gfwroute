@@ -1,2 +1,3 @@
-trojan://469eb2d7-c86c-3484-ba85-4f26f0645b9b@do-sg-01.vvsoga.net:1234#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://ZD4dLSBXiMrmzdLd@185.253.47.79:443?allowInsecure=1#%E6%8D%B7%E5%85%8B%20Hlavni%20mesto%20Praha%20%E5%B8%83%E6%8B%89%E6%A0%BC
+trojan://M05d99be@139.227.182.124:28158?allowInsecure=1&amp;peer=if2d.ft3.us#%E4%B8%AD%E5%9B%BD%20%E4%B8%8A%E6%B5%B7%20%E4%B8%8A%E6%B5%B7
+trojan://862e68d2-05f3-4253-9116-819623bb7335@aewfhe5z1pokrkw8bi9g08.xingbayun.buzz:10001#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://862e68d2-05f3-4253-9116-819623bb7335@139.162.121.240:10001?allowInsecure=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
