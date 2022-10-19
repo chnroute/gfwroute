@@ -1,1253 +1,348 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml"
-xmlns:o="urn:schemas-microsoft-com:office:office"
-xmlns:w="urn:schemas-microsoft-com:office:word"
-xmlns:m="http://schemas.microsoft.com/office/2004/12/omml"
-xmlns="http://www.w3.org/TR/REC-html40">
+<html>
 
 <head>
-<meta http-equiv=Content-Type content="text/html; charset=gb2312">
-<meta name=ProgId content=Word.Document>
-<meta name=Generator content="Microsoft Word 12">
-<meta name=Originator content="Microsoft Word 12">
-<base target="_blank">
-<link rel=File-List href="ss免费账号分享2022年10月17日.files/filelist.xml">
-<link rel=Edit-Time-Data href="ss免费账号分享2022年10月17日.files/editdata.mso">
-<!--[if !mso]>
-<style>
-v\:* {behavior:url(#default#VML);}
-o\:* {behavior:url(#default#VML);}
-w\:* {behavior:url(#default#VML);}
-.shape {behavior:url(#default#VML);}
-</style>
-<![endif]-->
-<title>免费ss服务器分享</title>
-<!--[if gte mso 9]><xml>
- <o:DocumentProperties>
-  <o:Author>DELL</o:Author>
-  <o:LastAuthor>DELL</o:LastAuthor>
-  <o:Revision>3</o:Revision>
-  <o:TotalTime>2</o:TotalTime>
-  <o:Created>2022-10-17T07:35:00Z</o:Created>
-  <o:LastSaved>2022-10-17T07:43:00Z</o:LastSaved>
-  <o:Pages>2</o:Pages>
-  <o:Words>3279</o:Words>
-  <o:Characters>18695</o:Characters>
-  <o:Company>神州网信技术有限公司</o:Company>
-  <o:Lines>155</o:Lines>
-  <o:Paragraphs>43</o:Paragraphs>
-  <o:CharactersWithSpaces>21931</o:CharactersWithSpaces>
-  <o:Version>12.00</o:Version>
- </o:DocumentProperties>
-</xml><![endif]-->
-<link rel=themeData href="ss免费账号分享2022年10月17日.files/themedata.thmx">
-<link rel=colorSchemeMapping
-href="ss免费账号分享2022年10月17日.files/colorschememapping.xml">
-<!--[if gte mso 9]><xml>
- <w:WordDocument>
-  <w:Zoom>150</w:Zoom>
-  <w:TrackMoves>false</w:TrackMoves>
-  <w:TrackFormatting/>
-  <w:ValidateAgainstSchemas/>
-  <w:SaveIfXMLInvalid>false</w:SaveIfXMLInvalid>
-  <w:IgnoreMixedContent>false</w:IgnoreMixedContent>
-  <w:AlwaysShowPlaceholderText>false</w:AlwaysShowPlaceholderText>
-  <w:DoNotPromoteQF/>
-  <w:LidThemeOther>EN-US</w:LidThemeOther>
-  <w:LidThemeAsian>ZH-CN</w:LidThemeAsian>
-  <w:LidThemeComplexScript>X-NONE</w:LidThemeComplexScript>
-  <w:Compatibility>
-   <w:BreakWrappedTables/>
-   <w:SnapToGridInCell/>
-   <w:WrapTextWithPunct/>
-   <w:UseAsianBreakRules/>
-   <w:DontGrowAutofit/>
-   <w:SplitPgBreakAndParaMark/>
-   <w:DontVertAlignCellWithSp/>
-   <w:DontBreakConstrainedForcedTables/>
-   <w:DontVertAlignInTxbx/>
-   <w:Word11KerningPairs/>
-   <w:CachedColBalance/>
-   <w:UseFELayout/>
-  </w:Compatibility>
-  <w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel>
-  <m:mathPr>
-   <m:mathFont m:val="Cambria Math"/>
-   <m:brkBin m:val="before"/>
-   <m:brkBinSub m:val="--"/>
-   <m:smallFrac m:val="off"/>
-   <m:dispDef/>
-   <m:lMargin m:val="0"/>
-   <m:rMargin m:val="0"/>
-   <m:defJc m:val="centerGroup"/>
-   <m:wrapIndent m:val="1440"/>
-   <m:intLim m:val="subSup"/>
-   <m:naryLim m:val="undOvr"/>
-  </m:mathPr></w:WordDocument>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <w:LatentStyles DefLockedState="false" DefUnhideWhenUsed="true"
-  DefSemiHidden="true" DefQFormat="false" DefPriority="99"
-  LatentStyleCount="267">
-  <w:LsdException Locked="false" Priority="0" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Normal"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 1"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 2"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 3"/>
-  <w:LsdException Locked="false" Priority="9" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="heading 4"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 5"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 6"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 7"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 8"/>
-  <w:LsdException Locked="false" Priority="9" QFormat="true" Name="heading 9"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 1"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 2"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 3"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 4"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 5"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 6"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 7"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 8"/>
-  <w:LsdException Locked="false" Priority="39" Name="toc 9"/>
-  <w:LsdException Locked="false" Priority="35" QFormat="true" Name="caption"/>
-  <w:LsdException Locked="false" Priority="10" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Title"/>
-  <w:LsdException Locked="false" Priority="1" Name="Default Paragraph Font"/>
-  <w:LsdException Locked="false" Priority="11" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtitle"/>
-  <w:LsdException Locked="false" Priority="22" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Strong"/>
-  <w:LsdException Locked="false" Priority="20" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Emphasis"/>
-  <w:LsdException Locked="false" Priority="59" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Table Grid"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Placeholder Text"/>
-  <w:LsdException Locked="false" Priority="1" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="No Spacing"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 1"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 1"/>
-  <w:LsdException Locked="false" UnhideWhenUsed="false" Name="Revision"/>
-  <w:LsdException Locked="false" Priority="34" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="List Paragraph"/>
-  <w:LsdException Locked="false" Priority="29" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Quote"/>
-  <w:LsdException Locked="false" Priority="30" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Quote"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 1"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 1"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 1"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 1"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 1"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 1"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 1"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 2"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 2"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 2"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 2"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 2"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 2"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 2"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 2"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 3"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 3"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 3"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 3"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 3"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 3"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 3"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 3"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 4"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 4"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 4"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 4"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 4"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 4"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 4"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 4"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 5"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 5"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 5"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 5"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 5"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 5"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 5"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 5"/>
-  <w:LsdException Locked="false" Priority="60" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="61" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light List Accent 6"/>
-  <w:LsdException Locked="false" Priority="62" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Light Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="63" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="64" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Shading 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="65" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="66" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium List 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="67" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 1 Accent 6"/>
-  <w:LsdException Locked="false" Priority="68" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 2 Accent 6"/>
-  <w:LsdException Locked="false" Priority="69" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Medium Grid 3 Accent 6"/>
-  <w:LsdException Locked="false" Priority="70" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Dark List Accent 6"/>
-  <w:LsdException Locked="false" Priority="71" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Shading Accent 6"/>
-  <w:LsdException Locked="false" Priority="72" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful List Accent 6"/>
-  <w:LsdException Locked="false" Priority="73" SemiHidden="false"
-   UnhideWhenUsed="false" Name="Colorful Grid Accent 6"/>
-  <w:LsdException Locked="false" Priority="19" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Emphasis"/>
-  <w:LsdException Locked="false" Priority="21" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Emphasis"/>
-  <w:LsdException Locked="false" Priority="31" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Subtle Reference"/>
-  <w:LsdException Locked="false" Priority="32" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Intense Reference"/>
-  <w:LsdException Locked="false" Priority="33" SemiHidden="false"
-   UnhideWhenUsed="false" QFormat="true" Name="Book Title"/>
-  <w:LsdException Locked="false" Priority="37" Name="Bibliography"/>
-  <w:LsdException Locked="false" Priority="39" QFormat="true" Name="TOC Heading"/>
- </w:LatentStyles>
-</xml><![endif]-->
-<style>
-<!--
-@media only screen and (max-width: 1024px){#message{position:fixed;width:90%;margin:0 auto;background:#fff;height:auto;display:block;float:left;z-index:99999999;text-align:center;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:8px;border:4px solid orange;padding:10px;}}
-@media only screen and (max-width: 767px){#message img {max-width:100px;}#message {padding:10px!important;}}
-#MESSAGE
-	{position:fixed;
-	transform:translate(-50%,-50%);
-	border-radius:8px;
-	padding:40px 0!important;
-	float:left;
-	left:50%;
-	top:50%;
-	z-index:99999999;}
-#MESSAGE img
-	{max-width:150px;
-	margin:20px auto!important;}
-#MESSAGE h2
-	{font-weight:700!important;
-	padding:10px 0!important;
-	font-size:26px!important;}
-#MESSAGE p
-	{margin:30px 0!important;}
-button#mehn {cursor:pointer;display: inline-block;text-align: center;vertical-align: middle;padding: 12px 24px;border: 1px solid #4443cf;border-radius: 8px;background: #807eff;background: -webkit-gradient(linear, left top, left bottom, from(#807eff), to(#4443cf));background: -moz-linear-gradient(top, #807eff, #4443cf);background: linear-gradient(to bottom, #807eff, #4443cf);font: normal normal bold 20px arial;color: #ffffff;text-decoration: none;}
-button#mehn:focus,button#mehn:hover{border:1px solid ##504ff4;background:#9a97ff;background:-webkit-gradient(linear,left top,left bottom,from(#9a97ff),to(#5250f8));background:-moz-linear-gradient(top,#9a97ff,#5250f8);background:linear-gradient(to bottom,#9a97ff,#5250f8);color:#fff;text-decoration:none}
-button#mehn:active{background:#4443cf;background:-webkit-gradient(linear,left top,left bottom,from(#4443cf),to(#4443cf));background:-moz-linear-gradient(top,#4443cf,#4443cf);background:linear-gradient(to bottom,#4443cf,#4443cf)}
-button#mehn:before{content:'';display:inline-block;height:24px;width:24px;line-height:24px;margin:0 4px -6px -4px;position:relative;top:0;left:-3px;background:url(https://www.freefq.com/images/ok.jpg) no-repeat left center transparent;background-size:100% 100%}
-#OVERLAYH
-	{position:fixed;
-	opacity:.8;
-	float:left;
-	top:0in;
-	z-index:99999998;}
 
- /* Font Definitions */
- @font-face
-	{font-family:宋体;
-	panose-1:2 1 6 0 3 1 1 1 1 1;
-	mso-font-alt:SimSun;
-	mso-font-charset:134;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:3 680460288 22 0 262145 0;}
-@font-face
-	{font-family:"Cambria Math";
-	panose-1:2 4 5 3 5 4 6 3 2 4;
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-pitch:variable;
-	mso-font-signature:-536869121 1107305727 33554432 0 415 0;}
-@font-face
-	{font-family:Ubuntu;
-	panose-1:0 0 0 0 0 0 0 0 0 0;
-	mso-font-alt:"Times New Roman";
-	mso-font-charset:0;
-	mso-generic-font-family:roman;
-	mso-font-format:other;
-	mso-font-pitch:auto;
-	mso-font-signature:0 0 0 0 0 0;}
-@font-face
-	{font-family:"\@宋体";
-	panose-1:2 1 6 0 3 1 1 1 1 1;
-	mso-font-charset:134;
-	mso-generic-font-family:auto;
-	mso-font-pitch:variable;
-	mso-font-signature:3 680460288 22 0 262145 0;}
- /* Style Definitions */
- p.MsoNormal, li.MsoNormal, div.MsoNormal
-	{mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;}
-h2
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"标题 2 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:2;
-	font-size:18.0pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;
-	font-weight:bold;}
-h3
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"标题 3 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:3;
-	font-size:13.5pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;
-	font-weight:bold;}
-h4
-	{mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-qformat:yes;
-	mso-style-link:"标题 4 Char";
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	mso-outline-level:4;
-	font-size:12.0pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;
-	font-weight:bold;}
-p.MsoHeader, li.MsoHeader, div.MsoHeader
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"页眉 Char";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	text-align:center;
-	mso-pagination:widow-orphan;
-	tab-stops:center 207.65pt right 415.3pt;
-	layout-grid-mode:char;
-	border:none;
-	mso-border-bottom-alt:solid windowtext .75pt;
-	padding:0cm;
-	mso-padding-alt:0cm 0cm 1.0pt 0cm;
-	font-size:9.0pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;}
-p.MsoFooter, li.MsoFooter, div.MsoFooter
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-link:"页脚 Char";
-	margin:0cm;
-	margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	tab-stops:center 207.65pt right 415.3pt;
-	layout-grid-mode:char;
-	font-size:9.0pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;}
-a:link, span.MsoHyperlink
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:blue;
-	text-decoration:underline;
-	text-underline:single;}
-a:visited, span.MsoHyperlinkFollowed
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	color:purple;
-	text-decoration:underline;
-	text-underline:single;}
-p
-	{mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-margin-top-alt:auto;
-	margin-right:0cm;
-	mso-margin-bottom-alt:auto;
-	margin-left:0cm;
-	mso-pagination:widow-orphan;
-	font-size:12.0pt;
-	font-family:宋体;
-	mso-bidi-font-family:宋体;}
-span.2Char
-	{mso-style-name:"标题 2 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"标题 2";
-	mso-ansi-font-size:16.0pt;
-	mso-bidi-font-size:16.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:宋体;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	font-weight:bold;}
-span.3Char
-	{mso-style-name:"标题 3 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"标题 3";
-	mso-ansi-font-size:16.0pt;
-	mso-bidi-font-size:16.0pt;
-	font-family:宋体;
-	mso-ascii-font-family:宋体;
-	mso-fareast-font-family:宋体;
-	mso-hansi-font-family:宋体;
-	mso-bidi-font-family:宋体;
-	font-weight:bold;}
-span.4Char
-	{mso-style-name:"标题 4 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:9;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:"标题 4";
-	mso-ansi-font-size:14.0pt;
-	mso-bidi-font-size:14.0pt;
-	font-family:"Cambria","serif";
-	mso-ascii-font-family:Cambria;
-	mso-ascii-theme-font:major-latin;
-	mso-fareast-font-family:宋体;
-	mso-fareast-theme-font:major-fareast;
-	mso-hansi-font-family:Cambria;
-	mso-hansi-theme-font:major-latin;
-	mso-bidi-font-family:"Times New Roman";
-	mso-bidi-theme-font:major-bidi;
-	font-weight:bold;}
-span.Char
-	{mso-style-name:"页眉 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:页眉;
-	mso-ansi-font-size:9.0pt;
-	mso-bidi-font-size:9.0pt;
-	font-family:宋体;
-	mso-ascii-font-family:宋体;
-	mso-fareast-font-family:宋体;
-	mso-hansi-font-family:宋体;
-	mso-bidi-font-family:宋体;}
-span.Char0
-	{mso-style-name:"页脚 Char";
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-unhide:no;
-	mso-style-locked:yes;
-	mso-style-link:页脚;
-	mso-ansi-font-size:9.0pt;
-	mso-bidi-font-size:9.0pt;
-	font-family:宋体;
-	mso-ascii-font-family:宋体;
-	mso-fareast-font-family:宋体;
-	mso-hansi-font-family:宋体;
-	mso-bidi-font-family:宋体;}
-.MsoChpDefault
-	{mso-style-type:export-only;
-	mso-default-props:yes;
-	font-size:10.0pt;
-	mso-ansi-font-size:10.0pt;
-	mso-bidi-font-size:10.0pt;
-	mso-ascii-font-family:"Times New Roman";
-	mso-hansi-font-family:"Times New Roman";
-	mso-font-kerning:0pt;}
- /* Page Definitions */
- @page
-	{mso-footnote-separator:url("ss免费账号分享2022年10月17日.files/header.htm") fs;
-	mso-footnote-continuation-separator:url("ss免费账号分享2022年10月17日.files/header.htm") fcs;
-	mso-endnote-separator:url("ss免费账号分享2022年10月17日.files/header.htm") es;
-	mso-endnote-continuation-separator:url("ss免费账号分享2022年10月17日.files/header.htm") ecs;}
-@page Section1
-	{size:595.3pt 841.9pt;
-	margin:72.0pt 90.0pt 72.0pt 90.0pt;
-	mso-header-margin:42.55pt;
-	mso-footer-margin:49.6pt;
-	mso-paper-source:0;}
-div.Section1
-	{page:Section1;}
--->
-</style>
-<!--[if gte mso 10]>
-<style>
- /* Style Definitions */
- table.MsoNormalTable
-	{mso-style-name:普通表格;
-	mso-tstyle-rowband-size:0;
-	mso-tstyle-colband-size:0;
-	mso-style-noshow:yes;
-	mso-style-priority:99;
-	mso-style-qformat:yes;
-	mso-style-parent:"";
-	mso-padding-alt:0cm 5.4pt 0cm 5.4pt;
-	mso-para-margin:0cm;
-	mso-para-margin-bottom:.0001pt;
-	mso-pagination:widow-orphan;
-	font-size:10.0pt;
-	font-family:"Times New Roman","serif";}
-</style>
-<![endif]-->
-<meta http-equiv=Content-Language content=zh-cn>
-<!--[if gte mso 9]><xml>
- <o:shapedefaults v:ext="edit" spidmax="3074"/>
-</xml><![endif]--><!--[if gte mso 9]><xml>
- <o:shapelayout v:ext="edit">
-  <o:idmap v:ext="edit" data="2"/>
- </o:shapelayout></xml><![endif]-->
+<style type='text/css'>
+			#message{position:fixed;width:800px;margin:0 auto;background:#fff;height:auto;display:block;float:left;z-index:99999999;text-align:center;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:8px;border:4px solid orange;padding:40px 0!important;}#message img{max-width:150px;margin:20px auto!important;clear:both}#message h2{font-weight:700!important;font-family:arial!important;padding:10px 0!important;font-size:26px!important;}#message p{margin:30px 0!important;}button#mehn {cursor:pointer;display: inline-block;text-align: center;vertical-align: middle;padding: 12px 24px;border: 1px solid #4443cf;border-radius: 8px;background: #807eff;background: -webkit-gradient(linear, left top, left bottom, from(#807eff), to(#4443cf));background: -moz-linear-gradient(top, #807eff, #4443cf);background: linear-gradient(to bottom, #807eff, #4443cf);font: normal normal bold 20px arial;color: #ffffff;text-decoration: none;}button#mehn:focus,button#mehn:hover{border:1px solid ##504ff4;background:#9a97ff;background:-webkit-gradient(linear,left top,left bottom,from(#9a97ff),to(#5250f8));background:-moz-linear-gradient(top,#9a97ff,#5250f8);background:linear-gradient(to bottom,#9a97ff,#5250f8);color:#fff;text-decoration:none}button#mehn:active{background:#4443cf;background:-webkit-gradient(linear,left top,left bottom,from(#4443cf),to(#4443cf));background:-moz-linear-gradient(top,#4443cf,#4443cf);background:linear-gradient(to bottom,#4443cf,#4443cf)}button#mehn:before{content:'';display:inline-block;height:24px;width:24px;line-height:24px;margin:0 4px -6px -4px;position:relative;top:0;left:-3px;background:url(https://www.freefq.com/images/ok.jpg) no-repeat left center transparent;background-size:100% 100%}#overlayh{position:fixed;width:100%;margin:0 auto;opacity:.8;background:#000;height:100%;display:block;float:left;z-index:99999998;top:0;}
+			@media only screen and (max-width: 1024px){#message{position:fixed;width:90%;margin:0 auto;background:#fff;height:auto;display:block;float:left;z-index:99999999;text-align:center;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:8px;border:4px solid orange;padding:10px;}}@media only screen and (max-width: 767px){#message img {max-width:100px;}#message {padding:10px!important;}}
+			</style>
+
+
+
+
+<base target="_blank">
+
+
+
+
+
+<meta http-equiv="Content-Language" content="zh-cn">
+<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
+<title>免费ss服务器分享</title>
 </head>
 
-<body lang=ZH-CN link=blue vlink=purple style='tab-interval:21.0pt'>
+<body>
 
-<div class=Section1>
 
-<p>来自<span lang=EN-US><a href="https://freefq.com"><span lang=EN-US><span
-lang=EN-US>免费翻墙网https://freefq.com</span></span></a></span>的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！
-<span lang=EN-US><script  src="https://www.freefq.com/d/js/acmsd/peter13.js">
-</script><script  src="https://www.freefq.com/d/js/acmsd/peter4.js">
-</script></span></p>
 
-<p><span lang=EN-US>v2c:</span></p>
+<font face="宋体">
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiZWNkeWQtMTA0OS12Mi03LmhrZy1yLWtjZC1jLmFwLmNqaGguYmVhdXR5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiczMuY2poaC5iZWF1dHkiLCAiaWQiOiAiY2FhYzYyODUtNTExYy00YTA3LWI2ZGItZWRmYmRjZmUzODg5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsICJwb3J0IjogIjI5OTM4IiwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU2ZDU5XHU2YzVmXHU3NzAxXHU1M2YwXHU1ZGRlXHU1ZTAyXHU3OWZiXHU1MmE4IDM0IiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9</span></p>
 
-<p><span lang=EN-US>trojan://469eb2d7-c86c-3484-ba85-4f26f0645b9b@do-sg-01.vvsoga.net:1234#github.com/Pawdroid%20-%20%E6%96%B0%E5%8A%A0%E5%9D%A1DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2030</span></p>
 
-<p><span lang=EN-US>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzopIiwNCiAgImFkZCI6ICIyMjEuMTMxLjE2NS43MiIsDQogICJwb3J0IjogIjExOTE5IiwNCiAgImlkIjogIjJjYzE1MzI2LWNkMGYtMzRkYS1iYmZiLWY4Y2RjOWI3MWViMiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAidGNwIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogIiIsDQogICJ0bHMiOiAiIiwNCiAgInNuaSI6ICIiDQp9</span></p>
+<p>
+Free SS 免费SS账号所有数据均来自互联网，更新时间：2022-10-<span lang="en-us">19 </span>12:35:55<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAidGV4dDEueGJ5d3djcC51cyIsICJhaWQiOiAwLCAiaG9zdCI6ICIlN0IlMjJob3N0JTIyOiUyMmEuMTg5LmNuJTIyJTdEIiwgImlkIjogImMxMzIwOGJmLWQ0ZjctM2U4NC04ZjE3LTNkNmMwODMwYmUyZSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYnkueGJ5Z29vZC54eXoiLCAicG9ydCI6IDgwLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1OTk5OVx1NmUyZkFtYXpvblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyA5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span></p>
+</font>
 
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTUxNmNcdTUzZjhDRE5cdTgyODJcdTcwYjkgMTYiLCAiYWRkIjogImFybWpwLmZpbmV5b28uY2YiLCAicG9ydCI6ICI0NDMiLCAiaWQiOiAiMTM0ZTZhMzctMjEzOS00M2VjLWYzNjctNDcwNDRkYmEyMjBjIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJhcm1qcC5maW5leW9vLmNmIiwgInBhdGgiOiAiL3JheSIsICJ0bHMiOiAidGxzIiwgInNuaSI6ICIifQ==</span></p>
+<p>来自<a href="https://freefq.com">免费翻墙网https://freefq.com</a>的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！<font face="宋体">
 
-<p><span lang=EN-US>trojan://ZD4dLSBXiMrmzdLd@185.253.47.79:443?allowInsecure=1#&#127482;&#127462;UA
-1 </span>→<span lang=EN-US> v2cross.com</span></p>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiYXJ2YW5jbG91ZC5jb20iLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJtYWhzYXByb3h5LmNvbSIsICJpZCI6ICJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dyYXBocWwiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU0ZjBhXHU2NzE3ICAyOCIsICJzZWN1cml0eSI6ICJjaGFjaGEyMC1wb2x5MTMwNSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiIiwgInVybF9ncm91cCI6ICJ0Lm1lL3JpcGFvamllZGlhbiIsICJ2IjogIjIifQ==</span></p>
 
-<p><span lang=EN-US>vmess://eyJ2IjoiMiIsInBzIjoi8J+HqPCfh7NDTiA5NyDihpIgdjJjcm9zcy5jb20iLCJhZGQiOiJ5ZXMuaWFtYWdvb2RtYW4ubmV0IiwicG9ydCI6IjE2NjM3IiwidHlwZSI6Im5vbmUiLCJpZCI6IjRmOGMwZTQxLWRiZGItNDBmMS05OWNiLTJjMmEwYjkwOWI1MiIsImFpZCI6IjAiLCJuZXQiOiJ3cyIsInBhdGgiOiIvIiwiaG9zdCI6Inllcy5pYW1hZ29vZG1hbi5uZXQiLCJ0bHMiOiIifQ==</span></p>
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiY2EuMDExMjIzMy54eXoiLCAidiI6IDIsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSAyOSIsICJwb3J0IjogODQ0MywgImlkIjogImMzMDAwZTlkLWJlZTctNGZkYi1iMzEyLWRkMDcwMzBmMzI1ZCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiY2EuMDExMjIzMy54eXoiLCAidGxzIjogInRscyIsICJwYXRoIjogIi9ob21lIn0=</span></p>
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
-<p><span lang=EN-US>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS4reWbvShUR+mikemBkzopIiwNCiAgImFkZCI6ICIxMTYuMTI5LjI1NC42IiwNCiAgInBvcnQiOiAiOTAwNCIsDQogICJpZCI6ICIyY2MxNTMyNi1jZDBmLTM0ZGEtYmJmYi1mOGNkYzliNzFlYjIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogInRjcCIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICIiLA0KICAicGF0aCI6ICIiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIg0KfQ==</span></p>
 
-<p><span lang=EN-US>trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?allowInsecure=1#&#127471;&#127477;JP
-5 </span>→<span lang=EN-US> v2cross.com</span></p>
 
-<p><span lang=EN-US>vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuaWsOWKoOWdoShUR+mikemBkzopIiwNCiAgImFkZCI6ICIxNjUuMTU0LjI1My4yMTAiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiZTE5MjMxNzMtNjczYS00MzNmLWFhZWQtMTcxY2JkMDgzNDE2IiwNCiAgImFpZCI6ICIwIiwNCiAgInNjeSI6ICJhdXRvIiwNCiAgIm5ldCI6ICJ0Y3AiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiIiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiINCn0=</span></p>
 
-<p><span lang=EN-US>trojan://83ba4ac8-89c7-45a3-9603-15cb312a50e3@112.6.212.141:49006?allowInsecure=1#%e4%b8%ad%e5%9b%bd(TG%e9%a2%91%e9%81%93%3a%40kxswa)</span></p>
 
-<p><span lang=EN-US>trojan://Sp3eDVp@content-provider24.cdn-delivery.akamaicd.com:443?allowInsecure=1#NL%204%20%E2%86%92%20v2cross.com</span></p>
+<p>v2c:
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAianAtMDQudGlrdG9rY2RuLnNicyIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiYmNkNTM5M2EtM2JlZC00MjAwLTk1N2YtNTgzMmI0ZTg0NzJiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi90bnBqdndzIiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL1Bhd2Ryb2lkIC0gXHU2NWU1XHU2NzJjXHU0ZTFjXHU0ZWFjQW1hem9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDI1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=</span></p>
+<p>trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443#v2cross.com%20-%20%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6DDOSing%20Network%2029<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0NAMTcyLjk5LjE5MC4xNDk6NTYwMQ==#&#127482;&#127480;US_670<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1NjVlNVx1NjcyYyAgMjUiLCAiYWRkIjogInNob3Vlci5henpodWFuZ2FwaW5nLnR3IiwgInBvcnQiOiAiODAiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjcwZGU0OTI0LWQxYWMtMzQ4Mi1hNDk0LTU3N2I0Y2NjOWIxZCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvYWRvYmUiLCAiaG9zdCI6ICJhLjE4OS5jbiIsICJ0bHMiOiAiIn0=<br>
+vmess://eyJhZGQiOiAiOTQuMTc3LjguODciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAyMzQ1MywgInBzIjogImdpdGh1Yi5jb20vUGF3ZHJvaWQgLSBcdTdmNTdcdTlhNmNcdTVjM2NcdTRlOWEgIDciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br>
+vmess://eyJhZGQiOiAiOC4yMDkuMjE4LjE5NSIsICJhaWQiOiAiMCIsICJob3N0IjogImxpbmRvLmNuYWJjLmV1Lm9yZyIsICJpZCI6ICJmNmQ3YjA3Mi1kZTAwLTQ1ZGMtOWUyNC00OWY4Y2Y0MzUzMGQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpbm9kIiwgInBvcnQiOiAiNDQzIiwgInBzIjogInYyY3Jvc3MuY29tIC0gXHU0ZTJkXHU1NmZkXHU5NjNmXHU5MWNjXHU0ZTkxIDMyIiwgInNlY3VyaXR5IjogInplcm8iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9<br>
+vmess://eyJhZGQiOiAiMTcyLjY0LjE1My4xMDIiLCAiYWlkIjogMCwgImhvc3QiOiAiY2xhc2gyLnRydW1wMjAyMy51cyIsICJpZCI6ICJiZWQzZDg3Ni0yZDI2LTRkNGQtYjc4OS0zMDYzNDM4ZWU3NzQiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9QYXdkcm9pZCAtIFx1N2Y4ZVx1NTZmZENsb3VkRmxhcmVcdTgyODJcdTcwYjkgMTEiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAidjJjcm9zcy5jb20gLSBcdTZjNWZcdTgyY2ZcdTc3MDFcdTViYmZcdThmYzFcdTVlMDJcdTc5ZmJcdTUyYTggMjEiLCAiYWRkIjogIjIyMS4xODEuMTg1LjE3MSIsICJwb3J0IjogIjExOTExIiwgImlkIjogIjJjYzE1MzI2LWNkMGYtMzRkYS1iYmZiLWY4Y2RjOWI3MWViMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==<p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiIyMjEuMTgxLjE4NS4xNTMiLCJ2IjoyLCJwcyI6IuaXpeacrD10Z+mikemBkzoyPTEwIiwicG9ydCI6IjkwMzYiLCJpZCI6IjJjYzE1MzI2LWNkMGYtMzRkYS1iYmZiLWY4Y2RjOWI3MWViMiIsImFpZCI6IjAiLCJzY3kiOiJhdXRvIiwibmV0IjoidGNwIiwidHlwZSI6IiIsInRscyI6IiJ9</span></p>
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script><p>free:
 
-<p><span lang=EN-US>trojan://67960bfb-00de-4a6b-9a7a-e74fc9e8b158@149.56.141.11:443?allowInsecure=1#%e5%8a%a0%e6%8b%bf%e5%a4%a7(TG%e9%a2%91%e9%81%93%3a%40kxswa)</span></p>
 
-<p><span lang=EN-US>ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3QDE3Mi45OS4xOTAuODc6MjM3NQ==#_162</span></p>
 
-<p>　</p>
+<p>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1YjBcdTUyYTBcdTU3NjFBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgMSIsICJhZGQiOiAic2ctNi53dW1hb2ppY2hhbmcubWwiLCAicG9ydCI6ICIzNTc4OSIsICJpZCI6ICJkMzk3OGJkMC1kYWRlLTQxODEtODFkZS1iYWUzMDkxMzM5ZjEiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogInNnLTYud3VtYW9qaWNoYW5nLm1sIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRcdTllYmJcdTc3MDFcdTc0MDZcdTVkZTVcdTViNjZcdTk2NjIgMiIsICJhZGQiOiAiaGstdGVzdC10dW5uZWwucGFubm9kZS50b3AiLCAicG9ydCI6ICI4MCIsICJpZCI6ICIwZmJhZTgyMC1kN2RhLTQ0MDQtYTFhZS03YzNlODZjYjU1YzMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAid2Vic29ja2V0IiwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJwYXRoIjogIi93cm9vdD9lZD0yMDQ4IiwgInRscyI6ICIifQ==
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzZjBcdTZlN2VcdTc3MDFcdTUzZjBcdTUzMTdcdTVlMDJcdTRlMmRcdTUzNGVcdTc1MzVcdTRmZTEgMyIsICJhZGQiOiAiYXp0MDEua2N0cjIwMzguaWN1IiwgInBvcnQiOiAiMTA3NzgiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjg4OTM5MjcyLTc5MGEtNDQxZi1iMTJiLThjZTUzMWFjYTgxMCIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiYXp0MDEua2N0cjIwMzguaWN1IiwgInRscyI6ICJ0bHMifQ==
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTk5OTlcdTZlMmZBbWF6b25cdTY1NzBcdTYzNmVcdTRlMmRcdTVmYzMgNCIsICJhZGQiOiAiMTguMTY3LjEyMS40MiIsICJwb3J0IjogIjM1NzgxIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJkMzk3OGJkMC1kYWRlLTQxODEtODFkZS1iYWUzMDkxMzM5ZjEiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2hrLnd1bWFvamljaGFuZy5tbCIsICJob3N0IjogIjE4LjE2Ny4xMjEuNDIiLCAidGxzIjogIiJ9
+<br>
+vmess://eyJhZGQiOiAibTEucGlhbnlpamMudG9wIiwgImFpZCI6IDAsICJob3N0IjogIm0xLnBpYW55aWpjLnRvcCIsICJpZCI6ICI2Yjg1NWRiZC0zZjVhLTRhOGItODMzOC03M2FiMzM3ZWI4ZTYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3NvbWV0aW1lc25haXZlIiwgInBvcnQiOiAzMTIxMCwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU2NWU1XHU2NzJjXHU0ZTFjXHU0ZWFjQW1hem9uXHU2NTcwXHU2MzZlXHU0ZTJkXHU1ZmMzIDUiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+<br>
+vmess://eyJhZGQiOiAiMTY1LjE1NC4yNDMuMTYxIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImExNDRkZTM4LWE4ODEtNGQ0NS04NTJiLTU5ZWI1YzM4ZjdhOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU1MmEwXHU2MmZmXHU1OTI3ICA2IiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9
+<br>
+vmess://eyJhZGQiOiAiMTQxLjEwMS4xMTQuMjAiLCAiYWlkIjogMCwgImhvc3QiOiAiY2xhc2gxLnRydW1wMjAyMy5uZXQiLCAiaWQiOiAiMTc2YjU5OGYtNDQ1Yi00MWFjLTlkMmEtNDMwYzVjNGRmMjZhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSA3IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+<br>
+vmess://eyJhZGQiOiAiOTQuMTc3LjguODciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAyMzQ1MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjU3XHU5YTZjXHU1YzNjXHU0ZTlhICA4IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDkiLCAiYWRkIjogIjE3Mi42NC4xNTMuMjAxIiwgInBvcnQiOiAiNDQzIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICIyOGRhZDY5Yy1jOWQ2LTQ3YzUtYWQwNS1jNjZhZmI4N2NjYmQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJob3N0IjogImNsYXNoMy50cnVtcDIwMjMub3JnIiwgInRscyI6ICJ0bHMifQ==
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDEwIiwgImFkZCI6ICIxOTguNDEuMjA5LjIxNCIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICIxMWYzNDY1YS1mMGJjLTRkOTctOThjZC02ODkyZDBlZjYxZDUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImhpbmV0Lm1laXpoaXl1YW55YS54eXoiLCAicGF0aCI6ICIvZ3VvbGljaGVuZy9oaW5ldD9lZD0yMDQ4IiwgInRscyI6ICJ0bHMifQ==
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDExIiwgImFkZCI6ICIxNDEuMTAxLjExNC4zMyIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTVhODhjZTItZmMxYi00NWQxLTljNWYtNTUzNzIxZDI4MDA0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAiaG9zdCI6ICJ2MnJheTEuemh1amljbjIub3JnIiwgInRscyI6ICJ0bHMifQ==
+<br>
+trojan://88939272-790a-441f-b12b-8ce531aca810@polo01.kctr2038.icu:443#github.com/freefq%20-%20%E7%BE%8E%E5%9B%BD%E5%8A%A0%E5%88%A9%E7%A6%8F%E5%B0%BC%E4%BA%9A%E5%B7%9E%E6%B4%9B%E6%9D%89%E7%9F%B6DDOSing%20Network%2012
+<br>
+vmess://eyJhZGQiOiAidGFvYmFvLmJhYmF6aHVqaS5jb20iLCAiYWlkIjogMCwgImhvc3QiOiAidGFvYmFvLmJhYmF6aHVqaS5jb20iLCAiaWQiOiAiMmE0OTE4ZGUtYWRjZS00YzRlLWFhMDAtODhhNDIyN2NmNmVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kaWRpIiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZCAgMTMiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzNTdcdTk3NWUgIDE0IiwgImFkZCI6ICJzYS52bWVzczEueHNlcnZzLnh5eiIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICI2MDkzNTJlZi1hOTI1LTQ3NjMtOGQ1MS0zOTZlOGRlOGRmNGMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgImhvc3QiOiAiZmdmZ2YiLCAidGxzIjogIiJ9
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTViODlcdTVmYmRcdTc3MDFcdTU0MDhcdTgwYTVcdTVlMDJcdTc5ZmJcdTUyYTggMTUiLCAiYWRkIjogInp6YWgub2xkc2FuLnh5eiIsICJwb3J0IjogIjgwODEiLCAiaWQiOiAiMGE4OTAwYzEtZWZiOC0zMDFmLWJlN2EtYjNkZjU2MGMxZTljIiwgImFpZCI6ICI0IiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJicjIuaDVnYW1lLnh5eiIsICJwYXRoIjogIi9oNWdhbWU0IiwgInRscyI6ICIiLCAic25pIjogIiJ9
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTRlOWFcdTU5MmFcdTU3MzBcdTUzM2EgIDE2IiwgImFkZCI6ICJpZC12LnNzaG1heC54eXoiLCAicG9ydCI6ICI4MCIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiNjIxMWViOGEtZTVjYS00MGYzLTk4MGYtYTdhZTZlOTVlNWNiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJob3N0IjogImlkLXYuc3NobWF4Lnh5eiIsICJ0bHMiOiAiIn0=
+<br>
+vmess://eyJhZGQiOiAiMTQ2LjE5MC4yLjU0IiwgImFpZCI6IDAsICJob3N0IjogIjE0Ni4xOTAuMi41NCIsICJpZCI6ICIyYTQ5MThkZS1hZGNlLTRjNGUtYWEwMC04OGE0MjI3Y2Y2ZWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RpZGkiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkICAxNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTZjNWZcdTgyY2ZcdTc3MDFcdTViYmZcdThmYzFcdTVlMDJcdTc5ZmJcdTUyYTggMTgiLCAiYWRkIjogIjIyMS4xODEuMTg1LjE3MSIsICJwb3J0IjogIjExOTExIiwgImlkIjogIjJjYzE1MzI2LWNkMGYtMzRkYS1iYmZiLWY4Y2RjOWI3MWViMiIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIiIsICJ0bHMiOiAiIiwgInNuaSI6ICIifQ==
+<br>
+vmess://eyJhZGQiOiAiaGstdmkucGFubm9kZS50b3AiLCAiYWlkIjogMCwgImhvc3QiOiAidG1zLmRpbmd0YWxrLmNvbSIsICJpZCI6ICIwZmJhZTgyMC1kN2RhLTQ0MDQtYTFhZS03YzNlODZjYjU1YzMiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3dyb290P2VkPTIwNDgiLCAicG9ydCI6IDgwLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRYZXJveCAxOSIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+<br>
+vmess://eyJhZGQiOiAiZWNkeWQtMTA0OS12Mi03LmhrZy1yLWtjZC1jLmFwLmNqaGguYmVhdXR5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiczMuY2poaC5iZWF1dHkiLCAiaWQiOiAiY2FhYzYyODUtNTExYy00YTA3LWI2ZGItZWRmYmRjZmUzODg5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsICJwb3J0IjogIjI5OTM4IiwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU1ZTdmXHU0ZTFjXHU3NzAxXHU1ZTdmXHU1ZGRlXHU1ZTAyXHU3OWZiXHU1MmE4IDIwIiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9
+<br>
+vmess://eyJhZGQiOiAiODguMjEwLjM3LjE4IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIyRjA5NDg0NS1FMkJELUVCRjctREVCNy05OTU5OTI0MzZGQUYiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogMjM0NTMsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1NGZjNFx1N2Y1N1x1NjVhZiAgMjEiLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==
+<br>
+vmess://eyJhZGQiOiAiaGstaWlpLXR1bm5lbC5wYW5ub2RlLnRvcCIsICJhaWQiOiAwLCAiaG9zdCI6ICJ0bXMuZGluZ3RhbGsuY29tIiwgImlkIjogIjBmYmFlODIwLWQ3ZGEtNDQwNC1hMWFlLTdjM2U4NmNiNTVjMyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvd3Jvb3Q_ZWQ9MjA0OCIsICJwb3J0IjogODAsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1NjViMFx1NTJhMFx1NTc2MUFtYXpvblx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAyMiIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
+<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzNTdcdTk3NWUgIDIzIiwgImFkZCI6ICJzYS52bWVzczIueHNlcnZzLnh5eiIsICJwb3J0IjogIjgwIiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiYjg5MWUyOC1jYTY3LTRkNGMtYmUxNC0zM2Y4ZWM1ZmZmYjgiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3ZtZXNzIiwgImhvc3QiOiAiZmRmIiwgInRscyI6ICIifQ==
 
-<p><span lang=EN-US>free:</span></p>
 
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTY1ZTVcdTY3MmMgIDEiLCAiYWRkIjogIjQzLjE1NS45Ni4xNTEiLCAicG9ydCI6ICI0Njk0NSIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMzcwYTVkZjQtMGFjMC00ZTNkLWFiMWMtMjE4ODkxYzllNjM4IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAiIiwgInRscyI6ICIifQ==<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
 
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTZkNTlcdTZjNWZcdTc3MDFcdTU2MDlcdTUxNzRcdTVlMDJcdTc1MzVcdTRmZTEgMiIsICJhZGQiOiAiZm9yZXZlckIubGl1c3VjZndzdGxzbm9kZS54eXoiLCAicG9ydCI6ICI1MjE2IiwgInR5cGUiOiAibm9uZSIsICJpZCI6ICJiMzk0NjhiZC0xNTYzLTQxYzAtYmY1Mi03NDM0NzQyMTMwYTIiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2xpdWxpc3VhbnN1YW4iLCAiaG9zdCI6ICJmb3JldmVyQi5saXVzdWNmd3N0bHNub2RlLnh5eiIsICJ0bHMiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
+<p>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiMTY1LjE1NC4yNTMuMjEwIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImUxOTIzMTczLTY3M2EtNDMzZi1hYWVkLTE3MWNiZDA4MzQxNiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiAiNDQzIiwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU1MmEwXHU2MmZmXHU1OTI3ICAzIiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
+<br>
 
-<p><span lang=EN-US>vmess://eyJob3N0IjogIiIsICJwYXRoIjogIi9nZXR3ZWF0aGVyIiwgInBvcnQiOiAiNDQzIiwgInRscyI6ICJ0bHMiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTVlMGNcdTgxNGEgIDQiLCAiaWQiOiAiOTc0Yzg0ZDYtNGQ2Yi0xMWVkLWI1ZDItMDAwMDE3MDIyMDA4IiwgImFkZCI6ICJhb3Auc3NmcmVlLnJ1IiwgInYiOiAiMiIsICJhaWQiOiAiNjQiLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAidXMxLm15YmVzdGpqLmNvbSIsICJhaWQiOiAiMCIsICJob3N0IjogInVzMS5teWJlc3Rqai5jb20iLCAiaWQiOiAiOWM0MTlhNTMtOWEyOS00YzU5LTk2YTctYjA1MmU3OWU0YzM3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8xNjU0NDMxIiwgInBvcnQiOiAiMzAwMDAiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTRmYzRcdTdmNTdcdTY1YWYgIDUiLCAic2VjdXJpdHkiOiAiYXV0byIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiIiwgInVybF9ncm91cCI6ICJ0Lm1lL3JpcGFvamllZGlhbiIsICJ2IjogIjIifQ==<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
 
-<p><span lang=EN-US>trojan://67960bfb-00de-4a6b-9a7a-e74fc9e8b158@cat1.sshocean.net:443#github.com/freefq%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%E9%AD%81%E5%8C%97%E5%85%8B%E7%9C%81%E5%8D%9A%E9%98%BF%E5%8A%AA%E7%93%A6OVH%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%206<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
+<p>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiMTcyLjY0LjE1NC4xNTAiLCAiYWlkIjogMCwgImhvc3QiOiAiY2xhc2g2LnNzci1mcmVlLnh5eiIsICJpZCI6ICI1ZjY0ZmE2NS03YjE0LTQ5YzUtOTU0ZC1hYTE1YzZiZmNhY2QiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2Rvbmd0YWl3YW5nLmNvbSIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDciLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
 
-<p><span lang=EN-US>trojan://e1923173-673a-433f-aaed-171cbd083416@1002hk1326.tfzhc.top:443#github.com/freefq%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%208<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
 
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDkiLCAiYWRkIjogIjEwNC4yNi45Ljc0IiwgInBvcnQiOiAiNDQzIiwgImlkIjogImY2YzFiYWJlLTQxNmUtNDdkMS04NzI2LTA0OTY3OGUyNWM3YSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAidXMyLnYycmF5c2Vydi5jb20iLCAicGF0aCI6ICIvc3Nob2NlYW4iLCAidGxzIjogInRscyIsICJzbmkiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
+<p>
 
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiMTY1LjE1NC4yMjcuMjQyIiwgImFpZCI6ICIwIiwgImhvc3QiOiAiIiwgImlkIjogImUxOTIzMTczLTY3M2EtNDMzZi1hYWVkLTE3MWNiZDA4MzQxNiIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUyYTBcdTYyZmZcdTU5MjcgIDEwIiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogIiIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiNTEuODkuNDIuMTU0IiwgImFpZCI6IDY0LCAiaG9zdCI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9wYXRoLzEyMDIxMTMzMTQyMiIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTZjZDVcdTU2ZmQgIDExIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTUzMTdcdTRlYWNcdTVlMDJcdTY1YjBcdTU2ZmRcdTRmZTFcdTkwMWFcdTRmZTFcdTY3MDlcdTk2NTBcdTUxNmNcdTUzZjggMTIiLCAiYWRkIjogIjExNi4xMjkuMjU0LjYiLCAicG9ydCI6ICIxMTkyOSIsICJpZCI6ICIyY2MxNTMyNi1jZDBmLTM0ZGEtYmJmYi1mOGNkYzliNzFlYjIiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIiLCAidGxzIjogIiIsICJzbmkiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAidXMwMi5nb2dvZ29vLmN5b3UiLCAiYWlkIjogMCwgImhvc3QiOiAidXMwMi5nb2dvZ29vLmN5b3UiLCAiaWQiOiAiZGI1ZDFhYTMtOTA4Yi00NGQxLWJlMGEtNGU2YThkNGU0Y2RhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9nbyIsICJwb3J0IjogNDQzLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5IDEzIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE0IiwgImFkZCI6ICIxNDEuMTAxLjExNC4zMyIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiZTVhODhjZTItZmMxYi00NWQxLTljNWYtNTUzNzIxZDI4MDA0IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9kb25ndGFpd2FuZy5jb20iLCAiaG9zdCI6ICJ2MnJheTEuemh1amljbjIub3JnIiwgInRscyI6ICJ0bHMifQ==<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiYWgueWQwMS5wYW9wYW9jbG91ZC5jeW91IiwgImFpZCI6IDAsICJob3N0IjogInNzcnUudjIuanAwMS4yeXVuLndpbiIsICJpZCI6ICJkOGM1YjQ4Ni04NGJiLTM4ODctYTFkOS0wNzQ1NWVhNjA4ZjIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL3YycmF5IiwgInBvcnQiOiAxMDAwNywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU5OTk5XHU2ZTJmXHU3Mjc5XHU1MjJiXHU4ODRjXHU2NTNmXHU1MzNhIDE1IiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiYXJ2YW5jbG91ZC5jb20iLCAiYWlkIjogIjAiLCAiaG9zdCI6ICJtYWhzYXByb3h5LmNvbSIsICJpZCI6ICJiODMxMzgxZC02MzI0LTRkNTMtYWQ0Zi04Y2RhNDhiMzA4MTEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2dyYXBocWwiLCAicG9ydCI6ICI4MCIsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1NGYwYVx1NjcxNyAgMTYiLCAic2VjdXJpdHkiOiAiY2hhY2hhMjAtcG9seTEzMDUiLCAidGxzIjogIiIsICJ0eXBlIjogIiIsICJ1cmxfZ3JvdXAiOiAidC5tZS9yaXBhb2ppZWRpYW4iLCAidiI6ICIyIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiMTQ2LjE5MC4yLjU0IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIyYTQ5MThkZS1hZGNlLTRjNGUtYWEwMC04OGE0MjI3Y2Y2ZWEiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2RpZGkiLCAicG9ydCI6IDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkICAxNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAidG9iZTIuYmVzdG15c2VsZi5saXZlIiwgImFpZCI6ICIwIiwgImhvc3QiOiAidG9iZTIuYmVzdG15c2VsZi5saXZlIiwgImlkIjogImY2MWFkNDcwLTUxZWMtNDAzMi05YjQ1LTk3NDI0OGU1NTQ5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvZG93bmxvYWQiLCAicG9ydCI6ICI0NDMiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmRDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IDE4IiwgInNlY3VyaXR5IjogImFlcy0xMjgtZ2NtIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICIiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiZHNrNGhia3J6cGl0di5jbG91ZGZyb250Lm5ldCIsICJhaWQiOiAiMCIsICJob3N0IjogIiIsICJpZCI6ICJjZmNkOGFjOS01ZjViLTQ3NjMtZTkxMS1mNDk4ZmE1OTVkMmIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiLyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZFx1OWViYlx1NzcwMVx1NzQwNlx1NWRlNVx1NWI2Nlx1OTY2MiAxOSIsICJzZWN1cml0eSI6ICJhdXRvIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJub25lIiwgInVybF9ncm91cCI6ICJ0Lm1lL3JpcGFvamllZGlhbiIsICJ2IjogIjIifQ==<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiNTEuODMuMTMxLjE0NSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiZmFmZGYyNDgtNDhiYy0xMWVkLWJhYWItYzdmYWM4MTI0N2UxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi92bWVzcyIsICJwb3J0IjogODAsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1ODJmMVx1NTZmZFx1NzkzZVx1NGYxYVx1NGZkZFx1OTY2OVx1NWI4OVx1NTE2OFx1OTBlOCAyMCIsICJ0bHMiOiAiIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiOTQuMTc3LjguODciLCAiYWlkIjogMCwgImhvc3QiOiAiIiwgImlkIjogIjJGMDk0ODQ1LUUyQkQtRUJGNy1ERUI3LTk5NTk5MjQzNkZBRiIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiIiwgInBvcnQiOiA0NDQ0MywgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjU3XHU5YTZjXHU1YzNjXHU0ZTlhICAyMSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiMTg1LjE5NC4zMC40MCIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiMkYwOTQ4NDUtRTJCRC1FQkY3LURFQjctOTk1OTkyNDM2RkFGIiwgIm5ldCI6ICJ0Y3AiLCAicGF0aCI6ICIiLCAicG9ydCI6IDQ0NDQzLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTg5N2ZcdTczZWRcdTcyNTkgIDIyIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiZWNkeWQtMTA0OS12Mi03LmhrZy1yLWtjZC1jLmFwLmNqaGguYmVhdXR5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiczMuY2poaC5iZWF1dHkiLCAiaWQiOiAiY2FhYzYyODUtNTExYy00YTA3LWI2ZGItZWRmYmRjZmUzODg5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsICJwb3J0IjogIjI5OTM4IiwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU2ZDU5XHU2YzVmXHU3NzAxXHU1M2YwXHU1ZGRlXHU1ZTAyXHU3OWZiXHU1MmE4IDIzIiwgInNlY3VyaXR5IjogImF1dG8iLCAidGxzIjogInRscyIsICJ0eXBlIjogIm5vbmUiLCAidXJsX2dyb3VwIjogInQubWUvcmlwYW9qaWVkaWFuIiwgInYiOiAiMiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAidnVzMy4wYmFkLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICIiLCAiaWQiOiAiOTI3MDk0ZDMtZDY3OC00NzYzLTg1OTEtZTI0MGQwYmNhZTg3IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9jaGF0IiwgInBvcnQiOiA0NDMsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1N2Y4ZVx1NTZmZFx1NTJhMFx1NTIyOVx1Nzk4Zlx1NWMzY1x1NGU5YVx1NWRkZVx1OGQzOVx1NTIyOVx1ODQ5OUxpbm9kZVx1NjU3MFx1NjM2ZVx1NGUyZFx1NWZjMyAyNCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAia3dkb2QtMTA1Ni12Mi0xLmhrZy1yLWtjZC1lLmFwLmNqaGguYmVhdXR5IiwgImFpZCI6ICIwIiwgImhvc3QiOiAiczMuY2poaC5iZWF1dHkiLCAiaWQiOiAiY2FhYzYyODUtNTExYy00YTA3LWI2ZGItZWRmYmRjZmUzODg5IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9qZTV4M3BCTjF2ZXozTlF1ZE5rQiIsICJwb3J0IjogMjk5ODgsICJwcyI6ICJnaXRodWIuY29tL2ZyZWVmcSAtIFx1NmQ1OVx1NmM1Zlx1NzcwMVx1NTNmMFx1NWRkZVx1NWUwMlx1NzlmYlx1NTJhOCAyNSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAibm9uZSIsICJ2IjogIjIifQ==<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>trojan://P9qGW38zz7@nice-jp03.tiktokcdn.buzz:43857#github.com/freefq%20-%20%E6%97%A5%E6%9C%AC%E4%B8%9C%E4%BA%ACAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%2026<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiMjA2LjExOS4xMTIuNiIsICJhaWQiOiAxMCwgImhvc3QiOiAiIiwgImlkIjogImE5MDU5N2MxLWJhYjMtNDIxNy1hZDZmLTA4Mzg2NzVjODYzOCIsICJuZXQiOiAidGNwIiwgInBhdGgiOiAiLyIsICJwb3J0IjogODE4OSwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkICAyNyIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJhZGQiOiAiaGsxdmRmLW5vZGUuYWlxaWNoZTEyMy5jb20iLCAiYWlkIjogMTAsICJob3N0IjogIiIsICJpZCI6ICJhOTA1OTdjMS1iYWIzLTQyMTctYWQ2Zi0wODM4Njc1Yzg2MzgiLCAibmV0IjogInRjcCIsICJwYXRoIjogIiIsICJwb3J0IjogODE4OSwgInBzIjogImdpdGh1Yi5jb20vZnJlZWZxIC0gXHU3ZjhlXHU1NmZkICAyOCIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp; </span></span></p>
-
-<p><span lang=EN-US>vmess://eyJ2IjogIjIiLCAicHMiOiAiZ2l0aHViLmNvbS9mcmVlZnEgLSBcdTdmOGVcdTU2ZmQzQ09NXHU1MTZjXHU1M2Y4XHU0ZjAxXHU0ZTFhXHU3ZjUxIDI5IiwgImFkZCI6ICIxNTIuNjcuMjEzLjI0MiIsICJwb3J0IjogIjQ0MyIsICJpZCI6ICI5YWE4MDAxNy0zNDI3LTQxNjUtYTUyMi1mNWY5YTExMzMwZDAiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogInRjcCIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICIiLCAicGF0aCI6ICIvIiwgInRscyI6ICJ0bHMiLCAic25pIjogIiIsICJhbHBuIjogIiJ9<span
-style='mso-spacerun:yes'>&nbsp;&nbsp; </span></span></p>
-
-<p><span lang=EN-US><script  src="https://www.freefq.com/d/js/acmsd/peter13.js">
-</script><script  src="https://www.freefq.com/d/js/acmsd/peter4.js">
-</script><span style='mso-spacerun:yes'>&nbsp;</span></span></p>
-
-<p><span lang=EN-US><span style='mso-spacerun:yes'>&nbsp;</span></span></p>
-
-<p>　</p>
-
-<p><span lang=EN-US><o:p>&nbsp;</o:p></span></p>
-
-<p><span lang=EN-US>sub:<br>
+<p>sub:<br>
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOUAxNDYuNzAuNTMuMjQyOjUwMDAw#%F0%9F%87%AC%F0%9F%87%A7%20@SSRSUB%20-%20%E8%8B%B1%E5%9B%BD%20%207<br>
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOUAxNDIuMjAyLjUxLjk4OjUwMDAw#%F0%9F%87%A8%F0%9F%87%A6%20@SSRSUB%20-%20%E5%8A%A0%E6%8B%BF%E5%A4%A7%20%209<br>
 ss://YWVzLTI1Ni1jZmI6MzEzNTc3MTYxOUA0OS4xNTcuMjguMjEyOjUwMDAw#%F0%9F%87%B5%F0%9F%87%AD%20@SSRSUB%20-%20%E8%8F%B2%E5%BE%8B%E5%AE%BE%20%2013<br>
-</span>　</p>
+　</p>
 
-<p><span lang=EN-US><script  src="https://www.freefq.com/d/js/acmsd/peter13.js">
-</script><script  src="https://www.freefq.com/d/js/acmsd/peter4.js">
-</script>al:</span></p>
 
-<p><strong><span style='font-family:宋体;mso-bidi-font-family:宋体'>北京时间<span
-lang=EN-US>2022</span>年<span lang=EN-US>10</span>月<span lang=EN-US>14</span>日<span
-lang=EN-US>23</span>点<span lang=EN-US>30</span>分更新。节点单用户限速<span lang=EN-US>500kb/s</span>。禁止使用<span
-lang=EN-US>BT</span>下载电影、滥发垃圾邮件、<span lang=EN-US>DDOS</span>攻击！<span
-lang=EN-US>BT</span>下载电影会导致服务器被投诉版权而被封！</span></strong></p>
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
-<p><span lang=EN-US>SSR</span>节点：<span lang=EN-US><br>
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
+
+<p>al:</p>
+<p><strong>北京时间2022年10月19日11点00分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
+<p>SSR节点：<br>
 <br>
-</span>（节点单用户限速<span lang=EN-US>500kb/s</span>）<span lang=EN-US><br>
-</span>位置 地址 端口 密码 加密方式 协议 混淆</p>
-
-<p>洛杉矶<span lang=EN-US>1 ssr.zhujicn2.net 22666 dongtaiwang.com none
-auth_chain_a tls1.2_ticket_auth<br>
+（节点单用户限速500kb/s）<br>
+位置 地址 端口 密码 加密方式 协议 混淆</p>
+<p>洛杉矶1 ssr.zhujicn2.net 30044 dongtaiwang.com aes-256-cfb auth_chain_a 
+tls1.2_ticket_auth<br>
 <br>
-SSR</span>节点链接：<span lang=EN-US><br>
+SSR节点链接：<br>
 <br>
-ssr://c3NyLnpodWppY24yLm5ldDoyMjY2NjphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1hSFIwY0hNNkx5OW5hWFJvZFdJdVkyOXRMMEZzZG1sdU9UazVPUzl1WlhjdGNHRmpMM2RwYTJrZzVyU2I1cDJKNTUtMk1WTlRVZw</span></p>
-
-<p><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体;
-font-weight:normal'>SS-Websocket</span></strong><strong><span style='font-family:
-宋体;mso-bidi-font-family:宋体;font-weight:normal'>节点：</span></strong></p>
-
-<p><span lang=EN-US>SS-Websocket</span>节点需要<span lang=EN-US>SS</span>客户端配合<span
-lang=EN-US>v2ray-plugin</span>插件来使用。<span lang=EN-US>v2ray-plugin</span>插件下载地址：<span
-lang=EN-US><a
-href="https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1">https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1</a>
-</span>按照电脑系统下载对应的版本，下载后解压，将解压后的程序放在<span lang=EN-US>Shadowsocks</span>客户端同级目录，并更改名字为<span
-lang=EN-US> v2ray-plugin </span>，打开<span lang=EN-US>Shadowsocks</span>客户端填写下方账号信息，记得插件程序一栏填写<span
-lang=EN-US>v2ray-plugin</span>。</p>
-
-<p><span lang=EN-US>windows</span>系统可以直接下载集合了<span lang=EN-US>v2ray-plugin</span>插件的<span
-lang=EN-US>SS</span>客户端：<span lang=EN-US><a
-href="https://tr201.free4444.xyz/SS-v2ray-plugin-v1.7z"><span lang=EN-US><span
-lang=EN-US>下载地址1</span></span></a> <a
-href="https://tr601.free4444.xyz/SS-v2ray-plugin-v1.7z"><span lang=EN-US><span
-lang=EN-US>下载地址2</span></span></a> </span>下载后解压，启动文件夹中的<span lang=EN-US>Shadowsocks.exe</span>，填写以下<span
-lang=EN-US>SS</span>节点信息即可。</p>
-
-<p>位置 地址 端口 密码 加密方式 插件程序 插件选项<span lang=EN-US><br>
-</span>洛杉矶<span lang=EN-US>2 141.101.114.185 443 dongtaiwang.com aes-256-gcm
-v2ray-plugin tls;host=ss2.v2rayfree1.xyz;path=/4257c86b<br>
+ssr://c3NyLnpodWppY24yLm5ldDozMDA0NDphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9YUhSMGNITTZMeTluYVhSb2RXSXVZMjl0TDBGc2RtbHVPVGs1T1M5dVpYY3RjR0ZqTDNkcGEya2c1clNiNXAySjU1LTJNVk5UVWc</p>
+<p><strong style="font-weight: 400">SS-Websocket节点：</strong></p>
+<p>SS-Websocket节点需要SS客户端配合v2ray-plugin插件来使用。v2ray-plugin插件下载地址：<a href="https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1">https://github.com/shadowsocks/v2ray-plugin/releases/tag/v1.3.1</a> 
+按照电脑系统下载对应的版本，下载后解压，将解压后的程序放在Shadowsocks客户端同级目录，并更改名字为 v2ray-plugin ，打开Shadowsocks客户端填写下方账号信息，记得插件程序一栏填写v2ray-plugin。</p>
+<p>windows系统可以直接下载集合了v2ray-plugin插件的SS客户端：<a rel="nofollow" href="https://tr201.free4444.xyz/SS-v2ray-plugin-v1.7z">下载地址1</a>
+<a rel="nofollow" href="https://tr601.free4444.xyz/SS-v2ray-plugin-v1.7z">下载地址2</a> 
+下载后解压，启动文件夹中的Shadowsocks.exe，填写以下SS节点信息即可。</p>
+<p>位置 地址 端口 密码 加密方式 插件程序 插件选项<br>
+洛杉矶2 108.61.219.237 12728 dongtaiwang.com aes-256-gcm v2ray-plugin host=cloudfront.com;path=/bFJE0;mux=8<br>
 <br>
-SS</span>链接：<span lang=EN-US><br>
+SS链接：<br>
 <br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@141.101.114.185:443/?plugin=v2ray-plugin%3btls%3bhost%3dss2.v2rayfree1.xyz%3bpath%3d%2f4257c86b#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b62</span></p>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@108.61.219.237:12728/?plugin=v2ray-plugin%3bhost%3dcloudfront.com%3bpath%3d%2fbFJE0%3bmux%3d8#www.dongtaiwang.com+%e6%b4%9b%e6%9d%89%e7%9f%b62</p>
+<p><script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
-<p><span lang=EN-US><script  src="https://www.freefq.com/d/js/acmsd/peter13.js">
-</script><script  src="https://www.freefq.com/d/js/acmsd/peter4.js">
-</script></span>　</p>
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>　</p>
+<p>SS客户端<span style="font-weight: 400">下载及使用方法</span></p><font zoompage-fontsize="24" face="宋体">
+<p zoompage-fontsize="24"><font face="宋体">
 
-<p><span lang=EN-US>SS</span>客户端下载及使用方法<span lang=EN-US><o:p></o:p></span></p>
 
-<p zoompage-fontsize=24><span lang=EN-US>SS windows</span>客户端<span lang=EN-US>1</span><span
-zoompage-fontsize=24>：</span><span lang=EN-US><o:p></o:p></span></p>
 
-<p zoompage-fontsize=24><span lang=EN-US><a
-href="https://www.freefq.com/rj/2021/04/28/winXray.html" zoompage-fontsize=24><span
-style='box-sizing: inherit' zoompage-fontsize=16>winXray</span><span
-style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-text-decoration-style: initial;text-decoration-color: initial;float:none;
-word-spacing:0px' zoompage-fontsize=16><span lang=EN-US style='mso-ascii-font-family:
-Ubuntu;mso-hansi-font-family:Ubuntu;background:#FFF4FF'><span lang=EN-US>网站下</span></span><span
-lang=EN-US style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;
-background:#FFF4FF'><span lang=EN-US>载</span></span></span></a></span><span
-style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-text-decoration-style: initial;text-decoration-color: initial;float:none;
-word-spacing:0px' zoompage-fontsize=16><span lang=EN-US style='font-family:
-"Ubuntu","serif";background:#FFF4FF'>|</span></span><span lang=EN-US><a
-href="https://www.mediafire.com/folder/oxslwbt7gtjs2/winXray" target="_blank"
-data-wpel-link=external style='box-sizing: inherit;font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
-word-spacing:0px' zoompage-fontsize=16><span lang=EN-US style='mso-ascii-font-family:
-Ubuntu;mso-hansi-font-family:Ubuntu;text-decoration:none;text-underline:none'><span
-lang=EN-US>网盘备份下载</span></span></a></span><span style='font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
-text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-float:none;word-spacing:0px' zoompage-fontsize=16><span lang=EN-US
-style='font-family:"Ubuntu","serif";background:#FFF4FF'>|</span><span
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;background:
-#FFF4FF'>已被删除：</span></span><span lang=EN-US><a
-href="https://github.com/winXray/winXray/tree/master/release" target="_blank"
-data-wpel-link=external style='box-sizing: inherit;font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
-word-spacing:0px' zoompage-fontsize=16><span lang=EN-US style='mso-ascii-font-family:
-Ubuntu;mso-hansi-font-family:Ubuntu;text-decoration:none;text-underline:none'><span
-lang=EN-US>官方下载</span></span><span style='font-family:"Ubuntu","serif";
-text-decoration:none;text-underline:none'>(2</span><span lang=EN-US
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;text-decoration:
-none;text-underline:none'><span lang=EN-US>合</span></span><span
-style='font-family:"Ubuntu","serif";text-decoration:none;text-underline:none'>1</span><span
-lang=EN-US style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;
-text-decoration:none;text-underline:none'><span lang=EN-US>版</span></span><span
-style='font-family:"Ubuntu","serif";text-decoration:none;text-underline:none'>)</span></a></span><span
-style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-text-decoration-style: initial;text-decoration-color: initial;float:none;
-word-spacing:0px' zoompage-fontsize=16><span style='mso-ascii-font-family:Ubuntu;
-mso-hansi-font-family:Ubuntu;background:#FFF4FF'>（</span></span><span
-lang=EN-US><a
-href="https://github.com/winXray/winXray/tree/master/release/winXray32.7z"
-target="_blank" data-wpel-link=external style='box-sizing: inherit;font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
-word-spacing:0px' zoompage-fontsize=16><span style='font-family:"Ubuntu","serif";
-text-decoration:none;text-underline:none'>32</span><span lang=EN-US
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;text-decoration:
-none;text-underline:none'><span lang=EN-US>位版</span></span></a></span><span
-style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-text-decoration-style: initial;text-decoration-color: initial;float:none;
-word-spacing:0px' zoompage-fontsize=16><span style='mso-ascii-font-family:Ubuntu;
-mso-hansi-font-family:Ubuntu;background:#FFF4FF'>、</span></span><span
-lang=EN-US><a
-href="https://github.com/winXray/winXray/tree/master/release/winXray.7z"
-target="_blank" data-wpel-link=external style='box-sizing: inherit;font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
-word-spacing:0px' zoompage-fontsize=16><span style='font-family:"Ubuntu","serif";
-text-decoration:none;text-underline:none'>64</span><span lang=EN-US
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;text-decoration:
-none;text-underline:none'><span lang=EN-US>位版</span></span></a></span><span
-style='font-variant-ligatures: normal;font-variant-caps: normal;orphans: 2;
-text-align:start;widows: 2;-webkit-text-stroke-width: 0px;text-decoration-thickness: initial;
-text-decoration-style: initial;text-decoration-color: initial;float:none;
-word-spacing:0px' zoompage-fontsize=16><span style='mso-ascii-font-family:Ubuntu;
-mso-hansi-font-family:Ubuntu;background:#FFF4FF'>）</span></span><span
-lang=EN-US><o:p></o:p></span></p>
+SS
 
-<p zoompage-fontsize=24><b zoompage-fontsize=24>使用方法简介：<span style='font-variant-ligatures: normal;
-font-variant-caps: normal;orphans: 2;text-align:start;widows: 2;-webkit-text-stroke-width: 0px;
-text-decoration-thickness: initial;text-decoration-style: initial;text-decoration-color: initial;
-float:none;word-spacing:0px' zoompage-fontsize=16></b><b><span
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;background:
-white'>首先打开</span></b><b><span lang=EN-US style='font-family:"Ubuntu","serif";
-background:white'>winXray</span></b><b><span style='mso-ascii-font-family:Ubuntu;
-mso-hansi-font-family:Ubuntu;background:white'>客户端，在</span></b><b><span
-lang=EN-US style='font-family:"Ubuntu","serif";background:white'>“</span></b><b><span
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;background:
-white'>首页</span></b><b><span lang=EN-US style='font-family:"Ubuntu","serif";
-background:white'>”</span></b><b><span style='mso-ascii-font-family:Ubuntu;
-mso-hansi-font-family:Ubuntu;background:white'>右侧列表的任意位置点击鼠标右键，选择</span></b><b><span
-lang=EN-US style='font-family:"Ubuntu","serif";background:white'>“</span></b><b><span
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;background:
-white'>自剪贴板批量导入分享链接和订阅源</span></b><b><span lang=EN-US style='font-family:"Ubuntu","serif";
-background:white'>”</span></b><b><span style='mso-ascii-font-family:Ubuntu;
-mso-hansi-font-family:Ubuntu;background:white'>，稍等片刻即可添加成功，这时候</span></b><b><span
-lang=EN-US style='font-family:"Ubuntu","serif";background:white'>winXray</span></b><b><span
-style='mso-ascii-font-family:Ubuntu;mso-hansi-font-family:Ubuntu;background:
-white'>会自动连接延迟最低的节点，你也可以手动双击某个节点使用特定的服务器线路节点。</span></span></b></p>
+</font>
 
-<h2><span style='font-size:12.0pt'>其他<span lang=EN-US>V2ray/SSR</span>安卓苹果手机<span
-lang=EN-US>/</span>电脑客户端下载</span></h2>
-
-<h3><span lang=EN-US style='font-size:12.0pt'>V2Ray</span><span
-style='font-size:12.0pt'>客户端下载</span></h3>
-
-<p>最新版<span lang=EN-US>V2ray Windows</span>客户端、<span lang=EN-US>V2ray</span>安卓客户端、苹果电脑<span
-lang=EN-US>V2ray MacOS</span>客户端和苹果手机<span lang=EN-US>V2ray iOS</span>客户端以及<span
-lang=EN-US>V2ray Linux</span>客户端下载链接也一并送上。</p>
-
-<h4><span lang=EN-US>Windows7/8/10-<strong><span style='font-family:宋体;
-mso-bidi-font-family:宋体'>V2ray WinPC</span></strong></span><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>电脑客户端</span></strong>程序下载<span
-lang=EN-US><o:p></o:p></span></h4>
-
-<table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:1.5pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><figure class="wp-block-table alignwide is-style-stripes">V2rayN</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/2dust/v2rayN/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>V2rayW</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/Cenmrev/V2RayW/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>Clash</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/Fndroid/clash_for_windows_pkg/releases"
-  target="_blank"><span lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>V2rayS</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/Shinlor/V2RayS/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:4'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>Mellow</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/mellow-io/mellow/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:5;mso-yfti-lastrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>Qv2ray</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a href="https://github.com/Qv2ray/Qv2ray"
-  target="_blank"><span lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
+windows客户端1<span zoompage-fontsize="24" lang="zh-cn">：</span></p>
+<font face="宋体"><font zoompage-fontsize="24" face="宋体">
+<p zoompage-fontsize="24" align="left">
+<a zoompage-fontsize="24" href="https://www.freefq.com/rj/2021/04/28/winXray.html">
+<span style="box-sizing: inherit; font-size: 12pt" zoompage-fontsize="16">
+winXray</span><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">网站下载</span></a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">|</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://www.mediafire.com/folder/oxslwbt7gtjs2/winXray">网盘备份下载</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">|已被删除：</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://github.com/winXray/winXray/tree/master/release">官方下载(2合1版)</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">（</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://github.com/winXray/winXray/tree/master/release/winXray32.7z">32位版</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">、</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://github.com/winXray/winXray/tree/master/release/winXray.7z">64位版</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">）</span></p>
+<p zoompage-fontsize="24" align="left"><b zoompage-fontsize="24">使用方法简介：<span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 255, 255)" zoompage-fontsize="16">首先打开winXray客户端，在“首页”右侧列表的任意位置点击鼠标右键，选择“自剪贴板批量导入分享链接和订阅源”，稍等片刻即可添加成功，这时候winXray会自动连接延迟最低的节点，你也可以手动双击某个节点使用特定的服务器线路节点。</span></b></p>
+</font>
+<h2><font size="3">其他V2ray/SSR安卓苹果手机/电脑客户端下载</font></h2>
+<h3><font size="3">V2Ray客户端下载</font></h3>
+<p>最新版V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray 
+Linux客户端下载链接也一并送上。</p>
+<h4>Windows7/8/10-<strong>V2ray WinPC电脑客户端</strong>程序下载</h4>
+<figure class="wp-block-table alignwide is-style-stripes">
+<table>
+	<tr>
+		<td>V2rayN下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/2dust/v2rayN/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>V2rayW下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Cenmrev/V2RayW/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>Clash下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>V2rayS下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Shinlor/V2RayS/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>Mellow下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/mellow-io/mellow/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>Qv2ray下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Qv2ray/Qv2ray">
+		官网下载</a></td>
+	</tr>
 </table>
-
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'></figure>Android/</span></strong><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>小米<span lang=EN-US>MIUI/</span>华为<span
-lang=EN-US>EMUI-V2ray</span>安卓手机客户端</span></strong><span lang=EN-US>Apk</span>程序下载<span
-lang=EN-US><o:p></o:p></span></h4>
-
-<table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:1.5pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><figure class="wp-block-table alignwide is-style-stripes">V2rayNG</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/2dust/v2rayNG/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>BifrostV</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk"
-  target="_blank"><span lang=EN-US><span lang=EN-US>市场下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>Clash</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:3;mso-yfti-lastrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>Kitsunebi</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android"
-  target="_blank"><span lang=EN-US><span lang=EN-US>市场下载</span></span></a></span></p>
-  </td>
- </tr>
+</figure>
+<h4><strong>Android/小米MIUI/华为EMUI-V2ray安卓手机客户端</strong>Apk程序下载</h4>
+<figure class="wp-block-table alignwide is-style-stripes">
+<table>
+	<tr>
+		<td>V2rayNG下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/2dust/v2rayNG/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>BifrostV下载</td>
+		<td>
+		<a rel="noreferrer noopener" target="_blank" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk">
+		市场下载</a></td>
+	</tr>
+	<tr>
+		<td>Clash下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Kr328/ClashForAndroid/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>Kitsunebi下载</td>
+		<td>
+		<a rel="noreferrer noopener" target="_blank" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android">
+		市场下载</a></td>
+	</tr>
 </table>
-
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'></figure>MacOS-V2ray
-</span></strong><strong><span style='font-family:宋体;mso-bidi-font-family:宋体'>苹果电脑客户端</span></strong>程序下载<span
-lang=EN-US><o:p></o:p></span></h4>
-
-<table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:1.5pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><figure class="wp-block-table alignwide is-style-stripes">V2rayU</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/yanue/V2rayU/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>V2rayX</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/Cenmrev/V2RayX/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>ClashX</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/yichengchen/clashX/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
+</figure>
+<h4><strong>MacOS-V2ray 苹果电脑客户端</strong>程序下载</h4>
+<figure class="wp-block-table alignwide is-style-stripes">
+<table>
+	<tr>
+		<td>V2rayU下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/yanue/V2rayU/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>V2rayX下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Cenmrev/V2RayX/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>ClashX下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/yichengchen/clashX/releases">
+		官网下载</a></td>
+	</tr>
 </table>
-
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'></figure>Linux</span></strong><span
-lang=EN-US>–<strong><span style='font-family:宋体;mso-bidi-font-family:宋体'>V2ray
-Ubuntu/Centos</span></strong></span><strong><span style='font-family:宋体;
-mso-bidi-font-family:宋体'>电脑客户端</span></strong>程序下载<span lang=EN-US><o:p></o:p></span></h4>
-
-<table class=MsoNormalTable border=0 cellpadding=0 style='mso-cellspacing:1.5pt;
- mso-yfti-tbllook:1184'>
- <tr style='mso-yfti-irow:0;mso-yfti-firstrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><figure class="wp-block-table alignwide is-style-stripes">Qv2ray</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a href="https://github.com/Qv2ray/Qv2ray"
-  target="_blank"><span lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:1'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>Mellow</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/mellow-io/mellow/releases" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-  </td>
- </tr>
- <tr style='mso-yfti-irow:2;mso-yfti-lastrow:yes'>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US>V2rayL</span>下载</p>
-  </td>
-  <td style='padding:.75pt .75pt .75pt .75pt'>
-  <p class=MsoNormal><span lang=EN-US><a
-  href="https://github.com/jiangxufeng/v2rayL" target="_blank"><span
-  lang=EN-US><span lang=EN-US>官方安装文档</span></span></a></span></p>
-  </td>
- </tr>
+</figure>
+<h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos电脑客户端</strong>程序下载</h4>
+<figure class="wp-block-table alignwide is-style-stripes">
+<table>
+	<tr>
+		<td>Qv2ray下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Qv2ray/Qv2ray">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>Mellow下载</td>
+		<td>
+		<a target="_blank" rel="noreferrer noopener" href="https://github.com/mellow-io/mellow/releases">
+		官网下载</a></td>
+	</tr>
+	<tr>
+		<td>V2rayL下载</td>
+		<td>
+		<a rel="noreferrer noopener" target="_blank" href="https://github.com/jiangxufeng/v2rayL">
+		官方安装文档</a></td>
+	</tr>
 </table>
-
-<h4><span lang=EN-US></figure>iOS-<strong><span style='font-family:宋体;
-mso-bidi-font-family:宋体'>V2ray</span></strong></span><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>苹果手机客户端<span lang=EN-US>App</span>程序</span></strong>下载</h4>
-
-<p>苹果<span lang=EN-US>AppStore</span>市场里还没有免费的<span lang=EN-US>V2ray iOS</span>客户端，付费的<span
-lang=EN-US>app</span>目前有小火箭<span lang=EN-US>Shadowrocket</span>、<span
-lang=EN-US>pepi</span>、<span lang=EN-US>i2Ray</span>、<span lang=EN-US>Kitsunebi</span>和<span
-lang=EN-US>Quantumult</span>（圈儿，圈叉）可用。</p>
-
-<h3><span lang=EN-US style='font-size:12.0pt'>ShadowsocksR/SSR</span><span
-style='font-size:12.0pt'>客户端下载</span></h3>
-
-<p><span lang=EN-US>ShadowsocksR</span>简称<span lang=EN-US>SSR</span>，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。</p>
-
-<p>整理了最新版<span lang=EN-US>SSR Windows</span>客户端、<span lang=EN-US>SSR</span>安卓客户端、苹果电脑<span
-lang=EN-US>SSR MacOS</span>客户端和苹果手机<span lang=EN-US>SSR iOS</span>客户端的下载地址分享给大家。</p>
-
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'>Windows7/8/10-SSR</span></strong><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>小飞机<span lang=EN-US> WinPC</span>电脑客户端程序下载</span></strong></h4>
-
-<p><span lang=EN-US><a
-href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases"
-target="_blank"><span lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'>Android/</span></strong><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>小米<span lang=EN-US>MIUI/</span>华为<span
-lang=EN-US>EMUI-SSR</span>小飞机 安卓手机客户端<span lang=EN-US>Apk</span>程序下载</span></strong></h4>
-
-<p><span lang=EN-US><a
-href="https://github.com/shadowsocksrr/shadowsocksr-android/releases"
-target="_blank"><span lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-
-<p><span lang=EN-US><br>
-ssr</span>安卓客户端<span lang=EN-US>apk</span>下载<span lang=EN-US><a
-href="https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html">https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html</a></span>安装后，可直接点击下面的<span
-lang=EN-US>ssr</span>节点链接实现翻墙，<span lang=EN-US>windows</span>客户端则要复制该<span
-lang=EN-US>ssr</span>节点链接后使用<span lang=EN-US>ssr</span>右键<span lang=EN-US>→</span>剪贴板批量导入<span
-lang=EN-US>ssr://</span>链接。<span lang=EN-US> <br>
+</figure>
+<h4>iOS-<strong>V2ray苹果手机客户端App程序</strong>下载</h4>
+<p>苹果AppStore市场里还没有免费的V2ray iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。</p>
+<h3><font size="3">ShadowsocksR/SSR客户端下载</font></h3>
+<p>ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。</p>
+<p>整理了最新版SSR Windows客户端、SSR安卓客户端、苹果电脑SSR MacOS客户端和苹果手机SSR iOS客户端的下载地址分享给大家。</p>
+<h4><strong>Windows7/8/10-SSR小飞机 WinPC电脑客户端程序下载</strong></h4>
+<p>
+<a rel="noreferrer noopener" target="_blank" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">
+官网下载</a></p>
+<h4><strong>Android/小米MIUI/华为EMUI-SSR小飞机 安卓手机客户端Apk程序下载</strong></h4>
+<p>
+<a rel="noreferrer noopener" target="_blank" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">
+官网下载</a></p>
+<p>
 <br>
-</span>方法简介：<span lang=EN-US>CTRL+A</span>全选本页面，<span lang=EN-US>CTRL+C</span>复制，右键点击<span
-lang=EN-US>ssr</span>客户端的图标，左键点击剪贴板批量导入<span lang=EN-US>ssr://</span>链接，即可一键导入本文件所有<span
-lang=EN-US>ssr</span>节点。</p>
+ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html">https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html</a>安装后，可直接点击下面的ssr节点链接实现翻墙，windows客户端则要复制该ssr节点链接后使用ssr右键→剪贴板批量导入ssr://链接。 
+<br>
+<br>
+方法简介：CTRL+A全选本页面，CTRL+C复制，右键点击ssr客户端的图标，左键点击剪贴板批量导入ssr://链接，即可一键导入本文件所有ssr节点。<p>
+　</p>
+<h4><strong>MacOS-SSR小飞机 苹果电脑客户端程序下载</strong></h4>
+<p>
+<a target="_blank" rel="noreferrer noopener" href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">
+官网下载</a></p>
+<h4><strong>iOS-SSR小飞机 苹果手机客户端App程序</strong>下载</h4>
+<p>iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。</p>
+<h2><font size="3">Clash、SS等客户端订阅地址一键转换：</font></h2>
+<p>SS/SSR/V2ray客户端若无法直接使用SSR节点链接，用下面链接的工具转换成订阅地址后，SSR/SSD/Surge/Quantum/Surfboard/Loon等手机、电脑的客户端就可以使用了：</p>
+<p>
+<a target="_blank" rel="noreferrer noopener nofollow" href="https://acl4ssr-sub.github.io">
+https://acl4ssr-sub.github.io</a></p>
+</font>
+</font><p>
+其他<font face="宋体">客户端<span lang="zh-cn">下载：</span></font></p>
+<p>
+<a href="https://shadowsocks.org/en/download/clients.html">
+https://shadowsocks.org/en/download/clients.html</a> </p>
+<p>
+<br>
+　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
-<p>　</p>
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'>MacOS-SSR</span></strong><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>小飞机 苹果电脑客户端程序下载</span></strong></h4>
+</font>
 
-<p><span lang=EN-US><a
-href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank"><span
-lang=EN-US><span lang=EN-US>官网下载</span></span></a></span></p>
-
-<h4><strong><span lang=EN-US style='font-family:宋体;mso-bidi-font-family:宋体'>iOS-SSR</span></strong><strong><span
-style='font-family:宋体;mso-bidi-font-family:宋体'>小飞机 苹果手机客户端<span lang=EN-US>App</span>程序</span></strong>下载</h4>
-
-<p><span lang=EN-US>iPhone</span>或者<span lang=EN-US>iPad</span>打开苹果<span
-lang=EN-US>App Store</span>，搜索<span lang=EN-US>Mume(</span>暮梅<span lang=EN-US>)</span>、<span
-lang=EN-US>Potatso Lite</span>、<span lang=EN-US>FastSocks</span>、<span
-lang=EN-US>Shadowrocket</span>（小火箭）。</p>
-
-<h2><span lang=EN-US style='font-size:12.0pt'>Clash</span><span
-style='font-size:12.0pt'>、<span lang=EN-US>SS</span>等客户端订阅地址一键转换：</span></h2>
-
-<p><span lang=EN-US>SS/SSR/V2ray</span>客户端若无法直接使用<span lang=EN-US>SSR</span>节点链接，用下面链接的工具转换成订阅地址后，<span
-lang=EN-US>SSR/SSD/Surge/Quantum/Surfboard/Loon</span>等手机、电脑的客户端就可以使用了：</p>
-
-<p><span lang=EN-US><a href="https://acl4ssr-sub.github.io" target="_blank">https://acl4ssr-sub.github.io</a></span></p>
-
-<p>其他客户端下载：</p>
-
-<p><span lang=EN-US><a href="https://shadowsocks.org/en/download/clients.html">https://shadowsocks.org/en/download/clients.html</a>
-</span></p>
-
-<p><span lang=EN-US><br>
-Free SS </span>免费<span lang=EN-US>SS</span>账号所有数据均来自互联网，更新时间：<span lang=EN-US>2022-10-17
-12:35:55<script  src="https://www.freefq.com/d/js/acmsd/peter4.js">
-</script></span></p>
-
-<p class=MsoNormal>　<span lang=EN-US><script  src="https://www.freefq.com/d/js/acmsd/peter13.js">
-</script> <script  src="https://www.freefq.com/d/js/acmsd/peter4.js">
-</script></span></p>
-
-</div>
+</p>
 
 </body>
 
 </html>
+
