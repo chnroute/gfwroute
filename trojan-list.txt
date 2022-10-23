@@ -1,1 +1,5 @@
-trojan://366adaec-cddf-4cb5-98ca-a47d173918ae@ea1.bafang.vip:10022#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://182228812d1e0f23@120.241.144.204:3381?allowInsecure=1#%E4%B8%AD%E5%9B%BD
+trojan://182228812d1e0f23@116.129.253.191:3384?allowInsecure=1#%E4%B8%AD%E5%9B%BD
+trojan://182228812d1e0f23@116.129.254.29:3385?allowInsecure=1&amp;sni=116.129.254.29#%E4%B8%AD%E5%9B%BD
+trojan://FlXNBKaL@node-do-us-114514.gitspeed.cyou:443#%E7%BE%8E%E5%9B%BD%20%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%20North%20Bergen
+trojan://182228812d1e0f23@106.75.173.173:3389?allowInsecure=1&amp;sni=106.75.173.173#%E4%B8%AD%E5%9B%BD
