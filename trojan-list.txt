@@ -1,5 +1,6 @@
-trojan://182228812d1e0f23@120.241.144.204:3381?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://182228812d1e0f23@116.129.253.191:3384?allowInsecure=1#%E4%B8%AD%E5%9B%BD
-trojan://182228812d1e0f23@116.129.254.29:3385?allowInsecure=1&amp;sni=116.129.254.29#%E4%B8%AD%E5%9B%BD
-trojan://FlXNBKaL@node-do-us-114514.gitspeed.cyou:443#%E7%BE%8E%E5%9B%BD%20%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%20North%20Bergen
-trojan://182228812d1e0f23@106.75.173.173:3389?allowInsecure=1&amp;sni=106.75.173.173#%E4%B8%AD%E5%9B%BD
+trojan://24913fd0-a94b-4ed9-9b0e-fddb06af63d3@117.164.185.222:11001?allowInsecure=1&amp;peer=65-108-102-32.nhost.00cdn.com&amp;tfo=1#%E4%B8%AD%E5%9B%BD
+trojan://05115a9b-067c-3cfa-9d8a-c696c3fc5660@223.111.202.148:19225#%E4%B8%AD%E5%9B%BD
+trojan://Sp3eDVp@51.77.71.131:443?allowInsecure=1#%E6%B3%95%E5%9B%BD
+trojan://28bccca2-43d2-47f8-bd63-b1361ce7d362@ussj.iamnotagoodman.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://28bccca2-43d2-47f8-bd63-b1361ce7d362@kh.iamnotagoodman.com:443#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://28bccca2-43d2-47f8-bd63-b1361ce7d362@de.iamnotagoodman.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
