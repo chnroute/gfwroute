@@ -1,3 +1,3 @@
-trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E5%8F%B0%E6%B9%BE
+trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E5%BE%B7%E5%9B%BD%20%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%20Salzgitter
 trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw02.tfzhc.top:443#%E5%8F%B0%E6%B9%BE
-trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E5%8F%B0%E6%B9%BE
+trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E5%BE%B7%E5%9B%BD%20%E4%B8%8B%E8%90%A8%E5%85%8B%E6%A3%AE%20Salzgitter
