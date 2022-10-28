@@ -1,3 +1,3 @@
-trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E5%8F%B0%E6%B9%BE
+trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E7%BE%8E%E5%9B%BD%20Kansas%20Macksville
 trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw02.tfzhc.top:443#%E5%8F%B0%E6%B9%BE
-trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E5%8F%B0%E6%B9%BE
+trojan://01e80e00-2f18-47ea-8c2f-7dbc5b57b71f@1024tw03.tfzhc.top:443#%E7%BE%8E%E5%9B%BD%20Kansas%20Macksville
