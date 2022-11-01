@@ -1,1 +1,1 @@
-trojan://275d9aa8-b271-43d1-b1cf-1f3e6e881047@zf1.windowsupdate1.com:50080?peer=glc.hruqoaw.cn&amp;tfo=1#%E9%9F%A9%E5%9B%BD%20Incheon%20%E4%BB%81%E5%B7%9D%E5%B9%BF%E5%9F%9F%E5%B8%82
+trojan://5c777277-17f2-4272-ae65-7bd00fa4fbaa@ap-northeast.6641634715834932.me:443?allowInsecure=1&amp;sni=wel-tw.optage.moe#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
