@@ -1,2 +1,1 @@
-trojan://NqYpxKxB8A5jnDaISe834lAOaTwEOYzCeSD7CSZyFa0C3ypcR2F9XD3ug36lZR@45.64.22.55:443?allowInsecure=1&amp;sni=pbvre.freetrade.link#%E6%BE%B3%E9%97%A8
-trojan://4456b502-fe61-4be7-a969-aa37d924dbd2@jp1.sanfen001.pics:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://66bee8fa-56a6-4108-92ec-d4a0900270cb@jp1.sanfen001.pics:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
