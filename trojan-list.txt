@@ -1,2 +1,2 @@
-trojan://4f280b94-f83d-4080-a147-9324e45351fa@jp1111.tfzhc.top:80#%E9%98%BF%E8%81%94%E9%85%8B%20Dubai%20%E8%BF%AA%E6%8B%9C
+trojan://4f280b94-f83d-4080-a147-9324e45351fa@jp1111.tfzhc.top:80#%E7%BE%8E%E5%9B%BD%20Colorado%20%E4%B8%B9%E4%BD%9B
 trojan://81d93f62-15a2-4994-adb9-0b5d906aac7e@60.72img.xyz:443#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
