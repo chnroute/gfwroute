@@ -5,11 +5,11 @@ trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top
 trojan://tg%E8%89%BE%E7%89%B9herhr6@dj.mv66.tk:8080#%E6%9C%AA%E7%9F%A5
 trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
 trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20005?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@sg.liangyuandian.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@jp.liangyuandian.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@sg.liangyuandian.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@jp.liangyuandian.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@sg02.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@jp01.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@usa.liangyuandian.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@usa.liangyuandian.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@de01.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@my01.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://80e94af6-e42a-4dbc-8f4b-c5f99bf97d3d@jp1.sanfen001.pics:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC

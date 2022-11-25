@@ -10,11 +10,11 @@ trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:443#%E9%9F%A9%E5%
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIEtvd2xvb24gQ2l0eSBcdTYxMGZcdTZjZDVcdTUzNGEiLCAiYWRkIjogIjIxOS43Ni4xMy4xNjkiLCAicG9ydCI6ICI0NDMiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjgxZDkzZjYyLTE1YTItNDk5NC1hZGI5LTBiNWQ5MDZhYWM3ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgImhvc3QiOiAidGd1bml2c3Rhci4xNjgtMTM4LTk0LTE5NC5zc2xpcC5pbyIsICJ0bHMiOiAidGxzIn0=
 trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20005?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
 vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU2ZmIzXHU5NWU4IiwgImFkZCI6ICI0NS42NC4yMi41NSIsICJwb3J0IjogIjQ0MyIsICJ0eXBlIjogIm5vbmUiLCAiaWQiOiAiMTE5NzMyMWMtZWI1OS00MTU5LTk1OWYtNWQ4MWY1M2MxNzkyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi8iLCAiaG9zdCI6ICJoMS44MDA4NzYueHl6IiwgInRscyI6ICJ0bHMifQ==
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@sg.liangyuandian.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@jp.liangyuandian.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@sg.liangyuandian.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@jp.liangyuandian.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@sg02.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@jp01.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@usa.liangyuandian.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@usa.liangyuandian.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@de01.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 vmess://eyJhZGQiOiAiMTQ0LjEyNi4yMTQuMjE4IiwgImFpZCI6IDAsICJob3N0IjogIiIsICJpZCI6ICIyNzU3ZmQ2Mi1mY2YwLTQ5NDYtOWI0Ni0xYjY5Nzc0MTU3NWIiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL20xIiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTdmOGVcdTU2ZmQgXHU1MmEwXHU1ZGRlIFx1NTcyM1x1NTE0Ylx1NjJjOVx1NjJjOSIsICJ0bHMiOiAidGxzIiwgInR5cGUiOiAiYXV0byIsICJzZWN1cml0eSI6ICJhdXRvIiwgInNraXAtY2VydC12ZXJpZnkiOiB0cnVlLCAic25pIjogIiJ9
 trojan://7f9ef59e-20fb-4343-bafc-3a84fa22fe70@my01.awcloud.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
