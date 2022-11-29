@@ -1,6 +1,6 @@
 trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20054?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
 trojan://6938D15E-3DFD-2697-C761-96BA3E33E402@cos-ap-beijing.westdatacloud.xyz:20052?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
 trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20056?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20001?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20001?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD%20%E5%B9%BF%E4%B8%9C%20%E5%B9%BF%E5%B7%9E%E5%B8%82
 trojan://ZRYSly2IRuFlgpZCaep3Ey3DDXqTDczO04aeC8F36OjaYSCABnA573wN8xxK9S@121.78.213.3:443?allowInsecure=1&amp;sni=httah.freetrade.link#%E9%9F%A9%E5%9B%BD
-trojan://b345cf5c-a24f-468e-b110-0011a134cd47@tw1111.tfzhc.top:443#%E6%84%8F%E5%A4%A7%E5%88%A9%20%E6%8B%89%E9%BD%90%E5%A5%A5%20%E7%BD%97%E9%A9%AC%E5%B8%82
+trojan://b345cf5c-a24f-468e-b110-0011a134cd47@tw1111.tfzhc.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
