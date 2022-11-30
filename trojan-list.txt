@@ -2,7 +2,7 @@ trojan://F3CSSRxD8uljgF73IAn34C3aE9wSqAzZDp5ZOCpxDBRacNYelOYayKTe826Xy0@219.76.1
 trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kiev.ua:2053?allowInsecure=1#%E4%B8%AD%E5%9B%BD%20%E4%B8%8A%E6%B5%B7%20%E4%B8%8A%E6%B5%B7
 trojan://6938D15E-3DFD-2697-C761-96BA3E33E402@cos-ap-beijing.westdatacloud.xyz:20052?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
 trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-beijing.westdatacloud.top:20067?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20016?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20004?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
-trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20025?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20016?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD%20%E5%B9%BF%E4%B8%9C%20%E5%B9%BF%E5%B7%9E%E5%B8%82
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20004?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD%20%E5%B9%BF%E4%B8%9C%20%E5%B9%BF%E5%B7%9E%E5%B8%82
+trojan://4153A805-9312-11F8-03C5-760C234B5394@cos-ap-guangzhou.westdatacloud.top:20025?allowInsecure=1&amp;sni=v12.kwaicdn.com#%E4%B8%AD%E5%9B%BD%20%E5%B9%BF%E4%B8%9C%20%E5%B9%BF%E5%B7%9E%E5%B8%82
 trojan://28efc0b0-4158-4c6e-9b91-13158a8e989a@95.85.94.60:19540?allowInsecure=1&amp;sni=jp2.qq.com#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
