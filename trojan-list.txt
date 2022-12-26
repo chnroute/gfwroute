@@ -1,1 +1,1 @@
-trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://3628ca8d-6371-45df-879c-2d3e5d110b51@sfo.iqmtp.live:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E5%9C%A3%E5%85%8B%E6%8B%89%E6%8B%89
