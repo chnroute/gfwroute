@@ -1,2 +1,1 @@
-trojan://f52e6827-d087-3fd0-9c66-ef87874c69ba@supsig.xiaohouzi.club:10102#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
+trojan://211f5876-8c89-4d97-9004-ff16acddd506@uk1.trojanvh.xyz:80#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
