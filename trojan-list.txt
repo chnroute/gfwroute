@@ -1,3 +1,1 @@
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trhl.ballistics.top:443#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trfg.ballistics.top:443#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443#%E7%BE%8E%E5%9B%BD%20%E6%96%B0%E6%B3%BD%E8%A5%BF%E5%B7%9E%20North%20Bergen
+trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trxjp.ballistics.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
