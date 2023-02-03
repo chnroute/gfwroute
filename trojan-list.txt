@@ -1,3 +1,1 @@
-trojan://392f8755-75e7-481e-927e-0f3aae34234e@smtp.lemail.cloud:443#%E6%B3%95%E5%9B%BD
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trld.ballistics.top:443#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
-trojan://f52e6827-d087-3fd0-9c66-ef87874c69ba@hn.xiaohouzi.club:14185?security=tls&amp;sni=hn.xiaohouzi.club&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
+trojan://255c924c-1314-4084-9a9e-1d1a82a5cf49@us2.trojanvh.xyz:80#%E7%BE%8E%E5%9B%BD
