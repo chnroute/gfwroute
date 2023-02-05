@@ -3,3 +3,4 @@ trojan://619b63c5-0a96-4ec6-bfc5-aa6e8909325f@hkmax01.170203.xyz:443#%E9%A6%99%E
 trojan://619b63c5-0a96-4ec6-bfc5-aa6e8909325f@hkmax10.170203.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://3d81e6fb-c7f0-4791-af2e-82c93d149483@meidi.htvviru.top:3453#%E6%9C%AA%E7%9F%A5
 trojan://passwd@ru.happa.cf:443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
+trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@us2.trojanvh.xyz:80#%E7%BE%8E%E5%9B%BD
