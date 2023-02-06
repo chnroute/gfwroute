@@ -5,3 +5,4 @@ trojan://1f3f5b8a-be41-4a92-9b90-6473702aaa3b@hkmax01.170203.xyz:443#%E9%A6%99%E
 trojan://3d81e6fb-c7f0-4791-af2e-82c93d149483@meiguo.htvviru.top:671#%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E
 trojan://4cfb5b98-5a9d-4c6d-8911-25deca297fa1@air-chuncheon24.900513.xyz:7758#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443#%E6%B3%95%E5%9B%BD
+trojan://011eb011-c68e-4f92-80eb-f9bbef707bef@us2.trojanvh.xyz:80#%E7%BE%8E%E5%9B%BD
