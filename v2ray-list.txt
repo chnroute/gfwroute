@@ -13,7 +13,7 @@ trojan://4cfb5b98-5a9d-4c6d-8911-25deca297fa1@air-Phoenix13.900513.xyz:7528#%E7%
 trojan://4cfb5b98-5a9d-4c6d-8911-25deca297fa1@air-osaka24.900513.xyz:7758#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://1f3f5b8a-be41-4a92-9b90-6473702aaa3b@hkmax01.170203.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 vmess://eyJhZGQiOiAiMTczLjI0NS40OS44IiwgImFpZCI6ICIwIiwgImFscG4iOiAiIiwgImhvc3QiOiAiemh1eW9uZy5odWNsb3VkLWRucy54eXoiLCAiaWQiOiAiOWExOGNiYjEtODFkMi00NzIwLTlmMDktNDZlYTI3NmI2ZGRiIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9odWh1YmxvZyIsICJwb3J0IjogIjQ0MyIsICJwcyI6ICJcdTZjZDVcdTU2ZmQgXHUwMGNlbGUtZGUtRnJhbmNlIFx1NWRmNFx1OWVjZSIsICJzY3kiOiAiYXV0byIsICJzbmkiOiAiemh1eW9uZy5odWNsb3VkLWRucy54eXoiLCAidGxzIjogInRscyIsICJ0eXBlIjogIiIsICJ2IjogIjIifQ==
-trojan://3d81e6fb-c7f0-4791-af2e-82c93d149483@meiguo.htvviru.top:671#%E7%BE%8E%E5%9B%BD%20%E5%8D%8E%E7%9B%9B%E9%A1%BF%E5%B7%9E
+trojan://3d81e6fb-c7f0-4791-af2e-82c93d149483@meiguo.htvviru.top:671#%E6%9C%AA%E7%9F%A5
 trojan://4cfb5b98-5a9d-4c6d-8911-25deca297fa1@air-chuncheon24.900513.xyz:7758#%E9%9F%A9%E5%9B%BD%20Gangwon-do%20%E6%98%A5%E5%B7%9D%E5%B8%82
 vmess://eyJhZGQiOiAiMTg1LjE2Mi4yMjguMjI4IiwgImFpZCI6IDAsICJob3N0IjogImxnMS50cnVtcDIwMjMudXMiLCAiaWQiOiAiNDBkNDk2YTYtY2VlYi00MDk2LWJhZWItNGNjNTJiMjA1NjIxIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9FQ1RDSjBERiIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU0ZTlhXHU3ZjhlXHU1YzNjXHU0ZTlhIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=
 trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@upload.soft98.download:443#%E6%B3%95%E5%9B%BD
