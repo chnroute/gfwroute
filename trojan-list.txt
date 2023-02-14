@@ -1,1 +1,2 @@
 trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:27482?security=tls&amp;sni=hnm.xiaohouzi.club&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
+trojan://OwXaiuJi7H@r5.safyno.tk:32935#%E6%B3%95%E5%9B%BD
