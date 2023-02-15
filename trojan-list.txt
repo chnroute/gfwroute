@@ -2,3 +2,4 @@ trojan://telegram-id-privatevpns@13.49.77.71:22222?type=tcp&amp;security=tls&amp
 trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
 trojan://4d111af8-5078-37e0-a583-34155f60b32c@phxv001.jd0001.top:44302#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
 trojan://211f5876-8c89-4d97-9004-ff16acddd506@uk1.trojanvh.xyz:80#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
+trojan://OwXaiuJi7H@r5.safyno.tk:32935#%E6%B3%95%E5%9B%BD
