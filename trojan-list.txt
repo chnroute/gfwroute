@@ -1,1 +1,2 @@
-trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@222.219.135.41:19204?type=tcp&amp;security=tls&amp;allowInsecure=1#%E4%B8%AD%E5%9B%BD
+trojan://d0dc5f19-5854-4cb7-8e7e-4c8336dbcfb3@s-hk01.aikun.online:10000?allowInsecure=1&amp;peer=s-hk01.aikun.online&amp;tfo=1#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&amp;sni=hn.xiaohouzi.club&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
