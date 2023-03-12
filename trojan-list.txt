@@ -1,1 +1,2 @@
-trojan://94660920-baaa-11ed-b236-205c6d5f5d78@asia1.oceis.net:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@106.225.132.4:19249?type=tcp&amp;security=tls&amp;allowInsecure=1#%E4%B8%AD%E5%9B%BD%20%E6%B1%9F%E8%A5%BF%20%E5%8D%97%E6%98%8C
+trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@222.219.135.41:19249?type=tcp&amp;security=tls&amp;allowInsecure=1#%E4%B8%AD%E5%9B%BD
