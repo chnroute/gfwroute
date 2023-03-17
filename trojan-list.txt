@@ -1,2 +1,1 @@
-trojan://jpgcp@35.221.86.68:443?allowInsecure=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://6bb546f2-5528-31b2-8d8e-cf1eed4076a0@phxv002.jd0001.top:44303#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
+trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou:12346?allowInsecure=1&amp;sni=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou#%E4%B8%AD%E5%9B%BD
