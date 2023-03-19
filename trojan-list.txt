@@ -1,1 +1,2 @@
 trojan://7462165c-5852-486c-bc30-1afc2df05f5a@amazon-hk03.syjd.xyz:3002?allowInsecure=1&amp;peer=amazon-hk03.syjd.xyz&amp;tfo=1#%E9%A6%99%E6%B8%AF
+trojan://7462165c-5852-486c-bc30-1afc2df05f5a@amazon-hk04.syjd.xyz:3003?allowInsecure=1&amp;peer=amazon-hk04.syjd.xyz&amp;tfo=1#%E9%A6%99%E6%B8%AF
