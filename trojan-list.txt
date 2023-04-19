@@ -1,1 +1,3 @@
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@116.192.171.97:8443?security=tls&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
+trojan://87bd6efd-2fb5-4920-852d-921d7c29f916@jp-csjc.syjd.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://4478@195.15.243.26:443#%E7%91%9E%E5%A3%AB%20Geneva%20%E6%97%A5%E5%86%85%E7%93%A6
