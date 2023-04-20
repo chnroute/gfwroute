@@ -1,2 +1,4 @@
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?security=tls&amp;sni=170-187-134-190.ipv4.rush.ml&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E4%B9%94%E6%B2%BB%E4%BA%9A%20%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
 trojan://38541d74-6ffd-4352-988d-715ee989947c@fschk.fscloud123456789.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://HchlVCfnXB@54.37.185.148:32894#%E6%B3%95%E5%9B%BD
+trojan://38541d74-6ffd-4352-988d-715ee989947c@fschk.fscloud123456789.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
