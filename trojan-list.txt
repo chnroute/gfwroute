@@ -1,1 +1,2 @@
 trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@170.187.134.190:8443?security=tls&amp;sni=170-187-134-190.ipv4.rush.ml&amp;type=tcp&amp;headerType=none#%E7%BE%8E%E5%9B%BD%20%E4%B9%94%E6%B2%BB%E4%BA%9A%20%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
+trojan://f8e4d8e3-36b5-42b1-af33-f0e1719976b4@aws-hk01.aikun.online:443#%E9%A6%99%E6%B8%AF
