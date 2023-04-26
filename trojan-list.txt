@@ -1,3 +1,1 @@
-trojan://HchlVCfnXB@a1.veryfastnet1.tk:32894#%E6%B3%95%E5%9B%BD
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-34-170.ipv4.rush.ml:8443?type=tcp&amp;allowInsecure=1#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E
-trojan://4478@195.15.243.26:443?security=tls&amp;type=tcp&amp;headerType=none#%E7%91%9E%E5%A3%AB%20Geneva%20%E6%97%A5%E5%86%85%E7%93%A6
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43.153.34.170:8443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E
