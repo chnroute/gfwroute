@@ -1,3 +1,4 @@
 trojan://4478@195.15.243.26:443?security=tls&amp;type=tcp&amp;headerType=none#%E7%91%9E%E5%A3%AB%20Geneva%20%E6%97%A5%E5%86%85%E7%93%A6
-trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@sg.stablize.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://2bfe8e4f-c00c-496b-ba8c-e67d2becd03b@sg.stablize.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://2e454370-4207-4443-8262-7e06663f54cb@uniquenet50.khasbox.fun:10010#%E5%BE%B7%E5%9B%BD
+trojan://9478e27c-6bdd-4f0e-ba46-90d9739e1e34@uk.stablize.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
