@@ -1,1 +1,1 @@
-trojan://4478@195.15.243.26:443?type=tcp&amp;allowInsecure=1#%E7%91%9E%E5%A3%AB%20Geneva%20%E6%97%A5%E5%86%85%E7%93%A6
+trojan://4478@195.15.243.26:443?security=tls&amp;type=tcp&amp;headerType=none#%E7%91%9E%E5%A3%AB%20Geneva%20%E6%97%A5%E5%86%85%E7%93%A6
