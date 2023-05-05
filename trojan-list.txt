@@ -1,3 +1,1 @@
-trojan://402d12bf-775a-4dba-9e41-81ed6aa03400@dm.ddiantao.com:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
-trojan://sfgdg225v5ddfs@cc.tross.top:60528#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
-trojan://402d12bf-775a-4dba-9e41-81ed6aa03400@dm.ddiantao.com:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
+trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54590?allowInsecure=1&amp;tfo=1#%E4%B8%AD%E5%9B%BD
