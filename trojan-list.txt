@@ -1,1 +1,1 @@
-trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54590?allowInsecure=1&amp;tfo=1#%E4%B8%AD%E5%9B%BD
+trojan://05e34875-a77c-4156-8bc8-f815f235905a@165.154.253.249:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
