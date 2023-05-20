@@ -1,4 +1,4 @@
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw1-tg-data.amazonwebservicess.com:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@scloudtw1-tg-data.amazonwebservicess.com:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
 trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@pl.mjt001.com:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://be3f4300-d75d-4585-9b94-d1bff193f583@116.163.29.150:50026?type=tcp&amp;security=tls&amp;allowInsecure=1#%E4%B8%AD%E5%9B%BD
 trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw8-tg-data.amazonwebservicess.com:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
