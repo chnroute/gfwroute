@@ -1,5 +1,5 @@
 trojan://016b3284-5845-4bff-a5ef-c7d87ee9b932@sa.steamdownload.top:36713?allowInsecure=0&amp;sni=datakr.steamdownload.top#%E4%B8%AD%E5%9B%BD
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443?type=tcp&amp;allowInsecure=1#%E5%8F%B0%E6%B9%BE
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw3-tg-data.amazonwebservicess.com:443?type=tcp&amp;allowInsecure=1#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
 trojan://14035421-8f5a-4b0e-a49a-c5a46f9d59cc@aws-sg.aikun.online:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://016b3284-5845-4bff-a5ef-c7d87ee9b932@as.steamdownload.top:36641#%E4%B8%AD%E5%9B%BD
 trojan://bf0cd4b6-80a0-47d9-83d7-b887516eebe7@doxjp02.588511.xyz:58850#%E6%96%B0%E5%8A%A0%E5%9D%A1
