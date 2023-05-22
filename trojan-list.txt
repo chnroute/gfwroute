@@ -1,2 +1,1 @@
-trojan://a132d6ab-fdd0-4d16-b01b-1bfc43fbe015@sg11.microsoft-orgwly.vip:10181#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://2bb4a580-db46-4010-b814-a9f74001a646@sg-csjc.85413.xyz:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
