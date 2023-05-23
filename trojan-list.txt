@@ -2,5 +2,3 @@ trojan://ef2887e2-af2a-4dfe-a9e9-89e56b044068@h961359.waihuizhibiaowang.com:1334
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&amp;type=tcp&amp;headerType=none#%E5%8D%B0%E5%BA%A6%20%E7%89%B9%E4%BC%A6%E7%94%98%E7%BA%B3%E9%82%A6%20%E6%B5%B7%E5%BE%97%E6%8B%89%E5%B7%B4
 trojan://ce918944-78ef-4b99-9304-60337192b4b7@azjp1.downloadvip.cfd:443?type=tcp&amp;sni=jp1.xn--mes358acgm99l.com&amp;allowInsecure=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://ef2887e2-af2a-4dfe-a9e9-89e56b044068@media.flareai.store:13243?allowInsecure=1&amp;peer=106-110-192-225.d.cjjd20.com&amp;alpn=h2#%E4%B8%AD%E5%9B%BD
-trojan://353bd97c-a089-457f-a291-c19920dbe6d5@ca.stablize.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://82277b90-9f40-3c91-9b5a-e97140f63d8b@hnm.xiaohouzi.club:19467#%E4%B8%AD%E5%9B%BD
