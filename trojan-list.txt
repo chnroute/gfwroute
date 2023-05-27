@@ -1,1 +1,1 @@
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@165.154.246.194:443#%E5%8F%B0%E6%B9%BE
+trojan://4658738d-c3f1-4ebf-ad7a-ee603e3f9690@bgptw2.cnamazon.sbs:443#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
