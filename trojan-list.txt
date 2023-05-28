@@ -1,1 +1,1 @@
-trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&amp;type=tcp&amp;headerType=none#%E5%8D%B0%E5%BA%A6%20%E7%89%B9%E4%BC%A6%E7%94%98%E7%BA%B3%E9%82%A6%20%E6%B5%B7%E5%BE%97%E6%8B%89%E5%B7%B4
+trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
