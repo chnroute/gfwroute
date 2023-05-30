@@ -1,1 +1,1 @@
-trojan://662be1c1-7f8b-4eac-a6fb-6c9080c8ea00@us1.microsoft-orgwly.vip:80?sni=tls.microsoft-orgwly.vip#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
+trojan://1113a9fa-c6ee-4929-ae93-d29d024b1728@163.123.192.155:443?sni=download.xn--mes358a9urctx.com#%E7%BE%8E%E5%9B%BD
