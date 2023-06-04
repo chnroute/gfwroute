@@ -3,3 +3,4 @@ trojan://TJCfE7Mx2YcA8kX8zg@jp2.chuqiangtou.net:4003#%E6%97%A5%E6%9C%AC%20Tokyo%
 trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@assets.flareai.site:13543?allowInsecure=1&amp;peer=106-110-192-225.d.cjjd20.com&amp;alpn=h2#%E4%B8%AD%E5%9B%BD
 trojan://TJCfE7Mx2YcA8kX8zg@jp2.chuqiangtou.net:4003#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://363f868f-0374-46ab-a58e-ea108d06abe3@163.123.192.154:443?type=tcp&amp;sni=download.xn--mes358a9urctx.com&amp;allowInsecure=1#%E7%BE%8E%E5%9B%BD
+trojan://d0d24d5b-54ae-40a0-ab68-889dbd4b8a66@assets.flareai.site:13543#%E4%B8%AD%E5%9B%BD
