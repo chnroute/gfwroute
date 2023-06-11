@@ -1,1 +1,1 @@
-trojan://c0d9da22-2569-4bed-a395-607d9e7ae687@103.169.7.11:80#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%20Jakarta%20Menteng
+trojan://fddd2348-b67b-49aa-aaca-085d32f3f6fb@sg2.downloadvip.cfd:443?sni=jssg1.xn--mes358acgm99l.com#%E6%96%B0%E5%8A%A0%E5%9D%A1
