@@ -1,6 +1,6 @@
 trojan://TJCfE7Mx2YcA8kX8zg@nl3.barbecuepie.com:4003#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.69.109:4003#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
-trojan://6f96d269-31bb-4914-b2c9-629e117265ed@ap.stablize.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://6f96d269-31bb-4914-b2c9-629e117265ed@ap.stablize.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
 trojan://be3d253e-7df8-4260-8834-07a8a87691bf@hk2.downloadvip.cfd:443?sni=download.xn--mes358a9urctx.com#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.71.117:4003#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls&amp;type=tcp&amp;headerType=none#%E5%8D%B0%E5%BA%A6%20%E7%89%B9%E4%BC%A6%E7%94%98%E7%BA%B3%E9%82%A6%20%E6%B5%B7%E5%BE%97%E6%8B%89%E5%B7%B4
