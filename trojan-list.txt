@@ -1,1 +1,6 @@
-trojan://TJCfE7Mx2YcA8kX8zg@149.50.83.40:4003#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A%20New%20South%20Wales%20%E6%82%89%E5%B0%BC
+trojan://b25cbc3a-d7e8-4fe4-b7a0-d3d18985bcf4@141.193.68.93:443?type=tcp&amp;sni=18-140-66-207.nhost.00cdn.com&amp;allowInsecure=1#%E7%BE%8E%E5%9B%BD%20Arizona%20%E5%87%A4%E5%87%B0%E5%9F%8E
+trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.105:4003#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
+trojan://9c2d38bd-3ffd-48ce-909c-9d273e7f8898@hinet2.downloadvip.cfd:443?type=tcp&amp;security=tls&amp;sni=hinet2.downloadvip.cfd&amp;allowInsecure=1#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
+trojan://746b6774-e899-4205-a097-3da55c26f5b3@84.252.121.218:443?sni=18-140-66-207.nhost.00cdn.com#%E5%BE%B7%E5%9B%BD
+trojan://7e319f7a-4c47-4606-8008-ce6c92634dd8@fuck6.lianpi.xyz:48057#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
+trojan://7a73f1dc97a70905870c0c0484b12145@trs22.bolab.net:443#%E6%97%A5%E6%9C%AC
