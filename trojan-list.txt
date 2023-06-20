@@ -2,11 +2,7 @@ trojan://b5f3d27d-c4bc-491d-ac6e-1a3429165639@163.123.192.155:443?sni=download.x
 trojan://PlF471nxneY0YevI@de2.nigirocloud.com:4003#%E5%BE%B7%E5%9B%BD%20North%20Rhine-Westphalia%20%E6%9D%9C%E5%A1%9E%E5%B0%94%E5%A4%9A%E5%A4%AB
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.77.108:4003#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
 trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@116.192.171.97:8443#%E4%B8%AD%E5%9B%BD
-trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://4d23cf0e-5ceb-43e7-90d3-63982bfa6940@ap.stablize.top:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20Central
 trojan://TJCfE7Mx2YcA8kX8zg@us3.chuqiangtou.net:4003#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.100:4003#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://TJCfE7Mx2YcA8kX8zg@nl3.barbecuepie.com:4003#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
-trojan://TJCfE7Mx2YcA8kX8zg@149.50.69.109:4003#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
-trojan://PlF471nxneY0YevI@de1.nigirocloud.com:4003#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
-trojan://TJCfE7Mx2YcA8kX8zg@uk1.barbecuepie.com:4003#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
-trojan://TJCfE7Mx2YcA8kX8zg@149.50.71.155:4003#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
