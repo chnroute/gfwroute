@@ -6,6 +6,7 @@ trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330#%E5%8F%B0
 trojan://telegram-id-privatevpns@52.28.217.62:22222?sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.75.105:4003#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://TJCfE7Mx2YcA8kX8zg@149.50.69.127:4003#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20San%20Jose
-trojan://5b51e0af-08af-4208-b834-6d6ac5721837@sg.stablize.top:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://5b51e0af-08af-4208-b834-6d6ac5721837@sg.stablize.top:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://PlF471nxneY0YevI@nl3.nigirocloud.com:4003#%E8%8D%B7%E5%85%B0%20North%20Holland%20%E9%98%BF%E5%A7%86%E6%96%AF%E7%89%B9%E4%B8%B9
 trojan://telegram-id-privatevpns@13.39.112.133:22222?sni=trj.rollingnext.co.uk#%E6%B3%95%E5%9B%BD%20%C3%8Ele-de-France%20%E5%B7%B4%E9%BB%8E
+trojan://TJCfE7Mx2YcA8kX8zg@149.50.77.125:4003#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
