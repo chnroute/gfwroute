@@ -1,3 +1,1 @@
-trojan://c32c56fb-64d9-33c4-b42a-af81b7a33fe7@hnm.xiaohouzi.club:23330?type=tcp&amp;allowInsecure=1#%E5%8F%B0%E6%B9%BE%20%E5%8F%B0%E5%8C%97%E5%B8%82%20%E5%8F%B0%E5%8C%97%E5%B8%82
-trojan://5b51e0af-08af-4208-b834-6d6ac5721837@sg.stablize.top:443#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
-trojan://TJCfE7Mx2YcA8kX8zg@149.50.71.120:4003#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.57:443#%E7%BE%8E%E5%9B%BD
