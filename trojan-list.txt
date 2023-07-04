@@ -1,2 +1,1 @@
-trojan://11e247e5-136d-45f1-844a-a7f054d36bab@tempest-us.aikun.online:443#%E7%BE%8E%E5%9B%BD%20%E5%8A%A0%E5%B7%9E%20%E6%B4%9B%E6%9D%89%E7%9F%B6
-trojan://32068eda-adad-431a-bfd4-2f7d4c73507c@pqawsjp4.gsjc.cfd:443?peer=18-140-66-207.nhost.00cdn.com&amp;tfo=1#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.57:443#%E7%BE%8E%E5%9B%BD
