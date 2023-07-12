@@ -1,1 +1,1 @@
-trojan://bdb9726b-f3a7-457d-860f-86fb33ac4f78@163.123.192.153:443?sni=downloadus.xn--mes358a9urctx.com#%E7%BE%8E%E5%9B%BD
+trojan://04cd6d53-be65-4739-a5b1-26a6f947d5dd@13.214.167.185:443?sni=18-140-66-207.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A1
