@@ -1,1 +1,1 @@
-trojan://04cd6d53-be65-4739-a5b1-26a6f947d5dd@13.214.167.185:443?sni=18-140-66-207.nhost.00cdn.com#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.60:443#%E7%BE%8E%E5%9B%BD
