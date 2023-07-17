@@ -1,1 +1,1 @@
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.60:443#%E7%BE%8E%E5%9B%BD
+trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@163.123.192.57:443?peer=20-24-33-134.nhost.00cdn.com&amp;tfo=1#%E7%BE%8E%E5%9B%BD
