@@ -1,1 +1,1 @@
-trojan://7ad2a5e0-906b-4b3e-97bb-b5f3992cb19d@163.123.192.57:443?peer=20-24-33-134.nhost.00cdn.com&amp;tfo=1#%E7%BE%8E%E5%9B%BD
+trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
