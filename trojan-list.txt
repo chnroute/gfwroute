@@ -1,2 +1,1 @@
-trojan://e8e027f7-0672-43d4-8001-535b58852b2f@spsg.1234567890spcloud.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://a185ed4c-2b5c-4a6f-a674-4b67f9c3bfbc@146.190.90.244:443#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
