@@ -1,2 +1,1 @@
 trojan://telegram-id-privatevpns@3.254.43.72:22222?allowInsecure=1&amp;peer=trj.rollingnext.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0%20Leinster%20%E9%83%BD%E6%9F%8F%E6%9E%97
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@fgddt-1082-tr-4.r-kcd-a.tuil.xyz:39909?security=tls&amp;sni=s3.cjhh.beauty&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
