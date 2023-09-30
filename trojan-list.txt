@@ -1,2 +1,3 @@
 trojan://ff0675b0-c665-3d69-800b-f7fc29e1ead8@zz.chaosu999.com:40350?security=tls&amp;sni=chaosujp.ccoo520.xyz&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
 trojan://2FlAxyOy3ScaC5xNOSFeRqZgASj73CpIlCYTE8p4DaBD3Rn3zXe9Y80uaZwD6K@levuior.taiwanesefood.link:443#%E5%8F%B0%E6%B9%BE%20Taichung%20City%20Taichung
+trojan://2FlAxyOy3ScaC5xNOSFeRqZgASj73CpIlCYTE8p4DaBD3Rn3zXe9Y80uaZwD6K@levuior.taiwanesefood.link:443#%E5%8F%B0%E6%B9%BE%20Taichung%20City%20Taichung
