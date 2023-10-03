@@ -1,2 +1,1 @@
-trojan://3700489d-da81-376d-9511-b3838f3c73f7@tg_mfbpn_d4.52vpn.eu.org:11008?security=tls&amp;sni=alibaba-node.cn&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@tweju-1089-tr-4.r-kcd-b.tuil.xyz:29959?type=tcp&amp;sni=cdn.cjhh.lol&amp;allowInsecure=1#%E4%B8%AD%E5%9B%BD
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@fqpmq-1083-tr-9.r-kcd-b.tuil.xyz:29969?security=tls&amp;sni=cdn.cjhh.lol&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
