@@ -1,1 +1,1 @@
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@fqpmq-1083-tr-9.r-kcd-b.tuil.xyz:29969?security=tls&amp;sni=cdn.cjhh.lol&amp;type=tcp&amp;headerType=none#%E4%B8%AD%E5%9B%BD
+trojan://80788c96-dfbf-40a8-ab8f-de3a6357d190@ru02.celerlink.one:64000#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
