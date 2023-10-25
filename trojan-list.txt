@@ -1,2 +1,1 @@
 trojan://telegram-id-directvpn@13.58.195.124:22222?sni=trj.rollingnext.co.uk#%E7%BE%8E%E5%9B%BD%20%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%20%E5%93%A5%E4%BC%A6%E5%B8%83
-trojan://u49BTAYa9P@146.190.105.71:40221?sni=docs.google.com#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
