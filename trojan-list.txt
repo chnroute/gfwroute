@@ -1,2 +1,1 @@
-trojan://ee5d4ca4-cb15-4201-ba4f-4709b5a833d4@v234.jsvpn.xyz:443#%E4%BF%84%E7%BD%97%E6%96%AF%E8%81%94%E9%82%A6%20Moscow%20%E8%8E%AB%E6%96%AF%E7%A7%91
-trojan://ee5d4ca4-cb15-4201-ba4f-4709b5a833d4@v26.jsvpn.xyz:443#%E7%BE%8E%E5%9B%BD%20%E4%B9%94%E6%B2%BB%E4%BA%9A%20%E4%BA%9A%E7%89%B9%E5%85%B0%E5%A4%A7
+trojan://telegram-id-directvpn@13.58.195.124:22222?sni=trj.rollingnext.co.uk#%E7%BE%8E%E5%9B%BD%20%E4%BF%84%E4%BA%A5%E4%BF%84%E5%B7%9E%20%E5%93%A5%E4%BC%A6%E5%B8%83
