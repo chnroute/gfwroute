@@ -1,1 +1,1 @@
-trojan://cBSWp1tiM2@146.190.87.59:12052#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://telegram-id-privatevpns@52.56.255.55:22222?sni=trj.rollingnext.co.uk#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
