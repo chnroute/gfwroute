@@ -1,2 +1,5 @@
 trojan://3b31223a-960a-4166-b37f-edf0a23b884b@jp.liangyuandiancloud.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://3b31223a-960a-4166-b37f-edf0a23b884b@hkjs.liangyuandiancloud.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://3b31223a-960a-4166-b37f-edf0a23b884b@usajs.liangyuandiancloud.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://96f625d7-f202-46b0-b679-34f8289c6945@sg.liangyuandiancloud.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://96f625d7-f202-46b0-b679-34f8289c6945@dejs.liangyuandiancloud.com:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
