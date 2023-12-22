@@ -16,3 +16,4 @@ trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@uk01.trojanyyds.xyz:443#%E6%97%A5%
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@de01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk04.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
