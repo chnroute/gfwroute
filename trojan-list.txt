@@ -1,8 +1,8 @@
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@sk01.trojanyyds.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20%E9%A6%99%E6%B8%AF
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@sk01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@tw01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk03.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20%E9%A6%99%E6%B8%AF
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk01.trojanyyds.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20%E9%A6%99%E6%B8%AF
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
 trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@in01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my01.trojanyyds.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20%E9%A6%99%E6%B8%AF
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@de01.trojanyyds.xyz:443#%E9%A6%99%E6%B8%AF%20Central%20and%20Western%20District%20%E9%A6%99%E6%B8%AF
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@de01.trojanyyds.xyz:443#%E6%97%A5%E6%9C%AC%20Tokyo%20%E4%B8%9C%E4%BA%AC
