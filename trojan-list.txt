@@ -1,1 +1,1 @@
-trojan://vMbujq85mD@103.174.73.134:443/?type=tcp&amp;security=tls&amp;sni=dl.kgvn.garenanow.com#%E8%B6%8A%E5%8D%97%20H%E1%BA%A3i%20D%C6%B0%C6%A1ng%20Province%20Hai%20Duong
+trojan://74811f39-8f69-4334-9e0f-a8a25d7413c1@78.47.217.216:993?allowInsecure=1&amp;sni=www.casperco.online#%E5%BE%B7%E5%9B%BD%20%E5%B7%B4%E7%99%BB-%E7%AC%A6%E8%85%BE%E5%A0%A1%20%E8%92%99%E5%BE%B7%E5%B0%94%E6%96%AF%E6%B5%B7%E5%A7%86
