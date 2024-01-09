@@ -1,2 +1,3 @@
-trojan://af55f449-b9ee-4bec-9908-be1b18934dfa@xibaozi.19890604.day:10837?allowInsecure=0&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
-trojan://telegram-id-directvpn@16.16.95.19:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%E7%91%9E%E5%85%B8%20Stockholm%20County%20%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9
+trojan://ab008897-edfa-41e4-9122-e56b9464c08e@xibaozi.19890604.day:10848?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
+trojan://telegram-id-privatevpns@15.237.156.60:22222?sni=trj.rollingnext.co.uk#%E6%B3%95%E5%9B%BD%20%C3%8Ele-de-France%20%E5%B7%B4%E9%BB%8E
+trojan://ab008897-edfa-41e4-9122-e56b9464c08e@tank.19890604.day:10830?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
