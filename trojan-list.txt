@@ -1,5 +1,2 @@
-trojan://f6fa79f3-2239-4cb4-8733-ec8c93394a2c@tiananmen.19890604.day:10805?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
-trojan://f6fa79f3-2239-4cb4-8733-ec8c93394a2c@tiananmen.19890604.day:10809?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
-trojan://f6fa79f3-2239-4cb4-8733-ec8c93394a2c@tiananmen.19890604.day:10804?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
-trojan://f6fa79f3-2239-4cb4-8733-ec8c93394a2c@tank.19890604.day:10830?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
-trojan://f6fa79f3-2239-4cb4-8733-ec8c93394a2c@tank.19890604.day:10831?security=tls&amp;sni=cloudflare.node-ssl.cdn-alibaba.com#%E4%B8%AD%E5%9B%BD
+trojan://telegram-id-privatevpns@52.210.28.139:22222?sni=trj.rollingnext.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0%20Leinster%20%E9%83%BD%E6%9F%8F%E6%9E%97
+trojan://telegram-id-privatevpns@3.74.254.208:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
