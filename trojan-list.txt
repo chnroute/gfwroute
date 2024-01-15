@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@52.210.28.139:22222?sni=trj.rollingnext.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0%20Leinster%20%E9%83%BD%E6%9F%8F%E6%9E%97
-trojan://telegram-id-privatevpns@3.74.254.208:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
+trojan://ZtNmShMXD0@www.snappfooding.com:2053?host=modernfood.snappfooding.com&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=modernfood.snappfooding.com&amp;type=ws#%E7%BE%8E%E5%9B%BD
+trojan://telegram-id-privatevpns@54.228.244.31:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0%20Leinster%20%E9%83%BD%E6%9F%8F%E6%9E%97
