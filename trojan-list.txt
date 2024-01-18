@@ -1,2 +1,1 @@
-trojan://ZtNmShMXD0@www.snappfooding.com:2053?host=modernfood.snappfooding.com&amp;path=%2F%3Fed%3D2048&amp;security=tls&amp;sni=modernfood.snappfooding.com&amp;type=ws#%E7%BE%8E%E5%9B%BD
-trojan://telegram-id-privatevpns@54.228.244.31:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0%20Leinster%20%E9%83%BD%E6%9F%8F%E6%9E%97
+trojan://f3882346f62347359ae4343f9185f7ea@139.84.144.10:443?security=tls&amp;sni=www.gpt123.one&amp;type=tcp#%E5%8D%B0%E5%BA%A6%20%E5%8D%A1%E7%BA%B3%E5%A1%94%E5%85%8B%E9%82%A6%20Bengaluru
