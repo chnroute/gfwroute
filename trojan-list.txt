@@ -1,2 +1,1 @@
-trojan://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@5.104.108.120:443?allowInsecure=1&amp;sni=20-24-33-134.nhost.00cdn.com#%E5%BE%B7%E5%9B%BD%20North%20Rhine-Westphalia%20%E4%BA%9A%E7%90%9B
-trojan://27876_t7d7f4e3f@los16.ttddd.xyz:443#%E7%BE%8E%E5%9B%BD%20%E7%8A%B9%E4%BB%96%E5%B7%9E%20%E7%9B%90%E6%B9%96%E5%9F%8E
+trojan://telegram-id-directvpn@18.185.201.37:22222?sni=trojan.miwan.co.uk#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
