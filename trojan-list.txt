@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@3.11.37.196:22222?sni=trojan.miwan.co.uk#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
+trojan://WQLzYlBeRq4y@35.158.120.102:12401?sni=www.myethblog.com#%E5%BE%B7%E5%9B%BD%20Hesse%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
