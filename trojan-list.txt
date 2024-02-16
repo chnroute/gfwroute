@@ -1,1 +1,2 @@
 trojan://telegram-id-privatevpns@18.169.212.197:22222?security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp&amp;alpn=http/1.1#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
+trojan://qj1Dz1CJmFQRhWr1SP80aA@172.67.204.84:443?allowInsecure=1&amp;sni=cdn-21.gsmxreality.com&amp;type=grpc&amp;serviceName=443trojan#%E7%BE%8E%E5%9B%BD
