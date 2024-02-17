@@ -1,2 +1,1 @@
-trojan://9ab11330-cbfb-11ee-b443-1239d0255272@de1.test3.net:443?sni=sep.shaparak.ir#%E5%BE%B7%E5%9B%BD
-trojan://mainssh-Gftgfvy@172.66.128.32:443?security=tls&amp;type=ws&amp;sni=catws.mainssh.xyz&amp;path=/trojan&amp;host=catws.mainssh.xyz#%E7%BE%8E%E5%9B%BD
+trojan://telegram-id-privatevpns@13.48.119.74:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp#%E7%91%9E%E5%85%B8%20Stockholm%20County%20%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9
