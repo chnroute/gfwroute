@@ -1,2 +1,1 @@
-trojan://telegram-id-privatevpns@13.48.119.74:22222?alpn=http%2F1.1&amp;headerType=none&amp;security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp#%E7%91%9E%E5%85%B8%20Stockholm%20County%20%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9
-trojan://5bae27f5-3b8e-48f3-b91f-30fc680ea78f@103.154.63.16:443?#%E8%B6%8A%E5%8D%97
+trojan://telegram-id-directvpn@15.157.119.166:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Quebec%20%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94
