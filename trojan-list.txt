@@ -1,1 +1,1 @@
-trojan://telegram-id-directvpn@15.157.119.166:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk#%E5%8A%A0%E6%8B%BF%E5%A4%A7%20Quebec%20%E8%92%99%E7%89%B9%E5%88%A9%E5%B0%94
+trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
