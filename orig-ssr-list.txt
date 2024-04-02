@@ -1,7 +1,12 @@
-<html xmlns:v="urn:schemas-microsoft-com:vml" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns="http://www.w3.org/TR/REC-html40">
+<html>
 
 <head>
 
+
+
+
+<base target="_blank">
+			
 
 <style type='text/css'>
 			#message{position:fixed;width:800px;margin:0 auto;background:#fff;height:auto;display:block;float:left;z-index:99999999;text-align:center;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:8px;border:4px solid orange;padding:40px 0!important;}#message img{max-width:150px;margin:20px auto!important;clear:both}#message h2{font-weight:700!important;font-family:arial!important;padding:10px 0!important;font-size:26px!important;}#message p{margin:30px 0!important;}button#mehn {cursor:pointer;display: inline-block;text-align: center;vertical-align: middle;padding: 12px 24px;border: 1px solid #4443cf;border-radius: 8px;background: #807eff;background: -webkit-gradient(linear, left top, left bottom, from(#807eff), to(#4443cf));background: -moz-linear-gradient(top, #807eff, #4443cf);background: linear-gradient(to bottom, #807eff, #4443cf);font: normal normal bold 20px arial;color: #ffffff;text-decoration: none;}button#mehn:focus,button#mehn:hover{border:1px solid ##504ff4;background:#9a97ff;background:-webkit-gradient(linear,left top,left bottom,from(#9a97ff),to(#5250f8));background:-moz-linear-gradient(top,#9a97ff,#5250f8);background:linear-gradient(to bottom,#9a97ff,#5250f8);color:#fff;text-decoration:none}button#mehn:active{background:#4443cf;background:-webkit-gradient(linear,left top,left bottom,from(#4443cf),to(#4443cf));background:-moz-linear-gradient(top,#4443cf,#4443cf);background:linear-gradient(to bottom,#4443cf,#4443cf)}button#mehn:before{content:'';display:inline-block;height:24px;width:24px;line-height:24px;margin:0 4px -6px -4px;position:relative;top:0;left:-3px;background:url(https://www.freefq.com/images/ok.jpg) no-repeat left center transparent;background-size:100% 100%}#overlayh{position:fixed;width:100%;margin:0 auto;opacity:.8;background:#000;height:100%;display:block;float:left;z-index:99999998;top:0;}
@@ -10,29 +15,34 @@
 
 
 
-<base target="_blank">
-
+			
+			
 
 <meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-
-<title>最新免费v2ray节点分享</title>
+<title>免费ssr账号分享</title>
 </head>
 
 <body>
+		
 
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
-
-
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-4-2 12:15:55 
+<p><font face="宋体">Free SSR 免费SSR账号 <br>
+<br>
+所有数据均来自互联网，更新时间：2024-4-2 12:46:55
 
 
 
 </font>
 
-<p align="left"><font face="宋体">来自</font><a href="https://freefq.com">免费翻墙网https://freefq.com</a><font face="宋体">的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！　&nbsp; 
-</font><a target="_blank" href="https://freefq.com/ss/2023/12/31/freess.html">
-最新可用免费ssr节点免费ss账号每天不定时更新！<font face="宋体">https://freefq.com/ss/2023/12/31/freess.html</font></a><font face="宋体"><p>&nbsp;<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
+
+<p><font face="宋体">来自</font><a href="https://freefq.com">免费翻墙网https://freefq.com</a><font face="宋体">的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！</font><a target="_blank" href="https://freefq.com/ss/2023/12/31/freess.html">最新可用免费ssr节点免费ss账号每天不定时更新！<font face="宋体">https://freefq.com/ss/2023/12/31/freess.html</font></a><p>　<font face="宋体">
+
+
+
+　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
 
 
@@ -87,49 +97,92 @@ vless://cfee147d-a7f0-fe3e-952d-f6f59bac0125@www.kernels.bid:443?path=%2Fws&amp;
 
 
 
-<p>　</p>
-<p>
+　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
-al:<br>
-<strong>北京时间2024年2月24日18点30分更新。</strong>禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。</p>
+
+<p>al:</p>
+
+
+
+
+
 <p>
-现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。<br>
+<strong>北京时间2024年3月10日22点00分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
+<p>SSR节点：<br>
+位置 地址 端口 密码 加密方式 协议 混淆<br>
+洛杉矶1 dongtaiwang5.com 11111 dongtaiwang.com none auth_chain_a plain<br>
 <br>
-v2ray节点<br>
+SSR节点链接：<br>
 <br>
-Address(地址): 23.227.38.120<br>
+ssr://ZG9uZ3RhaXdhbmc1LmNvbToxMTExMTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJTRG52bzdsbTcw<br>
 <br>
-Port（端口）: 8080<br>
+SS节点：<br>
+位置 地址 端口 密码 加密方式<br>
+洛杉矶2 64.31.55.51 12300 dongtaiwang.com aes-256-gcm<br>
 <br>
-UUID（用户id）: 969f1909-c0d3-4c30-813d-3aec5c838b7d<br>
+SS链接：<br>
 <br>
-alterId（额外ID）: 0<br>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@64.31.55.51:12300#www.dongtaiwang.com%20%E6%B4%9B%E6%9D%89%E7%9F%B6</p>
+<p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+
+
+
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>　</p>
+<p>deng:20231227</p>
+<table style="border-collapse: collapse; width: 100%; height: 50px;">
+	<tr style="height: 31px;">
+		<td style="text-align: center; height: 10px;">IP</td>
+		<td style="text-align: center; height: 10px;">端口</td>
+		<td style="text-align: center; height: 10px;">加密方式</td>
+		<td style="text-align: center; height: 10px;">密码</td>
+		<td style="text-align: center; height: 10px;">二维码</td>
+	</tr>
+	<tr style="height: 31px;">
+		<td style="text-align: center; height: 10px;">95.179.157.252</td>
+		<td style="text-align: center; height: 10px;">36584</td>
+		<td style="text-align: center; height: 10px;">chacha20-ietf-poly1305</td>
+		<td style="text-align: center; height: 10px;">h6N836juP</td>
+		<td style="text-align: center; height: 10px;">
+		<a target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external" href="https://3.weiwei.in/img/95.179.157.252.png">
+		点我扫码</a></td>
+	</tr>
+	<tr style="height: 31px;">
+		<td style="text-align: center; height: 10px;">144.202.65.144</td>
+		<td style="text-align: center; height: 10px;">44581</td>
+		<td style="text-align: center; height: 10px;">chacha20-ietf-poly1305</td>
+		<td style="text-align: center; height: 10px;">gSAH35t6gh</td>
+		<td style="text-align: center; height: 10px;">
+		<a target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external" href="https://3.weiwei.in/img/144.202.65.144.png">
+		点我扫码</a></td>
+	</tr>
+	<tr style="height: 31px;">
+		<td style="text-align: center; height: 10px;">149.28.66.98</td>
+		<td style="text-align: center; height: 10px;">22531</td>
+		<td style="text-align: center; height: 10px;">chacha20-ietf-poly1305</td>
+		<td style="text-align: center; height: 10px;">GtjES36jugf</td>
+		<td style="text-align: center; height: 10px;">
+		<a target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external" href="https://3.weiwei.in/img/149.28.66.98.png">
+		点我扫码</a></td>
+	</tr>
+	<tr style="height: 31px;">
+		<td style="text-align: center; height: 10px;">47.100.123.194</td>
+		<td style="text-align: center; height: 10px;">15863</td>
+		<td style="text-align: center; height: 10px;">chacha20-ietf-poly1305</td>
+		<td style="text-align: center; height: 10px;">BJAH3tjES9</td>
+		<td style="text-align: center; height: 10px;">
+		<a target="_blank" rel="noopener nofollow external noreferrer" data-wpel-link="external" href="https://3.weiwei.in/img/47.100.123.194.png">
+		点我扫码</a></td>
+	</tr>
+</table>
+<p>ssr://MTkyLjMuMTM0LjgwOjE1ODUyOm9yaWdpbjpjaGFjaGEyMC1pZXRmOnBsYWluOlpuTmtORFZHUjBkRU5UWXphbXMvP29iZnNwYXJhbT0=<br>
 <br>
-security（加密方式）: auto<br>
-<br>
-network（传输协议）: ws<br>
-<br>
-headerType（伪装类型）: none<br>
-<br>
-伪装域名（host）: dongtaiwang17.dtku47.xyz<br>
-<br>
-路径（不要落下/）：/1IKYjV0r/<br>
-<br>
-底层传输安全：不填<br>
-<br>
-v2ray节点一键导入链接：<br>
-<br>
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb20g576O5Zu9IiwNCiAgImFkZCI6ICIyMy4yMjcuMzguMTIwIiwNCiAgInBvcnQiOiAiODA4MCIsDQogICJpZCI6ICI5NjlmMTkwOS1jMGQzLTRjMzAtODEzZC0zYWVjNWM4MzhiN2QiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImRvbmd0YWl3YW5nMTcuZHRrdTQ3Lnh5eiIsDQogICJwYXRoIjogIi8xSUtZalYwci8iLA0KICAidGxzIjogIm5vbmUiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=</p>
-<p>
-　</p>
-<p><font zoompage-fontsize="24" face="宋体">
-<span style="font-weight: 400" zoompage-fontsize="24">v2ray客户端下载及使用方法</span></p>
-<p zoompage-fontsize="24">
-<span style="font-weight: 400" zoompage-fontsize="24"><font face="宋体"><font zoompage-fontsize="24" face="宋体">
-v2ray
-</font></font>
-</span>windows客户端1<span zoompage-fontsize="24" lang="zh-cn">：</span></p>
-<font face="宋体"><font zoompage-fontsize="24" face="宋体">
+此节点一般都是长期可用的，但是流量能承载用户有限，请勿长时间刷超清视频或下载大文件资源。</p>
+<p>　</p>
+<p align="left">
+
+
+ssr<span style="font-weight: 400">客户端下载及使用方法</span><p>ssr windows客户端<span lang="zh-cn">1：</span></p>
+<font zoompage-fontsize="24" face="宋体">
 <p zoompage-fontsize="24" align="left">
 <a zoompage-fontsize="24" href="https://www.freefq.com/rj/2021/04/28/winXray.html">
 <span style="box-sizing: inherit; font-size: 12pt" zoompage-fontsize="16">
@@ -257,7 +310,8 @@ Linux客户端下载链接也一并送上。</p>
 </table>
 </figure>
 <h4>iOS-<strong>V2ray苹果手机客户端App程序</strong>下载</h4>
-<p>苹果AppStore市场里还没有免费的V2ray iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。</p>
+<p>苹果AppStore市场里还没有免费的V2ray 
+iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。</p>
 <h3><font size="3">ShadowsocksR/SSR客户端下载</font></h3>
 <p>ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。</p>
 <p>整理了最新版SSR Windows客户端、SSR安卓客户端、苹果电脑SSR MacOS客户端和苹果手机SSR iOS客户端的下载地址分享给大家。</p>
@@ -288,7 +342,7 @@ ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadows
 <a target="_blank" rel="noreferrer noopener nofollow" href="https://acl4ssr-sub.github.io">
 https://acl4ssr-sub.github.io</a></p>
 
-
+</font>
 
 </body>
 
