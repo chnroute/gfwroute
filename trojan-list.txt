@@ -1,1 +1,1 @@
-trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
+trojan://0b1371aa-649d-41dc-9126-338c87936500@95.164.33.62:443?type=ws&amp;sni=sourceforge.net&amp;path=/websocket&amp;host=se1.trojanvpn.de#%E7%91%9E%E5%85%B8%20Stockholm%20County%20%E6%96%AF%E5%BE%B7%E5%93%A5%E5%B0%94%E6%91%A9
