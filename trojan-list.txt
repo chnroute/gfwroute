@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@34.243.88.5:22222?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%E7%88%B1%E5%B0%94%E5%85%B0%20Leinster%20%E9%83%BD%E6%9F%8F%E6%9E%97
+trojan://a09db528-d33c-45e5-b6f8-d56db4ae93fd@172.232.250.160:443?#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%20Jakarta%20%E9%9B%85%E5%8A%A0%E8%BE%BE
