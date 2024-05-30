@@ -1,1 +1,1 @@
-trojan://a09db528-d33c-45e5-b6f8-d56db4ae93fd@172.232.250.160:443?#%E5%8D%B0%E5%BA%A6%E5%B0%BC%E8%A5%BF%E4%BA%9A%20Jakarta%20%E9%9B%85%E5%8A%A0%E8%BE%BE
+trojan://telegram-id-privatevpns@3.10.8.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
