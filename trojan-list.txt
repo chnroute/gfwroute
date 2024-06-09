@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@3.10.8.116:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.burgerip.co.uk#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
+trojan://5f9bEMcRo6WQ@35.92.36.138:12211?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD%20%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%20Boardman
