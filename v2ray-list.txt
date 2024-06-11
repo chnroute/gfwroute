@@ -1,1 +1,2 @@
-trojan://5f9bEMcRo6WQ@35.92.36.138:12211?sni=appsvs.shop#%E7%BE%8E%E5%9B%BD%20%E4%BF%84%E5%8B%92%E5%86%88%E5%B7%9E%20Boardman
+trojan://aafjq8KuSP@167.172.69.226:443?security=tls&amp;sni=m.zoom.us&amp;type=ws&amp;path=%2F&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1OTk5OVx1NmUyZiIsICJhZGQiOiAiOTEuMTQ5LjIzNi40NCIsICJwb3J0IjogMjY2MzksICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJjZDAxZmNkLTc5ZjMtNGVjNC04NTM2LTc4MDJjNmZjYmEwOCIsICJwYXRoIjogIi9jY3R2MTMvaGQubTN1OC8ifQ==
