@@ -1,2 +1,2 @@
-trojan://aafjq8KuSP@167.172.69.226:443?security=tls&amp;sni=m.zoom.us&amp;type=ws&amp;path=%2F&amp;fp=chrome&amp;alpn=h2%2Chttp%2F1.1&amp;allowInsecure=1#%E6%96%B0%E5%8A%A0%E5%9D%A1%20%E6%96%B0%E5%8A%A0%E5%9D%A1
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFx1OTk5OVx1NmUyZiIsICJhZGQiOiAiOTEuMTQ5LjIzNi40NCIsICJwb3J0IjogMjY2MzksICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJ0bHMiOiAiIiwgImlkIjogIjJjZDAxZmNkLTc5ZjMtNGVjNC04NTM2LTc4MDJjNmZjYmEwOCIsICJwYXRoIjogIi9jY3R2MTMvaGQubTN1OC8ifQ==
+trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&amp;sni=t010.ylks.link&amp;type=ws&amp;host=t010.ylks.link&amp;path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://NISHIKUITAN222@47.236.189.92:8443?security=tls&amp;type=ws&amp;sni=t010.ylks.link&amp;path=/&amp;host=t010.ylks.link#%E6%96%B0%E5%8A%A0%E5%9D%A1
