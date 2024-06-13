@@ -1,2 +1,1 @@
-trojan://NISHIKUITAN222@8.219.248.47:8443?security=tls&amp;sni=t010.ylks.link&amp;type=ws&amp;host=t010.ylks.link&amp;path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
-trojan://NISHIKUITAN222@47.236.189.92:8443?security=tls&amp;type=ws&amp;sni=t010.ylks.link&amp;path=/&amp;host=t010.ylks.link#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://NISHIKUITAN222@47.236.164.215:8443?security=tls&amp;sni=t221.ylks.link&amp;type=ws&amp;host=t221.ylks.link&amp;path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
