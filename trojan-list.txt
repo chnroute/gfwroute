@@ -1,1 +1,1 @@
-trojan://NISHIKUITAN222@47.236.164.215:8443?security=tls&amp;sni=t221.ylks.link&amp;type=ws&amp;host=t221.ylks.link&amp;path=%2F#%E6%96%B0%E5%8A%A0%E5%9D%A1
+trojan://telegram-id-privatevpns@3.70.39.184:22222?sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
