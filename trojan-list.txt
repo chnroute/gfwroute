@@ -1,1 +1,1 @@
-trojan://telegram-id-privatevpns@3.70.39.184:22222?sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD%20%E9%BB%91%E6%A3%AE%E5%B7%9E%20%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8F
+trojan://6abfad5a-24be-3657-85da-ceac782b7e19@osav101.jd0001.top:44301#%E6%97%A5%E6%9C%AC%20%C5%8Csaka%20Osaka
