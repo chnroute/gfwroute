@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-7-28 12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-7-29 12:15:55 
 
 
 
@@ -40,13 +40,27 @@
 
 
 
-<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br>
-vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br>
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@69.50.95.180:5498#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU5OTk5XHU2ZTJmIFVDbG91ZCIsICJhZGQiOiAiZGF0YS11cy12MS5zaHdqZmt3LmNuIiwgInBvcnQiOiAiMjA0MDEiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAidGxzIjogIiIsICJpZCI6ICJiMTQ3OGUyNC00OTE2LTNhYmUtOGYxNy0xNTkzMTAxMmVjYmUiLCAic25pIjogIiIsICJob3N0IjogImRhdGEtdXMtdjEuc2h3amZrdy5jbiIsICJwYXRoIjogIi9kZWJpYW4ifQ==<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40NS4yMTIiLCAicG9ydCI6ICIyMDk1IiwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==<br>
+<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
+<p>ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@69.50.95.165:8119#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS4zMi40NiIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogIjI5ZWViYjYwLWIyN2ItNGE5ZC1iYmE1LTk0Nzc2M2Q5MjA1ZSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMDA2LjMxOTY3NzIueHl6IiwgInRscyI6ICIifQ==<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNWFiYzRjMC1iNTE4LTQxOTUtODhiNC01NzkwMGYxNmZiNjU=@aa01gg.sssyun.xyz:36993#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpiNWFiYzRjMC1iNTE4LTQxOTUtODhiNC01NzkwMGYxNmZiNjU=@aa01gg.sssyun.xyz:39201#%E7%94%98%E8%82%83%E7%9C%81%E5%85%B0%E5%B7%9E%E5%B8%82+%E7%A7%BB%E5%8A%A8<br>
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjIyMCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTgzLjIzOC4yMDIuMTczIiwgInBvcnQiOiAiNTQ1NjUiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgImFpZCI6ICI2NCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogIiIsICJwYXRoIjogIi8iLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=<br>
+vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDk1LCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImljeS10b290aC0zZDA1LnBsenRoc21kbnNzLTdkOGx5LndvcmtlcnMuZGV2IiwgInBhdGgiOiAiL29iZGlpLmNmZC9saW5rd3MiLCAidGxzIjogIiJ9<br>
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.136.33:5003#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.46:8888#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ3Ljc1IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA1MiwgImlkIjogImQ2YjZkOTgyLWQ1MmYtNDY1YS1iOTg4LTg1NjcwYjIzZjY0YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJjZG4zLmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
+vmess://eyJhZGQiOiAicnVzc2lhLmNvbSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDg4ODAsICJpZCI6ICIwNmQ2NTY4OS1hMTJhLTQ2N2MtOWZmOC0wMzYzZmU5MGMwYjQiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAic3NzdWIudjIuMDAxLnNzcnN1Yi5jb20iLCAicGF0aCI6ICIvYXBpL3YzL2Rvd25sb2FkLmdldEZpbGUiLCAidGxzIjogIiJ9<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBYXlYaGxaTVpXVzlOM2swb0JhcWtM@188.166.214.119:3127#%E6%96%B0%E5%8A%A0%E5%9D%A1+DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpKZkJxTkVkdnV1bUdrZjhLTk1VNWc4@188.166.214.119:6785#%E6%96%B0%E5%8A%A0%E5%9D%A1+DigitalOcean%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42NC4xNjYuMTIiLCAicG9ydCI6ICIyMDg2IiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdlJDTnp3aUliS1FJSEZSWkZKbW5j@161.35.96.52:3127#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+vmess://eyJhZGQiOiAiMTcyLjY0Ljk5LjIyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDExLmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40NS4xMSIsICJwb3J0IjogIjIwODYiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42NC4xNjYuMjIiLCAicG9ydCI6ICIyMDg2IiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=<br>
 <br>
-本次节点订阅地址：https://9527521.xyz/pubconfig/ij5dFZLnQWB6Ucoq</p>
+本次节点订阅地址：https://9527521.xyz/pubconfig/Pm2dGRcNKt5I6zCY</p>
 <p>&nbsp; 　</p>
 
 
@@ -55,14 +69,21 @@ vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjki
 
 
 
-freess：<p>vless://fdf80797-b469-61f5-6e42-ca4464653de9@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
-<p>vless://b7b810d4-22df-0bd3-dd83-e448ca1342de@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
+freess：<p>
+
+vless://ca59d2d3-e978-1f03-36cb-60cb3630432e@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
+<p>
+
+vless://b7b810d4-22df-0bd3-dd83-e448ca1342de@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
 <p>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-al:<br>
-<strong>北京时间2024年7月28日10点00分更新。</strong>禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。</p>
+</p>
 <p>
+
+al:<br>
+<b>北京时间2024年7月28日10点00分更新</b>。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
+<br>
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。<br>
 <br>
 v2ray节点-洛杉矶<br>
@@ -90,7 +111,6 @@ headerType（伪装类型）: none<br>
 v2ray节点一键导入链接：<br>
 <br>
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb21cdTZEMUJcdTY3NDlcdTc3RjYiLA0KICAiYWRkIjogIjE2Ni4xLjIyMS4yMDQiLA0KICAicG9ydCI6ICI1Njc4OSIsDQogICJpZCI6ICJmYmE4MjYwMS1lNzczLTQyZGItYjlkYy0yYjdmYTE4ODJkM2YiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInd3dy5iaW5nLmNvbSIsDQogICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9<br>
-<br>
 <br>
 　</p>
 <p><font zoompage-fontsize="24" face="宋体">
