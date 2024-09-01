@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-8-31 12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-9-1 12:15:55 
 
 
 
@@ -41,19 +41,25 @@
 
 
 <p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
-&nbsp; 　&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%E9%9F%A9%E5%9B%BD+KT%E7%94%B5%E4%BF%A1<br>
+&nbsp; 　&nbsp; </p>
+<p>vmess://eyJhZGQiOiAic2VydmVyMzEuYmVoZXNodGJhbmVoLmNvbSIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIzMS5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjQxNTQxNDNjLWJiYmEtNDdhNC05Zjc5LWMyZWQwODdjYmNjOSIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br>
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU1MzcwXHU1ZWE2IFYyQ1JPU1MuQ09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<br>
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInd3dy5kYXJrcm9vbS5sb2wiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==<br>
+vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjEyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=<br>
+vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjE5NiIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwOTUsICJpZCI6ICI3YTczN2Y0MS1iNzkyLTQyNjAtOTRmZi0zZDg2NGRhNjdiODAiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=<br>
+vmess://eyJhZGQiOiAiMTA0LjE4LjI1LjkyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA1MiwgImlkIjogImY1ODRkZTE1LTIwMzQtNDE3MC1hNzIzLWY0OGMyYmFlNWUwZiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJteXNhbjIuamFxdWF5MjIud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvYWZyaG1zMTZ2LmJlc3R4cmF5LmJ1enovbGlua3dzIiwgInRscyI6ICIifQ==<br>
 <br>
-本次节点订阅地址：https://9527521.xyz/pubconfig/HoRlr1Z0UYdspixW</p>
+本次节点订阅地址：https://9527521.xyz/pubconfig/PEqLoXD2Zfub1zNO</p>
 <p>
-
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 al:<br>
-<strong>北京时间2024年8月31日16点30分更新</strong>。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
+<strong>北京时间2024年9月1日13点00分更新</strong>。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
 <br>
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。<br>
 <br>
-v2ray节点-洛杉矶<br>
+v2ray节点1-洛杉矶<br>
 <br>
-Address(地址): ip2.3235134.xyz<br>
+Address(地址): 104.21.238.111<br>
 <br>
 Port（端口）: 443<br>
 <br>
@@ -69,15 +75,41 @@ headerType（伪装类型）: none<br>
 <br>
 伪装域名（host）: ip2.3235134.xyz<br>
 <br>
-路径：动态网<br>
+路径（path）：动态网<br>
 <br>
-底层传输安全：不填<br>
+底层传输安全（TLS）：tls<br>
 <br>
-v2ray节点一键导入链接：<br>
+v2ray节点1一键导入链接：<br>
 <br>
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb21cdTZEMUJcdTY3NDlcdTc3RjYiLA0KICAiYWRkIjogImlwMi4zMjM1MTM0Lnh5eiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICI2MDI0MGM3ZS1lNmM3LTQyOWMtOTg0NS01YjgxNGI5ZjQzNmIiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogImlwMi4zMjM1MTM0Lnh5eiIsDQogICJwYXRoIjogIlx1NTJBOFx1NjAwMVx1N0Y1MSIsDQogICJ0bHMiOiAidGxzIiwNCiAgInNuaSI6ICIiLA0KICAiYWxwbiI6ICIiLA0KICAiZnAiOiAiIg0KfQ==</p>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb21cdTZEMUJcdTY3NDlcdTc3RjYiLA0KICAiYWRkIjogIjEwNC4yMS4yMzguMTExIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjYwMjQwYzdlLWU2YzctNDI5Yy05ODQ1LTViODE0YjlmNDM2YiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaXAyLjMyMzUxMzQueHl6IiwNCiAgInBhdGgiOiAiXHU1MkE4XHU2MDAxXHU3RjUxIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9<br>
+<br>
+v2ray节点2-洛杉矶<br>
+<br>
+Address(地址): 166.1.221.204<br>
+<br>
+Port（端口）: 2052<br>
+<br>
+UUID（用户id）: fba82601-e773-42db-b9dc-2b7fa1882d3f<br>
+<br>
+alterId（额外ID）: 0<br>
+<br>
+security（加密方式）: auto<br>
+<br>
+network（传输协议）: ws<br>
+<br>
+headerType（伪装类型）: none<br>
+<br>
+伪装域名（host）: www.bing.com<br>
+<br>
+路径（path）：github.com/Alvin9999<br>
+<br>
+底层传输安全（TLS）：不填<br>
+<br>
+v2ray节点2一键导入链接：<br>
+<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb21cdTZEMUJcdTY3NDlcdTc3RjYiLA0KICAiYWRkIjogIjE2Ni4xLjIyMS4yMDQiLA0KICAicG9ydCI6ICIyMDUyIiwNCiAgImlkIjogImZiYTgyNjAxLWU3NzMtNDJkYi1iOWRjLTJiN2ZhMTg4MmQzZiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAid3d3LmJpbmcuY29tIiwNCiAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=</p>
 <p>
-
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 <br>
 　</p>
 <p><font zoompage-fontsize="24" face="宋体">
