@@ -1,325 +1,727 @@
-<html>
-
-<head>
-
-<style type='text/css'>
-			#message{position:fixed;width:800px;margin:0 auto;background:#fff;height:auto;display:block;float:left;z-index:99999999;text-align:center;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:8px;border:4px solid orange;padding:40px 0!important;}#message img{max-width:150px;margin:20px auto!important;clear:both}#message h2{font-weight:700!important;font-family:arial!important;padding:10px 0!important;font-size:26px!important;}#message p{margin:30px 0!important;}button#mehn {cursor:pointer;display: inline-block;text-align: center;vertical-align: middle;padding: 12px 24px;border: 1px solid #4443cf;border-radius: 8px;background: #807eff;background: -webkit-gradient(linear, left top, left bottom, from(#807eff), to(#4443cf));background: -moz-linear-gradient(top, #807eff, #4443cf);background: linear-gradient(to bottom, #807eff, #4443cf);font: normal normal bold 20px arial;color: #ffffff;text-decoration: none;}button#mehn:focus,button#mehn:hover{border:1px solid ##504ff4;background:#9a97ff;background:-webkit-gradient(linear,left top,left bottom,from(#9a97ff),to(#5250f8));background:-moz-linear-gradient(top,#9a97ff,#5250f8);background:linear-gradient(to bottom,#9a97ff,#5250f8);color:#fff;text-decoration:none}button#mehn:active{background:#4443cf;background:-webkit-gradient(linear,left top,left bottom,from(#4443cf),to(#4443cf));background:-moz-linear-gradient(top,#4443cf,#4443cf);background:linear-gradient(to bottom,#4443cf,#4443cf)}button#mehn:before{content:'';display:inline-block;height:24px;width:24px;line-height:24px;margin:0 4px -6px -4px;position:relative;top:0;left:-3px;background:url(https://www.freefq.com/images/ok.jpg) no-repeat left center transparent;background-size:100% 100%}#overlayh{position:fixed;width:100%;margin:0 auto;opacity:.8;background:#000;height:100%;display:block;float:left;z-index:99999998;top:0;}
-			@media only screen and (max-width: 1024px){#message{position:fixed;width:90%;margin:0 auto;background:#fff;height:auto;display:block;float:left;z-index:99999999;text-align:center;left:50%;top:50%;transform:translate(-50%,-50%);border-radius:8px;border:4px solid orange;padding:10px;}}@media only screen and (max-width: 767px){#message img {max-width:100px;}#message {padding:10px!important;}}
-			</style>
-
-
-
-
-<base target="_blank">
-
-
-
-
-
-<meta http-equiv="Content-Language" content="zh-cn">
-<meta http-equiv="Content-Type" content="text/html; charset=gb2312">
-<title>免费ss服务器分享</title>
-</head>
-
-<body>
-
-
-
-<font face="宋体">
-
-
-
-<p>
-Free SS 免费SS账号所有数据均来自互联网，更新时间：2024-<span lang="en-us">9</span>-<span lang="en-us">12 </span>12:35:55
-
-
-　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-</p>
-
-</font>
-
-<p>来自<a href="https://freefq.com">免费翻墙网https://freefq.com</a>的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！<a target="_blank" href="https://freefq.com/ss/2023/12/31/freess.html">最新可用免费ssr节点免费ss账号每天不定时更新！<font face="宋体">https://freefq.com/ss/2023/12/31/freess.html</font></a><font face="宋体">
-
-
-
-
-
-
-
-
-
-　<p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-
-</p>
-
-
-
-
-
-<p>v2c:&nbsp; </p>
-
-<p>ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.144:7002#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS4zOC42MiIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwgInNuaSI6ICJpcDAwNS4zMTk2NzcyLnh5eiIsICJob3N0IjogImlwMDA1LjMxOTY3NzIueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.110.1.35:7306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:3389#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.35:5000#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
-vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjhzaGhlYnNqNzh3amlzbmJoc2p2ZXNzLXBvbmQtNmNjNi5jZXJvZzkxMjE2LndvcmtlcnMuZGV2IiwgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsICJ0bHMiOiAiIn0=<br>
-vmess://eyJhZGQiOiAiMjMuMjI3LjM4LjMiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU1MTZjXHU1M2Y4Q0ROXHU4MjgyXHU3MGI5KHNob3BpZnkpIiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlwMTQuZnJlZWdyYWRlbHkueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9<br>
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.203:5600#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@139.64.165.63:7001#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAiYWlkIjogMCwgImhvc3QiOiAid29ya2VyLW5vaXN5LXBhcGVyLWZhMDAuaGV0b2oxODIwMC53b3JrZXJzLmRldiIsICJpZCI6ICJmNTg0ZGUxNS0yMDM0LTQxNzAtYTcyMy1mNDhjMmJhZTVlMGYiLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsICJwb3J0IjogMjA4MiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInRscyI6ICIiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<br>
-vmess://eyJ2IjogIjIiLCAiYWRkIjogIjEwNC4xOS40NS4yNTMiLCAicG9ydCI6ICIyMDk1IiwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAwLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSJ9<br>
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@139.64.165.153:6697#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@23.157.40.95:9102#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40NS40MiIsICJwb3J0IjogIjIwODYiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpcDE0LmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9<br>
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.154:3306#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40NS4xMyIsICJwb3J0IjogIjIwODYiLCAidHlwZSI6ICJub25lIiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJob3N0IjogImlwMTMuZnJlZWdyYWRlbHkueHl6IiwgInRscyI6ICIifQ==<br>
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.62.162:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-ss://YWVzLTI1Ni1nY206bEdxczk1UWtGSG8yTlY=@38.110.1.203:5499#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@139.64.165.154:9102#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJhZGQiOiAiMTA0LjE5LjM4LjEyIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=<br>
-vmess://eyJhZGQiOiAiMTcyLjY3LjEzMC4xNDAiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInMxYy52Mi52MDAxc3NzLnh5eiIsICJwYXRoIjogIi8iLCAidGxzIjogIiJ9<br>
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@139.64.165.123:8888#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJhZGQiOiAiMTA0LjE5LjQyLjQ5IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDExLmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
-<br>
-本次节点订阅地址：https://9527521.xyz/pubconfig/4KM2h9ue3loQDLfr</p>
-<p>　</p>
-
-<p>
-<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-</p>
-<p>freess:</p>
-<p>
-vless://fa51920d-1b60-c4c9-5c33-b9300a0e8e3d@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
-<p>
-vless://de8cb96a-708b-b713-5a0f-d9abef55f619@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
-<p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-
-
-</p>
-
-
-<p>al:</p>
-
-
-
-
-
-<p><strong>北京时间2024年9月9日23点30分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
-<p>SSR节点：<br>
-位置 地址 端口 密码 加密方式 协议 混淆<br>
-洛杉矶 dongtaiwang5.com 10088 dongtaiwang.com none auth_chain_a plain<br>
-<br>
-SSR节点链接：<br>
-<br>
-ssr://ZG9uZ3RhaXdhbmc1LmNvbToxMDA4ODphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJlYTBtLWFkaWVlZnRn<br>
-<br>
-SS节点：<br>
-位置 地址 端口 密码 加密方式<br>
-洛杉矶 166.1.18.179 11111 dongtaiwang.com aes-256-gcm<br>
-<br>
-SS链接：<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@166.1.18.179:11111#www.dongtaiwang.com%E6%B4%9B%E6%9D%89%E7%9F%B6</p>
-<p>　
-
-
-
-　　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script></p>
-
-<p>SS客户端<span style="font-weight: 400">下载及使用方法</span></p><font zoompage-fontsize="24" face="宋体">
-<p zoompage-fontsize="24"><font face="宋体">
-
-
-
-SS
-
-</font>
-
-windows客户端1<span zoompage-fontsize="24" lang="zh-cn">：</span></p>
-<font face="宋体"><font zoompage-fontsize="24" face="宋体">
-<p zoompage-fontsize="24" align="left">
-<a zoompage-fontsize="24" href="https://www.freefq.com/rj/2021/04/28/winXray.html">
-<span style="box-sizing: inherit; font-size: 12pt" zoompage-fontsize="16">
-winXray</span><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">网站下载</span></a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">|</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://www.mediafire.com/folder/oxslwbt7gtjs2/winXray">网盘备份下载</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">|已被删除：</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://github.com/winXray/winXray/tree/master/release">官方下载(2合1版)</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">（</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://github.com/winXray/winXray/tree/master/release/winXray32.7z">32位版</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">、</span><a data-wpel-link="external" target="_blank" rel="nofollow external noopener noreferrer" style="box-sizing: inherit; text-decoration: none; font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: transparent" zoompage-fontsize="16" href="https://github.com/winXray/winXray/tree/master/release/winXray.7z">64位版</a><span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 300; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 244, 255)" zoompage-fontsize="16">）</span></p>
-<p zoompage-fontsize="24" align="left"><b zoompage-fontsize="24">使用方法简介：<span style="font-family: Ubuntu; font-size: 12pt; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; letter-spacing: normal; orphans: 2; text-align: start; text-indent: 0px; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none; background-color: rgb(255, 255, 255)" zoompage-fontsize="16">首先打开winXray客户端，在“首页”右侧列表的任意位置点击鼠标右键，选择“自剪贴板批量导入分享链接和订阅源”，稍等片刻即可添加成功，这时候winXray会自动连接延迟最低的节点，你也可以手动双击某个节点使用特定的服务器线路节点。</span></b></p>
-</font>
-<h2><font size="3">其他V2ray/SSR安卓苹果手机/电脑客户端下载</font></h2>
-<h3><font size="3">V2Ray客户端下载</font></h3>
-<p>最新版V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray 
-Linux客户端下载链接也一并送上。</p>
-<h4>Windows7/8/10-<strong>V2ray WinPC电脑客户端</strong>程序下载</h4>
-<figure class="wp-block-table alignwide is-style-stripes">
-<table>
-	<tr>
-		<td>V2rayN下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/2dust/v2rayN/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>V2rayW下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Cenmrev/V2RayW/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>Clash下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Fndroid/clash_for_windows_pkg/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>V2rayS下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Shinlor/V2RayS/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>Mellow下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/mellow-io/mellow/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>Qv2ray下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Qv2ray/Qv2ray">
-		官网下载</a></td>
-	</tr>
-</table>
-</figure>
-<h4><strong>Android/小米MIUI/华为EMUI-V2ray安卓手机客户端</strong>Apk程序下载</h4>
-<figure class="wp-block-table alignwide is-style-stripes">
-<table>
-	<tr>
-		<td>V2rayNG下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/2dust/v2rayNG/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>BifrostV下载</td>
-		<td>
-		<a rel="noreferrer noopener" target="_blank" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk">
-		市场下载</a></td>
-	</tr>
-	<tr>
-		<td>Clash下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Kr328/ClashForAndroid/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>Kitsunebi下载</td>
-		<td>
-		<a rel="noreferrer noopener" target="_blank" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android">
-		市场下载</a></td>
-	</tr>
-</table>
-</figure>
-<h4><strong>MacOS-V2ray 苹果电脑客户端</strong>程序下载</h4>
-<figure class="wp-block-table alignwide is-style-stripes">
-<table>
-	<tr>
-		<td>V2rayU下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/yanue/V2rayU/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>V2rayX下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Cenmrev/V2RayX/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>ClashX下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/yichengchen/clashX/releases">
-		官网下载</a></td>
-	</tr>
-</table>
-</figure>
-<h4><strong>Linux</strong>–<strong>V2ray Ubuntu/Centos电脑客户端</strong>程序下载</h4>
-<figure class="wp-block-table alignwide is-style-stripes">
-<table>
-	<tr>
-		<td>Qv2ray下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/Qv2ray/Qv2ray">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>Mellow下载</td>
-		<td>
-		<a target="_blank" rel="noreferrer noopener" href="https://github.com/mellow-io/mellow/releases">
-		官网下载</a></td>
-	</tr>
-	<tr>
-		<td>V2rayL下载</td>
-		<td>
-		<a rel="noreferrer noopener" target="_blank" href="https://github.com/jiangxufeng/v2rayL">
-		官方安装文档</a></td>
-	</tr>
-</table>
-</figure>
-<h4>iOS-<strong>V2ray苹果手机客户端App程序</strong>下载</h4>
-<p>苹果AppStore市场里还没有免费的V2ray iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。</p>
-<h3><font size="3">ShadowsocksR/SSR客户端下载</font></h3>
-<p>ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。</p>
-<p>整理了最新版SSR Windows客户端、SSR安卓客户端、苹果电脑SSR MacOS客户端和苹果手机SSR iOS客户端的下载地址分享给大家。</p>
-<h4><strong>Windows7/8/10-SSR小飞机 WinPC电脑客户端程序下载</strong></h4>
-<p>
-<a rel="noreferrer noopener" target="_blank" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases">
-官网下载</a></p>
-<h4><strong>Android/小米MIUI/华为EMUI-SSR小飞机 安卓手机客户端Apk程序下载</strong></h4>
-<p>
-<a rel="noreferrer noopener" target="_blank" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases">
-官网下载</a></p>
-<p>
-<br>
-ssr安卓客户端apk下载<a href="https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html">https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html</a>安装后，可直接点击下面的ssr节点链接实现翻墙，windows客户端则要复制该ssr节点链接后使用ssr右键→剪贴板批量导入ssr://链接。 
-<br>
-<br>
-方法简介：CTRL+A全选本页面，CTRL+C复制，右键点击ssr客户端的图标，左键点击剪贴板批量导入ssr://链接，即可一键导入本文件所有ssr节点。<p>
-　</p>
-<h4><strong>MacOS-SSR小飞机 苹果电脑客户端程序下载</strong></h4>
-<p>
-<a target="_blank" rel="noreferrer noopener" href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases">
-官网下载</a></p>
-<h4><strong>iOS-SSR小飞机 苹果手机客户端App程序</strong>下载</h4>
-<p>iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。</p>
-<h2><font size="3">Clash、SS等客户端订阅地址一键转换：</font></h2>
-<p>SS/SSR/V2ray客户端若无法直接使用SSR节点链接，用下面链接的工具转换成订阅地址后，SSR/SSD/Surge/Quantum/Surfboard/Loon等手机、电脑的客户端就可以使用了：</p>
-<p>
-<a target="_blank" rel="noreferrer noopener nofollow" href="https://acl4ssr-sub.github.io">
-https://acl4ssr-sub.github.io</a></p>
-</font>
-</font><p>
-其他<font face="宋体">客户端<span lang="zh-cn">下载：</span></font></p>
-<p>
-<a href="https://shadowsocks.org/en/download/clients.html">
-https://shadowsocks.org/en/download/clients.html</a> </p>
-<p>
-<br>
-　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
-
-</font>
-
-</p>
-
-</body>
-
-</html>
-
+<html xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:w="urn:schemas-microsoft-com:office:word" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns="http://www.w3.org/TR/REC-html40"><head><meta http-equiv=Content-Type  content="text/html; charset=gb2312" ><meta name=ProgId  content=Word.Document ><meta name=Generator  content="Microsoft Word 14" ><meta name=Originator  content="Microsoft Word 14" ><link rel=File-List  href="ss免费账号分享2024年9月12日.files/filelist.xml" ><title></title><!--[if gte mso 9]><xml><o:DocumentProperties><o:Author>user</o:Author><o:LastAuthor>user</o:LastAuthor><o:Revision>1</o:Revision><o:Pages>3</o:Pages><o:Lines>1</o:Lines><o:Paragraphs>1</o:Paragraphs></o:DocumentProperties><o:CustomDocumentProperties><o:KSOProductBuildVer dt:dt="string" >2052-12.8.2.15283</o:KSOProductBuildVer><o:ICV dt:dt="string" >E27F962522F9E14F686DE56620A33869_42</o:ICV></o:CustomDocumentProperties></xml><![endif]--><!--[if gte mso 9]><xml><o:OfficeDocumentSettings></o:OfficeDocumentSettings></xml><![endif]--><!--[if gte mso 9]><xml><w:WordDocument><w:BrowserLevel>MicrosoftInternetExplorer4</w:BrowserLevel><w:DisplayHorizontalDrawingGridEvery>0</w:DisplayHorizontalDrawingGridEvery><w:DisplayVerticalDrawingGridEvery>2</w:DisplayVerticalDrawingGridEvery><w:DocumentKind>DocumentNotSpecified</w:DocumentKind><w:DrawingGridVerticalSpacing>7.8 磅</w:DrawingGridVerticalSpacing><w:View>Web</w:View><w:Compatibility><w:DoNotExpandShiftReturn/><w:UseFELayout/></w:Compatibility><w:Zoom>0</w:Zoom></w:WordDocument></xml><![endif]--><!--[if gte mso 9]><xml><w:LatentStyles DefLockedState="false"  DefUnhideWhenUsed="true"  DefSemiHidden="true"  DefQFormat="false"  DefPriority="99"  LatentStyleCount="260" >
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="heading 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toc 9" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footer" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="index heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="caption" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of figures" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="envelope return" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="footnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="line number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="page number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote reference" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="endnote text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="table of authorities" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="macro" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="toa heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Bullet 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Number 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Title" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Closing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Default Paragraph Font" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="List Continue 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Message Header" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Subtitle" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Salutation" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Date" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text First Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Note Heading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Body Text Indent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Block Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Hyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="FollowedHyperlink" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Strong" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  QFormat="true"  Name="Emphasis" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Document Map" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Plain Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="E-mail Signature" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Normal (Web)" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Acronym" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Address" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Cite" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Code" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Definition" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Keyboard" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Preformatted" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Sample" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Typewriter" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="HTML Variable" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Normal Table" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="annotation subject" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / a / i" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="1 / 1.1 / 1.1.1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Article / Section" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Simple 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Classic 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Colorful 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Columns 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 7" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table List 8" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table 3D effects 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Contemporary" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Elegant" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Professional" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Subtle 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Web 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="0"  SemiHidden="false"  UnhideWhenUsed="false"  Name="Balloon Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Table Theme" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Placeholder Text" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="No Spacing" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="List Paragraph" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Intense Quote" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 1" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 2" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 3" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 4" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 5" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Light Grid Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Shading 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium List 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 1 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 2 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Medium Grid 3 Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Dark List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Shading Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful List Accent 6" ></w:LsdException>
+<w:LsdException Locked="false"  Priority="99"  SemiHidden="false"  Name="Colorful Grid Accent 6" ></w:LsdException>
+</w:LatentStyles></xml><![endif]--><style>
+@font-face{
+font-family:"Times New Roman";
+}
+
+@font-face{
+font-family:"宋体";
+}
+
+@font-face{
+font-family:"Wingdings";
+}
+
+@font-face{
+font-family:"Ubuntu";
+}
+
+p.MsoNormal{
+mso-style-name:正文;
+mso-style-noshow:yes;
+mso-style-parent:"";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+h1{
+mso-style-name:"标题 1";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:24.0000pt;
+mso-font-kerning:22.0000pt;
+}
+
+h2{
+mso-style-name:"标题 2";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:18.0000pt;
+}
+
+h3{
+mso-style-name:"标题 3";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:13.5000pt;
+}
+
+h4{
+mso-style-name:"标题 4";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:12.0000pt;
+}
+
+h5{
+mso-style-name:"标题 5";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:10.0000pt;
+}
+
+h6{
+mso-style-name:"标题 6";
+mso-style-next:正文;
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-weight:bold;
+font-size:7.5000pt;
+}
+
+span.10{
+font-family:'Times New Roman';
+}
+
+span.15{
+font-family:'Times New Roman';
+mso-ansi-font-weight:bold;
+}
+
+span.16{
+font-family:'Times New Roman';
+}
+
+span.17{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+span.18{
+font-family:'Times New Roman';
+color:rgb(0,0,255);
+text-decoration:underline;
+text-underline:single;
+}
+
+p.19{
+mso-style-name:"HTML 预设格式 Char";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.20{
+mso-style-name:"p Char";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.pre{
+mso-style-name:"HTML 预设格式";
+margin-top:0.0000pt;
+margin-right:0.0000pt;
+margin-bottom:0.0000pt;
+margin-left:0.0000pt;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+p.p{
+mso-style-name:"普通\(网站\)";
+margin-top:5.0000pt;
+margin-right:0.0000pt;
+margin-bottom:5.0000pt;
+margin-left:0.0000pt;
+mso-margin-top-alt:auto;
+mso-margin-bottom-alt:auto;
+text-align:left;
+font-family:宋体;
+font-size:12.0000pt;
+}
+
+span.msoIns{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:underline;
+text-underline:single;
+color:blue;
+}
+
+span.msoDel{
+mso-style-type:export-only;
+mso-style-name:"";
+text-decoration:line-through;
+color:red;
+}
+
+table.MsoNormalTable{
+mso-style-name:普通表格;
+mso-style-parent:"";
+mso-style-noshow:yes;
+mso-tstyle-rowband-size:0;
+mso-tstyle-colband-size:0;
+mso-padding-alt:0.0000pt 5.4000pt 0.0000pt 5.4000pt;
+mso-para-margin:0pt;
+mso-para-margin-bottom:.0001pt;
+mso-pagination:widow-orphan;
+font-family:'Times New Roman';
+font-size:10.0000pt;
+mso-ansi-language:#0400;
+mso-fareast-language:#0400;
+mso-bidi-language:#0400;
+}
+@page{mso-page-border-surround-header:no;
+	mso-page-border-surround-footer:no;}@page Section0{
+size:595.3000pt 841.9500pt;
+mso-header-margin:42.5500pt;
+mso-footer-margin:49.6000pt;
+}
+div.Section0{page:Section0;}</style></head><body style="tab-interval:21pt;" ><!--StartFragment--><div class="Section0" ><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >Free SS 免费SS账号所有数据均来自互联网，更新时间：2024-9-14 12:35:55 &nbsp;&nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >来自</font></span><span><a href="https://freefq.com" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >免费翻墙网</font><font face="宋体" >https://freefq.com</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >的提醒：所有账号、节点或服务器均源自国际互联网，全部由其他网站分享，并非由免费翻墙网提供。全部未经测试，本站不能保证其安全性与稳定性，随时可能失效，敬请谅解！</font></span><span><a href="https://freefq.com/ss/2023/12/31/freess.html" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >最新可用免费</font><font face="宋体" >ssr节点免费ss账号每天不定时更新！https://freefq.com/ss/2023/12/31/freess.html</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >v2c: &nbsp;</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >1.vmess://eyJhZGQiOiAiMTcyLjY0LjE3NS44OCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXAxNC5mcmVlZ3JhZGVseS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >2.vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42NC4xNjYuMjgiLCAicG9ydCI6ICIyMDg2IiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >3.ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#%E6%B3%A2%E5%85%B0+V2CROSS.COM</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >4.ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >5.vmess://eyJhZGQiOiAiMTA0LjIxLjgyLjE4MyIsICJhaWQiOiAwLCAiaG9zdCI6ICJzZXJ2ZXIyNi5iZWhlc2h0YmFuZWguY29tIiwgImlkIjogIjVhNzAyMWUwLTI2YjQtNDVkNi1iMTc1LWZlNTUxNjAxY2E5NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvIiwgInBvcnQiOiA4ODgwLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAidGxzIjogIiIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >6.vmess://eyJhZGQiOiAiMTYyLjE1OS4xNDAuMzMiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlwMS4xNzg5MDM0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >本次节点订阅地址：</font><font face="宋体" >https://9527521.xyz/pubconfig/l9iUuDtZqMn0H1E3 </font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >freess:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >vless://8045d895-960a-bf7a-8a8c-662409593605@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >vless://2769c132-40a7-281d-25ee-c5c6e07b35ea@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >al:</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >北京时间</font><font face="宋体" >2024年9月13日20点30分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</font></span></b><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SSR节点：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >位置</font> &#9;<font face="宋体" >地址</font> &#9;<font face="宋体" >端口</font> &#9;<font face="宋体" >密码</font> &#9;<font face="宋体" >加密方式</font> &#9;<font face="宋体" >协议</font> &#9;<font face="宋体" >混淆</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >洛杉矶</font> &#9;<font face="宋体" >dongtaiwang5.com &#9;10088 &#9;dongtaiwang.com &#9;none &#9;auth_chain_a &#9;plain</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SSR节点链接：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >ssr://ZG9uZ3RhaXdhbmc1LmNvbToxMDA4ODphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJlYTBtLWFkaWVlZnRn</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SS节点：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >位置</font> &#9;<font face="宋体" >地址</font> &#9;<font face="宋体" >端口</font> &#9;<font face="宋体" >密码</font> &#9;<font face="宋体" >加密方式</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >洛杉矶</font> &#9;<font face="宋体" >23.170.40.71 &#9;11111 &#9;dongtaiwang.com &#9;aes-256-gcm</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SS链接：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@23.170.40.71:11111#www.dongtaiwang.com%E6%B4%9B%E6%9D%89%E7%9F%B6</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SS客户端下载及使用方法</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SS windows客户端1：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;text-align:left;" ><span><a href="https://www.freefq.com/rj/2021/04/28/winXray.html" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;font-size:12.0000pt;" ><font face="宋体" >winXray</font></span></u><u><span class="18"  style="mso-spacerun:'yes';font-family:Ubuntu;color:rgb(0,0,255);
+letter-spacing:0.0000pt;text-transform:none;text-decoration:underline;
+text-underline:single;font-style:normal;font-size:12.0000pt;
+background:rgb(255,244,255);mso-shading:rgb(255,244,255);" ><font face="Ubuntu" >网站下载</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:Ubuntu;letter-spacing:0.0000pt;
+text-transform:none;font-style:normal;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;background:rgb(255,244,255);mso-shading:rgb(255,244,255);" >|</span><span><a href="https://www.mediafire.com/folder/oxslwbt7gtjs2/winXray" ><u><span class="18"  style="mso-spacerun:'yes';font-family:Ubuntu;color:rgb(0,0,255);
+letter-spacing:0.0000pt;text-transform:none;text-decoration:underline;
+text-underline:single;font-style:normal;font-size:12.0000pt;" ><font face="Ubuntu" >网盘备份下载</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:Ubuntu;letter-spacing:0.0000pt;
+text-transform:none;font-style:normal;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;background:rgb(255,244,255);mso-shading:rgb(255,244,255);" >|已被删除：</span><span><a href="https://github.com/winXray/winXray/tree/master/release" ><u><span class="18"  style="mso-spacerun:'yes';font-family:Ubuntu;color:rgb(0,0,255);
+letter-spacing:0.0000pt;text-transform:none;text-decoration:underline;
+text-underline:single;font-style:normal;font-size:12.0000pt;" ><font face="Ubuntu" >官方下载</font>(2合1版)</span></u></a></span><span style="mso-spacerun:'yes';font-family:Ubuntu;letter-spacing:0.0000pt;
+text-transform:none;font-style:normal;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;background:rgb(255,244,255);mso-shading:rgb(255,244,255);" ><font face="Ubuntu" >（</font></span><span><a href="https://github.com/winXray/winXray/tree/master/release/winXray32.7z" ><u><span class="18"  style="mso-spacerun:'yes';font-family:Ubuntu;color:rgb(0,0,255);
+letter-spacing:0.0000pt;text-transform:none;text-decoration:underline;
+text-underline:single;font-style:normal;font-size:12.0000pt;" >32位版</span></u></a></span><span style="mso-spacerun:'yes';font-family:Ubuntu;letter-spacing:0.0000pt;
+text-transform:none;font-style:normal;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;background:rgb(255,244,255);mso-shading:rgb(255,244,255);" ><font face="Ubuntu" >、</font></span><span><a href="https://github.com/winXray/winXray/tree/master/release/winXray.7z" ><u><span class="18"  style="mso-spacerun:'yes';font-family:Ubuntu;color:rgb(0,0,255);
+letter-spacing:0.0000pt;text-transform:none;text-decoration:underline;
+text-underline:single;font-style:normal;font-size:12.0000pt;" >64位版</span></u></a></span><span style="mso-spacerun:'yes';font-family:Ubuntu;letter-spacing:0.0000pt;
+text-transform:none;font-style:normal;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;background:rgb(255,244,255);mso-shading:rgb(255,244,255);" ><font face="Ubuntu" >）</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;text-align:left;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >使用方法简介：</font></span></b><b><span style="mso-spacerun:'yes';font-family:Ubuntu;letter-spacing:0.0000pt;
+font-weight:bold;text-transform:none;font-style:normal;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;background:rgb(255,255,255);
+mso-shading:rgb(255,255,255);" ><font face="Ubuntu" >首先打开</font>winXray客户端，在“首页”右侧列表的任意位置点击鼠标右键，选择“自剪贴板批量导入分享链接和订阅源”，稍等片刻即可添加成功，这时候winXray会自动连接延迟最低的节点，你也可以手动双击某个节点使用特定的服务器线路节点。</span></b><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >其他</font><font face="宋体" >V2ray/SSR安卓苹果手机/电脑客户端下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><h3 style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2Ray客户端下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h3><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >最新版</font><font face="宋体" >V2ray Windows客户端、V2ray安卓客户端、苹果电脑V2ray MacOS客户端和苹果手机V2ray iOS客户端以及V2ray Linux客户端下载链接也一并送上。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h4 style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Windows7/8/10-</font></span></b><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >V2ray WinPC电脑客户端</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;margin-left:6.3000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayN下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/2dust/v2rayN/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayW下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Cenmrev/V2RayW/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Clash下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayS下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Shinlor/V2RayS/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Mellow下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/mellow-io/mellow/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Qv2ray下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Qv2ray/Qv2ray" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >Android/小米MIUI/华为EMUI-V2ray安卓手机客户端</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Apk程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;margin-left:6.3000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayNG下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/2dust/v2rayNG/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >BifrostV下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk" ><font face="宋体" >市场下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Clash下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Kr328/ClashForAndroid/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Kitsunebi下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" ><font face="宋体" >市场下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >MacOS-V2ray 苹果电脑客户端</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;margin-left:6.3000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayU下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/yanue/V2rayU/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayX下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Cenmrev/V2RayX/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >ClashX下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/yichengchen/clashX/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >Linux</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >–</font></span></b><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >V2ray Ubuntu/Centos电脑客户端</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><table class=MsoNormalTable  border=0  cellspacing=2  style="mso-cellspacing:1.5000pt;margin-left:6.3000pt;mso-padding-alt:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;" ><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Qv2ray下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/Qv2ray/Qv2ray" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Mellow下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/mellow-io/mellow/releases" ><font face="宋体" >官网下载</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr><tr><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >V2rayL下载</font></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td><td valign=center  style="padding:0.7500pt 0.7500pt 0.7500pt 0.7500pt ;border-left:none;mso-border-left-alt:none;
+border-right:none;mso-border-right-alt:none;border-top:none;
+mso-border-top-alt:none;border-bottom:none;mso-border-bottom-alt:none;" ><p class=MsoNormal  style="mso-pagination:widow-orphan;text-align:left;" ><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><a href="https://github.com/jiangxufeng/v2rayL" ><font face="宋体" >官方安装文档</font></a></span><span style="font-family:宋体;font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></td></tr></table><h4 style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >iOS-</font></span></b><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >V2ray苹果手机客户端App程序</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >苹果</font><font face="宋体" >AppStore市场里还没有免费的V2ray iOS客户端，付费的app目前有小火箭Shadowrocket、pepi、i2Ray、Kitsunebi和Quantumult（圈儿，圈叉）可用。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h3 style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >ShadowsocksR/SSR客户端下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:13.5000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h3><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >ShadowsocksR简称SSR，还有酸酸乳、粉色小飞机、纸飞机这些可爱的昵称，使用较为广泛。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >整理了最新版</font><font face="宋体" >SSR Windows客户端、SSR安卓客户端、苹果电脑SSR MacOS客户端和苹果手机SSR iOS客户端的下载地址分享给大家。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >Windows7/8/10-SSR小飞机 WinPC电脑客户端程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><p class=p  style="mso-pagination:widow-orphan;" ><span><a href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >官网下载</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >Android/小米MIUI/华为EMUI-SSR小飞机 安卓手机客户端Apk程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><p class=p  style="mso-pagination:widow-orphan;" ><span><a href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >官网下载</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >ssr安卓客户端apk下载</font></span><span><a href="https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >https://www.freefq.com/sj/2017/12/20/shadowsocksr-android.html</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >安装后，可直接点击下面的</font><font face="宋体" >ssr节点链接实现翻墙，windows客户端则要复制该ssr节点链接后使用ssr右键→剪贴板批量导入ssr://链接。 </font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><br></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >方法简介：</font><font face="宋体" >CTRL+A全选本页面，CTRL+C复制，右键点击ssr客户端的图标，左键点击剪贴板批量导入ssr://链接，即可一键导入本文件所有ssr节点。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >MacOS-SSR小飞机 苹果电脑客户端程序下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><p class=p  style="mso-pagination:widow-orphan;" ><span><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >官网下载</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h4 style="mso-pagination:widow-orphan;" ><b style="mso-bidi-font-weight:normal" ><span class="15"  style="mso-spacerun:'yes';font-family:宋体;mso-ansi-font-weight:bold;
+mso-bidi-font-weight:normal;" ><font face="宋体" >iOS-SSR小飞机 苹果手机客户端App程序</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >下载</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h4><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >iPhone或者iPad打开苹果App Store，搜索Mume(暮梅)、Potatso Lite、FastSocks、Shadowrocket（小火箭）。</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><h2 style="mso-pagination:widow-orphan;" ><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:12.0000pt;mso-font-kerning:0.0000pt;" ><font face="宋体" >Clash、SS等客户端订阅地址一键转换：</font></span></b><b><span style="mso-spacerun:'yes';font-family:宋体;font-weight:bold;
+font-size:18.0000pt;mso-font-kerning:0.0000pt;" ><o:p></o:p></span></b></h2><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >SS/SSR/V2ray客户端若无法直接使用SSR节点链接，用下面链接的工具转换成订阅地址后，SSR/SSD/Surge/Quantum/Surfboard/Loon等手机、电脑的客户端就可以使用了：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span><a href="https://acl4ssr-sub.github.io" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >https://acl4ssr-sub.github.io</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><font face="宋体" >其他客户端下载：</font></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span><a href="https://shadowsocks.org/en/download/clients.html" ><u><span class="18"  style="mso-spacerun:'yes';font-family:宋体;color:rgb(0,0,255);
+text-decoration:underline;text-underline:single;" ><font face="宋体" >https://shadowsocks.org/en/download/clients.html</font></span></u></a></span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p><p class=p  style="mso-pagination:widow-orphan;" ><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" >&nbsp;&nbsp;</span><span style="mso-spacerun:'yes';font-family:宋体;font-size:12.0000pt;
+mso-font-kerning:0.0000pt;" ><o:p></o:p></span></p></div><!--EndFragment--></body></html>
