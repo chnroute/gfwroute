@@ -31,7 +31,7 @@
 
 <p><font face="宋体">Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2024-9-16 12:46:55
+所有数据均来自互联网，更新时间：2024-9-17 12:46:55
 
 
 
@@ -54,29 +54,10 @@
 
 
 
-<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42NC4xNjYuOSIsICJwb3J0IjogIjIwODYiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpcDIuMTQ1NzIzMC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yNi41LjExMyIsICJwb3J0IjogIjIwODYiLCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJpcDEuMTc4OTAzNC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==<br>
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@23.154.136.132:443#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br>
-vmess://eyJhZGQiOiAiMTA0LjIyLjM2LjI0MyIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXAxLjE3ODkwMzQueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiJ9<br>
-vmess://eyJhZGQiOiAiMTA0LjE5LjQ1LjkwIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDEzLmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
-vmess://eyJhZGQiOiAiMTYyLjE1OS4xNDAuNDUiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiZTllM2NjMTMtZGI0OC00Y2MxLThjMjQtNzYyNjQzOWE1MzM5IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImlwMS4xNzg5MDM0Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@69.50.95.138:7307#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjE3Mi42NC4xNjcuMjUiLCAicG9ydCI6ICIyMDg2IiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAiaXAyLjE0NTcyMzAueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4yMS44LjE1NyIsICJwb3J0IjogMjA4MiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMTEyYWMzNmYtM2Y1My00ZTI2LTgzNzEtZDI1YzAyOGUxYjlhIiwgImhvc3QiOiAiczFjLnYyLnYwMDFzc3MueHl6IiwgInBhdGgiOiAiLyJ9<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xNy4xMDYuMTUxIiwgInBvcnQiOiAiMjA4NiIsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAic2N5IjogImF1dG8iLCAibmV0IjogIndzIiwgInR5cGUiOiAibm9uZSIsICJob3N0IjogImlwMTQuZnJlZWdyYWRlbHkueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLCAidGxzIjogIiIsICJzbmkiOiAiIiwgImFscG4iOiAiIn0=<br>
-vmess://eyJhZGQiOiAiMTA0LjI2LjEyLjMxIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDEuMTc4OTAzNC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=<br>
-vmess://eyJhZGQiOiAiMTA0LjE4LjU3LjExMSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJlOWUzY2MxMy1kYjQ4LTRjYzEtOGMyNC03NjI2NDM5YTUzMzkiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiaXAxMS5mcmVlZ3JhZGVseS54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS4zOC42MiIsICJwb3J0IjogMjA4NiwgImFpZCI6IDAsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiMjllZWJiNjAtYjI3Yi00YTlkLWJiYTUtOTQ3NzYzZDkyMDVlIiwgInNuaSI6ICJpcDAwNi4zMTk2NzcyLnh5eiIsICJob3N0IjogImlwMDA2LjMxOTY3NzIueHl6IiwgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkifQ==<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40NS4zNCIsICJwb3J0IjogIjIwOTUiLCAiaWQiOiAiN2E3MzdmNDEtYjc5Mi00MjYwLTk0ZmYtM2Q4NjRkYTY3YjgwIiwgImFpZCI6ICIwIiwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIm5vbmUiLCAiaG9zdCI6ICJvbmVhLmZsaGEucnUiLCAicGF0aCI6ICIvIiwgInRscyI6ICIiLCAic25pIjogIiIsICJhbHBuIjogIiJ9<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:26667#%E9%9F%A9%E5%9B%BD+KT%E7%94%B5%E4%BF%A1<br>
-vmess://eyJhZGQiOiAiamFwYW4uY29tIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDEuMTc4OTAzNC54eXoiLCAicGF0aCI6ICJnaXRodWIuY29tL0FsdmluOTk5OSIsICJ0bHMiOiAiIn0=<br>
-ss://YWVzLTEyOC1nY206OTAxMzA5ZGQtNTY2Yi00NzI1LTg4NzctMTE5MDFmYmE5OTJm@group-south-01.nutbit-node.lat:11014#%E5%AE%89%E5%BE%BD%E7%9C%81+%E7%A7%BB%E5%8A%A8%28%E5%85%A8%E7%9C%81%E9%80%9A%E7%94%A8%29<br>
-vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiNDQxZGEzNDItY2U5MC00NDFlLWJmZjktZDJjZWI1NWU2OGNhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjgydXBsZS1iaXJkLWIwODcucGVtZWQ1ODQ0My53b3JrZXJzLmRldiIsICJwYXRoIjogIi9pdmlkZW9zLnNicy9saW5rd3MiLCAidGxzIjogIiJ9<br>
-vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogIjEwNC4xOS40NS4xMTQiLCAicG9ydCI6ICIyMDk1IiwgImlkIjogIjdhNzM3ZjQxLWI3OTItNDI2MC05NGZmLTNkODY0ZGE2N2I4MCIsICJhaWQiOiAiMCIsICJzY3kiOiAiYXV0byIsICJuZXQiOiAid3MiLCAidHlwZSI6ICJub25lIiwgImhvc3QiOiAib25lYS5mbGhhLnJ1IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIiwgInNuaSI6ICIiLCAiYWxwbiI6ICIifQ==<br>
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.158:443#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
-vmess://eyJhZGQiOiAiMTA0LjE5LjQyLjQ5IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImU5ZTNjYzEzLWRiNDgtNGNjMS04YzI0LTc2MjY0MzlhNTMzOSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJpcDExLmZyZWVncmFkZWx5Lnh5eiIsICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
+<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20005#%E7%BE%8E%E5%9B%BD%E7%A7%91%E7%BD%97%E6%8B%89%E5%A4%9A%E5%B7%9E%E5%B8%83%E9%9A%86%E8%8F%B2%E5%B0%94%E5%BE%B7%E5%B8%82+Level3<br>
+ss://YWVzLTI1Ni1nY206N0JjTGRzTzFXd2VvR0QwWA==@193.243.147.128:40368#%E6%B3%A2%E5%85%B0+V2CROSS.COM<br>
 <br>
-本次节点订阅地址：https://9527521.xyz/pubconfig/XHBVxpOQ4dMJoCAb
+本次节点订阅地址：https://9527521.xyz/pubconfig/chl19rx27LC3fU0i
 
 
 <p>　</p>
@@ -85,8 +66,8 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjQyLjQ5IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQg
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://f56a9dd2-be2d-3534-4b3a-66f93a35e97a@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
-<p>vless://f0d9b25c-6ee0-40f8-b125-e8f62b8badbd@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
+<p>vless://409f7c42-9f28-8d09-752a-4bc3b5db1452@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
+<p>vless://c932a6ad-c41f-0c00-d58e-29b2bb371e1a@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
 <p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 
 
@@ -99,22 +80,25 @@ vmess://eyJhZGQiOiAiMTA0LjE5LjQyLjQ5IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQg
 
 
 
-<p><strong>北京时间2024年9月15日23点00分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
+<p><strong>北京时间2024年9月17日11点30分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
 SSR节点：<br>
 位置 地址 端口 密码 加密方式 协议 混淆<br>
 洛杉矶 dongtaiwang5.com 10088 dongtaiwang.com none auth_chain_a plain<br>
+洛杉矶 ssr.4465779.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
 <br>
 SSR节点链接：<br>
 <br>
 ssr://ZG9uZ3RhaXdhbmc1LmNvbToxMDA4ODphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJlYTBtLWFkaWVlZnRn<br>
 <br>
+ssr://c3NyLjQ0NjU3NzkueHl6OjQ0MzphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1aRzl1WjNSaGFYZGhibWN1WTI5dDVyU2I1cDJKNTUtMiZ1b3Q9MQ<br>
+<br>
 SS节点：<br>
 位置 地址 端口 密码 加密方式<br>
-洛杉矶 38.114.103.143 11111 dongtaiwang.com aes-256-gcm<br>
+洛杉矶 46.17.40.79 11111 dongtaiwang.com chacha20-ietf-poly1305<br>
 <br>
 SS链接：<br>
 <br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@38.114.103.143:11111#www.dongtaiwang.com%E6%B4%9B%E6%9D%89%E7%9F%B6　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkb25ndGFpd2FuZy5jb20=@46.17.40.79:11111#www.dongtaiwang.com%E6%B4%9B%E6%9D%89%E7%9F%B6　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 
 
