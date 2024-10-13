@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-10-12  12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-10-13  12:15:55 
 
 
 
@@ -40,7 +40,28 @@
 
 
 
-<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9102#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:8888#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5003#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:443#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:3306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.9:8080#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.103:9101#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/UNh3D6aLFyQACrJk</p>
+<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.105:9101#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:8888#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:5601#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8881#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.42:8882#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:3306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.46:5000#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6679#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.103:9101#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.41:5600#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.199:8080#%E6%AC%A7%E7%9B%9F+V2CROSS.COM<br>
+<br>
+本次节点订阅地址：https://9527521.xyz/pubconfig/sIoWt2m8nGa6CXY0</p>
 
 
 
@@ -52,9 +73,9 @@
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://3e32413a-3e6f-99ca-f34e-5f89506ed725@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://3e32413a-3e6f-99ca-f34e-5f89506ed725@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
 <p>
-vless://a1b09785-8a10-3ddd-87b5-bb5e8b990d34@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]
+vless://add753c3-f3d5-1860-1bb7-0aa486c00863@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]
 
 </p>
 <p>
@@ -64,14 +85,71 @@ vless://a1b09785-8a10-3ddd-87b5-bb5e8b990d34@www.kernels.bid:443?path=%2Fws&secu
 　</p>
 <p>
 al:<br>
-<strong>北京时间2024年9月29日8点00分更新</strong>。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
+<strong>北京时间2024年10月12日19点00分更新</strong>。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
 <br>
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。<br>
 <br>
 
 
 
-<p>节点1（vmess）-洛杉矶<br /><br />Address(地址): 104.21.238.111<br /><br />Port（端口）: 443<br /><br />UUID（用户id）: d3e74217-5b07-4c8f-ab79-23e73864941a<br /><br />alterId（额外ID）: 0<br /><br />security（加密方式）: auto<br /><br />network（传输协议）: ws<br /><br />headerType（伪装类型）: none<br /><br />伪装域名（host）: ip2.3235134.xyz<br /><br />路径（path）：动态网<br /><br />底层传输安全（TLS）：tls<br /><br />节点1（vmess）一键导入链接：<br /><br />vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogInd3dy5kb25ndGFpd2FuZy5jb21cdTZEMUJcdTY3NDlcdTc3RjYiLA0KICAiYWRkIjogIjEwNC4yMS4yMzguMTExIiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogImQzZTc0MjE3LTViMDctNGM4Zi1hYjc5LTIzZTczODY0OTQxYSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaXAyLjMyMzUxMzQueHl6IiwNCiAgInBhdGgiOiAiXHU1MkE4XHU2MDAxXHU3RjUxIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9<br /><br />节点2（vless）-洛杉矶<br /><br />（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或shadowrocket，Linux使用Linux hiddify）<br /><br />Address(地址): 166.1.221.204<br /><br />Port（端口）: 11063<br /><br />UUID（用户id）: fba82601-e773-42db-b9dc-2b7fa1882d3f<br /><br />flow（流控）: xtls-rprx-vision<br /><br />encryption（加密方式）: none<br /><br />network（传输协议）: tcp<br /><br />headerType（伪装类型）: none<br /><br />TLS（传输层安全）: reality<br /><br />SNI (serverName) : www.yahoo.com<br /><br />Fingerprint （指纹）: chrome<br /><br />Public key （公钥）：A5T9HVe4YmVgOEkiXyI_IXBiE83yolzpH2SLRW2nSk0<br /><br />Shortld ：c29de7e6<br /><br />节点2（vless）一键导入链接：<br /><br />vless://fba82601-e773-42db-b9dc-2b7fa1882d3f@166.1.221.204:11063?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=A5T9HVe4YmVgOEkiXyI_IXBiE83yolzpH2SLRW2nSk0&amp;sid=c29de7e6&amp;type=tcp&amp;headerType=none#www.dongtaiwang.com%E6%B4%9B%E6%9D%89%E7%9F%B6</p>
+<p>节点1（vmess）<br>
+<br>
+Address(地址): 104.21.238.88<br>
+<br>
+Port（端口）: 2086<br>
+<br>
+UUID（用户id）: 9aca2f38-5ab8-424d-b198-c6c229b6353e<br>
+<br>
+alterId（额外ID）: 0<br>
+<br>
+security（加密方式）: auto<br>
+<br>
+network（传输协议）: ws<br>
+<br>
+headerType（伪装类型）: none<br>
+<br>
+伪装域名（host）: ip3.3235134.xyz<br>
+<br>
+路径（path）：github.com/Alvin9999<br>
+<br>
+底层传输安全（TLS）：不填<br>
+<br>
+节点1（vmess）一键导入链接：<br>
+<br>
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRvbmd0YWl3YW5nLmNvbVx1ODI4Mlx1NzBCOTEiLA0KICAiYWRkIjogIjEwNC4yMS4yMzguODgiLA0KICAicG9ydCI6ICIyMDg2IiwNCiAgImlkIjogIjlhY2EyZjM4LTVhYjgtNDI0ZC1iMTk4LWM2YzIyOWI2MzUzZSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiaXAzLjMyMzUxMzQueHl6IiwNCiAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=<br>
+<br>
+节点2（vless）<br>
+<br>
+（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或shadowrocket，Linux使用Linux 
+hiddify）<br>
+<br>
+Address(地址): 185.22.154.79<br>
+<br>
+Port（端口）: 11223<br>
+<br>
+UUID（用户id）: 9aca2f38-5ab8-424d-b198-c6c229b6353e<br>
+<br>
+flow（流控）: xtls-rprx-vision<br>
+<br>
+encryption（加密方式）: none<br>
+<br>
+network（传输协议）: tcp<br>
+<br>
+headerType（伪装类型）: none<br>
+<br>
+TLS（传输层安全）: reality<br>
+<br>
+SNI (serverName) : www.yahoo.com<br>
+<br>
+Fingerprint （指纹）: chrome<br>
+<br>
+Public key （公钥）：px14i0ISua-XFqkVuF7UzoBmDFJTiamW_pihxX6o1U4<br>
+<br>
+Shortld ：43e24701<br>
+<br>
+节点2（vless）一键导入链接：<br>
+<br>
+vless://9aca2f38-5ab8-424d-b198-c6c229b6353e@185.22.154.79:11223?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=px14i0ISua-XFqkVuF7UzoBmDFJTiamW_pihxX6o1U4&amp;sid=43e24701&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92</p>
 
 
 

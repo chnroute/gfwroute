@@ -31,7 +31,7 @@
 
 <p><font face="宋体">Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2024-10-12  12:46:55
+所有数据均来自互联网，更新时间：2024-10-13  12:46:55
 
 
 
@@ -53,24 +53,41 @@
 
 
 
-<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.68.134.9:9102#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.97:5601#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.12:8888#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5003#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.69:443#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.49.122:7306#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@212.102.53.195:443#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@69.50.95.53:443#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@38.143.66.87:6379#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:3306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.114.114.69:8882#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphOGJ0OWZZMFFzTFM2ZUxuWFVlMFlt@45.158.171.9:8080#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.103:9101#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/UNh3D6aLFyQACrJk</p>
+
+<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@38.110.1.105:9101#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@69.50.95.53:3389#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@142.202.49.122:9102#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.92.72:8882#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:8888#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.121.43.97:7306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:5601#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@142.202.49.84:5004#%E5%8A%A0%E6%8B%BF%E5%A4%A7+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@69.50.95.53:8881#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@169.197.142.216:6679#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0@38.75.137.42:8882#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.121.43.65:3306#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.46:5000#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.68.134.9:6679#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@69.50.95.103:9101#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.68.134.9:8000#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@23.150.152.41:5600#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.121.43.97:8091#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.69:8080#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpnREZSZTUydWlJdlZheHFQbHF3NDM5@45.87.175.199:8080#%E6%AC%A7%E7%9B%9F+V2CROSS.COM<br>
+<br>
+本次节点订阅地址：https://9527521.xyz/pubconfig/sIoWt2m8nGa6CXY0</p>
 
 
 
 
-
-<p>　</p>
 
 <p>
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://3e32413a-3e6f-99ca-f34e-5f89506ed725@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://3e32413a-3e6f-99ca-f34e-5f89506ed725@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
 <p>
-vless://a1b09785-8a10-3ddd-87b5-bb5e8b990d34@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]
-
-</p>
-<p>　</p>
+vless://add753c3-f3d5-1860-1bb7-0aa486c00863@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
 
 
 <p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
@@ -86,19 +103,31 @@ vless://a1b09785-8a10-3ddd-87b5-bb5e8b990d34@www.kernels.bid:443?path=%2Fws&secu
 
 
 
-<p><strong>北京时间2024年10月7日17点00分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
+<p><strong>北京时间2024年10月12日13点00分更新。节点单用户限速500kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
 
 
-<p>SSR节点：<br />位置 &nbsp;&nbsp; &nbsp;地址 &nbsp;&nbsp; &nbsp;端口 &nbsp;&nbsp; &nbsp;密码 &nbsp;&nbsp; &nbsp;加密方式 &nbsp;&nbsp; &nbsp;协议 &nbsp;&nbsp; &nbsp;混淆<br />洛杉矶 &nbsp;&nbsp; &nbsp;dongtaiwang5.com &nbsp;&nbsp; &nbsp;10088 &nbsp;&nbsp; &nbsp;dongtaiwang.com &nbsp;&nbsp; &nbsp;none &nbsp;&nbsp; &nbsp;auth_chain_a &nbsp;&nbsp; &nbsp;plain<br />洛杉矶 &nbsp;&nbsp; &nbsp;ssr2.4465779.xyz &nbsp;&nbsp; &nbsp;443 &nbsp;&nbsp; &nbsp;dongtaiwang.com &nbsp;&nbsp; &nbsp;none &nbsp;&nbsp; &nbsp;auth_chain_a &nbsp;&nbsp; &nbsp;tls1.2_ticket_auth<br /><br />SSR节点链接：<br /><br />ssr://ZG9uZ3RhaXdhbmc1LmNvbToxMDA4ODphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJlYTBtLWFkaWVlZnRn<br /><br />ssr://c3NyMi40NDY1Nzc5Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9Wkc5dVozUmhhWGRoYm1jdVkyOXQ1clNiNXAySjU1LTJNZyZ1b3Q9MQ<br /><br />SS节点：<br />位置 &nbsp;&nbsp; &nbsp;地址 &nbsp;&nbsp; &nbsp;端口 &nbsp;&nbsp; &nbsp;密码 &nbsp;&nbsp; &nbsp;加密方式<br />洛杉矶 &nbsp;&nbsp; &nbsp;46.17.40.57 &nbsp;&nbsp; &nbsp;22222 &nbsp;&nbsp; &nbsp;dongtaiwang.com &nbsp;&nbsp; &nbsp;aes-256-gcm<br /><br />SS链接：<br /><br />ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@46.17.40.57:22222#www.dongtaiwang.com%E6%B4%9B%E6%9D%89%E7%9F%B6</p>
+<p>SSR节点：<br>
+名称 地址 端口 密码 加密方式 协议 混淆<br>
+节点1 dongtaiwang5.com 10088 dongtaiwang.com none auth_chain_a plain<br>
+节点2 ssr2.4465779.xyz 443 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
+<br>
+SSR节点链接：<br>
+<br>
+ssr://ZG9uZ3RhaXdhbmc1LmNvbToxMDA4ODphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPWQzZDNMbVJ2Ym1kMFlXbDNZVzVuTG1OdmJlYTBtLWFkaWVlZnRn<br>
+<br>
+ssr://c3NyMi40NDY1Nzc5Lnh5ejo0NDM6YXV0aF9jaGFpbl9hOm5vbmU6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9Wkc5dVozUmhhWGRoYm1jdVkyOXQ1clNiNXAySjU1LTJNZyZ1b3Q9MQ<br>
+<br>
+SS节点：<br>
+名称 地址 端口 密码 加密方式<br>
+节点 46.17.40.57 22222 dongtaiwang.com aes-256-gcm<br>
+<br>
+SS链接：<br>
+<br>
+ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@46.17.40.57:22222#dongtaiwang.com%E8%8A%82%E7%82%B9　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
 
 
 
-
-　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script>
-
-
-
-<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>　</p>
+<script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>　</p></p>
 <p>　</p>
 <p align="left">
 
