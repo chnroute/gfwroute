@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-10-30  12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-10-31  12:15:55 
 
 
 
@@ -40,7 +40,8 @@
 
 
 
-<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkNjEwNWJiZC1iZTBkLTQ1YjItODJhZC0zMWZkMTA3MWMxZDI=@service.ouluyun9803.com:20003#%E6%84%8F%E5%A4%A7%E5%88%A9+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/nXzeAEIrs0Pdqvgb</p>
+<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <p>vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInBlbmRhci5vbnRoZXdpZmkuY29tIiwgImlkIjogIjcxNmVkZWQ2LTIyMDEtNGRiZC05ZDYzLTE2MzhjOWU4ZTY3NyIsICJuZXQiOiAid3MiLCAicGF0aCI6ICIvQGZvcndhcmR2MnJheSIsICJwb3J0IjogNDQzLCAicHMiOiAiXHU1MzcwXHU1ZWE2IFYyQ1JPU1MuQ09NIiwgInRscyI6ICJ0bHMiLCAidHlwZSI6ICJhdXRvIiwgInNlY3VyaXR5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiAiIn0=<br /><br />vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==</p>
+<p>vmess://eyJhZGQiOiAiZ292LnVrIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgRmFzdGx5XHU1MTY4XHU3NDAzQW55Y2FzdFx1ODI4Mlx1NzBiOSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNzc4NDg4MjQtOTNiNy00Yjg5LWZmZDAtZTkxYWZmZjQwNmNlIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInpoZXNoaXNjcC5jb20iLCAicGF0aCI6ICIvNzc4NDg4MjQiLCAidGxzIjogInRscyJ9 本次节点订阅地址：https://9527521.xyz/pubconfig/kd8QOmxqsHKpFPIh</p>
 
 
 
@@ -54,9 +55,9 @@
 <p>freess:</p>
 <p>
 
-vless://d64014a3-d42a-a52b-f668-b8553e26e913@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+vless://7d66c093-4924-d52e-3e14-6ec04665f451@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
 <p>
-vless://9f7915c2-d212-becb-8add-ddedce5f8e09@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+vless://a9692036-b833-6e63-9eae-aff96e85b0fb@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 <p>
