@@ -31,7 +31,7 @@
 
 <p><font face="宋体">Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2024-12-15  12:46:55
+所有数据均来自互联网，更新时间：2024-12-16  12:46:55
 
 
 
@@ -56,25 +56,15 @@
 
 <p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
-<p>vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuMTU4IiwgInYiOiAiMiIsICJwcyI6ICJcdTc0NWVcdTUxNzggVjJDUk9TUy5DT00iLCAicG9ydCI6IDgwLCAiaWQiOiAiMDU2NDFjZjUtNThkMi00YmE0LWE5ZjEtYjNjZGEwYjFmYjFkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImQzOTYtZmxvd2VyLWQzOTYubWVnYXJlNzI2MC53b3JrZXJzLmRldiIsICJwYXRoIjogIi9vYmRpaS5jZmQvbGlua3dzIiwgInRscyI6ICIifQ==<br>
-vmess://eyJhZGQiOiAiMTA0LjE2LjY3LjM4IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODA4MCwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICI4YnNpYnNoOHdiYndpaGZoanNrYmJuZy1zaGFwZS0zLm1ld2l2b3QxNTQud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvaG1zMDIuZnhpYW9taS5zYnMvbGluayIsICJ0bHMiOiAiIn0=<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo3a0pRczJSWUhoVmlUWVdhZjFSb2JC@77.246.97.187:7749#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM<br>
-vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogODg4MCwgImlkIjogIjc2MjIxYmZiLWU5MmYtNGU4MC04MWM1LTZmZTQ4ZjUwYWMwYiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3b3JrZXItbGluZ2VyaW5nLWZvZy1jMDIxLmdlc29mb2c4NzAud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvZ2x3ZWlkZi5zYnMvbGlua3dzIiwgInRscyI6ICIifQ==<br>
-ss://YWVzLTI1Ni1nY206TE9ISTk2VzRNWTdVMlQ4VA==@219.135.227.209:16003#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1<br>
-vmess://eyJhZGQiOiAiMTA0LjE4LjU2LjU1IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4NiwgImlkIjogImExNjU1ZjUxLTFlMjAtNGE5Mi04YTExLWI3Y2EzMGE3YTM1MyIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ2cG5zdXBwb3J0ZmFzdC52cG5zdW9ydGZhc3Qud29ya2Vycy5kZXYiLCAicGF0aCI6ICIvYWZyaG1zMDcueGZpeGVkZmxvYXQuY2ZkL2xpbmt3cyIsICJ0bHMiOiAiIn0=<br>
-vmess://eyJhZGQiOiAiMTYyLjE1OS40NS4yMzgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiOTBmOGY0ZGMtODA5Mi00MzU1LTkwNDctMDVmNTA2ZjVlOWFiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIm0yMC4xNTU4NTcueHl6IiwgInBhdGgiOiAiL2dpdGh1Yi5jb20vQWx2aW45OTk5IiwgInRscyI6ICIifQ==<br>
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozVmtib3dmMFBMSEprVk1tUEZqY0E3aS9qMEFCYjZFYll0YmUvWHJ3dWRzPQ==@138.124.51.236:59923#%E6%8C%AA%E5%A8%81+V2CROSS.COM<br>
-trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@abf4a13f063dfe2373df11fe8b9ba0b4.v1.cac.node-is.green:45181?sni=de1.bilibili.com#%E6%97%A5%E6%9C%AC+V2CROSS.COM<br>
-<br>
-本次节点订阅地址：https://9527521.xyz/pubconfig/bIA3eENjSZxQwgF4</p>
+<p>&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMTg1LjIyMS4xNjAuMTYzIiwgInYiOiAiMiIsICJwcyI6ICJcdTRmYzRcdTdmNTdcdTY1YWYgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ0MywgImlkIjogIjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3b3JrZXItbXV0ZS1iYXItMTcxOS5uaWZvdG9rOTkzLndvcmtlcnMuZGV2IiwgInBhdGgiOiAiL2dsd2VpZGYuY2ZkL2xpbmt3cyIsICJ0bHMiOiAidGxzIn0=<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmOGY3YUN6Y1BLYnNGOHAz@154.90.63.193:990#%E9%A6%99%E6%B8%AF+%E7%89%B9%E5%88%AB%E8%A1%8C%E6%94%BF%E5%8C%BA<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAic2hzLnhpYW9xaTY2Ni54eXoiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiM2ZkN2I5NTgtMjE2MS00NmUxLWI2ZmMtYmQ2YmIyMTY1MzEyIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogInNocy54aWFvcWk2NjYueHl6IiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206QU5UR1Q3NE1PNTdLTExMRQ==@219.135.227.209:15011#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1<br />&nbsp;&nbsp;&nbsp; trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@218.190.230.207:42264?sni=hk12.bilibili.com#%E9%A6%99%E6%B8%AF+%E7%8E%AF%E7%90%83%E5%85%A8%E5%9F%9F%E7%94%B5%E8%AE%AF%E5%9B%BD%E9%99%85%E4%BA%92%E8%81%94%E8%8A%82%E7%82%B9<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206OVVCNE9GOFdaMFlYSVBCRA==@219.135.227.209:15015#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiOTEuMTk5Ljg0LjExMiIsICJ2IjogIjIiLCAicHMiOiAiXHU4Mzc3XHU1MTcwIFYyQ1JPU1MuQ09NIiwgInBvcnQiOiA0MDM4MCwgImlkIjogIjEzMzY0Nzg5LWE4YjItNGJjZC04ZGY3LWE3OTRmYjZmODdlNSIsICJhaWQiOiAiMCIsICJuZXQiOiAidGNwIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiIiwgInBhdGgiOiAiIiwgInRscyI6ICJ0bHMifQ==<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMTg1LjE0Ni4xNzMuNTkiLCAidiI6ICIyIiwgInBzIjogIlx1NzQ1ZVx1NTE3OCBWMkNST1NTLkNPTSIsICJwb3J0IjogNDQzLCAiaWQiOiAiNmMxNjhmY2MtMjIzMS00ZjNiLThjMWUtZjYzOTE2OTJkZjRhIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImhtczAyLmZ4aWFvbWkuc2JzIiwgInBhdGgiOiAiL2xpbmsiLCAidGxzIjogInRscyJ9<br />&nbsp;&nbsp;&nbsp; trojan://telegram-id-directvpn@3.137.65.57:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;alpn=http/1.1#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMTA0LjE4LjYyLjIwNCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDIwODYsICJpZCI6ICJhMTY1NWY1MS0xZTIwLTRhOTItOGExMS1iN2NhMzBhN2EzNTMiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAidnBuc3VwcG9ydGZhc3QudnBuc3VvcnRmYXN0LndvcmtlcnMuZGV2IiwgInBhdGgiOiAiL2FmcmhtczA3LnhmaXhlZGZsb2F0LmNmZC9saW5rd3MiLCAidGxzIjogIiJ9<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMTA0LjE2LjY4LjM4IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4MiwgImlkIjogIjZjMTY4ZmNjLTIyMzEtNGYzYi04YzFlLWY2MzkxNjkyZGY0YSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICIzOGhodWlldC1nbGl0dGVyLWVlMDEubGlqZXlldDM2MC53b3JrZXJzLmRldiIsICJwYXRoIjogIi9obXMwMi5meGlhb21pLnNicy9saW5rIiwgInRscyI6ICIifQ==<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpjdklJODVUclc2bjBPR3lmcEhWUzF1@45.87.175.164:8080#%E6%AC%A7%E7%9B%9F+V2CROSS.COM<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/PEtdJz0mYpRsSy34</p>
 <p>　</p>
 
 <p>
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://919adbf9-9fd1-df16-f17a-4361223a4bf4@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
-<p>vless://5a1de562-bccf-29af-cffa-092a4d0dafe6@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
+<p>vless://c804fa73-f53d-43a8-60b6-6e2863c8c744@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://c91132d4-b894-3ffc-56fe-ea9f34f08d61@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
 
 
 <p>　<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
@@ -90,27 +80,14 @@ trojan://aa6ddd2f-d1cf-4a52-ba1b-2640c41a7856@abf4a13f063dfe2373df11fe8b9ba0b4.v
 
 
 
-<p> 北京时间2024年12月15日1点00分<strong>。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
+<p> 北京时间2024年12月16日1点00分<strong>。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！</strong></p>
 
 
-<p>SSR节点：<br>
-节点 地址 端口 密码 加密方式 协议 混淆<br>
-节点1 dongtaiwang5.com 50055 dongtaiwang.com none auth_chain_a plain<br>
-节点2 ssr2.4465779.xyz 22222 dongtaiwang.com none auth_chain_a tls1.2_ticket_auth<br>
-<br>
-SSR节点链接：<br>
-<br>
-ssr://ZG9uZ3RhaXdhbmc1LmNvbTo1MDA1NTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPVpHOXVaM1JoYVhkaGJtY3VZMjl0NXJTYjVwMko1NS0yVTFOU01RJnVvdD0x<br>
-<br>
-ssr://c3NyMi40NDY1Nzc5Lnh5ejoyMjIyMjphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1aRzl1WjNSaGFYZGhibWN1WTI5dDVyU2I1cDJKNTUtMk1nJnVvdD0x<br>
-<br>
-SS节点：<br>
-节点 地址 端口 密码 加密方式<br>
-节点1 195.133.5.254 33333 dongtaiwang.com aes-256-gcm<br>
-<br>
-SS链接：<br>
-<br>
-ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@195.133.5.254:33333#dongtaiwang.com%E8%8A%82%E7%82%B91<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>　</p></p></p></p>
+<p>SSR节点：<br />节点 &nbsp;&nbsp; &nbsp;地址 &nbsp;&nbsp; &nbsp;端口 &nbsp;&nbsp; &nbsp;密码 &nbsp;&nbsp; &nbsp;加密方式 &nbsp;&nbsp; &nbsp;协议 &nbsp;&nbsp; &nbsp;混淆<br />节点1 &nbsp;&nbsp; &nbsp;dongtaiwang5.com &nbsp;&nbsp; &nbsp;50055 &nbsp;&nbsp; &nbsp;dongtaiwang.com &nbsp;&nbsp; &nbsp;none &nbsp;&nbsp; &nbsp;auth_chain_a &nbsp;&nbsp; &nbsp;plain<br />节点2 &nbsp;&nbsp; &nbsp;ssr2.4465779.xyz &nbsp;&nbsp; &nbsp;22222 &nbsp;&nbsp; &nbsp;dongtaiwang.com &nbsp;&nbsp; &nbsp;none &nbsp;&nbsp; &nbsp;auth_chain_a &nbsp;&nbsp; &nbsp;tls1.2_ticket_auth<br /><br />SSR节点链接：<br /><br />ssr://ZG9uZ3RhaXdhbmc1LmNvbTo1MDA1NTphdXRoX2NoYWluX2E6bm9uZTpwbGFpbjpaRzl1WjNSaGFYZGhibWN1WTI5dC8_b2Jmc3BhcmFtPSZyZW1hcmtzPVpHOXVaM1JoYVhkaGJtY3VZMjl0NXJTYjVwMko1NS0yVTFOU01RJnVvdD0x<br /><br />ssr://c3NyMi40NDY1Nzc5Lnh5ejoyMjIyMjphdXRoX2NoYWluX2E6bm9uZTp0bHMxLjJfdGlja2V0X2F1dGg6Wkc5dVozUmhhWGRoYm1jdVkyOXQvP29iZnNwYXJhbT0mcmVtYXJrcz1aRzl1WjNSaGFYZGhibWN1WTI5dDVyU2I1cDJKNTUtMk1nJnVvdD0x<br /><br />SS节点：<br />节点 &nbsp;&nbsp; &nbsp;地址 &nbsp;&nbsp; &nbsp;端口 &nbsp;&nbsp; &nbsp;密码 &nbsp;&nbsp; &nbsp;加密方式<br />节点1 &nbsp;&nbsp; &nbsp;185.22.155.228 &nbsp;&nbsp; &nbsp;12345 &nbsp;&nbsp; &nbsp;dongtaiwang.com &nbsp;&nbsp; &nbsp;aes-256-gcm<br /><br />SS链接：<br /><br />ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.155.228:12345#dongtaiwang.com%E8%8A%82%E7%82%B9</p>
+
+
+
+<script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>　
 
 
 <p>　</p>
