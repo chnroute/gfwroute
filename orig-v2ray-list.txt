@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-12-17  12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-12-18  12:15:55 
 
 
 
@@ -42,15 +42,15 @@
 
 <p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
 
-<p>vmess://eyJhZGQiOiAiaHNqLmxieGpjLm9ubGluZSIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAicG9ydCI6IDgwLCAiaWQiOiAiZTY1NDMzMTktMDU3NC00MmFjLWI3NzgtMWM0MzI1ZDYyNmY1IiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogImNodW5jaHVhbi5rZWppeGlhb3FpNjY2LnN0b3JlIiwgInBhdGgiOiAiLyIsICJ0bHMiOiAiIn0=<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a2.samanehha.co:443#%E8%8B%B1%E5%9B%BD+%E4%BC%A6%E6%95%A6Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83<br />&nbsp;&nbsp;&nbsp; trojan://telegram-id-directvpn@44.198.219.9:22222?security=tls&amp;sni=trojan.burgerip.co.uk&amp;type=tcp&amp;allowInsecure=1#%E7%BE%8E%E5%9B%BD+Amazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogImlyc29mdC5zeXRlcy5uZXQiLCAiaWQiOiAiMmZmOTdjNmQtODU1Ny00MmE0LWI0M2YtMTljNzdjNTk1OWVhIiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br />&nbsp;&nbsp;&nbsp; trojan://telegram-id-privatevpns@13.50.205.252:22222?sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Xerox<br />&nbsp;&nbsp;&nbsp; trojan://94d219c9-1afc-4d42-b090-8b3794764380@std1.loadingip.com:443#%E6%BE%B3%E5%A4%A7%E5%88%A9%E4%BA%9A+V2CROSS.COM<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/8Cp7IxjTyM6kv9Xh</p>
+<p>vmess://eyJhZGQiOiAiemZhMDQuMzMzMjEwLnh5eiIsICJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU1ZTdmXHU1ZGRlXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJwb3J0IjogNDAzODAsICJpZCI6ICIxMzM2NDc4OS1hOGIyLTRiY2QtOGRmNy1hNzk0ZmI2Zjg3ZTUiLCAiYWlkIjogIjAiLCAibmV0IjogInRjcCIsICJ0eXBlIjogIiIsICJob3N0IjogInpmYTA0LjMzMzIxMC54eXoiLCAicGF0aCI6ICIiLCAidGxzIjogInRscyJ9<br />&nbsp;&nbsp;&nbsp; ss://YWVzLTI1Ni1nY206QkdYOE9YRDZQMTBYNTNMWQ==@219.135.227.209:17001#%E5%B9%BF%E4%B8%9C%E7%9C%81%E5%B9%BF%E5%B7%9E%E5%B8%82%E8%8D%94%E6%B9%BE%E5%8C%BA+%2F%E5%A4%A9%E6%B2%B3%E5%8C%BA%E7%94%B5%E4%BF%A1<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWcEtBQmNPcE5OQTBsNUcyQVZPbXc4@213.109.147.242:62685#%E8%8D%B7%E5%85%B0+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; trojan://tg-fq521free@198.62.62.67:443?allowInsecure=1&amp;sni=torjan.xn--xhq44j.eu.org&amp;type=ws&amp;host=torjan.xn--xhq44j.eu.org&amp;path=/#%E5%8C%97%E7%BE%8E%E5%9C%B0%E5%8C%BA+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMTA0LjE2LjYxLjgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiAyMDgyLCAiaWQiOiAiNzYyMjFiZmItZTkyZi00ZTgwLTgxYzUtNmZlNDhmNTBhYzBiIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIndvcmtlci1saW5nZXJpbmctZm9nLWMwMjEuZ2Vzb2ZvZzg3MC53b3JrZXJzLmRldiIsICJwYXRoIjogIi9nbHdlaWRmLnNicy9saW5rd3MiLCAidGxzIjogIiJ9<br />&nbsp;&nbsp;&nbsp; trojan://tg-fq521free@194.76.18.129:443?allowInsecure=1&amp;sni=torjan.xn--xhq44j.eu.org&amp;type=ws&amp;host=torjan.xn--xhq44j.eu.org&amp;path=/#%E5%BE%B7%E5%9B%BD+V2CROSS.COM<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/1kcjCGlEIdot3zs4</p>
 <p>　</p>
 
 <p>
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://9966dfd4-d38e-32e2-7a4e-eb82002d78b0@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
-<p>vless://695b6ba1-baae-a6e5-c52d-ea6491fea533@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://9eb94c87-539c-a88d-0661-704bcb25b8e5@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://b50125d3-f2f9-c36a-eb88-bf0343d43a26@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
 <p>　</p>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
@@ -66,14 +66,14 @@
 
 <p>
 al:<br>
-北京时间2024年12月17日8点00分。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
+北京时间2024年12月18日8点00分。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
 <br>
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。<br>
 <br>
 
 
 
-<p>节点1（vmess）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;45.154.207.99<br />Port（端口） &nbsp;&nbsp; &nbsp;11111<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;0084b5d0-8966-4398-87f8-d5d8b64aa356<br />alterId（额外ID） &nbsp;&nbsp; &nbsp;0<br />security（加密方式） &nbsp;&nbsp; &nbsp;auto<br />network（传输协议） &nbsp;&nbsp; &nbsp;ws<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />伪装域名（host） &nbsp;&nbsp; &nbsp;不填<br />底层传输安全（TLS） &nbsp;&nbsp; &nbsp;不填<br /><br />节点1（vmess）一键导入链接：<br /><br />vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRvbmd0YWl3YW5nLmNvbVx1ODI4Mlx1NzBCOTEiLA0KICAiYWRkIjogIjQ1LjE1NC4yMDcuOTkiLA0KICAicG9ydCI6ICIxMTExMSIsDQogICJpZCI6ICIwMDg0YjVkMC04OTY2LTQzOTgtODdmOC1kNWQ4YjY0YWEzNTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9<br /><br />节点2（vless）<br /><br />（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux hiddify）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;185.22.153.73<br />Port（端口） &nbsp;&nbsp; &nbsp;25835<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;af7f07dc-d726-4b1e-967d-dbb6c594999f<br />flow（流控） &nbsp;&nbsp; &nbsp;xtls-rprx-vision<br />encryption（加密方式） &nbsp;&nbsp; &nbsp;none<br />network（传输协议） &nbsp;&nbsp; &nbsp;tcp<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />TLS（传输层安全） &nbsp;&nbsp; &nbsp;reality<br />SNI (serverName) &nbsp;&nbsp; &nbsp;www.yahoo.com<br />Fingerprint （指纹） &nbsp;&nbsp; &nbsp;chrome<br />Public key （公钥） &nbsp;&nbsp; &nbsp;JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc<br />Shortld &nbsp;&nbsp; &nbsp;aff1f4dc<br /><br />节点2（vless）一键导入链接：<br /><br />vless://af7f07dc-d726-4b1e-967d-dbb6c594999f@185.22.153.73:25835?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc&amp;sid=aff1f4dc&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92</p>
+<p>节点1（vmess）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;45.154.207.99<br />Port（端口） &nbsp;&nbsp; &nbsp;22222<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;0084b5d0-8966-4398-87f8-d5d8b64aa356<br />alterId（额外ID） &nbsp;&nbsp; &nbsp;0<br />security（加密方式） &nbsp;&nbsp; &nbsp;auto<br />network（传输协议） &nbsp;&nbsp; &nbsp;ws<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />伪装域名（host） &nbsp;&nbsp; &nbsp;不填<br />底层传输安全（TLS） &nbsp;&nbsp; &nbsp;不填<br /><br />节点1（vmess）一键导入链接：<br /><br />vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRvbmd0YWl3YW5nLmNvbVx1ODI4Mlx1NzBCOTEiLA0KICAiYWRkIjogIjQ1LjE1NC4yMDcuOTkiLA0KICAicG9ydCI6ICIyMjIyMiIsDQogICJpZCI6ICIwMDg0YjVkMC04OTY2LTQzOTgtODdmOC1kNWQ4YjY0YWEzNTYiLA0KICAiYWlkIjogIjAiLA0KICAic2N5IjogImF1dG8iLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogIiIsDQogICJwYXRoIjogImdpdGh1Yi5jb20vQWx2aW45OTk5IiwNCiAgInRscyI6ICIiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiIsDQogICJmcCI6ICIiDQp9<br /><br />节点2（vless）<br /><br />（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux hiddify）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;185.22.153.73<br />Port（端口） &nbsp;&nbsp; &nbsp;25835<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;af7f07dc-d726-4b1e-967d-dbb6c594999f<br />flow（流控） &nbsp;&nbsp; &nbsp;xtls-rprx-vision<br />encryption（加密方式） &nbsp;&nbsp; &nbsp;none<br />network（传输协议） &nbsp;&nbsp; &nbsp;tcp<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />TLS（传输层安全） &nbsp;&nbsp; &nbsp;reality<br />SNI (serverName) &nbsp;&nbsp; &nbsp;www.yahoo.com<br />Fingerprint （指纹） &nbsp;&nbsp; &nbsp;chrome<br />Public key （公钥） &nbsp;&nbsp; &nbsp;JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc<br />Shortld &nbsp;&nbsp; &nbsp;aff1f4dc<br /><br />节点2（vless）一键导入链接：<br /><br />vless://af7f07dc-d726-4b1e-967d-dbb6c594999f@185.22.153.73:25835?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc&amp;sid=aff1f4dc&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92</p>
 
 
 
