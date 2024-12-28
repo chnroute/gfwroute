@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-12-27  12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2024-12-28  12:15:55 
 
 
 
@@ -40,17 +40,28 @@
 
 
 
-<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </p>
-
-<p>ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@185.22.155.228:23456#%E4%BF%84%E7%BD%97%E6%96%AF+V2CROSS.COM<br />&nbsp;&nbsp;&nbsp; vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInd3dy5kYXJrcm9vbS5sb2wiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==<br />&nbsp;&nbsp;&nbsp; vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU1ZTdmXHU0ZTFjXHU3NzAxXHU2ZTViXHU2YzVmXHU1ZTAyIFx1NzlmYlx1NTJhOCIsICJhZGQiOiAiMTIwLjE5OC43MS4yMTQiLCAicG9ydCI6ICIzNDQ5MyIsICJhaWQiOiA2NCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ0Y3AiLCAidHlwZSI6ICJub25lIiwgInRscyI6ICIiLCAiaWQiOiAiNDE4MDQ4YWYtYTI5My00Yjk5LTliMGMtOThjYTM1ODBkZDI0IiwgInNuaSI6ICIifQ==<br />&nbsp;&nbsp;&nbsp; vmess://eyJhZGQiOiAiMTA0LjE2LjY3LjM4IiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgQ2xvdWRGbGFyZVx1ODI4Mlx1NzBiOSIsICJwb3J0IjogMjA4MiwgImlkIjogIjEwNTJmMjRlLTdiMDktNDVlYi1iMGM1LWQ4NThlYjEyNDE5MiIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJ3b3JrZXItbXV0ZS1iYXItMTcxOS5uaWZvdG9rOTkzLndvcmtlcnMuZGV2IiwgInBhdGgiOiAiL2dsd2VpZGYuY2ZkL2xpbmt3cyIsICJ0bHMiOiAiIn0=<br />&nbsp;&nbsp;&nbsp; ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0OUpQYmw2U01IMWhEb3NrT1I2aXJH@13.79.98.64:55939#%E7%88%B1%E5%B0%94%E5%85%B0+V2CROSS.COM<br /><br />本次节点订阅地址：https://9527521.xyz/pubconfig/vOdWh4g9N8kcGSx6</p>
+<p>v2c:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; 
+vmess://eyJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIENsb3VkRmxhcmVcdTgyODJcdTcwYjkiLCAiYWRkIjogInd3dy5kYXJrcm9vbS5sb2wiLCAicG9ydCI6IDgwODAsICJpZCI6ICIyMjgyNmI0NC01YzFhLTRiNGItZGJhYS04M2EyZThiZDk1ZjAiLCAiYWlkIjogMCwgInNjeSI6ICJhdXRvIiwgIm5ldCI6ICJ3cyIsICJob3N0IjogInd3dy5kYXJrcm9vbS5sb2wiLCAicGF0aCI6ICIvIiwgInRscyI6ICIifQ==<br>
+trojan://telegram-id-directvpn@3.133.241.50:22222?security=tls&amp;sni=trojan.burgerip.co.uk#%E7%BE%8E%E5%9B%BD+Amazon+EC2%E6%9C%8D%E5%8A%A1%E5%99%A8<br>
+trojan://telegram-id-directvpn@3.126.167.125:22222?security=tls&amp;sni=trojan.burgerip.co.uk#%E5%BE%B7%E5%9B%BD+%E9%BB%91%E6%A3%AE%E5%B7%9E%E6%B3%95%E5%85%B0%E5%85%8B%E7%A6%8FAmazon%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83<br>
+vmess://eyJhZGQiOiAiMTcyLjY3LjE2NC4yMzIiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA0NDMsICJpZCI6ICIzM2Y2ZDhiMC04MWY4LTRmY2UtYjNkZi03OWRjOGZkNmQ4YzUiLCAiYWlkIjogIjAiLCAibmV0IjogIndzIiwgInR5cGUiOiAiIiwgImhvc3QiOiAiMzMuYnljZi51cy5rZyIsICJwYXRoIjogIi9yb25nc2V2ZW4/ZWQ9MjA0OCIsICJ0bHMiOiAidGxzIn0=<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpucTk2S2Z0clpBajNMdUZRRVNxbW40NE1vNW9DdW8yY2lwb0VzYWUyNW1ybUhHMm9KNFZUMzdzY0JmVkJwTjVEV3RVRUxadXRWaGhYczhMZTVCOGZaOWhMbjl5dHd2YmY=@208.67.105.87:42501#%E7%BE%8E%E5%9B%BD+V2CROSS.COM<br>
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.110.1.105:5601#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.110.1.105:8009#%E7%BE%8E%E5%9B%BD+%E5%8D%8E%E7%9B%9B%E9%A1%BFCogent%E9%80%9A%E4%BF%A1%E5%85%AC%E5%8F%B8<br>
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpRQ1hEeHVEbFRUTUQ3anRnSFVqSW9q@beesyar.org:8080#%E6%AC%A7%E7%9B%9F+V2CROSS.COM<br>
+vmess://eyJhZGQiOiAiMTA0LjE2LjYwLjgiLCAidiI6ICIyIiwgInBzIjogIlx1N2Y4ZVx1NTZmZCBDbG91ZEZsYXJlXHU4MjgyXHU3MGI5IiwgInBvcnQiOiA4ODgwLCAiaWQiOiAiZjU4NGRlMTUtMjAzNC00MTcwLWE3MjMtZjQ4YzJiYWU1ZTBmIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjhzaGhlYnNqNzh3amlzbmJoc2p2ZXNzLXBvbmQtNmNjNi5jZXJvZzkxMjE2LndvcmtlcnMuZGV2IiwgInBhdGgiOiAiL2FmcmhtczE2di5iZXN0eHJheS5idXp6L2xpbmt3cyIsICJ0bHMiOiAiIn0=<br>
+vmess://eyJhZGQiOiAiMTk5LjIzMi4yMTQuMTMzIiwgInYiOiAiMiIsICJwcyI6ICJcdTdmOGVcdTU2ZmQgVjJDUk9TUy5DT00iLCAicG9ydCI6IDQ0MywgImlkIjogImU1ODUyMzkzLWNhNTItNGM5MC1hMjM3LWQ2M2NiYmI1N2YyMSIsICJhaWQiOiAiMCIsICJuZXQiOiAid3MiLCAidHlwZSI6ICIiLCAiaG9zdCI6ICJsb2tpLm9yYWNsZSIsICJwYXRoIjogIi9mYXJjcnk/ZWQ9MjU2MCIsICJ0bHMiOiAidGxzIn0=<br>
+vmess://eyJhZGQiOiAiMjAyLjc4LjE2Mi41IiwgImFpZCI6IDAsICJob3N0IjogInNhaGFuZC5zZXJ2ZW1pbmVjcmFmdC5uZXQiLCAiaWQiOiAiMTE4Mjg3ZDItZTk2OC00MmUxLTgwZDAtMTJmYTJmNWQzOGQ2IiwgIm5ldCI6ICJ3cyIsICJwYXRoIjogIi9AZm9yd2FyZHYycmF5IiwgInBvcnQiOiA0NDMsICJwcyI6ICJcdTUzNzBcdTVlYTYgVjJDUk9TUy5DT00iLCAidGxzIjogInRscyIsICJ0eXBlIjogImF1dG8iLCAic2VjdXJpdHkiOiAiYXV0byIsICJza2lwLWNlcnQtdmVyaWZ5IjogdHJ1ZSwgInNuaSI6ICIifQ==<br>
+<br>
+本次节点订阅地址：https://9527521.xyz/pubconfig/sJuy8gbKSh3MaHnq</p>
 <p>　</p>
 
 <p>
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://fee26e8e-402d-1c1a-cfc0-fc90b0eedda3@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
-<p>vless://d03c6671-1dbf-5a1a-5077-f494dd4d3185@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://2dbc53c9-8581-0d07-f436-daf91071c223@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
+<p>vless://8b9e3a42-2098-6e6b-4aa3-bfdf80e014af@www.kernels.bid:443?path=%2Fws&amp;security=tls&amp;encryption=none&amp;type=ws#[free-ss.site]</p>
 <p>　</p>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
@@ -66,14 +77,72 @@
 
 <p>
 al:<br>
-北京时间2024年12月27日10点30分。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
+北京时间2024年12月28日8点30分。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
 <br>
 现在客户端很多都支持URL直接导入vmess链接，复制粘贴即可。<br>
+节点1（vless）<br>
+（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux 
+hiddify）<br>
+节点参数<br>
+参数值<br>
+Address（地址）<br>
+185.22.153.73<br>
+Port（端口）<br>
+25835<br>
+UUID（用户ID）<br>
+af7f07dc-d726-4b1e-967d-dbb6c594999f<br>
+flow（流控）<br>
+xtls-rprx-vision<br>
+encryption（加密方式）<br>
+none<br>
+network（传输协议）<br>
+tcp<br>
+headerType（伪装类型）<br>
+none<br>
+TLS（传输层安全）<br>
+reality<br>
+SNI (serverName)<br>
+www.yahoo.com<br>
+Fingerprint （指纹）<br>
+chrome<br>
+Public key （公钥）<br>
+JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc<br>
+Shortld<br>
+aff1f4dc<br>
+节点1（vless）一键导入链接：<br>
+vless://af7f07dc-d726-4b1e-967d-dbb6c594999f@185.22.153.73:25835?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc&amp;sid=aff1f4dc&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B91<br>
 <br>
-
-
-
-<p>节点1（vless）<br /><br />（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux hiddify）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;185.22.153.73<br />Port（端口） &nbsp;&nbsp; &nbsp;25835<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;af7f07dc-d726-4b1e-967d-dbb6c594999f<br />flow（流控） &nbsp;&nbsp; &nbsp;xtls-rprx-vision<br />encryption（加密方式） &nbsp;&nbsp; &nbsp;none<br />network（传输协议） &nbsp;&nbsp; &nbsp;tcp<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />TLS（传输层安全） &nbsp;&nbsp; &nbsp;reality<br />SNI (serverName) &nbsp;&nbsp; &nbsp;www.yahoo.com<br />Fingerprint （指纹） &nbsp;&nbsp; &nbsp;chrome<br />Public key （公钥） &nbsp;&nbsp; &nbsp;JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc<br />Shortld &nbsp;&nbsp; &nbsp;aff1f4dc<br /><br />节点1（vless）一键导入链接：<br /><br />vless://af7f07dc-d726-4b1e-967d-dbb6c594999f@185.22.153.73:25835?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc&amp;sid=aff1f4dc&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B91<br /><br />节点2（vmess）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;185.226.172.156<br />Port（端口） &nbsp;&nbsp; &nbsp;49443<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;9c2c632a-c88f-478f-afea-629764427d51<br />alterId（额外ID） &nbsp;&nbsp; &nbsp;0<br />security（加密方式） &nbsp;&nbsp; &nbsp;auto<br />network（传输协议） &nbsp;&nbsp; &nbsp;ws<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />伪装域名（host） &nbsp;&nbsp; &nbsp;不填<br />路径（path） &nbsp;&nbsp; &nbsp;github.com/Alvin9999<br />底层传输安全（TLS） &nbsp;&nbsp; &nbsp;不填<br /><br />节点2（vmess）一键导入链接：<br /><br />vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImRvbmd0YWl3YW5nLmNvbVx1ODI4Mlx1NzBCOTIiLA0KICAiYWRkIjogIjE4NS4yMjYuMTcyLjE1NiIsDQogICJwb3J0IjogIjQ5NDQzIiwNCiAgImlkIjogIjljMmM2MzJhLWM4OGYtNDc4Zi1hZmVhLTYyOTc2NDQyN2Q1MSIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiIiwNCiAgInBhdGgiOiAiZ2l0aHViLmNvbS9BbHZpbjk5OTkiLA0KICAidGxzIjogIiIsDQogICJzbmkiOiAiIiwNCiAgImFscG4iOiAiIiwNCiAgImZwIjogIiINCn0=</p>
+节点2（vless）<br>
+（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux 
+hiddify）<br>
+节点参数<br>
+参数值<br>
+Address（地址）<br>
+185.226.172.156<br>
+Port（端口）<br>
+22298<br>
+UUID（用户ID）<br>
+9c2c632a-c88f-478f-afea-629764427d51<br>
+flow（流控）<br>
+xtls-rprx-vision<br>
+encryption（加密方式）<br>
+none<br>
+network（传输协议）<br>
+tcp<br>
+headerType（伪装类型）<br>
+none<br>
+TLS（传输层安全）<br>
+reality<br>
+SNI (serverName)<br>
+www.yahoo.com<br>
+Fingerprint （指纹）<br>
+chrome<br>
+Public key （公钥）<br>
+9gabR4G0GdHtht5oD1D9wSCjGs76bMT7zWEaSh6LBGM<br>
+Shortld<br>
+8e256e4d<br>
+节点2（vless）一键导入链接：<br>
+vless://9c2c632a-c88f-478f-afea-629764427d51@185.226.172.156:22298?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=9gabR4G0GdHtht5oD1D9wSCjGs76bMT7zWEaSh6LBGM&amp;sid=8e256e4d&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92<br>
 
 
 
