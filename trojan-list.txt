@@ -1,1 +1,1 @@
-trojan://243eab52-9ac1-405c-887c-eb112c0985b8@de01.trojanyyds.xyz:443?peer=de01.trojanyyds.xyz&amp;tfo=1#%E6%97%A5%E6%9C%AC%20%E4%B8%9C%E4%BA%AC%E9%83%BD%20%E4%B8%9C%E4%BA%AC
+trojan://telegram-id-privatevpns@18.169.36.63:22222#%E8%8B%B1%E5%9B%BD%20%E8%8B%B1%E6%A0%BC%E5%85%B0%20%E4%BC%A6%E6%95%A6
