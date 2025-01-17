@@ -24,7 +24,7 @@
 
 
 
-<p align="left"><font face="宋体">免费v2ray账号 更新时间：2025-01-16  12:15:55 
+<p align="left"><font face="宋体">免费v2ray账号 更新时间：2025-01-17  12:15:55 
 
 
 
@@ -40,8 +40,8 @@
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://8d14155f-43d4-d01f-06d5-88641987341b@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
-<p>vless://fa14dca4-c21e-6db0-6f3c-99698189e659@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://7ed9959f-bef7-cf38-0d00-7bfcdc361816@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://735d7a7a-3191-8b50-e403-56f6dc0bbcf2@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
 <p>　</p>
 
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
@@ -57,52 +57,8 @@
 
 <p>
 al:<br>
-北京时间2025年1月10日20点00分。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
-现在客户端很多都支持从剪贴板导入链接，复制粘贴一键导入链接即可。<br>
-<p>节点1（vless）<br>
-<br>
-（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux 
-hiddify）<br>
-节点参数 参数值<br>
-Address（地址） 185.22.153.73<br>
-Port（端口） 25090<br>
-UUID（用户ID） af7f07dc-d726-4b1e-967d-dbb6c594999f<br>
-flow（流控） xtls-rprx-vision<br>
-encryption（加密方式） none<br>
-network（传输协议） tcp<br>
-headerType（伪装类型） none<br>
-TLS（传输层安全） reality<br>
-SNI (serverName) www.yahoo.com<br>
-Fingerprint （指纹） chrome<br>
-Public key （公钥） JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc<br>
-Shortld aff1f4dc<br>
-<br>
-节点（vless）一键导入链接：<br>
-<br>
-vless://af7f07dc-d726-4b1e-967d-dbb6c594999f@185.22.153.73:25090?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc&amp;sid=aff1f4dc&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B91<br>
-<br>
-节点2（vless）<br>
-<br>
-（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux 
-hiddify）<br>
-节点参数 参数值<br>
-Address（地址） 5.199.143.87<br>
-Port（端口） 20528<br>
-UUID（用户ID） f6bcf3c9-d99f-4f5f-bad1-51c16aa9563c<br>
-flow（流控） xtls-rprx-vision<br>
-encryption（加密方式） none<br>
-network（传输协议） tcp<br>
-headerType（伪装类型） none<br>
-TLS（传输层安全） reality<br>
-SNI (serverName) www.yahoo.com<br>
-Fingerprint （指纹） chrome<br>
-Public key （公钥） ueID_PZUuaL5bsu5vjCd8rLmHl3IUb-uj0jRRcSu_x0<br>
-Shortld c9edda54<br>
-<br>
-节点2（vless）一键导入链接：<br>
-<br>
-vless://f6bcf3c9-d99f-4f5f-bad1-51c16aa9563c@5.199.143.87:20528?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=ueID_PZUuaL5bsu5vjCd8rLmHl3IUb-uj0jRRcSu_x0&amp;sid=c9edda54&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92</p>
-
+北京时间2025年1月17日14点00分。节点单用户限速： 1000kb/s。禁止使用BT下载电影、滥发垃圾邮件、DDOS攻击！BT下载电影会导致服务器被投诉版权而被封！如果不能看到最新的节点信息，把浏览器缓存清理一下。以下节点来自于互联网公开分享节点，节点稳定性、速度可能欠佳，失效可能较快。<br>
+<p>现在客户端很多都支持从剪贴板导入链接，复制粘贴一键导入链接即可。<br /><br />节点1（vless）<br /><br />（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux hiddify）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;185.22.153.73<br />Port（端口） &nbsp;&nbsp; &nbsp;25090<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;af7f07dc-d726-4b1e-967d-dbb6c594999f<br />flow（流控） &nbsp;&nbsp; &nbsp;xtls-rprx-vision<br />encryption（加密方式） &nbsp;&nbsp; &nbsp;none<br />network（传输协议） &nbsp;&nbsp; &nbsp;tcp<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />TLS（传输层安全） &nbsp;&nbsp; &nbsp;reality<br />SNI (serverName) &nbsp;&nbsp; &nbsp;www.yahoo.com<br />Fingerprint （指纹） &nbsp;&nbsp; &nbsp;chrome<br />Public key （公钥） &nbsp;&nbsp; &nbsp;JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc<br />Shortld &nbsp;&nbsp; &nbsp;aff1f4dc<br /><br />节点（vless）一键导入链接：<br /><br />vless://af7f07dc-d726-4b1e-967d-dbb6c594999f@185.22.153.73:25090?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=JaUyzihmZ70WZdjNflneJnr99G-TXXtqDBeSNAQzHBc&amp;sid=aff1f4dc&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B91<br /><br />节点2（vless）<br /><br />（使用vless-reality节点，需支持vless协议的客户端，windows使用最新版v2rayN客户端，安卓手机使用最新版v2rayNG，Mac使用最新版v2rayU，苹果手机使用Streisand或V2BOX或shadowrocket，Linux使用Linux hiddify）<br />节点参数 &nbsp;&nbsp; &nbsp;参数值<br />Address（地址） &nbsp;&nbsp; &nbsp;195.154.200.156<br />Port（端口） &nbsp;&nbsp; &nbsp;19188<br />UUID（用户ID） &nbsp;&nbsp; &nbsp;22a54b72-9c39-4bb0-97d0-41bbaaca2a67<br />flow（流控） &nbsp;&nbsp; &nbsp;xtls-rprx-vision<br />encryption（加密方式） &nbsp;&nbsp; &nbsp;none<br />network（传输协议） &nbsp;&nbsp; &nbsp;tcp<br />headerType（伪装类型） &nbsp;&nbsp; &nbsp;none<br />TLS（传输层安全） &nbsp;&nbsp; &nbsp;reality<br />SNI (serverName) &nbsp;&nbsp; &nbsp;www.yahoo.com<br />Fingerprint （指纹） &nbsp;&nbsp; &nbsp;chrome<br />Public key （公钥） &nbsp;&nbsp; &nbsp;tVDaWxsy54q7yRNRdJ718Gyt2HDoh_3R2y_PX22hhjM<br />Shortld &nbsp;&nbsp; &nbsp;95c93be9<br /><br />节点2（vless）一键导入链接：<br /><br />vless://22a54b72-9c39-4bb0-97d0-41bbaaca2a67@195.154.200.156:19188?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=www.yahoo.com&amp;fp=chrome&amp;pbk=tVDaWxsy54q7yRNRdJ718Gyt2HDoh_3R2y_PX22hhjM&amp;sid=95c93be9&amp;type=tcp&amp;headerType=none#dongtaiwang.com%E8%8A%82%E7%82%B92</p>
 
 <p>
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
