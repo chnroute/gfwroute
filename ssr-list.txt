@@ -1,4 +1,4 @@
-vless://6630802d-edc7-ccc7-0fa4-d7fd4a23c552@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]
-vless://793a9ed7-e926-8f49-79d3-7ca75347fdc4@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]
+vless://e9a65d53-2ee4-d4a4-68a9-e45548fa468c@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]
+vless://bdf86c6b-20fd-7909-6691-bf472633fda5@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]
 ssr://ZG9uZ3RhaXdhbmc1LmNvbTo1MDA1NTphdXRoX2NoYWluX2E6YWVzLTI1Ni1jZmI6dGxzMS4yX3RpY2tldF9hdXRoOlpHOXVaM1JoYVhkaGJtY3VZMjl0Lz9vYmZzcGFyYW09JnJlbWFya3M9Wkc5dVozUmhhWGRoYm1jdVkyOXQ1clNiNXAySjU1LTImdW90PTE
 ss://YWVzLTI1Ni1nY206ZG9uZ3RhaXdhbmcuY29t@109.104.154.146:33333#dongtaiwang.com%E8%8A%82%E7%82%B9ss

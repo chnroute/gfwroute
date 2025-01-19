@@ -31,7 +31,7 @@
 
 <p><font face="宋体">Free SSR 免费SSR账号 <br>
 <br>
-所有数据均来自互联网，更新时间：2025-01-18  12:46:55
+所有数据均来自互联网，更新时间：2025-01-19  12:46:55
 
 
 
@@ -48,8 +48,8 @@
 <script src=https://www.freefq.com/d/js/acmsd/peter13.js></script><script src=https://www.freefq.com/d/js/acmsd/peter4.js></script>
 </p>
 <p>freess:</p>
-<p>vless://6630802d-edc7-ccc7-0fa4-d7fd4a23c552@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
-<p>vless://793a9ed7-e926-8f49-79d3-7ca75347fdc4@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://e9a65d53-2ee4-d4a4-68a9-e45548fa468c@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
+<p>vless://bdf86c6b-20fd-7909-6691-bf472633fda5@www.kernels.bid:443?path=%2Fws&security=tls&encryption=none&type=ws#[free-ss.site]</p>
 
 
 
