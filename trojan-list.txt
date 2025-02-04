@@ -1,1 +1,2 @@
-trojan://telegram-id-privatevpns@51.44.38.92:22222?sni=trojan.burgerip.co.uk#%E6%B3%95%E5%9B%BD%20%E6%B3%95%E5%85%B0%E8%A5%BF%E5%B2%9B%20%E5%B7%B4%E9%BB%8E
+trojan://Aimer@154.211.8.240:443?security=tls&amp;sni=ngepx.ambercc.filegear-sg.me&amp;type=ws&amp;host=ngepx.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD
+trojan://Aimer@135.84.76.152:2087?security=tls&amp;sni=ngepx.ambercc.filegear-sg.me&amp;type=ws&amp;host=ngepx.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD
