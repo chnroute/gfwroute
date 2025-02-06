@@ -1,2 +1,1 @@
-trojan://Aimer@154.211.8.240:443?security=tls&amp;sni=ngepx.ambercc.filegear-sg.me&amp;type=ws&amp;host=ngepx.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD
-trojan://Aimer@135.84.76.152:2087?security=tls&amp;sni=ngepx.ambercc.filegear-sg.me&amp;type=ws&amp;host=ngepx.ambercc.filegear-sg.me#%E7%BE%8E%E5%9B%BD
+vmess://eyJhZGQiOiAiczEuZGItbGluazAyLnRvcCIsICJ2IjogIjIiLCAicHMiOiAiXHU3ZjhlXHU1NmZkIiwgInBvcnQiOiAyMDg2LCAiaWQiOiAiNGIzNjYyNWMtYjlkOS0zZWE2LWFlZDUtODZkNjJjNzBlMTZkIiwgImFpZCI6ICIwIiwgIm5ldCI6ICJ3cyIsICJ0eXBlIjogIiIsICJob3N0IjogIjEwMC0yMjMtNzEtMTY2LnMxLmRiLWxpbmswMi50b3AiLCAicGF0aCI6ICIvZGFiYWkuaW4xNzIuNjQuOS4yMDgiLCAidGxzIjogIiJ9
